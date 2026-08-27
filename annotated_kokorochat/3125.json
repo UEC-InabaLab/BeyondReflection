@@ -1,0 +1,591 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:52:00",
+      "utterance": "こんにちは。今日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T13:52:18",
+      "utterance": "こんにちは。よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:53:22",
+      "utterance": "少し早いですが、良かったら始めさせていただいてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T13:53:38",
+      "utterance": "大丈夫ですよ。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:53:55",
+      "utterance": "ありがとうございます。よろしくお願いします。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:54:50",
+      "utterance": "こんにちは。相談員です。はじめに、年齢と性別を良かったら教えてもらえますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T13:55:12",
+      "utterance": "男性。34歳。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:55:25",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:55:40",
+      "utterance": "今日はどんなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T13:57:18",
+      "utterance": "子供が全然成長しなくて。毎回同じことを言ってます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T13:58:20",
+      "utterance": "そうねんですね。良かったら、もう少し詳しく教えていただいてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T13:59:30",
+      "utterance": "考えずに行動して毎回同じミスの繰り返しで呆れています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:00:41",
+      "utterance": "なるほど。同じミスを繰り返しをされると、そう思われるのも無理ないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:01:07",
+      "utterance": "子供さんはおいくつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:01:29",
+      "utterance": "中学2年です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:02:21",
+      "utterance": "ありがとうございます。ちなみに女の子ですか、それとも男の子ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:02:50",
+      "utterance": "男の子です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:03:11",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:04:47",
+      "utterance": "親としては、心配になりますね。同じこと言っているという事ですが、どんなことでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:06:03",
+      "utterance": "子供がでは無く自分が子供に対していつも同じことを言います。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:07:02",
+      "utterance": "そうなんですね。どんなことをおっしゃっていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:07:45",
+      "utterance": "目標などがあるのに行動せずに口ばかり。だから結果もでません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:09:03",
+      "utterance": "口ばっかりなんですね。そう思われるのも自然なことですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:09:58",
+      "utterance": "子供さんに伝えた時、どんな反応が返ってくるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:10:53",
+      "utterance": "黙りこくって何もいいません。もしくはハブてます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:12:19",
+      "utterance": "黙ってしまわれるんですね。ごめんなさい・・・「ハブてます」とは？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:13:04",
+      "utterance": "怒ったり、すねたりです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:13:26",
+      "utterance": "教えていただき、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:14:34",
+      "utterance": "そうなんですね。それはイライラしてしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:15:59",
+      "utterance": "子どものために言っているのに、伝わらないのももどかしいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:16:23",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:17:46",
+      "utterance": "あなたはどんな風になれば良いと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:18:46",
+      "utterance": "目標などに関わらず考え行動できる人間になってもらいたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:19:49",
+      "utterance": "目標などに関わらず…？もう少し詳しく教えてもらってもよいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:22:05",
+      "utterance": "先程も述べたように今は目標があるのに口ばかりで行動しません。人として普段の生活から考えれる人間。考えて行動出来る人間になってもらいたい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:24:13",
+      "utterance": "なるほど。人として、目標があるかないかに関わらずに、普段の生活から考えて、行動できる人になってもらいたいということですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:25:05",
+      "utterance": "そうです。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:27:18",
+      "utterance": "ありがとうございます。親としてはそう考えられるのももっともですね。子供さんには、今は目標があるということですが、どんなことでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:28:29",
+      "utterance": "スポーツをしているのですが、高校にスポーツで特待で行きたいと言っています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:30:00",
+      "utterance": "そうなんですね。でも、行動できていないんですね。どういったところから、そうお感じになられているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:30:40",
+      "utterance": "練習を怠って、ゲームなどしているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:31:25",
+      "utterance": "テレビ見たりデートしたりとかです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:32:16",
+      "utterance": "そうだったんですね。それは心配にもなりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:32:42",
+      "utterance": "特待生ってすごいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:33:36",
+      "utterance": "じゃないと勉強の成績が、とにかく悪いので高校に行けません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:35:48",
+      "utterance": "そうなんですね。よく知らないのですが、特待生になるためにはどんなことが必要なのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:37:18",
+      "utterance": "簡単に言うとスポーツでチームでも個人でも結果を出し、高校の指導者の方に声をかけてもらうことです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:38:00",
+      "utterance": "ありがとうございます。結果をださないといけないということなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:39:05",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:39:32",
+      "utterance": "良ければ教えていただきたいのですが、親として子供さんに対して、どんなことをされていますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:40:09",
+      "utterance": "自分も目標や夢があるので行動をみせてます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:40:42",
+      "utterance": "なるほど・・・良かったらどんなことか教えていただいてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:41:11",
+      "utterance": "どんな行動をみせておられるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:41:39",
+      "utterance": "目標に必要な勉強などです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:42:27",
+      "utterance": "そうなんですね。お仕事しながらも、勉強されているんですね。すごいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:43:55",
+      "utterance": "お仕事がある中でも時間を作って、努力されているんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:45:19",
+      "utterance": "子供さんはそれを見ておられると思いますが、どんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:45:59",
+      "utterance": "なんとも思ってないと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:46:25",
+      "utterance": "なぜそうお感じになられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:47:14",
+      "utterance": "子供に何も変化が無いからです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:50:31",
+      "utterance": "そうなんですね。あなたされている努力はとても素晴らしいことです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:51:13",
+      "utterance": "親の姿を見せるという事は大切だと思います。どうしたら、あなたが努力していることが伝わると思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:52:28",
+      "utterance": "それがわからないんです。いくらフォローやケアしても、やる人はやる。やらない人はやらないので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:54:19",
+      "utterance": "あなたのおっしゃることは、ごもっともですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:56:21",
+      "utterance": "親からすると、大事な時期ですし、ご心配になるのも無理はありません。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:56:47",
+      "utterance": "中学2年生というと、発達段階でいうと自我が芽生え、自立心が育つ時期です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:58:16",
+      "utterance": "反抗心も生まれてきますし、言葉で言ってもなかなか素直になってはもらえないとおもいますが、いかかでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T14:58:35",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T14:59:58",
+      "utterance": "あなたは親として、自分の行動から努力するという大切なことを伝えておられます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:03:31",
+      "utterance": "日々忙しい中で、仕事をしながら、目標のためにない時間のなかでも時間を作って、勉強しています。なかなかできることではありません。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:05:57",
+      "utterance": "今すぐではなくても、あなたが努力し続ける姿を感じてもらえると思いますが、いかかですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:06:41",
+      "utterance": "（すみません。時間が過ぎていますが、大丈夫でしょうか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T15:07:29",
+      "utterance": "そうですね。継続してみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T15:10:12",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:10:59",
+      "utterance": "子供さんは大人になるために自我が芽生えて、成長しつつあると感じます。あなたは、すでに言葉ではなく行動を示されてます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:12:47",
+      "utterance": "きっとあなたの思いが子供さんに伝わると私は信じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T15:16:57",
+      "utterance": "がんばります。今日はありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:17:34",
+      "utterance": "こちらこそありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:18:16",
+      "utterance": "（遅くなりました。お時間いただきありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:18:33",
+      "utterance": "それでは、終了させていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-11T15:19:36",
+      "utterance": "お疲れ様でした。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-11T15:20:05",
+      "utterance": "こちらこそありがとうございました。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子供の成長に関する親の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3125,
+    "評価作成日時": "2022-02-11T15:21:00",
+    "クライアント役ID": 269,
+    "カウンセラー役ID": 156,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3125,
+    "evaluation_created_at": "2022-02-11T15:21:00",
+    "client_id": 269,
+    "counselor_id": 156,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

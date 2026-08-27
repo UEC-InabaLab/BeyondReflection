@@ -1,0 +1,546 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-05T13:50:54",
+      "utterance": "（こんにちは。本日はよろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T13:52:27",
+      "utterance": "こんにちは。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T13:53:02",
+      "utterance": "（お時間になりましたら、またお声をかけさせていただきますね。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T13:53:10",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:00:04",
+      "utterance": "（では、始めさせていただきます。ご準備よろしいでしょうか？）",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:00:26",
+      "utterance": "はい。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:00:49",
+      "utterance": "こんにちは。相談員です。お越しくださりありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:01:05",
+      "utterance": "本日は、どのようなご相談でしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:01:29",
+      "utterance": "相談というか、悩んでることがあって、、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:01:58",
+      "utterance": "ええ。なんでもお聞きしますので、良かったらお話をお聞かせください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:02:32",
+      "utterance": "ネットいじめされてます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:03:15",
+      "utterance": "そうだったんですね…。それは、お辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:03:56",
+      "utterance": "慣れてはきたけど",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:04:21",
+      "utterance": "最近たたかれる回数が多いから気になってきた",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:05:00",
+      "utterance": "そうなのですね。それはお悩みですよね。よければ、もう少し詳しくお話をお聞きしてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:06:31",
+      "utterance": "中学のときもあったけど、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:06:45",
+      "utterance": "ええ。（聞いていますね。）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:07:01",
+      "utterance": "高校入ってからやたらネットでたたかれることが増えて、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:07:23",
+      "utterance": "最近は1日に数十件匿名できてるんです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:08:19",
+      "utterance": "慣れてきたけどいい加減にしてほしい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:09:09",
+      "utterance": "お話してくださってありがとうございます。そんなに来ると、心が苦しくなってしまいますよね。しかも、匿名でなんて。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:10:13",
+      "utterance": "ネットいじめなんて全部匿名、、、だから余計にモヤモヤするし、学校にも行きたくなくなってきてる",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:11:30",
+      "utterance": "そうですよね。誰だかわからない人に攻撃されるのは、不安になってしまうのも当然だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:14:23",
+      "utterance": "明日学校行きたくない",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:15:16",
+      "utterance": "うんうん。気持ちが重くなって、そう感じてしまうのも無理はありません。気持ちを打ち明けてくださってありがとうございます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:15:51",
+      "utterance": "良かったら、なんとお呼びすればいいか、教えていただけますか？ニックネームでも構いません。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:16:13",
+      "utterance": "チカです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:16:44",
+      "utterance": "ありがとうございます。チカさんですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:17:05",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:17:42",
+      "utterance": "チカさんの気持ちが少しでも軽くなるように、お手伝いさせていただきたいと思っています。もう少し、質問してもいいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:17:52",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:18:57",
+      "utterance": "ありがとうございます。その、書き込みは何の媒体で送られてくるのでしょうか？Twitterなどでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:20:26",
+      "utterance": "Twitterとかインスタです。DMで来るときもあれば、コメント欄に直接いれてくるときもある",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:21:31",
+      "utterance": "なるほど。色々な方法で送ってこられるんですね。困惑するし、怖いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:23:26",
+      "utterance": "なんか怖いっていうよりいい加減にしてほしいっていうか、、なんで私なのって思うし",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:25:01",
+      "utterance": "そうですよね。どうしてって思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:25:18",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:26:20",
+      "utterance": "学校に行きたくない気持ちは、書き込みが学校の人かもしれないという不安な気持ちのせい、というのが大きいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:28:01",
+      "utterance": "多分学校の友達もやってると思うし、行きたい気分にもなれない、、、",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:29:27",
+      "utterance": "ええ。知ってる友達かも、と思ったりすると学校に行きたくなくなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:33:08",
+      "utterance": "チカさんとしては、どうなったら気持ちが少し楽になるなと感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:33:46",
+      "utterance": "分からない、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:34:18",
+      "utterance": "気持ちがぐるぐるしてしまって、どうしたらいいか分からないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:35:07",
+      "utterance": "例えば1.書き込みの相手がだれか分かる2.書き込み自体がなくなる3.学校に行きたい気持ちになる4.身近に相談できる人を見つけるこの中だと、どれかに近いものがあったりしますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:37:39",
+      "utterance": "一番は書き込み自体がなくなることがいいけど、多分ムリだと思う",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:38:26",
+      "utterance": "そうですよね。考えてくださってありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:41:26",
+      "utterance": "書き込みを無くすのは、確かにこちらから何かして、とかは難しいですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:42:24",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:44:44",
+      "utterance": "そうですね…。チカさんとしては、今は誰にも会いたくないなという気持ちが大きいですか？それとも、誰か一緒に共感してもらえる人がいたら落ち着きそうな気持ちでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:48:31",
+      "utterance": "特に会いたいとは思わないかな、、、共感してくれる人がいたら嬉しいけど、今はこのネットが嫌でどうにかしたいかな、、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:49:06",
+      "utterance": "そうなんですね。気持ちを話してくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:49:24",
+      "utterance": "一度、ここまでのお話をまとめてみてもいいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:49:42",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:52:10",
+      "utterance": "チカさんは、高校に入ってからネットでの叩くような書き込みが増えて悩んでいる。書き込みの相手が匿名であり、誰かは分からない。一日に何十件も書き込まれ、いい加減にしてほしいしなぜ狙われるのか分からず困惑している。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:53:32",
+      "utterance": "書き込みのせいで学校にも行きたくないなと感じている。書き込みを無くすのは難しいが、何とかなくならないかなと思っている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:53:39",
+      "utterance": "いかがでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:54:31",
+      "utterance": "はい、そんな感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:55:09",
+      "utterance": "ありがとうございます。いくつか、私が思ったことがあるのですがお伝えしてみてもいいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:55:19",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:56:57",
+      "utterance": "例えば、SNSには「ミュート」や「ブロック」の機能がついていることがあると思います。その機能を利用して、チカさんの目に映らないようにするのも一つの手かもしれません。また、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:58:17",
+      "utterance": "ネットで、チカさんと同じような悩みを抱えている人は少なくないと思います。なので、そういう人たちが集まるサイトなどを調べてみて、気持ちを話してみたり、対策を聞いたするのもいいかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:58:43",
+      "utterance": "いかがでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:59:02",
+      "utterance": "はい。やってみます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:00:32",
+      "utterance": "いいですね！チカさんのお気持ちが、少しでも楽になるといいなと思います。そろそろお時間なのですが、話せなかった事や、まだモヤモヤしている事などありませんか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:01:17",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:02:13",
+      "utterance": "ありがとうございます。今日はお話してくださってありがとうございました。また、何かあればいつでも相談に来てくださいね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:02:27",
+      "utterance": "ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:02:51",
+      "utterance": "ありがとうございました。それでは、終了させていただきます。失礼いたします。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:02:58",
+      "utterance": "お疲れさまでした！大変勉強になりました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:03:45",
+      "utterance": "（お疲れさまでした。まだ日が浅く、至らないところなどあったかと思います。お付き合いいただきましてありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:04:24",
+      "utterance": "（大変勉強になりました。また、機会があればよろしくお願いいたします。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:04:35",
+      "utterance": "こちらこそありがとうございました。とても勉強になりました！また機械ありましたらよろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:05:05",
+      "utterance": "（では、終了ボタンを押させていただきますね。失礼いたします。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:05:16",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "ネットいじめの悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1790,
+    "評価作成日時": "2021-05-05T15:31:00",
+    "クライアント役ID": 189,
+    "カウンセラー役ID": 158,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1790,
+    "evaluation_created_at": "2021-05-05T15:31:00",
+    "client_id": 189,
+    "counselor_id": 158,
+    "score": 52,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

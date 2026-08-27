@@ -1,0 +1,58 @@
+{
+  "agreement": {
+    "n": 318,
+    "annotator_1_vs_annotator_2_kappa": 0.674,
+    "llm_vs_annotator_1_kappa": 0.710,
+    "llm_vs_annotator_2_kappa": 0.687,
+    "distress_n": 204,
+    "distress_annotator_1_vs_annotator_2_qwk": 0.677,
+    "distress_llm_vs_annotator_1_qwk": 0.611,
+    "distress_llm_vs_annotator_2_qwk": 0.650
+  },
+  "corpus": {
+    "sessions": 6589,
+    "counselor_utterances": 306495,
+    "high_utterances": 114244,
+    "mid_utterances": 100926,
+    "low_utterances": 91325
+  },
+  "score_distress": {
+    "rho": -0.269,
+    "n": 6589,
+    "high_mean": -0.204,
+    "high_sd": 0.552,
+    "high_n": 2168,
+    "mid_mean": -0.053,
+    "mid_sd": 0.545,
+    "mid_n": 2199,
+    "low_mean": 0.142,
+    "low_sd": 0.572,
+    "low_n": 2222
+  },
+  "temporal": {
+    "early_affirmation_delta_rho": -0.101,
+    "early_affirmation_score_rho": 0.126,
+    "early_distress_late_affirmation_rho": 0.008,
+    "mixed_logit_or": 1.068,
+    "gee_or": 1.105
+  },
+  "counselor": {
+    "delta_icc": 0.028,
+    "score_icc": 0.110,
+    "delta_random_intercept_affirmation": -1.213,
+    "score_random_intercept_affirmation": 85.517,
+    "delta_within_affirmation": -1.277,
+    "score_within_affirmation": 88.035,
+    "delta_between_affirmation": -0.773,
+    "score_between_affirmation": 51.828
+  },
+  "transfer": {
+    "rho": -0.072,
+    "p": 0.014,
+    "Affirmation": 0.536,
+    "Question": -0.421,
+    "Suggest": 0.207,
+    "Other": -0.149,
+    "Reflection": 0.102
+  }
+}

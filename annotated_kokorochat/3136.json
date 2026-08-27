@@ -1,0 +1,569 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-14T09:58:53",
+      "utterance": "おはようございます。よろしくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T09:59:49",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:01:25",
+      "utterance": "時間がきましたので、始めさせて頂いてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:01:34",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:02:28",
+      "utterance": "おはようございます相談員です。本日はよろしくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:02:40",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:03:09",
+      "utterance": "本日はどのようなご相談で来られましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:03:20",
+      "utterance": "マンションの騒音のことで。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:04:07",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:04:43",
+      "utterance": "上の階のお子さんの足音が響くのです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:05:49",
+      "utterance": "なるほどですね。それについてどう思われていますか！",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:05:56",
+      "utterance": "？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:06:29",
+      "utterance": "在宅勤務の主人が、とても気になるようで。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:07:25",
+      "utterance": "仕事中だけでなく、静かに過ごしたい時間に。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:08:05",
+      "utterance": "そうなのですね。確かに勤務中に音がすれば気になるのも無理はありませんよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:08:17",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:09:51",
+      "utterance": "いつ頃から今のお悩みを抱えておられますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:10:23",
+      "utterance": "主人は、もう2年くらいでしょうか。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:12:35",
+      "utterance": "長い間、悩まれているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:13:09",
+      "utterance": "そうですね。主人としては、悩みの種です。管理組合からは、当人同士で解決してください、と言われ、話をしに行ったのですが、話を聞いてくれないのです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:16:08",
+      "utterance": "そうでしたかそれは困ってしまいますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:16:32",
+      "utterance": "困っています。どうしたらいいのでしょう。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:17:20",
+      "utterance": "どうしていくか一緒に考えていきましょうね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:17:26",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:18:11",
+      "utterance": "話をしにいった際、上の階の方は何とおっしゃっていましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:18:56",
+      "utterance": "子どもだから仕方ないでしょって。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:21:08",
+      "utterance": "そうなのですね。それについてはどう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:22:07",
+      "utterance": "私は、子どものことは仕方ないと思っています。主人は、防音シートを敷くなり、やれることがあるはずだ、と言っています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:23:28",
+      "utterance": "なるほど。相談者さんとご主人では少し考えが違うのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:24:05",
+      "utterance": "旦那さんのおっしゃる事も最もだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:24:15",
+      "utterance": "そうですね。正直、私は主人ほど気になっていません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:26:08",
+      "utterance": "そうですか。ご主人もできることをやっていれば多少の音がするのは仕方がないという風に思われているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:26:46",
+      "utterance": "そうだと思います。何も対策をしようとしないことに苛立っているのだと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:27:15",
+      "utterance": "主人は、もともと、静かな環境が好きなようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:28:45",
+      "utterance": "なるほどですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:30:00",
+      "utterance": "以前、お話に行かれた時に防音シートの件は話されたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:30:53",
+      "utterance": "しています。でもやろうとしないようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:32:30",
+      "utterance": "ご自分たちが何かするつもりはないようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:33:48",
+      "utterance": "それは腹が立ってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:35:00",
+      "utterance": "話し合いでは進まないのです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:39:38",
+      "utterance": "困ってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:39:46",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:41:19",
+      "utterance": "何回かお話には行かれたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:42:13",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:42:48",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:42:55",
+      "utterance": "私は1回だけですけど、インターホン越しでした。対面で話そうとしてくれなくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:43:49",
+      "utterance": "駐輪場で会ったりしますが、そんなところでつかまえて話すのも気まずいですし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:43:49",
+      "utterance": "全く対策をしないのはどうしてなのでしょうね？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:44:25",
+      "utterance": "ただ、したくないだけだと思います。子どもだから、と。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:46:02",
+      "utterance": "なるほど。自分勝手な話だと感じます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:47:27",
+      "utterance": "そう思われますか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:47:49",
+      "utterance": "私個人としてはそう思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:48:03",
+      "utterance": "相談者さんはどうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:49:37",
+      "utterance": "我が家も子どもがいて騒ぐので、お互い様だとは思いますが、苦情がきたら、話はきちんときかないといけないと思います。主人は裁判も考えているようで。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:50:27",
+      "utterance": "おっしゃる通りですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:50:36",
+      "utterance": "我が家は1階だからなのか、今のことろ苦情はないですけど。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:50:53",
+      "utterance": "ご主人はそこまで考えておられるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:51:41",
+      "utterance": "引越も。物件探しにも時間を割いていますが、なかなか気に入ったのが見つからないようで。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:53:57",
+      "utterance": "そうですか。それだけ悩まれているということですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:54:04",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:54:26",
+      "utterance": "裁判や引越しについては相談者さんはどう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:56:00",
+      "utterance": "引越は、いずれマイホームを、という男のロマンみたいなものも含まれているようなので、いい土地なりが見つかればしてもいいと思いますが、裁判の必要性はないかな、と感じています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:56:42",
+      "utterance": "なるほどですね。そこまでしなくてもという感じでしょうかね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:57:01",
+      "utterance": "裁判費用もかかりますし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:57:30",
+      "utterance": "当然かかってきますよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:57:33",
+      "utterance": "すぐに引越できなかったら、気まずい感じが続きそうですし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:58:06",
+      "utterance": "確かにそうですよね、、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:58:32",
+      "utterance": "すぐに引越できないから、裁判を考えるのですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:59:17",
+      "utterance": "ということは相談者さんとしてはなるべく、裁判や引越し以外の方法で解決したいと思われているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T10:59:45",
+      "utterance": "引越は、条件次第でしてもいいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T10:59:55",
+      "utterance": "すみません。途中ですが、時間がきましたので終わらせて頂いてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T11:00:05",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T11:00:23",
+      "utterance": "貴重なお時間を頂きありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T11:00:34",
+      "utterance": "こちらこそ、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T11:00:43",
+      "utterance": "とても良い勉強になりました。またよろしくお願い致します。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-14T11:00:51",
+      "utterance": "それでは失礼致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-14T11:01:00",
+      "utterance": "はい。私もいろいろな気づきをいただきました。失礼します。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "マンションの騒音問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3136,
+    "評価作成日時": "2022-02-14T11:11:00",
+    "クライアント役ID": 266,
+    "カウンセラー役ID": 216,
+    "点数": 46,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3136,
+    "evaluation_created_at": "2022-02-14T11:11:00",
+    "client_id": 266,
+    "counselor_id": 216,
+    "score": 46,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:22:38",
+      "utterance": "（こんばんは。本日は宜しくお願いいたします。お時間になりましたら始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:23:06",
+      "utterance": "よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:30:00",
+      "utterance": "こんばんは、相談員です。はじめに、年齢、性別、今日ご相談したいことをお聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:30:35",
+      "utterance": "こんばんは。16歳女子。学校に行きたくありません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:31:22",
+      "utterance": "それはとても悩んでしまいますよね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:31:32",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:31:55",
+      "utterance": "もう少し詳しくお聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:32:47",
+      "utterance": "はい。高校入学と同時に関西に引っ越してきたんですけど、友達がいなくて辛いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:33:25",
+      "utterance": "そうだったのですね。お一人はつらいですよね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:33:52",
+      "utterance": "はい。関西のひと怖いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:34:35",
+      "utterance": "うんうん、これまでとは違う環境でとても不安に感じてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:34:58",
+      "utterance": "そうなんです。中学はたくさん友達がいたのに。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:35:36",
+      "utterance": "中学の時はお友達と一緒に楽しく過ごされていたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:36:23",
+      "utterance": "うん。中学はいっぱい友達がいました。なのにこっちに引っ越してきてから友達がいなくなりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:37:47",
+      "utterance": "今まで仲良くしてきた友達もいない中、きっと、さみしい思いをしてきましたよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:38:10",
+      "utterance": "とても寂しいし、辛いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:39:18",
+      "utterance": "うんうん、それで学校にも行きたくないと感じているのですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:40:02",
+      "utterance": "そうです。みんなは中学から一緒だから仲良くしてるけど、私はそうじゃないから、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:40:59",
+      "utterance": "なるほど、そのような状況だったんですね。。それは孤独に感じてしまってとてもつらいよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:42:06",
+      "utterance": "孤独だし、中学の友達にも言えない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:43:13",
+      "utterance": "うん、とても孤独に感じてしまうのも無理のない状況だと思います。中学のお友達に言えないのはどうしてかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:43:59",
+      "utterance": "きっと中学の友達は私が元気にやってると思ってるだろうし、私が友達がいないこと知られたくないし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:45:27",
+      "utterance": "中学のお友達に知られたくないのはどうしてかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:46:12",
+      "utterance": "友達がいっぱいいたのにこっちで友達がいないとなんか恥ずかしいから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:47:31",
+      "utterance": "うんうん、中学のお友達にも相談できずに今日まで一人でつらかったよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:47:52",
+      "utterance": "うん。誰にも言えないから辛い",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:49:13",
+      "utterance": "ここまでずっとお一人で頑張ってきたんだね。。ここでは、どんなことでも安心してお話ししてくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:49:46",
+      "utterance": "どうやって友達作ったらいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:50:59",
+      "utterance": "そうですね、高校でもお友達をつくって学校に楽しくいけるようになったらいいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:51:32",
+      "utterance": "友達が出来たら学校行きたくなると思う",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:52:02",
+      "utterance": "そうだね、とても前向きで素晴らしいね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:52:27",
+      "utterance": "でも関西のひとなんか怖いし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:54:06",
+      "utterance": "怖いと感じるのはどんなところかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:54:30",
+      "utterance": "関西弁ってなんか怒ってるみたいに聞こえる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:55:34",
+      "utterance": "うんうん、そう感じているんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:55:52",
+      "utterance": "だから話しかけ辛い",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:56:23",
+      "utterance": "そうですね、言葉遣いが違うとなんだか戸惑ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:57:02",
+      "utterance": "はい。方言が全然違うし何言ってるかもわからないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:58:15",
+      "utterance": "うん、方言もたくさんあって知らないことが多いと話しかけづらくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:58:51",
+      "utterance": "学校で話しかけてきてくれる子はいるのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T20:59:08",
+      "utterance": "います。後ろの席の子",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T20:59:43",
+      "utterance": "後ろの席の子とはどんなお話をするのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:00:17",
+      "utterance": "好きなテレビとか中学のこととか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:00:47",
+      "utterance": "うんうん、そのときどんな気持ちになるかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:01:04",
+      "utterance": "この子と話してると楽しい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:01:38",
+      "utterance": "お話ししていて、怖いという気持ちはいかがですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:01:58",
+      "utterance": "この子は怖くないです。優しいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:03:35",
+      "utterance": "後ろの席の子なら、関西弁でも怖がらずにお話が出来きるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:04:13",
+      "utterance": "まずはその子とお友達になってみるのはどうかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:04:19",
+      "utterance": "うん。その子は優しいから。クラスの男子とかリーダー格の女子がこわい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:05:24",
+      "utterance": "クラスで目立っている子が怖いと感じてしまうんですね。どんなところからそう感じるのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:05:57",
+      "utterance": "目をつけられていじめられないかって不安",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:06:27",
+      "utterance": "なるほど、、それはとても不安だよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:06:57",
+      "utterance": "転校生ってだけで目立つし",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:08:06",
+      "utterance": "うんうん、目立つことで目をつけられてしまうのはとても怖いよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:08:20",
+      "utterance": "後ろの席の子には不安に感じていること、お話できそうかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:08:45",
+      "utterance": "まだそこまで相談できない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:09:11",
+      "utterance": "お友達だけど深くないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:09:51",
+      "utterance": "うんうん、やさしいお友達だけど、いきなり深い話はしづらいよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:10:15",
+      "utterance": "嫌われたくない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:10:51",
+      "utterance": "うん、嫌われるのはとても怖いよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:11:14",
+      "utterance": "せっかくお友達になったから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:11:24",
+      "utterance": "うん、うん、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:11:36",
+      "utterance": "でももっと友達欲しい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:13:09",
+      "utterance": "もっとお友達を作っていきたいですよね。中学の頃はお友達とどんなお話をしたりしてきたのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:13:48",
+      "utterance": "好きなひとの話とかジャニーズの話とかかな",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:14:27",
+      "utterance": "自分の好きなことを話しているととても楽しいよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:14:48",
+      "utterance": "本当はもっと楽しい話いっぱいしたい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:16:15",
+      "utterance": "うんうん、きっと高校のみんなも、自分の好きなことをたくさんお話ししたいと思っているんじゃないかな？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:16:31",
+      "utterance": "友達になってくれるかなー？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:17:43",
+      "utterance": "きっと前向きなあなたなら、きっとたくさんのお友達ができると思いますよ！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:18:11",
+      "utterance": "友達欲しいです！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:19:05",
+      "utterance": "うん！その調子！あなたがお友達と好きなことを話していると楽しいと感じたように、お友達の話をたくさん聞いてみるのはどうかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:19:40",
+      "utterance": "そうか。聞いてあげたらいいんだね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:21:10",
+      "utterance": "うん、自分のことも伝えて、相手の話もたくさん聞いてあげると、お互いのことをたくさん知れて、もっとお話したくなると感じたけれど、どうかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:22:10",
+      "utterance": "うん。そうしたら楽しくなると思う！それなら出来そう！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:24:34",
+      "utterance": "中学の時お友達と楽しくやってきたあなたなら、きっと高校でもお友達をたくさん作って楽しく学校生活が送れるようになると思います！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:25:24",
+      "utterance": "今日はそろそろ時間となってしまいましたが、お話してみていかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:25:53",
+      "utterance": "学校行きたくなかったけど、ちょっと頑張ってみる！ありがとう！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:27:04",
+      "utterance": "こちらこそ、大切なお話をここに相談してくれてありがとうございます。また不安に感じたり悩んだ時にはいつでもここにお話に来てくださいね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:27:22",
+      "utterance": "はいそうします！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:28:00",
+      "utterance": "あなたの学校生活が良い方向に行くように私も応援しています！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:28:14",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:28:27",
+      "utterance": "では本日はご相談ありがとうございました。終了のメッセージをお送りいたしますね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:28:57",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-28T21:29:32",
+      "utterance": "（クライエント役ありがとうございました。厳しめでも構いませんのでFBでコメントいただけますと幸いです。お疲れさまでした。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-28T21:29:38",
+      "utterance": "（カウンセラー役お疲れ様でした。ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "高校での友達作りの悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3665,
+    "評価作成日時": "2022-06-28T22:03:00",
+    "クライアント役ID": 294,
+    "カウンセラー役ID": 274,
+    "点数": 70,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3665,
+    "evaluation_created_at": "2022-06-28T22:03:00",
+    "client_id": 294,
+    "counselor_id": 274,
+    "score": 70,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

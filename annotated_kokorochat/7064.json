@@ -1,0 +1,851 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-30T09:50:51",
+      "utterance": "（おはようございます。本日はよろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T09:54:12",
+      "utterance": "（おはようございます。本日はこちらこそよろしくお願い致します）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:00:04",
+      "utterance": "こんにちは、相談員です。年齢、性別、ご相談内容をお聞かせください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:00:36",
+      "utterance": "１１才、女、肩がこってます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:01:02",
+      "utterance": "そうなんですね。それは辛いですよね・・いつから気になっていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:01:18",
+      "utterance": "１年くらいまえから",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:01:55",
+      "utterance": "そうなんですね。一年ほど辛い状態なんですね。今は学年は何年生でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:02:04",
+      "utterance": "５年生です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:02:44",
+      "utterance": "お答えありがとうございます。肩が凝っていることで、どのようなことが一番辛いことになっていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:03:19",
+      "utterance": "だるくて、勉強いっぱいあるけどたいへん。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:03:35",
+      "utterance": "肩こり以外もたくさん体のいろんなこと気になる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:04:26",
+      "utterance": "そうあったんですね。それはしんどいですね・・体のことで気になることは他にはどんなことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:04:58",
+      "utterance": "ひぶんしょう、っていうみたいだけど黒い点がみえて、気持ち悪い",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:05:26",
+      "utterance": "眼科にママがつれていってくれたけど病気はないから気にしなくていいってお医者さんにいわれたけどみえるから気になって気持ち悪い",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:06:22",
+      "utterance": "あと、車に酔ったときみたいに気持ち悪くなることがよくある",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:07:01",
+      "utterance": "そうなんだね。病院には行ったんだね。でも、目がその状態だと勉強してても疲れるよね。そういったことであれば、気持ちも悪くなるし、とても辛いことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:07:26",
+      "utterance": "うん、気にしなくていいって言われても気になっちゃう",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:07:56",
+      "utterance": "そうだよね。気になるよね。だって、目に見えているものがそうなんだもんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:08:02",
+      "utterance": "うん",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:08:11",
+      "utterance": "お母さんはどのようにお話していますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:08:34",
+      "utterance": "ママは、からだの問題じゃなくて、心の問題だって言ってる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:08:52",
+      "utterance": "そうなんだね。それを聞いてあなたはどう思いましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:09:10",
+      "utterance": "よくわからないけど、そうかもしれない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:09:47",
+      "utterance": "そう思うんだね。心の問題はどのような問題だとお母さんは思っているのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:10:09",
+      "utterance": "ママは、塾で勉強するようになってからいろいろわたしが体のこというから塾やめたら？っていう",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:10:38",
+      "utterance": "パパが中学受験した方がいいっていってすすめてママはもともとゆっくり過ごしたほうがいいって反対だった",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:11:03",
+      "utterance": "ええ、そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:11:11",
+      "utterance": "うん",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:11:21",
+      "utterance": "あなたは、お母様に塾を辞めたらと言われて、どう思いましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:11:51",
+      "utterance": "むずかしい、せっかく一番上のクラスにいるから、辞めるのもったいない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:12:11",
+      "utterance": "でも、体がラクになるなら辞めたい気もする",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:12:37",
+      "utterance": "黒い点がみえるのは、たぶん目がつかれてるのはあると思う",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:13:05",
+      "utterance": "そうなんだね。一番上のクラスで頑張っているのですね。頑張り屋さんなんですね。目が疲れている自覚があるのですね・・",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:13:25",
+      "utterance": "うん、勉強で目がつかれてる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:14:03",
+      "utterance": "５年生になってから塾が週３回になってますますたいへん",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:15:03",
+      "utterance": "そうだよね。一年前からそういった状態であれば疲れているからかもしれないですね。。塾の回数が増えて負担がかかっているのですね。あなたにとって中学受験はしたいと考えていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:15:30",
+      "utterance": "うん、パパが、女の子は高校から入れる進学校がすくないからって。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:15:58",
+      "utterance": "今の偏差値ならわたしがいきたい難しい女子校にいけるって言われるし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:16:15",
+      "utterance": "そうなんだね。将来のことを考えて受験はしたいのですね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:16:56",
+      "utterance": "うん、でもママは難しい女子校にいったら、みんなまわりが頭いいから、受験のあとも大変だよって言ってる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:17:27",
+      "utterance": "一番上のクラスにいってからより、中くらいのクラスにいたときのほうがわたしが楽しそうだったって。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:18:32",
+      "utterance": "そうなんだね。前は少し楽しそうだったんだね。一番上のクラスだとできて当たり前みたいな風に思われたりするのも気になったりするのかな？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:19:01",
+      "utterance": "うん、一番上のクラスだと、授業中の確認テストで１００点とるのがあたりまえなの",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:19:19",
+      "utterance": "中くらいのクラスのときのほうが、１００点とったとき、もらえるシールの枚数が多かった",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:20:08",
+      "utterance": "そうなんですね。それは緊張感があるし、頑張って当たり前だと思われるのは辛いですよね・・十分あなたは頑張っているんだし、、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:21:09",
+      "utterance": "中学受験して、どのような高校生活を送りたいとか、将来の目標とかありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:21:59",
+      "utterance": "テレビ局にはいりたい、マスコミねらうなら早慶以上は必須だって",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:23:17",
+      "utterance": "それに、いい学校いっておいたほうが、あとで目標かわってもいろいろ有利だってパパがいってる",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:24:04",
+      "utterance": "そういった夢があるのですね。11歳でしっかりと将来を考えているのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:24:22",
+      "utterance": "うん、紅白歌合戦みたいな番組つくりたいの",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:24:56",
+      "utterance": "そうなんですね。どうしてテレビ局に入りたい思ったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:25:36",
+      "utterance": "みてるひとが夢中になれる番組をつくりたいって思ったの",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:26:24",
+      "utterance": "でも、マスコミは体力がひつようだから今から肩こりがあるわたしには向いてないんじゃないかってママは言ってる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:27:04",
+      "utterance": "そうなんですね。周りの人に夢を与える仕事に就きたいのですね。夢中になれるのは素敵なことですね。お母様はあなたの体のことを心配されているのかもしれないですね・・",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:27:34",
+      "utterance": "うん、わたしも自分のからだがよくわからなくて心配",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:28:14",
+      "utterance": "そうだよね。体が大切なことだと思います。睡眠はどうですか？例えば、少し塾の回数を減らすとか、今より少し気持ちが楽になるように何かできそうなことはありますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:29:05",
+      "utterance": "メラトベル、っていうメラトニンを足すのを小児科でもらって飲んでれば眠れる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:29:22",
+      "utterance": "塾の回数を減らすとしたら塾をかえないといけない",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:29:41",
+      "utterance": "どうしたら気持ちがラクになれるか知りたい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:30:21",
+      "utterance": "そうだよね。睡眠の薬も飲んでるから気持ちがしんどいと思います。どんな時に辛い気持ちになりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:30:44",
+      "utterance": "睡眠の薬をのんでるから気持ちがしんどいってわけじゃないよ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:31:15",
+      "utterance": "ねつきがわるかったから、メラトベルもらって飲むようになってよく眠れてそれは助かってる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:31:38",
+      "utterance": "そうなんだね。睡眠がとれるようになってらくになったんのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:32:11",
+      "utterance": "メラトベルは、おとなが飲むいわゆる睡眠薬とはちがって依存とかないから大丈夫ってお医者さんがいってるし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:32:40",
+      "utterance": "つらいのはやっぱり肩こり。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:32:52",
+      "utterance": "勉強しようと机にむかっても体がしんどい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:33:19",
+      "utterance": "そうなんだね。教えてくれてありがとうございます。肩こりが一番辛いんだね。肩を動かしたり、ストレッチとかはしたことありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:34:04",
+      "utterance": "ある。ブリッジしたり、ゆりかごのポーズしたり、ラジオ体操したりはしてる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:34:20",
+      "utterance": "それでもおいつかない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:35:53",
+      "utterance": "ええ、すごいですね。色々試しても追いつかないのですね。目からか肩こりはきていると思いますが、目を休めるような回復の時間がとれるといいのですが、先ほど気持ちが楽になる方法知りたいといってましたが、肩こりと気持ちはつながっていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:36:12",
+      "utterance": "つながってると思う",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:36:38",
+      "utterance": "目に蒸しタオルあてるのもときどきやってる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:36:48",
+      "utterance": "でもめんどくさくてたまにしかしてない",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:37:09",
+      "utterance": "肩こりがラクな日は気持ちもあかるくなれる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:37:37",
+      "utterance": "そうなんだね。蒸しタオルいいですね。よく対応できてきますね。気持ちが張り詰めている状態が続いているから肩につながっているのかもしれないね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:37:53",
+      "utterance": "うん。わたし泳げないけど、学校のプールの日、プールのなかで歩いた日は肩こりがらくだった",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:38:22",
+      "utterance": "毎月塾のテストあるから、ずっと気がぬけない",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:38:33",
+      "utterance": "毎回緊張してる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:39:15",
+      "utterance": "そうなんだね。毎月気が抜けないのは肩にずっと力が入っているからだね。運動をすると体が楽になりますよね。よく自分の体を観察していますね。とてもいいことだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:39:55",
+      "utterance": "少しだけでも、運動みたいな時間が5分でも10分でも取れたらいいのかな？どう思いますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:40:24",
+      "utterance": "うん、猫背で勉強しちゃってるみたい。バランスボールに乗りながら勉強してみたりとかはやってる。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:40:54",
+      "utterance": "一応５分くらいはストレッチしてる",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:41:32",
+      "utterance": "バランスボールもやってて、コンディションを整えているのですね。しっかり自分の体と向きあえていますね。11歳でよくここまでされていると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:42:09",
+      "utterance": "ママがバランスボールとか蒸しタオルとかストレッチとか教えてくれる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:42:22",
+      "utterance": "でも、ずっと不安",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:43:26",
+      "utterance": "お母様はあなたが頑張っているのを心配しながら応援しているのかもしれないですね。ずっと不安なの？どういったことが不安ですか？？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:44:11",
+      "utterance": "ママはいろいろ心配していろんなことしてくれるでも、ママが忙しくてピリピリしてるとき不安になる。わたしのこと嫌いなのかなって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:44:32",
+      "utterance": "ママは弟のことの方が好きなんじゃないかって思っちゃう",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:44:48",
+      "utterance": "そうなんだね。ピリピリしていると嫌われているのかと心配になるんだね。それは不安になるよね・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:45:17",
+      "utterance": "弟の方が好きだとどんなところで感じるのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:45:55",
+      "utterance": "わたしが塾にいっているあいだ、ママと弟で夕飯作ったりよくしてる",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:46:11",
+      "utterance": "わたしよりずっと弟の方が、ママと二人で過ごす時間が多い",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:46:44",
+      "utterance": "そうなんだね。そう感じるのですね・・一緒に過ごしている時間でそのように感じているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:47:05",
+      "utterance": "うん、あと、ママはわたしが肩がこったっていうとイヤそうな顔する",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:48:24",
+      "utterance": "言っちゃいけないのかなって思うけどつらいから言いたい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:49:13",
+      "utterance": "あなたは塾で忙しいけど、お母さんとも一緒に過ごしたいのですね。お母さんはあなたに塾を辞めてもいいと言ってます・・お母さんはあなたが肩こりで辛い思いをしているのを見てるのが、あなたに辛い思いをさせてしまっていると思っているのかもしれないですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:50:18",
+      "utterance": "うん、塾やめればラクになるんじゃない？って言ってる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:50:49",
+      "utterance": "でも辞めたらほんとにラクになるのかな",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:51:15",
+      "utterance": "勉強のじかんは減っても、不安は消えない気がする",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:51:37",
+      "utterance": "弟がうまれてからずっと不安",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:52:17",
+      "utterance": "あなたの事を愛しているから、あなたの体が一番大切なんだと思います。だから、あなたのことが嫌いではなく、あなたと一緒に過ごしたいし、愛情を感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:52:37",
+      "utterance": "お母さんにあなたが思っているこをお話していたらどうかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:52:59",
+      "utterance": "うん、弟のことのほうが好きなの？って聞いたことある",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:53:21",
+      "utterance": "そうなんだね・・どう答えてくれたのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:53:56",
+      "utterance": "一緒に料理するのは弟がヒマそうにしてるからだし、私が習い事とかで出かけてるから結果的に弟と２人の時間が多くなってるだけだって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:54:16",
+      "utterance": "そう言われてもなんか不安なの。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:55:11",
+      "utterance": "ママと弟が楽しそうに話してるの見るとイライラしちゃう",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:56:15",
+      "utterance": "そうなんだね・・一緒にいる時間やお話する時間を少し取るのはどうかな？思っている気持ちを話したりすることで、不安が少しづつ消えていくかもしれないね・・あなたはよく考えられる人なので本当に思っている気持ちが言葉にして伝えていける人だと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:57:16",
+      "utterance": "たくさんお話してくれました。ここでご相談の終わりの時間になってしまったのだけど、ここまでお話してくれてどう感じていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:57:45",
+      "utterance": "ママと２人でお出かけしたいって言ってみようかな。前にもいったことあるけど、もう一回おねがいしてみる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:58:12",
+      "utterance": "ストレッチや蒸しタオルってやっぱいいことなんだって思えた",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T10:58:41",
+      "utterance": "やっぱ塾はやめたくないんだって気づいたし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T10:59:30",
+      "utterance": "そうだね。毎月一回とか、できる範囲でできたらいいのかもしれないですね。あなたはしっかり自分の見れているので、ついついお母様の安心しているのかもしれません。あなたが素直に甘えてみたらうれしく感じると思います。あなたはできる人なので、もっと甘えてみたらいいかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T11:00:07",
+      "utterance": "ありがとう、甘えるのは弟のほうがうまいけど、言ってみる",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T11:00:50",
+      "utterance": "それでは、これで終わりにしたいと思います。また、不安になった時には一緒に考えていきたいと思います。今日は来てくれてありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T11:01:01",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-30T11:01:24",
+      "utterance": "（本日はありがとうございました。また機会がありましたらお願いいたします。終了メッセージ流します）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-30T11:01:32",
+      "utterance": "（ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母親とのコミュニケーションの不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7064,
+    "評価作成日時": "2024-06-30T11:40:00",
+    "クライアント役ID": 500,
+    "カウンセラー役ID": 473,
+    "点数": 87,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7064,
+    "evaluation_created_at": "2024-06-30T11:40:00",
+    "client_id": 500,
+    "counselor_id": 473,
+    "score": 87,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

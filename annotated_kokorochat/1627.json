@@ -1,0 +1,1025 @@
+{
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "子どもの外出の不安問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1627,
+    "評価作成日時": "2021-04-12T22:09:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 157,
+    "点数": 95,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1627,
+    "evaluation_created_at": "2021-04-12T22:09:00",
+    "client_id": 136,
+    "counselor_id": 157,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  },
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-11T12:50:30",
+      "utterance": "こんにちは。本日、カウンセラー役をさせていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T12:50:52",
+      "utterance": "先ほどはお待たせしてしまい、大変申し訳ありませんでした。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T12:51:06",
+      "utterance": "お時間になりましたら、よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T12:51:27",
+      "utterance": "いえいえ。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T12:51:36",
+      "utterance": "本日はよろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:00:23",
+      "utterance": "それでは、始めさせていただきます。どうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:00:38",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:00:42",
+      "utterance": "こんにちは、相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:00:51",
+      "utterance": "こんにちは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:00:56",
+      "utterance": "本日はどうなさいましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:01:46",
+      "utterance": "子どもが学校以外で外に出ないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:02:01",
+      "utterance": "コロナが不安という理由です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:02:22",
+      "utterance": "そうなのですね。それは心配になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:02:37",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:03:45",
+      "utterance": "お子様はいつからそのような状態でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:04:32",
+      "utterance": "1年前からほとんど外出してないですね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:04:53",
+      "utterance": "学校以外では月に2、3回とかです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:05:31",
+      "utterance": "そうなのですね。それは親としては心配になってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:05:43",
+      "utterance": "そう思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:06:32",
+      "utterance": "学校に行ってない時の、お子様はどのうな様子ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:07:58",
+      "utterance": "自分の部屋でテレビみたり、映画みたり、ゲームしたりしてます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:08:14",
+      "utterance": "暗い、という感じではないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:08:31",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:08:35",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:09:28",
+      "utterance": "お子様の様子を見て、ご自身はどのようなお気持ちか、詳しくお伺いしてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:10:25",
+      "utterance": "「コロナが不安」というのはその通りだと思いますが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:10:32",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:11:38",
+      "utterance": "せめて学校以外では週一回外出してほしいなと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:12:12",
+      "utterance": "外の空気を吸ったり日光浴びたり",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:12:22",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:12:23",
+      "utterance": "と思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:13:19",
+      "utterance": "そうですよね。お子様の体のことを考えても、不安な気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:13:25",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:14:18",
+      "utterance": "お子様とは、今どのようなお話をされますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:15:22",
+      "utterance": "「行きたいところはない？」とか、「買いたいものない？」と聞いてますが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:15:29",
+      "utterance": "ないと言います",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:15:38",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:15:51",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:16:12",
+      "utterance": "お子様のことを気遣われている感じが、とても伝わってきます。とてもお優しいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:16:26",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:17:09",
+      "utterance": "外に出て欲しい、でも声をかけても、出ようとしない、、、それでは困ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:17:36",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:18:15",
+      "utterance": "お子様はコロナが不安だ、という風に言っているのですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:18:52",
+      "utterance": "お友達や同級生はどうでしょうか？同じように外にでない子が多いですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:19:13",
+      "utterance": "いつも口癖(言い訳)のように、言います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:19:30",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:19:32",
+      "utterance": "友人や同級生はそんなことないと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:19:40",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:19:51",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:20:32",
+      "utterance": "一年ほど前からあまり外に出なくなった、という風に伺いましたが、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:21:25",
+      "utterance": "ご自身からみていかがでしょうか？コロナ以外に外出を嫌がる理由があるとしたら、どのようなものがあると思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:22:46",
+      "utterance": "ひとりでいるのが居心地が良いタイプのように思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:23:00",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:23:05",
+      "utterance": "私もそういうタイプでした。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:23:19",
+      "utterance": "そうでしたか。なるほどですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:23:24",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:24:36",
+      "utterance": "お子様が一人でいるのが居心地が良いのはどのくらいからでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:25:36",
+      "utterance": "小さい頃からそうだったと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:25:58",
+      "utterance": "なるほど、そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:26:09",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:26:46",
+      "utterance": "お話を伺っていて、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:27:34",
+      "utterance": "繰り返しになってしまうのですが、お子様を思う気持ちが、本当に伝わってきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:28:04",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:29:04",
+      "utterance": "お子様の体のことを考えると、コロナ禍や、一人が居心地が良いということにかかわらず、もう少し外に出てくれると、親としては健康面やその他においても安心しますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:30:15",
+      "utterance": "はい。健康面やコミュニケーションを外で取ってほしいなと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:30:32",
+      "utterance": "そうですよね。お気持ち、とてもよくわかります。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:31:05",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:31:17",
+      "utterance": "先ほど、ご自身のお話も少ししてくださいましたが、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:31:48",
+      "utterance": "ご自身がお子様くらいの歳の時、どのようにされてましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:33:03",
+      "utterance": "外より家の方が多かったですが、子どもよりは外に出ていたな、と思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:33:29",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:33:51",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:34:28",
+      "utterance": "子供の頃、外に出たかった時はどのような時か、思い出すことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:35:53",
+      "utterance": "私は友人と遊んだり、自転車で1時間くらいサイクリングしたりですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:36:27",
+      "utterance": "そうなのですね。自転車で一時間くらいサイクリング！すごいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:37:37",
+      "utterance": "いろんな景色が見れて楽しかった記憶があります。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:38:02",
+      "utterance": "そうなのですね。お子様にも、そのような楽しみを味わって欲しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:38:25",
+      "utterance": "そう思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:38:53",
+      "utterance": "他の親御さんや、友達にこのことをご相談されたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:40:06",
+      "utterance": "各家庭のお話は耳にしますが、直接相談したことはないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:40:24",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:40:35",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:40:59",
+      "utterance": "各家庭のお話はどのようなお話でしたでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:42:43",
+      "utterance": "家族で買い物行ったり、花見したり、ご飯食べたり、という話は聞きます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:42:56",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:43:09",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:43:12",
+      "utterance": "先ほど、お声がけでそのような内容をされていましたものね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:43:36",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:44:08",
+      "utterance": "お話くださり、ありがとうございます。ご自身がお子様に対して、頑張ってこられたのが伝わります。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:44:36",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:45:16",
+      "utterance": "お子様が月に２、３回外出するとのことでしたが、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:45:22",
+      "utterance": "それはどのような時ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:46:07",
+      "utterance": "外食のときだけです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:46:27",
+      "utterance": "そうなのですね。それは、家族と一緒にですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:46:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:47:12",
+      "utterance": "なるほどですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:47:24",
+      "utterance": "質問が続いてしまって恐縮なのですが、",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:47:48",
+      "utterance": "お子様の年齢をお伺いしてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:48:27",
+      "utterance": "16歳で、4月から高2です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:48:41",
+      "utterance": "そうなのですね。ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:48:58",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:49:22",
+      "utterance": "お話を聞かせて下さってありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:49:29",
+      "utterance": "お話を通して、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:50:04",
+      "utterance": "親としてお子様を思う気持ちを本当に強く感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:50:25",
+      "utterance": "親の心子知らず、とは言いますが、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:50:39",
+      "utterance": "お子様の成長に欠かせない愛情のように感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:50:58",
+      "utterance": "そして、お子様の様子もお話くださいまして、ありがとうございます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:51:11",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:51:43",
+      "utterance": "4月から高校2年生とのこと、なかなか難しいお年頃だとお察しいたします。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:52:16",
+      "utterance": "お子様は16歳とのことなので、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:53:01",
+      "utterance": "年齢的には、まだまだ子供の部分も大きいですが、きっと体は大人にかなり近づいてきているお年頃かもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:53:33",
+      "utterance": "そうかもしれません",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:54:22",
+      "utterance": "いわゆる、一般的には反抗期と呼ばれる時期で、今まで通りのコミュニケーションが親と子で取れなくなってしまう、というのはよくあることではあります。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:54:51",
+      "utterance": "そうですよね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:54:51",
+      "utterance": "親としての心配が、今までのようには通じなくなる時期、というのがあるのです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:55:12",
+      "utterance": "それは、親の責任でも子の責任でもなく、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:55:23",
+      "utterance": "体が成熟して、自立する上での、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:55:43",
+      "utterance": "極端な言い方をすれば、生きていく上で自然なことです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:56:02",
+      "utterance": "親として、心配するのは、当然のことですし、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:56:31",
+      "utterance": "お子さんも、外食に時々一緒に行く、というところをお聞きすると、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:57:05",
+      "utterance": "自立しようとしながらも、親に気遣いもしている、とても優しいお子様なのかな、とお察しします。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:57:21",
+      "utterance": "ただ、肉体的には無意識に自立を目指しているので、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:57:36",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:57:54",
+      "utterance": "若いながらに、反抗したり、色々と試しているところなのだと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T13:58:16",
+      "utterance": "そうなんですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:58:31",
+      "utterance": "今までと違って、なかなか話が通じなかったりすることもあるかと思いますが、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:58:42",
+      "utterance": "変化の時期なのは確かなことです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:59:03",
+      "utterance": "そして、親がこうして気にかけてくれていることは、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:59:30",
+      "utterance": "大人になってから、必ずお子様の人格の豊かさに反映されてくる部分だと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T13:59:59",
+      "utterance": "こちらの話が長くなり申し訳ありません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:00:24",
+      "utterance": "いえ、ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:01:09",
+      "utterance": "親として、なかなかお辛いお気持ちかと思いますが、お子様の変化の時期を今と同じように見守って差し上げてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:02:00",
+      "utterance": "はい。相談員さんの話を聞いて、不安を抱くより、成長を見守ろうと思いました。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:02:54",
+      "utterance": "そうでしたか。微力ながらお役に立てるところがありましたら、光栄です。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:03:24",
+      "utterance": "何か、お気持ちなど、言い切れてない部分はございませんか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:04:00",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:04:44",
+      "utterance": "そうでしたか。本日はありがとうございました。お時間なので、こちらで失礼したいと思います。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:04:59",
+      "utterance": "また何かご相談がありましたら、いつでもいらしてください。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:05:15",
+      "utterance": "はい、ご相談できて良かったです。ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:05:36",
+      "utterance": "そう言っていただけてよかったです。こちらこそありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:05:48",
+      "utterance": "それでは、こちらで失礼いたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:05:58",
+      "utterance": "はい、失礼いたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:06:12",
+      "utterance": "（お疲れ様でした。ありがとうございました）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:06:32",
+      "utterance": "お疲れ様でした。ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:07:01",
+      "utterance": "いつも本当に勉強させていただいております。今日もありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:07:13",
+      "utterance": "また機会がありましたら、どうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:07:27",
+      "utterance": "はい。またよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-11T14:07:57",
+      "utterance": "それでは、こちらで失礼いたします。お時間あります時にご評価いただけますと、幸いです。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-11T14:08:07",
+      "utterance": "かしこまりました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ]
+}

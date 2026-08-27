@@ -1,0 +1,722 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-21T13:53:36",
+      "utterance": "こんにちは、本日はよろしくお願いします。時間になりましたらまたお声がけさせていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T13:58:53",
+      "utterance": "こんにちわ。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:00:57",
+      "utterance": "こんにちは、相談員です。はじめに性別と年代、本日お話されたいことをお教えいただけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:02:06",
+      "utterance": "女　４０代　人を信用できなくなって不安です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:02:22",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:03:04",
+      "utterance": "そうなんですね。。よろしければ具体的に、どのようなことがあったかお教えいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:03:18",
+      "utterance": "親友やｔｔ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:04:23",
+      "utterance": "夫からの裏切りに遭って、人を信用できず、心から許せる人が居ないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:05:19",
+      "utterance": "そのようなことがあったんですね。それでは人を信じるのがこわくなるのも、無理はないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:05:28",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:06:13",
+      "utterance": "裏切りというのは、具体的にはどのような出来事だったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:07:03",
+      "utterance": "２０年も親友だと思っていた友達が私の悪口を言っていたんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:07:29",
+      "utterance": "夫には不倫をされていました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:08:14",
+      "utterance": "悪口や、不倫を・・・それは、悲しくなりますし、裏切られたと感じますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:08:14",
+      "utterance": "友人にはある日突然連絡来ないし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:08:21",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:08:55",
+      "utterance": "裏切られたと思っていまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:09:25",
+      "utterance": "ええ、そう感じられるのは自然なことだと思いますよ。ショックな出来事ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:09:46",
+      "utterance": "はい、誰も信用できないのです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:10:25",
+      "utterance": "人を信じるこわさも出てきますよね・・・。その出来事は、いつ頃起こったことなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:11:42",
+      "utterance": "夫は二か月前にラインで不倫相手がいる事を知ったのですが、付き合いは三年も前から・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:12:39",
+      "utterance": "許せなくて、離婚も考えているんですが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:12:56",
+      "utterance": "これからの事が不安で",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:13:15",
+      "utterance": "3年も前から・・・そうだったのですね。驚きと怒りを感じてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:13:34",
+      "utterance": "はい、相談する友達も居なくて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:14:11",
+      "utterance": "そうなんですね。そんな中に勇気を出してこちらに相談してくださり、ありがとうございます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:14:18",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:14:27",
+      "utterance": "夫さんに対しては離婚したい気持ちと、この先の不安を考えると決断がつかないといった感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:15:14",
+      "utterance": "離婚したいと思ってるんですが、夫は考え直してくれないかと言ってます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:15:40",
+      "utterance": "既に離婚したいというお気持ちを伝えられているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:15:49",
+      "utterance": "決断は離婚をしたい！はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:16:51",
+      "utterance": "離婚をしたいという思いは強くお持ちでいらっしゃるんですね。考え直してくれないかと言われ、先のことも考えると、悩ましく感じてしまいますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:17:22",
+      "utterance": "夫さんのその希望を聞いたときは、どのように答えられたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:17:26",
+      "utterance": "不倫は許せないです。裏切られたので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:17:41",
+      "utterance": "許してくれっていいました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:18:50",
+      "utterance": "↑夫はです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:18:51",
+      "utterance": "許したくない気持ちはありますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:18:55",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:19:42",
+      "utterance": "三年間も裏切られて、許せますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:20:19",
+      "utterance": "どうやったら許せるのでしょう？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:20:52",
+      "utterance": "3年も、と考えると、とてもショックですし、許せないと感じられるのは当然だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:21:25",
+      "utterance": "はい、人を信用できないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:21:56",
+      "utterance": "これからのこと、一緒に考えていきましょうね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:22:14",
+      "utterance": "はい、お願いします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:22:14",
+      "utterance": "ではいまは状況としては離婚したいというあなたの気持ちに対して、夫さんから許してくれ、考え直してくれ、と言われている状況なのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:22:27",
+      "utterance": "はい、そうです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:23:40",
+      "utterance": "ちなみになのですが、親友さんとの出来事については今はどのような状況か、可能でしたらお教えいただけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:24:48",
+      "utterance": "悪口を言われてると知ってからは、一切連絡取ってないです。怖くて。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:26:18",
+      "utterance": "そうだったのですね。そんなことがあっては連絡を取るのもこわいし、不安になりますよね。教えてくださりありがとうございます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:27:07",
+      "utterance": "そんな相談もしたいと思って、違う友人に連絡しても",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:27:36",
+      "utterance": "ある日突然プツンと連絡来なくなって・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:28:11",
+      "utterance": "心を許して話をするのも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:28:25",
+      "utterance": "信用するのも怖くなりました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:28:56",
+      "utterance": "そんなことが・・・突然のことでびっくりですし、信用して、相談しようと思ったのにそのような反応があるとショックに感じますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:29:08",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:29:49",
+      "utterance": "それでは本日扱いたいのは、夫さんの裏切りや親友から良く思われていないということがわかり、また相談しようと思った方とも連絡がつかなくなったり、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:30:21",
+      "utterance": "そのような出来事が重なり、人を信用できなくなり気を許せして話すのもこわい、これからの人付き合いをどうしようか、というところでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:30:59",
+      "utterance": "それとも夫さんとの離婚についてだったり、扱いたいことが別の事だったらおっしゃってくださいね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:32:02",
+      "utterance": "はい、そんな感じです。夫との離婚はもう戻れない気持ちです。これからの不安が大きいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:33:45",
+      "utterance": "ありがとうございます。ではこれからのことを考えていきましょうね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:34:00",
+      "utterance": "はい、お願いします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:34:37",
+      "utterance": "あなたとしては、いまはつらいけどいつかは「人を信用できるようになりたい」と考えていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:34:48",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:36:02",
+      "utterance": "なるほど。そうなんですね。信用して、人を頼ったり、気持ちを共有したり、生活も豊かになる感じがしますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:36:25",
+      "utterance": "はい、そうなれるには",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:36:35",
+      "utterance": "どうしたらなれるのでしょう・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:38:56",
+      "utterance": "どうしたらいいか、不安になりますよね。ちなみにですが、いま人を信用できなくなってしまっていることで、いま何か困ってしまうような事などはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:39:30",
+      "utterance": "今困ってる事ですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:39:54",
+      "utterance": "はい、そうです。なにか、もしあればお教えいただけると助かります。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:41:22",
+      "utterance": "とにかく、心を許して話を聴いてくれる友達が欲しい。離婚に向けて話し合いをしていますが、独りで考えてるとしんどいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:42:10",
+      "utterance": "心を許せる気持ちになりたいが正解です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:43:13",
+      "utterance": "うんうん。そうですよね。周りの意見や考えが助けになることは、たくさんありますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:43:34",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:43:44",
+      "utterance": "人を信用できなくて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:44:06",
+      "utterance": "離婚後、どうなるんだろうって気持ちも同時にあります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:45:07",
+      "utterance": "この先に対しても、パートナーを失って生活することや人との付き合い方に対しても不安に感じていらっしゃるのですね。そこも悩ましいところですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:45:18",
+      "utterance": "はい、そうなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:46:33",
+      "utterance": "ここまでお話をお伺いして、あなたは人間関係をとても大切に考え、今回経験したことに対して思うことが大きかったからこそ、普段から周りの人を大切にされて過ごしてこられたのだと感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:49:26",
+      "utterance": "だからこそ、この先の事を考えると、不安も大きいと思いますが、いまはすぐに「人に心を許す」というところを無理に目指さず、受けた傷をまずは癒していただけたらな、と思いました。人を信用するところまで、時間がかかってしまっても、それは自然なことだと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:51:24",
+      "utterance": "はい。離婚して、先に進まないといけなくて、今は許せないって気持ちでいっぱいです。でも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:52:04",
+      "utterance": "子供も小さいので生活していかないといけなくて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:52:15",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:52:42",
+      "utterance": "一人だなって孤独を感じています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:53:20",
+      "utterance": "生活のこともお母さんとしての心配や不安も感じてらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:55:20",
+      "utterance": "自分を癒すために友達と会話したいのですが不安しかないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:57:19",
+      "utterance": "そうですよね。何か会話したいときは、こういう所でもいいですし、匿名で話せるネット上のコミュニティなどでも、溜めずに気持ちを吐き出してみてください。https://www.moyaroom.jp/こういうサービスもあります。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T14:58:25",
+      "utterance": "また癒されたいときは、自分の両手をクロスさせて肩にを抱き、「私は頑張ってる、偉いよ」と声をかけてみてください。自分で自分を抱きしめるの、意外と癒されるんです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T14:58:29",
+      "utterance": "ありがとうございます。ただ、ここでも返事がなかったらって、思ってしまうんですよね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:00:06",
+      "utterance": "そうですよね。。返事がなかったときを考えるとこわいですよね。専門のこのようなサービスは必ずあなたの味方になりますので、あまり心配せずに、使ってみてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T15:01:07",
+      "utterance": "先ずは自分で自分を癒してもみます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:02:32",
+      "utterance": "はい、そうしてみてもらえると嬉しいです。今回たくさんのことを経験され、逆に「人を見る目」が養われたと思います。ご自身をゆっくりと癒すことができたら、その次のステップでいいので、その養われた目で見て話せそうな方がいたら、関係を作ってみてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:04:05",
+      "utterance": "ご主人との離婚についてもうまくお話がまとまることを祈っています。人を大切に思うあなただからこそ、ご自身も大切に、癒してあげてくださいね。あたたかい目で人を見、かかわることができるあなたなので、必ずいい方向に進むと信じています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T15:05:13",
+      "utterance": "養われたかどうかは分からないままです。裏切られたと思っているので。ですが、また機会があれば来たいと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:07:16",
+      "utterance": "そうですよね。でも裏切られたよなことがあったからこそ、これからはすぐに人を信用しなくてもいいのかなとも思います。そういう意味でも、すこし養われたかなと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:07:24",
+      "utterance": "お時間すぎてしまい申し訳ございません。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:07:36",
+      "utterance": "またいつでもお待ちしていますね。そろそろ終了とさせていただいても大丈夫そうでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T15:07:57",
+      "utterance": "はい、大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:08:11",
+      "utterance": "本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T15:08:21",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T15:08:51",
+      "utterance": "お時間すぎてしまい大変失礼しました。それでは終了とさせていただきます。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "人を信用できなくなったことによる不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1379,
+    "評価作成日時": "2021-02-21T16:06:00",
+    "クライアント役ID": 25,
+    "カウンセラー役ID": 114,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1379,
+    "evaluation_created_at": "2021-02-21T16:06:00",
+    "client_id": 25,
+    "counselor_id": 114,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

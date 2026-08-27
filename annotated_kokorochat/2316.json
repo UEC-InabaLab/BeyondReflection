@@ -1,0 +1,657 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-08-08T10:55:06",
+      "utterance": "こんにちは、相談者役です。今日はよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T10:56:57",
+      "utterance": "こちらこそよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T10:58:22",
+      "utterance": "始めさせていただいても大丈夫でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T10:58:40",
+      "utterance": "はい、大丈夫です。お願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T10:58:57",
+      "utterance": "こんにちは。相談員です。はじめに、あなたの年齢と性別をお聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T10:59:12",
+      "utterance": "30代女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T10:59:28",
+      "utterance": "ありがとうございます。本日はどのようなご相談ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T10:59:49",
+      "utterance": "なにもやる気が起きません]",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:00:08",
+      "utterance": "気力がわかない状態なのですね。それはお辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:01:30",
+      "utterance": "いつ頃からそのような気分になっているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:01:48",
+      "utterance": "今年の3月頃からです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:02:18",
+      "utterance": "もう５か月になりますね。それはしんどいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:02:48",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:03:25",
+      "utterance": "普段の生活はどのようにお過ごしですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:03:48",
+      "utterance": "お仕事や、家庭のこと、などなど。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:04:04",
+      "utterance": "仕事に、家事、子育て、もう疲れてしまいました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:04:41",
+      "utterance": "お勤めに加えて、家のこと、お子さんのこともずっと抱えてこられたのですね。それは本当に我慢してこられましたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:06:33",
+      "utterance": "３月頃とのお話でしたが、その頃になにかきっかけになるようなエピソードはいかがですか？？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:07:16",
+      "utterance": "何もかも忙しすぎて、疲れてなにもやる気になれません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:07:50",
+      "utterance": "本当に疲れてしまうと、頭も体もうまく動かなくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:08:47",
+      "utterance": "仕事でも上司に呼びつけられて、説教されます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:09:03",
+      "utterance": "自分が悪いんですが…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:09:29",
+      "utterance": "残業もできず、仕事も遅れています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:10:03",
+      "utterance": "ここまでお疲れなのに、それはさらにきついですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:10:32",
+      "utterance": "夫の両親とも同居なんですが、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:10:43",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:11:13",
+      "utterance": "義母は精神病を患っていて、子育ても頼ることはありません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:11:46",
+      "utterance": "私のことをいつもけなしてくるんで",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:11:56",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:13:06",
+      "utterance": "でかい、醜いとか言われます",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:13:40",
+      "utterance": "自分はイケてるって、マウンと取ってくるんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:14:13",
+      "utterance": "それは本当に心がえぐられるような気持になると思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:15:00",
+      "utterance": "考えるとイラつくことばかりで、話しが尽きません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:15:43",
+      "utterance": "本当に抱えて耐えてこられたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:16:04",
+      "utterance": "その他に、苦しいと感じていることはいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:17:56",
+      "utterance": "会社帰りに子供を遅くに連れ帰って、ジジババのところで1時間ほど遊ぶんですが、それはたくさん」ジュースやおやつを与えてくれるんです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:18:18",
+      "utterance": "おかげで私のご飯は食べません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:19:37",
+      "utterance": "それから自分たちのキッチンに行って、ご飯の支度",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:20:24",
+      "utterance": "夫は帰りが遅いので、お風呂入れて、寝かしつけ",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:20:49",
+      "utterance": "それから食器洗いなどなど",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:21:53",
+      "utterance": "でももう最近は、食器洗いをしなくなりました",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:22:22",
+      "utterance": "なぜでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:23:12",
+      "utterance": "疲れ切って、考えるのもめんどくさいし、ジジババからもらったせんべいも、お米だと思うことにしました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:23:59",
+      "utterance": "家事出来ない、料理できない、シャワーはいるのもしんどいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:24:38",
+      "utterance": "足を洗うのもめんどくさい、主婦としてサイテーです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:26:20",
+      "utterance": "使うコップがなくなったら、洗います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:26:55",
+      "utterance": "楽しいことが何もない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:27:47",
+      "utterance": "この状態から抜け出したいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:27:49",
+      "utterance": "本当にぎりぎりの心身の状況でここまでこられたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:28:50",
+      "utterance": "普段の家事に加え、周囲に頼れない育児、同居されているお義母様からのご病気とは言え心無い言動、その疲れもありうまく回すことができない仕事で上司からの叱責…そういう中でよくここまで日々を重ねてこられましたね。本当に疲弊しきった中で我慢してこられたことと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:29:59",
+      "utterance": "動きたくないけど、食べ過ぎて、10キロ太ってしまいました",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:30:37",
+      "utterance": "夫からも、「このクソデブ！」と言われますし、",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:31:07",
+      "utterance": "楽しいことも、生きていていいことも何もない",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:31:44",
+      "utterance": "今だったら、息子、母の記憶ないから、今かな、と思います",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:32:42",
+      "utterance": "今かな、と考えておられることとは何でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:33:35",
+      "utterance": "もう何もかも投げ出したい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:34:02",
+      "utterance": "そこまで思い詰めていらっしゃるくらいお辛いのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:34:23",
+      "utterance": "具体的なことは何かお考えですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:36:00",
+      "utterance": "別居婚したいくらいだけど、金銭的に無理だし、夢ですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:37:19",
+      "utterance": "住まいを離したいとお考えなのですね。今の状況から離れてしまいたいとお感じになるのは至極当然のことですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:38:17",
+      "utterance": "しかし、現実的な金銭面でまだ可能な状況でないと判断されているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:39:32",
+      "utterance": "夢ですね。とても現実的ではないと思います。自分はだらしなくて、主婦失格だし・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:40:30",
+      "utterance": "これだけ頑張ってこられているのに、そんなご自身のことをそのように責めてしまわれるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:41:10",
+      "utterance": "それはさらに苦しくなるはずです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:43:20",
+      "utterance": "ここまでお話されていて、これだけ我慢して抱えてそれでも歩みを止めずにこられたご自身を振り返って、どのようなことが頭に浮かびますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:45:53",
+      "utterance": "だらしがなくて逃げることくらいしか考えられない・・・ダメですよね…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:47:19",
+      "utterance": "なるほど。そのような考えが浮かぶのですね。でも、頭によぎっているとはいえ、ここまでは逃げずに現実を生きてこられたのですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:47:58",
+      "utterance": "そして、切れてしまうようにすべて突然放り出すこともせず、ここにお話にきてくださっている。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:48:49",
+      "utterance": "ぎりぎりのところであっても、しっかりと理性で判断できていますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:51:42",
+      "utterance": "もし、大切なご友人がこのような状況でそれでも踏ん張ってなんとかしたいともがいているとしたら、あなたならどのように声を掛けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:51:43",
+      "utterance": "理性…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:53:27",
+      "utterance": "休んでいいよ。　かな・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:55:07",
+      "utterance": "そのような言葉をかけてあげたいと思われるのですね。「ご自身に対しての言葉」として少しでも受け止めてみても良いと思うのですが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T11:58:09",
+      "utterance": "休もうと思えばいくらでも眠れてしまいます。でも、夫にもいつもだらしのなさを指摘されて、汚い、とか言われ続けています",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T11:59:25",
+      "utterance": "なるほど。先ほどの「やすんでいいよ。」という言葉は、睡眠といったいわゆる体の休息を意味していましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:01:49",
+      "utterance": "だらしがなく片付けていないので、休んでばかりいるみたいに、自分も夫も思っている感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:03:41",
+      "utterance": "そうなんですね。そう思われるのも思うのも苦しいですね。あなたは気持ちの上で「やすんでもいいよ。」と声をかけたのかな？とも感じたのですがいかがでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:04:20",
+      "utterance": "そうかもしれないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:05:53",
+      "utterance": "まずご自身の心に、深呼吸をしながら「やすんでもいいよ。」と声をかけてみてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:06:26",
+      "utterance": "心に声をかけるのですね",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:07:10",
+      "utterance": "自分の声は誰より自分が聞いているものですよね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:08:42",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:09:05",
+      "utterance": "環境すべてをご自身にとって良いものにひっくり返すように「今すぐ」に変えることはまだ難しい状況だと思いますが、まずは今後もここで引き続き色々思いを吐き出しながら、楽しいと思える日々にするための具体的な行動を一緒に考えられたらと思うのですが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:10:00",
+      "utterance": "はい。急には無理ですよねありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:10:19",
+      "utterance": "またお話聞いてください",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:11:11",
+      "utterance": "こちらこそよろしくお願いいたします。本日はお時間となりますのでここまでとなりますが、またいらしてください。何よりまずは御自身の心身をご自愛くださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:11:33",
+      "utterance": "聴いてくれてありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:11:50",
+      "utterance": "またお待ちしております。本日は相談にお越しいただきありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-08T12:12:26",
+      "utterance": "※終了させていただきます。　クライアント役、ありがとうございました。　少しまとめたら終了いたします。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-08T12:12:30",
+      "utterance": "(大変良い勉強をさせていただきました。ありがとうございました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義母との関係のストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2316,
+    "評価作成日時": "2021-08-08T20:30:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 212,
+    "点数": 92,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2316,
+    "evaluation_created_at": "2021-08-08T20:30:00",
+    "client_id": 108,
+    "counselor_id": 212,
+    "score": 92,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

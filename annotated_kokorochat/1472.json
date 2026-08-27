@@ -1,0 +1,613 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-20T20:51:29",
+      "utterance": "こんばんは。本日はどうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T20:53:57",
+      "utterance": "こんばんわ　宜しくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T20:55:13",
+      "utterance": "始めるのは、今からでもかまいませんし、21時からでもかまいませんがご都合はいかがでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T20:55:41",
+      "utterance": "はい　いつでも大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T20:56:29",
+      "utterance": "はい、ありがとうございます。では、今からはじめましょう。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T20:56:44",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T20:57:52",
+      "utterance": "はい、お願いいたします。こんばんは。相談員です。本日は相談にきていただきましてありがとうがざいます。今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T20:58:37",
+      "utterance": "宜しくお願い致します今日の相談は経済的に不安を感じています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:00:24",
+      "utterance": "そうなんですね。不安を感じていらっしゃるとのことですが、具体的にどういった状況か教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:01:08",
+      "utterance": "はい夫と二人で生活をしています　子供はいません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:02:15",
+      "utterance": "昨年まで　子作りも叶わず、夫婦二人の生活に何か活気を持つために",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:02:26",
+      "utterance": "家を購入しました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:03:02",
+      "utterance": "（はい、聞いておりますよ。）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:03:16",
+      "utterance": "しかし、　コロナの影響で二人の職場とも不景気になり",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:03:44",
+      "utterance": "今後の生活が少し不安になってきました",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:04:26",
+      "utterance": "ええ、ええ。それは不安ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:05:37",
+      "utterance": "家を購入されたことがとても関係しておられますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:06:20",
+      "utterance": "そうですね　まだ賃貸にいたころは余裕で生活していました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:07:04",
+      "utterance": "二人とも働いていましたので",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:07:40",
+      "utterance": "そうなんですね。今はお二人とも働いておられますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:08:34",
+      "utterance": "はい　いちを席はありますが、私は派遣です　夫は社員ではいます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:09:53",
+      "utterance": "なるほど、そうなんですね。いま現状では経済的にはどうでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:11:07",
+      "utterance": "私は週に５日が３日に減りました　主人の会社は少し経営が悪くて心配が続いています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:12:55",
+      "utterance": "そうなんですね。日数が減って、旦那様の会社もですと、不安定だと感じて不安ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:13:34",
+      "utterance": "はい　家を購入したことを後悔しています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:15:30",
+      "utterance": "ええ、ええ。家を購入されたことで、どんなことが気になられておられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:16:27",
+      "utterance": "収入はほとんど返済にまわって　食費や光熱費すらも危うくなっています",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:18:17",
+      "utterance": "家の家賃に回ってしまって、生活費が危うくなっておられるのですね。それは気持ち的にも大きな負担になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:19:50",
+      "utterance": "今はまだ貯蓄を崩しているのですが、年末までにはなんとかしたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:21:25",
+      "utterance": "貯蓄を！それはなんとかしたい状況ですね。この状況はいつ頃から抱えていらっしゃったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:22:00",
+      "utterance": "去年の秋ごろからです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:23:08",
+      "utterance": "そうなんですね。秋頃からですと、長い間ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:23:28",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:24:20",
+      "utterance": "仕事が減ったのでしかたがないですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:24:57",
+      "utterance": "もし差し支えなければ、年齢と、なんとおよびしたらよいか教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:25:23",
+      "utterance": "私は３９才です　みかです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:26:15",
+      "utterance": "ありがとうございます。仕事が減ったとはいえ、不安には変わりないかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:27:11",
+      "utterance": "みかさんは、今の状況がどのようになったらよいなと思われますかｋ？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:27:33",
+      "utterance": "すみません。誤字が。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:28:14",
+      "utterance": "早くコロナが終息し経済が元にもどってくれたら、以前のように戻るかと思っています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:29:28",
+      "utterance": "そうですね。そうなることが、一番ですね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:30:36",
+      "utterance": "実際は先の見えない状態のなかで、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:31:47",
+      "utterance": "みかさんご自身はお仕事はどうされていかれたいと思われておられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:32:27",
+      "utterance": "私は今の派遣を続けていけたらいいと思っています",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:33:40",
+      "utterance": "そうなんですね。今のお仕事を続けたいお気持ちなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:33:51",
+      "utterance": "もし、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:35:17",
+      "utterance": "今のお仕事を続けながら、何かお仕事などできることはありそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:36:18",
+      "utterance": "いえ　ダブルワークは出来ないです　今は３日ですが、もとの５日で働きたいです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:37:16",
+      "utterance": "別の仕事っていっても　そんな器用でないし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:37:50",
+      "utterance": "そうなんですね。元に戻られる時のこともあってですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:38:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:38:31",
+      "utterance": "別のお仕事はなかなか難しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:38:42",
+      "utterance": "年末までに",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:39:48",
+      "utterance": "何かできそうなことがあればと思ったのですが、一緒に考えさせていただけたらなと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:40:08",
+      "utterance": "はい　お願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:42:08",
+      "utterance": "はい、お願いいたします。今のお仕事のままでできることがあるとしたら、何かありそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:42:48",
+      "utterance": "家賃は変わらないですし、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:42:56",
+      "utterance": "２日の仕事を探すのも　ないですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:43:16",
+      "utterance": "６日働くのは体も休まらないし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:44:22",
+      "utterance": "二日の仕事はなかなか現実的にないですよね。6日は身体に負担になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:45:58",
+      "utterance": "いつまで続くのかな",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:46:07",
+      "utterance": "悲しくなります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:46:44",
+      "utterance": "本当ですね。先も見えないですし、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:47:20",
+      "utterance": "お仕事のこともありますし、悲しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:48:58",
+      "utterance": "家を購入するんじゃなかったです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:49:29",
+      "utterance": "今の状況で子供ができたらもっと不安になりそうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:50:57",
+      "utterance": "ええ、ええ。そう思われておられるのですね。そうですね。もっと不安になりそうなくらい今つらいんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:54:20",
+      "utterance": "不安でいまいっぱいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:55:01",
+      "utterance": "そうですね　とても辛いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:55:53",
+      "utterance": "一般家庭にも支援のようなものはないのでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:56:25",
+      "utterance": "つらいですね。そうですね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:57:30",
+      "utterance": "コロナにおいてのなにか措置があるかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:57:45",
+      "utterance": "少しみてみますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T21:58:03",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T21:58:21",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T22:00:05",
+      "utterance": "今日は時間がきたので　又相談にきます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T22:01:55",
+      "utterance": "すみません。そうなんですね。わかりました。お役に立てず申し訳ありません。いまみていたのだけお送りさせていただきます。厚生労働省の生活を支えるための支援のご案内というものがあるようです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T22:03:26",
+      "utterance": "大変勉強になりました。みこさんに導いていただいてしまったかたちです。それではまたどうぞよろしくお願いいたします。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T22:03:50",
+      "utterance": "そうでした　わざわざありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T22:04:12",
+      "utterance": "私も確認をしてみます　お手数をおかけしました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T22:04:45",
+      "utterance": "はい、ありがとうございます。お願いいたします。終了メッセージをお送りさせていただいてよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T22:04:49",
+      "utterance": "では、終了をお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T22:05:18",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T22:05:28",
+      "utterance": "今日はお時間頂きましてありがとうございました。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "収入の減少による生活費の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1472,
+    "評価作成日時": "2021-03-21T09:39:00",
+    "クライアント役ID": 43,
+    "カウンセラー役ID": 165,
+    "点数": 38,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1472,
+    "evaluation_created_at": "2021-03-21T09:39:00",
+    "client_id": 43,
+    "counselor_id": 165,
+    "score": 38,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

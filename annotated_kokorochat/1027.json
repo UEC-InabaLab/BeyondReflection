@@ -1,0 +1,849 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:26:54",
+      "utterance": "★こんにちは。本日は宜しくお願いします。時間になりましたらスタートしますね。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:27:06",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:30:19",
+      "utterance": "こんにちは。相談員です。本日は相談に来て下ってありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:30:26",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:30:48",
+      "utterance": "まず初めに、年代と性別を教えていただけますか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:31:15",
+      "utterance": "30代　女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:31:28",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:31:50",
+      "utterance": "本日はどのような事でご相談くださいましたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:32:40",
+      "utterance": "教員をしているんですが、最近クラスにまとまりがなくて、新学期が不安なんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:33:47",
+      "utterance": "そうなんですね。悩ましいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:33:53",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:34:07",
+      "utterance": "先生になられてどれくらいですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:34:20",
+      "utterance": "5年です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:34:38",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:34:59",
+      "utterance": "まとまりがないと感じられるようになったのはいつくらいからですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:35:16",
+      "utterance": "5月頃からです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:35:52",
+      "utterance": "五月というとコロナが急速に広がった時期でもありますね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:36:02",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:36:11",
+      "utterance": "何かきっかけがありましたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:37:04",
+      "utterance": "みんな、寝不足なのか、集中力もないかんじだし、休みがちな子もいるんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:37:33",
+      "utterance": "そうなんですね。教える側としては困ってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:38:23",
+      "utterance": "そうなんです、決まった子もいるけど、だんだん感化されてきているみたい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:38:52",
+      "utterance": "それは、心配になりますね。これまでの四年間と比べて、それは特に最近の傾向ですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:39:28",
+      "utterance": "確かに、コロナの影響は大きいとは思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:40:09",
+      "utterance": "それに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:40:21",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:41:47",
+      "utterance": "コロナを抜きにしても、何か特別な対応が必要なお子さんとの見極めに迷うこともあるのは事実ですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:41:47",
+      "utterance": "続けてお話くださって良いですよ。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:42:11",
+      "utterance": "行違いましたね。すみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:42:29",
+      "utterance": "何か特別な対応といいますのは?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:43:53",
+      "utterance": "集中できないのは、単に寝不足とか、で判断できない症例もあったりするのかと思って戸惑うこともあります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:44:48",
+      "utterance": "そうなんですね。いわゆる発達障害など特別に配慮が必要なお子さんも増えていますものね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:45:20",
+      "utterance": "だから、どうしたものか…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:45:27",
+      "utterance": "判断に迷うと、指導の決断も難しく感じますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:45:45",
+      "utterance": "今は",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:45:53",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:46:23",
+      "utterance": "クラスの成績も落ちていて、職員会議でも問題になってるんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:47:26",
+      "utterance": "そうなんですね。それは辛いですね。ちなみにそれは、受け持ちのクラスに限ったことですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:48:18",
+      "utterance": "全体的に落ちてはいるんですが、特に私のクラスは話題に登ってしまうんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:48:59",
+      "utterance": "それでは、会議でも居心地、悪いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:49:29",
+      "utterance": "親御さんからも問い合わせが来るので、頭を抱えてしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:50:01",
+      "utterance": "そうなんですね。そのような場合、誰が対応されるのですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:50:56",
+      "utterance": "はじめは私が対応していましたが、今は教務主任がしています",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:52:03",
+      "utterance": "なるほど。学校として対応されているということかと思いますが、あなたはそれをどのように感じておられますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:52:57",
+      "utterance": "それは、少し荷が降りた気がして助かるとは思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:53:22",
+      "utterance": "それは良かったです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:53:50",
+      "utterance": "教務主任や管理職はどのようにお考えですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:54:32",
+      "utterance": "クラスのことに助言などです。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:56:10",
+      "utterance": "会議では、教師が悪い、とか、親が悪い\" と言い合いになったこともあって、主任がクラスを見に来てくれたこともありました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:56:56",
+      "utterance": "そのような議論があるといたたまれないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:57:25",
+      "utterance": "見に来た主任はどのように言われてましたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:58:31",
+      "utterance": "時々、様子を見ながら、その都度考えていこう、ということでしたが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:58:41",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:58:53",
+      "utterance": "もう、冬休みに入ってしまいました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:59:10",
+      "utterance": "そういう状況だったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T12:59:33",
+      "utterance": "途中で休みに入ってしまって余計に不安になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T12:59:55",
+      "utterance": "もう、頭から離れません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:00:16",
+      "utterance": "そうだと思います。苦しいですよね。今までお話をお聴きしていて",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:00:57",
+      "utterance": "あなたはクラスのお子さんのことをしっかり観察されて対応しようとされていることがひしひしと伝わってきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:02:04",
+      "utterance": "ここに来るまでも、色々と工夫をされて来られたと思うんですが、どのような対応をされて来られましたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:03:57",
+      "utterance": "眠そうにしてる子には、どうしたの？とか直接声かけするんですが、あまり近づかず、長くは話さないように気をつけてつかっています",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:04:31",
+      "utterance": "うーん・・・コロナでコミュニケーションも取りづらいんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:04:40",
+      "utterance": "気を遣いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:04:40",
+      "utterance": "はい。それに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:04:50",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:06:39",
+      "utterance": "いつも集中できない子は、単に寝不足と違うのかと思ってしまうほど、エスカレートしてくるのですが、同じ声かけでは埒があかない感じなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:07:18",
+      "utterance": "そうなんですね。とても苦慮されていることが分かります。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:07:34",
+      "utterance": "ところで",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:09:18",
+      "utterance": "コロナで一斉休校になり、その間の課題づくり、休校明けのカリキュラムなど、実務的にも今年はずいぶん大変だったのではないかと思いますが、如何でしたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:11:14",
+      "utterance": "それはもう、大変でした。その苦労の割には、結果が出てないので、その事を言われるのは仕方ないとは思うんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:11:49",
+      "utterance": "体力、気力激しく消耗されたことと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:12:23",
+      "utterance": "コロナの状況下では、すべてが流動的で、結果は見えなくても当然ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:12:34",
+      "utterance": "成績の良い親御さんからは心配の連絡来るのはいいんですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:12:48",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:13:21",
+      "utterance": "正直、手をこまねいているご家庭からの情報はなかなか得られないんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:14:06",
+      "utterance": "こんな事、差別的な考えですかね？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:14:37",
+      "utterance": "参観や集会への参加も来てほしいご家庭ほど来ないということは良く耳にします。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:14:54",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:15:00",
+      "utterance": "そんな気持ちになるのは自然なことですよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:15:30",
+      "utterance": "私は、今の状況の中で先生方は実によくやられいてると心から思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:16:23",
+      "utterance": "クラスのメンバーは偶然の集合ですから",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:17:01",
+      "utterance": "たまたま、連絡のつながりやすい家のお子さんが集まることもあると思いますし、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:17:07",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:17:15",
+      "utterance": "その逆もあると思うんです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:18:10",
+      "utterance": "それによってクラスの雰囲気が変わるのも自然のことなので、あなた一人が責任を感じて苦しむことはないと思うのですが、如何ですか?",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:18:34",
+      "utterance": "あなたは実にやくやられていますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:19:01",
+      "utterance": "そうなんですよね、助けていただいていることは、本当にありがたいと思うんですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:19:11",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:19:54",
+      "utterance": "冬休み中の生活の乱れとか考えると、楽になれないんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:20:13",
+      "utterance": "そうですよね。分かります。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:20:19",
+      "utterance": "ただ",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:21:44",
+      "utterance": "何か具体的に子供たちへの対処として休み中の今できそうなことがありますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:22:14",
+      "utterance": "なかなかいまは、訪問はできませんよね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:22:25",
+      "utterance": "そうですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:22:59",
+      "utterance": "今は、先のことを案じるしかないわけですが",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:23:07",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:23:53",
+      "utterance": "この間に、あなた自身がさらにストレスを増して、エネルギーを使い果たしてしまうことが心配です。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:24:49",
+      "utterance": "なかなか気持ちを切り替えるのは難しいと思います。それは",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:25:02",
+      "utterance": "あなたが誠実な先生だから",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:25:38",
+      "utterance": "そんなあなたに受け持ってもらった子供たちは、本当に幸せだと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:25:59",
+      "utterance": "子どもたちの幸せは成績だけに限りません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:26:15",
+      "utterance": "そうでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:27:03",
+      "utterance": "どれだけ愛情を注いでくれているか、見守ってくれているか、そんな人間の信頼関係を知っていくことが将来の財産になると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:27:36",
+      "utterance": "このお休みは",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:28:44",
+      "utterance": "あなたの疲れやストレスをリセットして、新学期に笑顔で勤務できることを目標に、ご自分の為にお使いになられてはどうかと思いますが如何ですか?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:29:12",
+      "utterance": "そうですね、悩んでいても、仕方ありませんもんね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:30:02",
+      "utterance": "「今は」という限定をつけて時間を使われると良いですよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:30:17",
+      "utterance": "今は、？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:32:04",
+      "utterance": "はい、「今は自分のための時間」、新学期が始まったら「子どもたちのことを精一杯考える時間」というようにして切り分けて考えると、今、仕事のことを考えていない自分に落ち込むことはないのかな、と思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:32:37",
+      "utterance": "なるほど",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:33:34",
+      "utterance": "たしかに、仕事のことを考えていないといけない、みたいになってました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:35:09",
+      "utterance": "そうですね。あなたのように一生懸命な方は、考えていないと悪いように思われることも多いようですが、せっかくのお休みですから、次の学期のためにも、めいっぱいリフレッシュしていただければと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:35:31",
+      "utterance": "はい、切り替え、ですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:36:27",
+      "utterance": "はい、是非やってみてくださいね。時間となりましたが、本日のご相談は終了して宜しいでしょうか?",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:37:05",
+      "utterance": "はい、楽になっていいんだなと思いました。ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:38:29",
+      "utterance": "こちらこそ、ありがとうございました。先生という仕事は、人に大きな影響をもつお仕事だけに遣り甲斐もある代わりに大きなストレスにもなります。また、何かありましたらご相談にいらしてくださいね。応援しています。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:38:38",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:38:49",
+      "utterance": "ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:40:21",
+      "utterance": "★ロールプレーを終了しても大丈夫ですか?",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:40:22",
+      "utterance": "(勉強になりました。おつかれさまでした)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-28T13:40:42",
+      "utterance": "では終了しますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-28T13:40:49",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "クラスのまとまりがないことに関する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1027,
+    "評価作成日時": "2020-12-28T13:55:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 91,
+    "点数": 95,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1027,
+    "evaluation_created_at": "2020-12-28T13:55:00",
+    "client_id": 108,
+    "counselor_id": 91,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

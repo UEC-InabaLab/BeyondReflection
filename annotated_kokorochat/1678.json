@@ -1,0 +1,633 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-20T09:53:00",
+      "utterance": "今日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T09:53:35",
+      "utterance": "時間になりましたら、始めさせて頂きますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T09:58:03",
+      "utterance": "こちらこそよろしくお願いいたします！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T09:59:59",
+      "utterance": "こんにちは。相談員です。始めに、性別・年齢・なんとお呼びしたらいいかおしえていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:00:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:00:48",
+      "utterance": "女性　30代　あみでよろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:01:07",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:01:21",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:02:01",
+      "utterance": "コロナになって以前より人との関わりが少なくなって、なんか寂しいというか、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:02:28",
+      "utterance": "ええ。ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:02:36",
+      "utterance": "孤独なんじゃないか外の世界から取り残されてるって感じるときがあります",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:03:38",
+      "utterance": "この気持ちとどう向き合っていけばいいのかなって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:04:59",
+      "utterance": "そうなのですね。寂しいとお感じなのですね。そういう気持ちが湧いてきてあなたを苦しめるのはどんな時なのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:06:01",
+      "utterance": "家に一人でいるとき",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:06:41",
+      "utterance": "なるほどです。おつらいですね。あみさんは、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:06:58",
+      "utterance": "ご家族とお住いなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:07:22",
+      "utterance": "一人暮らししてましし",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:07:24",
+      "utterance": "す",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:09:06",
+      "utterance": "そうでしたか。その中で、孤独感を感じていらっしゃるのですね。それは気持ちが不安になってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:09:30",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:09:43",
+      "utterance": "お仕事はされているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:10:16",
+      "utterance": "しています。コロナでもわたしは通勤なので職場にいるときは寂しく感じることはないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:11:47",
+      "utterance": "ありがとうございます。夜や、休日に孤独感を感じるということでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:12:06",
+      "utterance": "そうです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:12:27",
+      "utterance": "予定がない休日は特にそう思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:14:16",
+      "utterance": "そうなのですね。そういう時に、寂しさを感じて、圧倒されてしまう感じでしょうか？あみさんは、休日などに、どんなことをされるのがお好きなのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:15:09",
+      "utterance": "圧迫というよりはこのままずっと一人なのかなって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:15:55",
+      "utterance": "年齢的にも友人は結婚したりして家族がいる子が多いので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:17:31",
+      "utterance": "なるほどです。そう考えると、不安になってしまいますね。そう感じられるのも無理ないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:18:31",
+      "utterance": "休日は買い物をしたり、身体のメンテナンスをしていることが多いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:18:57",
+      "utterance": "好きだからというか、必要だからしてるって感じですが、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:20:28",
+      "utterance": "そうなのですね。ありがとうございます。　お一人だと感じられるときに、不安だなと思われるのは、どういったことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:21:29",
+      "utterance": "漠然とした将来への不安、、ですかね、、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:21:41",
+      "utterance": "自分でもあまりよくわかってなくって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:25:07",
+      "utterance": "なるほどです。漠然としているとおかんじなのですね。不安の核みたいなものがわからないと、ますますどうしていいかわからなくなってしまうのかなと思いますが、どうでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:25:24",
+      "utterance": "本当にそんな感じです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:25:55",
+      "utterance": "自分でも一人の時間も好きなはずなのになんでこんな気持ちになるんだろうって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:27:11",
+      "utterance": "なるほどです。どうしていいかわからないとお感じなかなと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:27:24",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:27:44",
+      "utterance": "今日は、どんなところが、不安なのか、一緒に考えてみるのかいかかでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:28:02",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:28:05",
+      "utterance": "お願いいたします",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:29:10",
+      "utterance": "先ほど、休日は、体のメンテナンスとお聞きしましたが、お仕事は体力を使われるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:30:35",
+      "utterance": "仕事は事務職です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:30:56",
+      "utterance": "整体に行ったり、美容系のメンテナンスを主にしてます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:32:05",
+      "utterance": "そうなのですね。メンテナンスは心地のいい時間なのですね？気持ちもリラックスされている感じでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:33:30",
+      "utterance": "うーん😔実はそうでもなくて、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:33:44",
+      "utterance": "例えばネイルや美容院にいって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:34:08",
+      "utterance": "ええ。ええ。（聴いていますね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:34:19",
+      "utterance": "やってもらったあとは綺麗になるのでいい気分にはなるのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:34:39",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:34:56",
+      "utterance": "ネイリストの方や美容師さんと話すのは苦手で、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:35:16",
+      "utterance": "いっぱい話しかけられたりすると疲れてしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:35:56",
+      "utterance": "なるほどです。気疲れしてしまうのですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:36:12",
+      "utterance": "はい。やってもらっている最中が苦痛？というか少ししんどい感じはあります。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:37:30",
+      "utterance": "メンテナンスされているときに、どんな気持ちが、頭に浮かんでいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:38:56",
+      "utterance": "話しかけないでほしい、、😢っていつも思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:40:06",
+      "utterance": "うんうん。そうなのですね。それは疲れてしまいますね。緊張して、ずっと気が張っている感じですか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:41:48",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:42:07",
+      "utterance": "緊張というよりほっといてほしい、、って感じです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:42:16",
+      "utterance": "変ですかね、、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:43:51",
+      "utterance": "そんなことないですよ。そっとしておいてほしいと感じられる気持ち、とても分かります。メンテナンスされているときにまで、気を使いたくないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:45:04",
+      "utterance": "その気持ちを伝えるとしたら、どんな言葉だと伝わりそうでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:45:27",
+      "utterance": "言葉ですか、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:45:34",
+      "utterance": "なかなか難しいですね😢",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:47:34",
+      "utterance": "ネイルとか美容院にいったときに前アンケートみたいなものを書くことがあると思うのですが、そういうのがあると話しかけないでほしいって書けるかも",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:48:06",
+      "utterance": "そういうのがあるのですね。それはいいかもしれませんね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:48:48",
+      "utterance": "はい。でもないところは、、直接言うのはなかなか気が引けます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:50:30",
+      "utterance": "そうですよね。言いづらいとお感じなのですね。　整体なんかは…寝たふり…というのは、難しいですかね？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:50:58",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:51:19",
+      "utterance": "失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:51:30",
+      "utterance": "整体の方がめっちゃおしゃべりなので、できそうになくって、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:52:33",
+      "utterance": "そうなのですね。整体の場所を変えてみるということは難しいでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:53:57",
+      "utterance": "最近考えはじめました、、整体の技術はよかったのですが、それ以上に気疲れしてさしまう感じがあるので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:55:33",
+      "utterance": "そうだったのですね。せっかくの時間なので、それも一つの方法かもしれません。と思いますが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:56:12",
+      "utterance": "そうですね。心からリラックスできる時間になったらいいなと思います☺️",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:57:27",
+      "utterance": "休日があみさんにとって、心からリラックスできる時間になると良いなと、思っています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:57:51",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T10:58:31",
+      "utterance": "他にご相談がありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T10:58:56",
+      "utterance": "大丈夫そうです。ありがとうございます✨",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T11:00:09",
+      "utterance": "では、今日は、これで終了させて頂きますね。ありがとうございました。また何かございましたら相談に来てくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T11:00:45",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T11:00:58",
+      "utterance": "ロールプレイありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T11:02:32",
+      "utterance": "こちらこそありがとうございました！お疲れ様です☺️",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T11:03:15",
+      "utterance": "ありがとうございました。反省点など振り返りで教えていただけたらと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T11:04:03",
+      "utterance": "失礼します。",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "孤独感と将来への不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1678,
+    "評価作成日時": "2021-04-20T11:24:00",
+    "クライアント役ID": 94,
+    "カウンセラー役ID": 109,
+    "点数": 72,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1678,
+    "evaluation_created_at": "2021-04-20T11:24:00",
+    "client_id": 94,
+    "counselor_id": 109,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:00:18",
+      "utterance": "こんばんは。相談員です。本日はよろしくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:00:29",
+      "utterance": "よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:00:36",
+      "utterance": "本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:01:12",
+      "utterance": "はい、実は同居している母とのことでご相談です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:01:57",
+      "utterance": "そうなんですね。どのような状況なのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:03:24",
+      "utterance": "母は85歳で、認知症です。昔はしっかり者の母でしたが、最近は言ったことをすぐ忘れてしまいます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:06:43",
+      "utterance": "そうなんですね。お母さまのサポートをしていらっしゃるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:08:59",
+      "utterance": "はい、そうなんです。認知症は病気なので仕方ないのですが、母はたまにイライラすると、夜中に台所でものを激しくぶつけるんです。その音が２階の私の部屋に響いて、とても怖いんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:09:00",
+      "utterance": "物忘れは気になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:09:41",
+      "utterance": "怖いですし心配になりますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:10:27",
+      "utterance": "そのようなとき、あなたはどのようにされているんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:11:32",
+      "utterance": "何も手につかなくて、布団の中で音がおさまるのを待っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:12:37",
+      "utterance": "様子を見に行くのも怖いですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:12:53",
+      "utterance": "そうなんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:13:11",
+      "utterance": "そのようなお母さまの行動はどのくらいの頻度で起きていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:14:16",
+      "utterance": "昔はよくありましたが、最近は2ヶ月に1回くらいでしょうか。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:14:39",
+      "utterance": "以前より落ち着いてきているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:14:52",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:16:32",
+      "utterance": "お母さまがイライラしてそうなる、とのことでしたが、その日にはどのような出来事があったとか、お母さまの様子はいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:19:50",
+      "utterance": "いつもと違うことだと、私が夕飯の母の食器を洗って、ご飯のついた茶碗だけ、洗い桶に浸けておいたことかな。普段は母の食器は全て洗わないようにしています。夕飯を食べていないというから。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:21:16",
+      "utterance": "理由は思い当たりません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:22:15",
+      "utterance": "お母さまの食事後の食器を全部洗わずに敢えて残しておいているということで合っていますか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:23:00",
+      "utterance": "思い当たることがないとびっくりしてしまいますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:23:14",
+      "utterance": "合っています。母は食器の洗い片付けは出来るから。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:24:37",
+      "utterance": "昔からイライラすると、物に当たることで、家族に八つ当たりしていました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:25:23",
+      "utterance": "普段はお母さまご自身で食器の片付けをするけれども、あなたが食器の片づけをした日にお母さまの例の行動が起きたということですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:25:58",
+      "utterance": "それが原因かどうかは、確認していません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:26:40",
+      "utterance": "ですが、その日で間違いないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:26:47",
+      "utterance": "そうなのですね。ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:27:15",
+      "utterance": "昔からそのようなことはあったのですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:27:30",
+      "utterance": "はい、しょっちゅうでした。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:28:10",
+      "utterance": "怖い思いをされてきたのですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:28:35",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:29:09",
+      "utterance": "しょっちゅうだった、というのは大体いつ頃のお話ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:30:24",
+      "utterance": "1年位前まででしょうか。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:30:50",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:31:44",
+      "utterance": "それから急に認知症がひどくなってきて、少し穏やかになってきました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:32:14",
+      "utterance": "そういうことなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:33:05",
+      "utterance": "先ほどお母さまはイライラすると八つ当たりをする、とのことでしたが、他にはどのような行動をされていらっしゃったんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:35:09",
+      "utterance": "気になる行動はそれくらいです。私への対応は、支配的でした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:36:38",
+      "utterance": "そういう態度だったのですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:37:22",
+      "utterance": "私の家が全て引き戸の部屋なので、支配しやすかったと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:37:48",
+      "utterance": "そういうことだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:38:15",
+      "utterance": "支配的、というのはどのような感じだったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:39:55",
+      "utterance": "嘘は絶対NG。少しでも仕事が遅くなると、会社に電話かけてくる。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:41:08",
+      "utterance": "社会人になっても・・それは息苦しかったですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:41:41",
+      "utterance": "それはいつ頃からこのような感じだったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:42:20",
+      "utterance": "中学生の頃からです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:43:04",
+      "utterance": "中学生から１年ほど前まで。。ちなみにあなたは今おいくつでいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:44:00",
+      "utterance": "59歳です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:44:29",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:44:43",
+      "utterance": "ずっと一緒というわけではありませんが。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:45:50",
+      "utterance": "そうなのですね。お母様とはどのくらいの期間離れてお過ごしだったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:46:49",
+      "utterance": "20年位かな。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:47:08",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:47:31",
+      "utterance": "どのようなきっかけで再びお母さまと一緒に暮らすことになったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:47:53",
+      "utterance": "離婚しました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:48:30",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:49:03",
+      "utterance": "ご実家に帰られてからのお母さまの様子はどのような感じだったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:50:07",
+      "utterance": "いろいろあって、ハッキリ覚えていません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:50:50",
+      "utterance": "覚えきれないほどたくさんのことがあったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:51:46",
+      "utterance": "思い出したくないのかも。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:52:10",
+      "utterance": "そういうこともありますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:54:14",
+      "utterance": "その時も、母とは仲が良くなかったです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:54:30",
+      "utterance": "そうだったのですね。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:55:01",
+      "utterance": "お母様のことで、どなたかにご相談されたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:55:18",
+      "utterance": "はい、あります。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:55:48",
+      "utterance": "どなたにご相談されたかお伺いできますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:56:34",
+      "utterance": "精神科に行って話してみました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:56:44",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:57:05",
+      "utterance": "そのときはどのようなお話をされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:59:18",
+      "utterance": "過保護、過干渉で支配されている。「周囲の人に話しても、あんたのことなんか誰も信用しないよ」と言われたことなどを話しました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:00:03",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:00:25",
+      "utterance": "過保護、過干渉ということを聞いてどのようにお感じになりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:01:13",
+      "utterance": "すみません、それは、私が先生に説明した言葉です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:01:39",
+      "utterance": "あ！失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:02:03",
+      "utterance": "それをお話ししてみて、先生はどのようなお話をされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:03:01",
+      "utterance": "聞いてはくれましたが、特にこれということもなく、お薬を出してくれました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:03:37",
+      "utterance": "そうだったのですね。なんとなくすっきりしないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:03:52",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:05:11",
+      "utterance": "すみません、もう時間がきてしまいました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:05:47",
+      "utterance": "ここまでのお話をまとめさせていただいて本日は終了させて頂きたいと思いますが、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:06:05",
+      "utterance": "あと５分ほどお時間よろしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:06:27",
+      "utterance": "はい、大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:06:36",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:07:21",
+      "utterance": "現在認知症のお母さまと一緒に住んでいらして、夜中にイライラして物に当たるお母様が怖い",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:08:13",
+      "utterance": "１年ほど前まではしょっちゅうだったが、頻度が減ったと同時に認知症が進行した",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:08:49",
+      "utterance": "お母様はあなたが中学生の頃から支配的な態度だった",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:09:43",
+      "utterance": "嘘は絶対にNGで、仕事が少しでも遅くなると会社に電話がかかってきていた",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:10:56",
+      "utterance": "あなたが実家に戻ったときにはお母さまとは色々ありすぎて、その頃のことは思い出したくないのかもしれない",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:11:34",
+      "utterance": "精神科にお母さまのことを相談し、母が過保護・過干渉であることを伝えたが",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:11:59",
+      "utterance": "これといったことはなく薬を処方された",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:12:07",
+      "utterance": "ここまででよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:12:22",
+      "utterance": "はい、ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:12:44",
+      "utterance": "おしてしまって申し訳ありません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:12:55",
+      "utterance": "大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:13:17",
+      "utterance": "この続きはまたお聞かせくださいね。本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:13:31",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:13:38",
+      "utterance": "ロールプレイを終了致します。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との支配的な関係によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 96,
+    "評価作成日時": "2020-06-29T10:12:00",
+    "クライアント役ID": 49,
+    "カウンセラー役ID": 48,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 96,
+    "evaluation_created_at": "2020-06-29T10:12:00",
+    "client_id": 49,
+    "counselor_id": 48,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

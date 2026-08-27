@@ -1,0 +1,560 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-11-14T15:53:56",
+      "utterance": "（こんにちは。今日はよろしくお願いします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T15:55:34",
+      "utterance": "こんにちは。こちらこそよろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:00:24",
+      "utterance": "こんにちは、相談員です。お話に来てくださり、ありがとうございます。はじめに性別、年齢、ご相談の内容をお聞かせください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:01:59",
+      "utterance": "こんにちは。35歳、男、自分の体型に悩んでます。太っていると言われてます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:02:47",
+      "utterance": "お話くださり、ありがとうございます。なるほど、それはお悩みになりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:03:31",
+      "utterance": "もう少し詳しく聞かせていただきたいのですが、そのように悩むようになったのは、どんなきっかけがありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:04:34",
+      "utterance": "はい。自分ではそうでもないと思ってるんですが。友達からも毎回言われて、頑張って痩せようと努力してるんですが。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:05:16",
+      "utterance": "なるほど、あなたはそうでもないと感じているのに、お友達にそう言われてしまうのは、困惑してしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:05:49",
+      "utterance": "はい。太っていることが悪いことなんでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:06:29",
+      "utterance": "悪いことではないと思いますし、ご本人が良ければいいと思いますよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:07:12",
+      "utterance": "そうですよね。分かってもらえて嬉しいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:07:59",
+      "utterance": "ええ、あなたはありのままのご自分を認めたいというお気持がおありになると感じますし、それは素敵なことだと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:08:47",
+      "utterance": "それでも、お友達に言われて努力されているのですね。これまでに、どんなことを試してみましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:09:51",
+      "utterance": "断食やトレーニングをやってみましたが、どれも長続きしませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:10:49",
+      "utterance": "なるほど…それは大変な努力をされたのですね。ほかにもありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:11:43",
+      "utterance": "他はないです。もう諦めたというか、痩せようという気力がなくなりました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:12:21",
+      "utterance": "痩せなきゃって思うと、体調がおかしくなるんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:12:36",
+      "utterance": "ええ、しんどい思いをして報われないとそのような思いにもなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:13:05",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:13:07",
+      "utterance": "そうなんですね、それは逆につらいですね。どのように体調がおかしくなりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:13:50",
+      "utterance": "身体が震えて、汗が出てきます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:14:21",
+      "utterance": "呼吸も乱れて、倒れたこともあります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:14:36",
+      "utterance": "それは大変です…！体調を崩してしまうのは本末転倒ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:15:40",
+      "utterance": "そのように大変な思いをして、うまくいかないので体重を落としたいとは、もう思っていないのですね？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:16:36",
+      "utterance": "痩せた方がいいのかなと思ってますが、体調が悪くなるのが怖いんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:17:21",
+      "utterance": "どうしたらいいのかわからなくて、相談にきました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:18:36",
+      "utterance": "そうですよね。体調が悪くなるほどの過酷なことは、しないほうがいいですね。それでは、体調の管理を例えばプロの方に見てもらいながら、穏やかに少しずつ減らしていく、ということもできるかと思いますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:20:34",
+      "utterance": "そうですね。人に管理されるのは少し気が引けますが、考えてみます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:21:23",
+      "utterance": "ええ、人に見てもらうというのは、少し抵抗があるかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:22:07",
+      "utterance": "はい､､､。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:22:46",
+      "utterance": "ええ、勇気のいることですよね。今は諦めてもいいかな、というようなお気持ちと、でも痩せたほうがいいのかな、というお気持ちが混在しているような感じかなと思いましたが、そのあたりはいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:24:01",
+      "utterance": "はい、自分の中でも葛藤があると思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:24:53",
+      "utterance": "ええ、迷ってしまいますよね。葛藤しているのはきっとご自分を大切にお思う気持ちがおありになるからだと思いますが、いかがでしょうか？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:26:09",
+      "utterance": "そうだと思います。ただ人の言う事もかなり気になるんです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:27:00",
+      "utterance": "ええ、そうなのですね。そのように言ってくるのはお友達だけですか？ほかにもいるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:27:46",
+      "utterance": "確かに、人に面と向かってそう言われたら気にしてしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:27:46",
+      "utterance": "友達、家族、会社の人にも言われます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:28:45",
+      "utterance": "なるほど、お友達以外にもいるのですね。それは気になってしまいますね…例えば健康診断などでも、体重を落とした方がいいと指導があるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:29:46",
+      "utterance": "はい、肥満という数値は出ています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:30:39",
+      "utterance": "なるほど、それもあって減量しないと、というお気持ちがあるのかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:31:39",
+      "utterance": "そうなんですかね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:32:02",
+      "utterance": "ええ、それはあまり関係なさそうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:35:02",
+      "utterance": "すみません、太っていることや痩せることよりも、体調が悪くなる事の方が気になるんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:35:53",
+      "utterance": "そうですよね、あなたの大切な体ですから、体調が良い状態であることが一番だと私も思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:36:20",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:36:57",
+      "utterance": "何か病気なんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:37:51",
+      "utterance": "それは、減量しようとして、体調が悪くなっているので病気を心配されているのですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:39:36",
+      "utterance": "はい。痩せなきゃって思うと、動悸や呼吸困難、汗が止まらないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:40:15",
+      "utterance": "そうなのですね、それはどんなにかしんどいでしょうか…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:40:37",
+      "utterance": "それほどに追い詰めらたお気持ちになるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:40:44",
+      "utterance": "はい、かなりしんどいです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:41:58",
+      "utterance": "そのようなかなりしんどい思いをしながら、痩せることを考えるのは、少なくとも今はとてもつらいように感じますが、いかがですか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:43:30",
+      "utterance": "はい、とても辛いです。痩せようと考えなければいいんでしょう？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:45:05",
+      "utterance": "痩せることに繋がることを考えたり、行動をとること自体が、体調の悪化を招いてしまうのですね…それはとてもしんどいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:45:59",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:46:12",
+      "utterance": "そうであれば、あなたの大切な心身をいたわってあげるのが、今は最優先かなと感じますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:47:24",
+      "utterance": "はい、まずは自分の身体と心を大事にします。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:47:47",
+      "utterance": "あなた体調を崩すことをとても心配している、それは先ほども言いましたが、ご自分の体をとても大切にしたいというお気持ちが強いからだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:49:09",
+      "utterance": "そうなんですか？あまり自分では気づきませんでした。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:50:05",
+      "utterance": "ええ、私はお話を聴いていてそう感じました。誰かのことを心配するのは、その人が大切だから、というときがありませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:50:50",
+      "utterance": "確かにそうです。あります。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:51:40",
+      "utterance": "ええ、無意識かもしれませんが、ご自分の体や心を大切にされているあなたでいらっしゃると思いますよ。そんなあなたは、そのままのあなたで、とても素敵ですよ。そのままのあなたで、大丈夫ですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:52:59",
+      "utterance": "ありがとうございます。そんな風に言われたのは初めてです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:54:21",
+      "utterance": "ええ、本当にそのように感じていますよ。ご自分を大切に思っていらっしゃることは、素晴らしいと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:54:38",
+      "utterance": "体調が安定していることが、何よりだと思います。ですから、もし心配なことがあったら、専門の方に見てもらうのも一つの心強い選択肢になると思いますが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:55:30",
+      "utterance": "そして、また葛藤ができたり、吐き出したいような気持ちになったときには、いつでもこちらにいらしてくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:56:14",
+      "utterance": "はい、分かりました。ありがとうございます。かなり不安な気持ちが和らぎました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:57:18",
+      "utterance": "それは良かったです！気持ちが落ち着かれて、体調が安定していますように、心より祈っています。また不安なお気持ちになることがありましたら、ぜひ聴かせてくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:57:58",
+      "utterance": "はい、またよろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:58:55",
+      "utterance": "はい、今日はお話に来てくださり、ありがとうございました。お気持ちを吐き出すのもしんんどかったかと思います。大変お疲れ様でした。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:59:15",
+      "utterance": "こちらこそ、またどうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:59:29",
+      "utterance": "それでは、これでご相談を終了させていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T16:59:38",
+      "utterance": "ありがとうございました。お疲れ様でした。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T16:59:48",
+      "utterance": "ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-14T17:00:15",
+      "utterance": "（お相手してくださり、ありがとうございました。お疲れ様でした。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-14T17:00:34",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "体重減少に伴う体調不良"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5940,
+    "評価作成日時": "2023-11-14T17:11:00",
+    "クライアント役ID": 359,
+    "カウンセラー役ID": 424,
+    "点数": 94,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5940,
+    "evaluation_created_at": "2023-11-14T17:11:00",
+    "client_id": 359,
+    "counselor_id": 424,
+    "score": 94,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-31T19:52:17",
+      "utterance": "(こんばんは、本日はよろしくお願いいたします)",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T19:53:34",
+      "utterance": "初めてなので緊張しています。よろしくおねがいします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T19:54:50",
+      "utterance": "そうだったのですね、思うとおりにやっていただけたらいいと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T19:56:44",
+      "utterance": "流れに身をまかせたいと思います。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T19:57:53",
+      "utterance": "はい、それでいいと思います。お時間になりましたらお声がけさせていただきますね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T19:58:14",
+      "utterance": "わかりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:00:09",
+      "utterance": "こんばんは、相談員です。相談に来ていただき、ありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:00:24",
+      "utterance": "よろしくおねがいします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:00:28",
+      "utterance": "初めに、年齢と性別を教えてもらえますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:00:43",
+      "utterance": "４８歳女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:01:04",
+      "utterance": "教えていただき、ありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:01:11",
+      "utterance": "本日はどのようなご相談でしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:01:41",
+      "utterance": "職場のことです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:02:15",
+      "utterance": "異動してきた職員の指導についてです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:02:31",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:02:58",
+      "utterance": "どのようなことがあったのか、詳しく教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:04:04",
+      "utterance": "４月から２ヶ月が過ぎ、そろそろ慣れてきたと思うのですが",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:04:11",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:05:08",
+      "utterance": "私が思ったように仕事が進んでいないので、いらいらしてしまっています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:06:22",
+      "utterance": "その職員さんの仕事が、あなたの思うようには進んでいないように、感じておられるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:06:34",
+      "utterance": "別の部署で全く同じではないのですが、専門職として１０年の経験があるので、期待をしていたので、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:06:56",
+      "utterance": "ちょっと戸惑っています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:08:32",
+      "utterance": "そうだったのですね。その方は10年のキャリアもあって、あなたとしてはすごく期待をかけておられたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:09:08",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:09:50",
+      "utterance": "期待を裏切られた、そのような感じでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:09:51",
+      "utterance": "時間があったら〇〇してほしいと伝えても、できていないとき、どうして？とおもってしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:10:27",
+      "utterance": "裏切られたというほどではないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:10:57",
+      "utterance": "が、私の指示の仕方が悪いのかなとおもっています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:11:16",
+      "utterance": "そのようにもお感じなのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:12:11",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:13:38",
+      "utterance": "あなたとしては、しっかり伝えているつもりなのに相手が出来ていないと、どうしたらいいのか分からなくなってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:15:21",
+      "utterance": "ちなみに、どういったお仕事をされているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:15:25",
+      "utterance": "はい。職場内は仲良く、気持ちよく仕事をしたいと思っているので気持ちを害すことなく指導するにはと悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:15:38",
+      "utterance": "行き違いすみません",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:16:07",
+      "utterance": "本当にそうですよね、お互いに気持ちよく過ごしたいですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:16:16",
+      "utterance": "はい、地域包括支援センターという高齢者専門の相談窓口ではたらいてます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:17:18",
+      "utterance": "専門職が配置されています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:17:30",
+      "utterance": "そうだったのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:17:49",
+      "utterance": "ご高齢の方を支える専門的で本当に重要なお仕事に携わっておられるのですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:20:15",
+      "utterance": "ちなみに、その方にご指導する際には、どういったやり取りをされていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:21:23",
+      "utterance": "はい。自分自身も仕事量が多く、じっくりと向き合う時間は最初の数日で、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:21:41",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:21:57",
+      "utterance": "（続けて、お話しくださいね）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:22:35",
+      "utterance": "あとは、数回一緒に同行して仕事内容を確認しました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:23:13",
+      "utterance": "あと、重要な仕事として、実態把握訪問",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:24:12",
+      "utterance": "をというものがあるのですが、６５歳以上の高齢者宅にアボなし訪問を月に５０件以上してます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:25:06",
+      "utterance": "そうだったのですね、月に50件以上も・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:25:13",
+      "utterance": "愚痴になってしまうのですが、自分の仕事をし、その方の専門分野の仕事を代行していますので、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:26:45",
+      "utterance": "ちょっと自分に余裕がなく、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:27:23",
+      "utterance": "本当にそうですよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:27:38",
+      "utterance": "隣でゆったり書類を見て、訪問に行こうとしない様子が見えて、どうして？とおもってしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:28:57",
+      "utterance": "本当に忙しい中で、その方のためにと思ってなんとか時間を作りながら、一生懸命に指導しておられるのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:29:09",
+      "utterance": "やるせない気持ちになりますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:29:51",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:31:22",
+      "utterance": "ただ、丁寧に教えてあげられなかったかなという思いもあります",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:33:01",
+      "utterance": "そうでしたか。あなたとしてはそのような思いも持っておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:33:37",
+      "utterance": "はい。専門職とはいえ、前の部署とは仕事内容も違うので",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:34:13",
+      "utterance": "アポなし訪問は歓迎されるばかりではないので",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:34:30",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:34:59",
+      "utterance": "そして、前の部署でも営業に行くよう上司が言っても行かなかったとのこときいていたので",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:35:35",
+      "utterance": "そのようなこともあったのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:36:00",
+      "utterance": "必要な訪問なのですが、必要性を丁寧に伝えなかったので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:36:28",
+      "utterance": "苦手なので避けているのかもしれないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:38:21",
+      "utterance": "そうでしたか。その方はもともと外回りに苦手を感じているからこそ、あなたとしては、今の職場におけるアポなし訪問の重要性を伝えておけばよかった。今はそう感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:38:36",
+      "utterance": "今そう感じてます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:39:26",
+      "utterance": "あとは、より具体的に目標件数を伝えてなかったとも気が付きました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:39:59",
+      "utterance": "行けるときに〜というようにふんわりとしか伝えてなかったかもしれません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:41:04",
+      "utterance": "そうでしたか。今もう一つの大切な伝えておくべきことにも、お気づきになられたのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:42:26",
+      "utterance": "今の職場でこれまでとても丁寧にお仕事をしてお客様に関わってこられたあなただからこそ、ご自身でお気づきになられたのですよね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:42:48",
+      "utterance": "はい。あと、余裕があるせいか、他の人の仕事内容の不備な点を指摘したりするのでこっちもいらっとしてしまいました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:43:51",
+      "utterance": "これは良くない傾向に思うので、修正したいと思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:44:31",
+      "utterance": "月も変わるタイミングで",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:45:03",
+      "utterance": "「６月はまず、訪問を５０件」",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:45:15",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:45:34",
+      "utterance": "具体的な目標ですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:45:39",
+      "utterance": "「他の業務はとりあえず現状維持で」",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:45:49",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:46:22",
+      "utterance": "訪問のやり方や聞き取りする内容を再確認し",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:46:33",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:48:39",
+      "utterance": "これまでの経験も活かしつつ、生活の実態を把握する重要な仕事として「あなたならできる」と押し切ろうかなと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:49:41",
+      "utterance": "それと、他の専門職が回りきれないから、助けてほしいとも伝えようかなと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:50:55",
+      "utterance": "はい、ご自身で本当に素晴らしい気づきをされたと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:51:00",
+      "utterance": "事務所で座っている時間が少なくなれば、こちらの気持ちも少し楽になるかもです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:52:14",
+      "utterance": "なるほどですね。これまでも信頼を外回りして積み上げてこられたのですものね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:52:19",
+      "utterance": "あなたのような指導者、リーダーがいる職場は本当に幸せだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:54:26",
+      "utterance": "ただ、自分の仕事が終わらないのは変わりないのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:55:20",
+      "utterance": "出来る力があるあなただからこそ、仕事が回ってきますものね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:56:00",
+      "utterance": "自分気持ちも殺さずに解決できればとおもいます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:56:52",
+      "utterance": "ストレスためたくないので、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:57:17",
+      "utterance": "本当そうですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:57:27",
+      "utterance": "そして、指導者が本音でぶつかってくれるのは、きっと他の職員の力になると私は思います",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:57:40",
+      "utterance": "この仕事に誇りを持っているあなただからこそ、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:58:26",
+      "utterance": "今日お気づきになったことを、しっかりとその方にお伝えして、自信を持って指導していただければ、大丈夫だと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:58:33",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:59:05",
+      "utterance": "これまでの経験を活かして、さらに新しい職員の指導までこなしてチャレンジしていくあなたをこころから応援しています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T20:59:41",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T20:59:56",
+      "utterance": "こちらこそ、大切なお話を聞かせていただきありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T21:00:15",
+      "utterance": "本日のご相談は、ここまでとさせていただきます",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T21:00:21",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T21:00:45",
+      "utterance": "ご相談に来ていただき、ありがとうございました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T21:00:56",
+      "utterance": "（お疲れさまでした）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-31T21:01:18",
+      "utterance": "お疲れ様でした",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-31T21:01:28",
+      "utterance": "それでは失礼いたします",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "異動職員の指導に関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5210,
+    "評価作成日時": "2023-06-05T20:26:00",
+    "クライアント役ID": 403,
+    "カウンセラー役ID": 39,
+    "点数": 77,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5210,
+    "evaluation_created_at": "2023-06-05T20:26:00",
+    "client_id": 403,
+    "counselor_id": 39,
+    "score": 77,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

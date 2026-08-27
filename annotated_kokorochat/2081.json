@@ -1,0 +1,551 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:00:13",
+      "utterance": "こんにちは。相談員です。差し支えなければ年齢と性別を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:00:57",
+      "utterance": "33歳、男です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:01:12",
+      "utterance": "ありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:01:36",
+      "utterance": "今日はどの様なご相談でおこしくださいましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:02:46",
+      "utterance": "はい、会社に行きたくなくて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:03:20",
+      "utterance": "そうなのですね。それは憂鬱ですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:03:57",
+      "utterance": "いつ頃からその様にお感じなのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:04:40",
+      "utterance": "4月に大阪から東京に転勤になってそれからです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:05:41",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:06:13",
+      "utterance": "それは大きな移動でしたね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:06:42",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:07:18",
+      "utterance": "転勤は初めてだったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:07:50",
+      "utterance": "転居を伴う異動は初めてでした。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:08:10",
+      "utterance": "ええ、ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:09:32",
+      "utterance": "それまではずっと大阪にお住まいだったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:10:04",
+      "utterance": "そうです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:11:00",
+      "utterance": "そうでしたか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:11:44",
+      "utterance": "それはなおさら距離が大きく感じますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:12:26",
+      "utterance": "会社に行きたくない理由をご自身ではどの様に感じていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:13:53",
+      "utterance": "異動の距離とかではなく、業務や人間関係が初めてでいろいろと気をつかいます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:15:46",
+      "utterance": "そうなのですね。人間関係や業務が変わると色々と気を遣って悩みますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:16:03",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:16:57",
+      "utterance": "今までと業務は大きく変わったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:17:20",
+      "utterance": "変わりましたね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:18:08",
+      "utterance": "そうなのですね。では慣れるまでは大変ですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:19:23",
+      "utterance": "慣れるまではやっぱり我慢しないといけないんですかね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:21:03",
+      "utterance": "人間関係は大きく変わったと思いますが、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:21:29",
+      "utterance": "一番気になるのはどのようなところですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:23:21",
+      "utterance": "忙しいせいか職場でのコミュニケーションが少ないように思います。あと、上司と全然話せていません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:24:41",
+      "utterance": "そうなのですね。今は何人ぐらいの職場ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:25:24",
+      "utterance": "自分の部署は上司合わせて8人です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:26:11",
+      "utterance": "それは以前と大きく変わりましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:26:32",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:27:01",
+      "utterance": "どの様に変わりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:27:30",
+      "utterance": "人数が減りました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:28:02",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:29:26",
+      "utterance": "他には変化はありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:29:50",
+      "utterance": "根本的に人が変わりました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:30:52",
+      "utterance": "ええ、ええ。どのように変わったとお感じなのかお話していただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:32:20",
+      "utterance": "先程もお伝えしたようにコミュニケーションが減りました。会話の数と言いますか・・・。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:33:21",
+      "utterance": "そうなんですね。それは寂しい気持ちになりますね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:34:57",
+      "utterance": "寂しいというか、やっぱりコミュニケーションって絶対必要なんですかね？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:35:51",
+      "utterance": "ご自身ではどう感じていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:37:24",
+      "utterance": "必要以上には無理してとる必要は無いかと、業務に関係のことだけ話せればよいかと思っています。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:38:23",
+      "utterance": "そうお感じなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:38:31",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:39:57",
+      "utterance": "これまでの相談をまとめてみてもよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:40:06",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:41:27",
+      "utterance": "相談者様は4月に大阪から東京に転勤になりました。大阪を離れたのは今回が初めてです。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:42:08",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:42:11",
+      "utterance": "今、会社に行きたくないとのお悩みを抱えていらっしゃいます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:42:20",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:43:11",
+      "utterance": "業務内容も人間関係も大きくかわり、気を遣っています。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:43:47",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:45:17",
+      "utterance": "理由は、忙しくて部署の人とコミュニケーションがとれていないからと感じていらっしゃいます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:46:35",
+      "utterance": "本当にコミュニケーションのせいなのか・・・自分でもあいまいに感じています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:48:42",
+      "utterance": "そうだったのですね。このご相談ではどのような事が解決できたら　とお考えですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:50:16",
+      "utterance": "会社に行きたくない理由があいまいだったので、カウンセリングを通じて少しでも明確になればと思いました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:51:48",
+      "utterance": "会社に行きたくない理由は何のか、少しでも明確になるように一緒に考えていければと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:52:24",
+      "utterance": "はいありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:52:57",
+      "utterance": "大阪では会社に行きたくないとお感じになったことはありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:54:14",
+      "utterance": "たまにはありましたが、こんなに何週間も思ったことはありません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:54:56",
+      "utterance": "そうでしたか",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:55:52",
+      "utterance": "大阪では部署のみんなとよくコミュニケーションを取っていましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:56:06",
+      "utterance": "上司も含めて",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:56:50",
+      "utterance": "はい、困ったことがあればすぐに相談できていました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:57:55",
+      "utterance": "よいチームワークができていたのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T11:58:34",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T11:59:18",
+      "utterance": "信頼関係とも言いますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T12:00:00",
+      "utterance": "それは簡単に出来たものでしたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T12:00:34",
+      "utterance": "比較的意識せずともできたように思います。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T12:01:48",
+      "utterance": "自然に出来たものだったのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T12:03:15",
+      "utterance": "ある程度の時間はかかりましたが比較的自然だったと思います。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-22T12:04:29",
+      "utterance": "（お時間がきてしまいましたので途中ですが終わった方がいいですか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-22T12:05:45",
+      "utterance": "(はい、次に予定があるので、終了させて頂きます。ありがとうございました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "転勤後の人間関係の構築の難しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2081,
+    "評価作成日時": "2021-06-23T19:17:00",
+    "クライアント役ID": 196,
+    "カウンセラー役ID": 161,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2081,
+    "evaluation_created_at": "2021-06-23T19:17:00",
+    "client_id": 196,
+    "counselor_id": 161,
+    "score": 59,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

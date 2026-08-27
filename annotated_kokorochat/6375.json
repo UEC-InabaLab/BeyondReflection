@@ -1,0 +1,906 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-04T09:52:26",
+      "utterance": "（おはようございます。本日はよろしくお願いします。クライエントの設定はお任せします。評価は厳しめでお願いします。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T09:52:59",
+      "utterance": "(おはようございます。宜しくお願い致します。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:00:08",
+      "utterance": "こんにちは、相談員です。相談にお越しいただきありがとうございます。ここでは安心してどんなことでもお話しください。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:00:29",
+      "utterance": "おはようございます。ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:00:29",
+      "utterance": "はじめに年齢、性別、相談内容を教えてください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:00:55",
+      "utterance": "54歳、女性です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:01:20",
+      "utterance": "今の仕事を続けるか悩んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:01:46",
+      "utterance": "教えていただきありがとうございます。お仕事のことでご相談ですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:01:54",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:01:58",
+      "utterance": "どのようなことがあったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:02:49",
+      "utterance": "パートで働いています",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:03:20",
+      "utterance": "差別されていて、働きたく無いです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:03:58",
+      "utterance": "そうなのですね、そのようなことがあると続けるか悩まれてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:04:05",
+      "utterance": "お辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:04:14",
+      "utterance": "いつ頃からなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:04:47",
+      "utterance": "そうですね、上司が変わってからです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:05:18",
+      "utterance": "差別は上司からなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:05:31",
+      "utterance": "そうです",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:06:20",
+      "utterance": "上司から差別されるのは、働きにくいですし、嫌になってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:06:33",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:06:36",
+      "utterance": "上司が変わられたのはどれくらい前なのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:07:10",
+      "utterance": "去年の4月からです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:07:52",
+      "utterance": "そうなのですね、そのような状況の中でずっとお仕事されてきたのですね。しんどかったですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:08:05",
+      "utterance": "お仕事内容はお好きなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:08:26",
+      "utterance": "はい、仕事自体は好きです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:09:14",
+      "utterance": "仕事はお好きなのですね。それで、ここまでやってこられたという感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:09:25",
+      "utterance": "そうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:10:26",
+      "utterance": "なので、辞めたくはないのですが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:10:30",
+      "utterance": "お仕事がお好きなのに、上司から差別で続けるかどうするかというのは悩んでしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:10:42",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:10:53",
+      "utterance": "そうですよね。ちなみに、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:10:54",
+      "utterance": "メンタルが辛くて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:11:34",
+      "utterance": "どのような差別を受けているのでしょうか？（お話できる範囲で構いません。）",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:13:06",
+      "utterance": "そうですねパートというだけで、尊重されていないというか、見下されるような事を言われたり、そんな態度があります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:14:21",
+      "utterance": "働いているのは同じなのに、雇用形態が違うことで見下してくるような感じなのですね。相談者さんは、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:15:32",
+      "utterance": "お仕事がお好きで働いていらっしゃるのに、そのような態度を取られてしまうのは悲しくなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:15:58",
+      "utterance": "悲しいですし、腹も立ちます",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:16:41",
+      "utterance": "そうですよね。そのような扱いをされては悲しいし、腹が立つのも当然です。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:16:56",
+      "utterance": "ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:17:26",
+      "utterance": "相談者さんのお仕事に対する思いがとても伝わって来ます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:17:50",
+      "utterance": "ちなみに、上司は他のパートの方にも同じような態度なのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:19:01",
+      "utterance": "同じ部署には私だけです。辞めても次の仕事が見つかるかわからないけど、このままいるのも辛いし、悩みます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:19:45",
+      "utterance": "どうしたらいいんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:20:09",
+      "utterance": "教えていただきありがとうございます。相談者さんだけなのですね。辞めて次の事を考えると不安にもなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:20:30",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:20:32",
+      "utterance": "一旦ここまでのお話を整理させていただいてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:20:37",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:20:51",
+      "utterance": "ありがとうございます。少しお待ちください。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:23:20",
+      "utterance": "仕事を続けるかどうするかというご相談でお越しいただきました。去年の四月に上司が代わり、パートというだけで見下すような態度をとって悲しいし腹立たしく仕事を辞めようかと悩んでいらっしゃる。ただ、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:24:55",
+      "utterance": "仕事自体は好きだし、もし辞めて次の仕事となっても見つかるかどうか不安になってしまいどうしたらいいかわかない状況でお間違いないでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:25:15",
+      "utterance": "はい、そうです",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:26:23",
+      "utterance": "ご確認ありがとうございます。今の仕事に行き続ける事も辛いし、辞めて次と考えても不安になってしまうと身動きが取れないような感じですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:26:38",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:27:40",
+      "utterance": "今はどちらが正解か、どちらを選んだら解放されるかわからず苦しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:28:02",
+      "utterance": "ちなみに相談者さんはご家族構成はいかがですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:28:03",
+      "utterance": "そうなんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:28:20",
+      "utterance": "夫と子どもがふたりいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:28:32",
+      "utterance": "大学生です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:29:03",
+      "utterance": "4人暮らしで大学生のお子さんがいらっしゃるのですね。確認ですが、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:29:46",
+      "utterance": "相談者さんは今後も働いていくのは前提という事でお間違いないでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:30:15",
+      "utterance": "そうです。経済的に働かないといけないので。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:30:54",
+      "utterance": "大学生のお子さんがいらっしゃるとお金が必要になってきますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:31:25",
+      "utterance": "それもそうですが、老後の蓄えもないので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:32:15",
+      "utterance": "教育資金が終わっても夫婦2人の老後がありますものね。相談者さんは家族のためにもお仕事頑張ってこられたのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:32:25",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:32:37",
+      "utterance": "今のお仕事はどのくらい続けてこられたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:33:13",
+      "utterance": "今の仕事になって15年位です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:34:12",
+      "utterance": "長い間続けてこられたのですね。それが今上司との関係性で悩まれていらっしゃる。それだけ長く続けてこられたのですから、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:34:39",
+      "utterance": "そう簡単に辞めるという選択肢も取れないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:35:04",
+      "utterance": "そうなんです。前の上司はいい人でした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:35:44",
+      "utterance": "そうなのですね。前の上司と比べてしまうと余計辛くなってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:36:04",
+      "utterance": "それもありますし、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:36:29",
+      "utterance": "今の上司より、私の方が長く働いているので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:36:55",
+      "utterance": "見下されるのに我慢できなくで",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:37:33",
+      "utterance": "相談者さんの方が勤務年数長いのですね。それなのにそうのような態度では、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:38:05",
+      "utterance": "今の上司には、私が仕事内容を教えたようなものですし、腹が立ちます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:38:33",
+      "utterance": "仕事のことはわかってる、頑張っているのは雇用形態関係なしにみんな一緒、と腹が立ちますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:38:43",
+      "utterance": "社員というだけでそんなに偉いのですかね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:38:58",
+      "utterance": "そのようなお気持ちになられるのはごもっともだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:39:14",
+      "utterance": "そうですね、そのように感じてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:39:23",
+      "utterance": "ちなみに、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:40:00",
+      "utterance": "同じ部署の人とのご関係とか、相談ができるとかいかがでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:40:28",
+      "utterance": "ほぼ同じ仕事内で、しかも安く働いている上に、見下されてはやり切れません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:40:48",
+      "utterance": "他の人とは仲良くしています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:41:06",
+      "utterance": "愚痴は聞いてくれますが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:41:23",
+      "utterance": "相談してもどうしようもない感じです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:42:24",
+      "utterance": "やり切れなく感じてしまいますよね。愚痴は聞いてくれるけど相談しても、、という感じなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:42:32",
+      "utterance": "夫さんはいかがでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:43:14",
+      "utterance": "夫にも話しています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:43:34",
+      "utterance": "夫は簡単に辞めればと言いますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:44:05",
+      "utterance": "次の仕事とかについて真剣には考えていないと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:44:23",
+      "utterance": "家計のこともあまり気にしていませんし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:44:50",
+      "utterance": "口だけなので、相談しても当てになりません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:45:07",
+      "utterance": "簡単にやめればと言われるのですね。長年続けてこられたし、仕事に対するプライドもある中、そんな簡単には辞められないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:45:19",
+      "utterance": "そうなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:46:20",
+      "utterance": "今のようにやり甲斐のある仕事が見つかるかもわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:47:00",
+      "utterance": "そうですね。やるがいのある仕事を見つけることもなかなか難しいものです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:47:30",
+      "utterance": "時給も最低賃金より少し高いので、条件としては手放し難いです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:47:42",
+      "utterance": "その中で相談者さんは仕事にやりがいを感じ続けてこられたんですものね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:47:57",
+      "utterance": "金銭面的にも魅力があるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:48:19",
+      "utterance": "でも、毎朝通勤する時気が重いです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:48:44",
+      "utterance": "どうしたらいいのでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:49:14",
+      "utterance": "そうですね、考えると気が重くもなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:49:21",
+      "utterance": "ここまで、",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:49:21",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:49:51",
+      "utterance": "どの様に考えれば耐えるのでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:50:37",
+      "utterance": "上司の差別的な態度のこと、そして仕事に対するプライドややりがい、金銭面のことをお話しいただきました。その中でどのように考えれば",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:50:54",
+      "utterance": "耐えられるかという事を思っていらっしゃるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:51:11",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:51:36",
+      "utterance": "耐えるという事は、今のお仕事を続けていく中でという事でお間違いないですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:52:12",
+      "utterance": "う〜ん迷っています",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:53:37",
+      "utterance": "そうですよね、相談者さん自身の人生、生活、日々の気持ちが関わってくるので迷われるのも当然です。それだけ相談者さんご自身の人生を大切にされているという事ですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:53:58",
+      "utterance": "そうですかね？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:54:42",
+      "utterance": "はい、私はそうだと思います。これまでの人生の中でもたくさん迷われて選択をしてこられたと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:55:03",
+      "utterance": "そうかもしれません",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:55:55",
+      "utterance": "その渦中にいるときはとてもしんどく辛いと思いますが、今までたくさんの経験をされ、お仕事に対してのやりがいも持っていらっしゃる相談者さんなら",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:56:50",
+      "utterance": "きっとあなたらしい、正解になる選択をできると思います。それまでいろんな気持ちをここでお話していくながら、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:57:18",
+      "utterance": "人生の選択のお手伝いができたらなと思うのですがいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:57:55",
+      "utterance": "手伝ってもらえると心強いです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T10:58:52",
+      "utterance": "はい、ぜひお手伝いさせてください。そして、相談者さんがこの選択で良かったと思えるように一緒に考えていきましょう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T10:59:12",
+      "utterance": "はい、ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:00:05",
+      "utterance": "こちらこそありがとうございます。大切なお話なので、また次回ゆっくりお話しができたらと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T11:00:17",
+      "utterance": "分かりました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:00:48",
+      "utterance": "今日は色々な気持ちが出てきて疲れたかもしれません。この後は暖かくしてお過ごしください。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T11:01:05",
+      "utterance": "はい、ありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:01:46",
+      "utterance": "この相談窓口は毎日開設しているのでまたいつでもお越しください。本日は大切なお気持ちを話していただきありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:02:15",
+      "utterance": "（ありがとうございました。終了メッセージ送っても大丈夫でしょうか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-04T11:02:51",
+      "utterance": "(ありがとうございました。終了メッセージお願いします)",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-04T11:03:13",
+      "utterance": "それでは終了メッセージを送らせていただきます。ありがとうございました。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司からの差別的態度による悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6375,
+    "評価作成日時": "2024-02-04T11:31:00",
+    "クライアント役ID": 179,
+    "カウンセラー役ID": 385,
+    "点数": 78,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6375,
+    "evaluation_created_at": "2024-02-04T11:31:00",
+    "client_id": 179,
+    "counselor_id": 385,
+    "score": 78,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

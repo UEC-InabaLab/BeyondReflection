@@ -1,0 +1,587 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-06T09:52:19",
+      "utterance": "おはようございます。今日はどうぞ宜しくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T09:54:06",
+      "utterance": "おはようございます。こちらの方こそ、よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T09:54:16",
+      "utterance": "時間前ですが、どういたしましょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T09:57:16",
+      "utterance": "こちらは大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T09:58:36",
+      "utterance": "はい、それでは、初めさせて頂きますので、宜しくお願い致します。今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T09:59:32",
+      "utterance": "お金がないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:00:22",
+      "utterance": "はい、お金の相談ですね。すみません、年代と性別教えて頂けますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:00:52",
+      "utterance": "１０代女子です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:01:36",
+      "utterance": "１８歳",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:02:01",
+      "utterance": "はい、ありがとうございます。お金がないと言うことですが、もう少し詳しく教えて頂けますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:02:12",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:03:34",
+      "utterance": "友達に誕プレ買いたいけど貯金が少なくなってしまって､、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:03:43",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:04:53",
+      "utterance": "もらってるから返したいんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:05:12",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:05:26",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:06:24",
+      "utterance": "誕生日プレ頂いているから、今度は、あげたいのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:06:46",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:07:44",
+      "utterance": "貯金が少ないなか、友達にと思う貴女は、とっても優しい方なんですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:08:41",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:09:17",
+      "utterance": "これから一緒に考えて行きましょう。わからないところは、少し質問させて頂きますが宜しいでしょうか",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:09:40",
+      "utterance": "よろしくお願いします",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:10:09",
+      "utterance": "アルバイトもできないし",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:10:48",
+      "utterance": "どうしようか悩んでます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:11:02",
+      "utterance": "1はい、宜しくお願い致しますね。18才とのことですが、今は学生さんですか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:11:20",
+      "utterance": "高校生です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:11:56",
+      "utterance": "３年",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:12:04",
+      "utterance": "高校生ですね。バイトもできないですものね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:12:42",
+      "utterance": "以前はしていたのですが、受験で今は休んでます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:13:32",
+      "utterance": "はい、そうなんですね。毎月のおこずかいは、どのように頂いていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:14:36",
+      "utterance": "バイトを始めてから親からのおこづかいはいらないって言ったのでもらってないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:15:08",
+      "utterance": "でも、ほしいって言えばくれます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:16:30",
+      "utterance": "そうなんですね。それは、しっかりさろていますね。ご両親もしっかりされているので、安心されていますね。今は、受験で頑張って居るんですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:18:47",
+      "utterance": "前は美容師志望だったので専門学校に行くつもりだったんですが、去年くらいから看護師になりたくて大学に進路変更したので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:19:12",
+      "utterance": "これからお金かかると思ったら甘えられなくて",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:20:26",
+      "utterance": "うんうん、そうなんですね。夢があって楽しみですね。友達に上げたい品は、どんなものを考えていたのですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:22:15",
+      "utterance": "靴下をくるくるして飴ちゃん🍭みたいにしたのを５個くらい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:23:08",
+      "utterance": "ラッピングしてあげたいなって思ってます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:23:39",
+      "utterance": "それは、可愛ですね。すごい発そうですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:24:13",
+      "utterance": "私も、欲しくなりました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:24:28",
+      "utterance": "自分で作って喜んでもらえるの好きなんです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:24:54",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:25:42",
+      "utterance": "美容しにと、思っていたくらいなので。とても、手先が器用なんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:27:19",
+      "utterance": "自分がやりたいことやってるので",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:27:39",
+      "utterance": "でもそう言ってもらえてうれしいです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:27:56",
+      "utterance": "はい、今までのお話をまとめて見ても宜しいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:28:12",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:29:48",
+      "utterance": "高校3年生で、友達に誕生日プレゼントしたいが、お金がないので、手作りの品と考えている、でよろしいですか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:30:43",
+      "utterance": "靴下を買いたいのですが",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:30:52",
+      "utterance": "ラッピングも",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:31:34",
+      "utterance": "うんうん、なるほど、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:31:37",
+      "utterance": "親になかなか言い出せない",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:34:42",
+      "utterance": "提案ですが、おやから、事情を話して、どうしても。大切な友達に上げたいのでと一ど聞いてみてはいかがでしょうか？高価なものではら、なくて。くつしたと、ラッピングなんだけどと、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:35:49",
+      "utterance": "きっと、日頃から、してかりされている貴女なので、わかってくれるとおもいますが、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:36:32",
+      "utterance": "タイピングミスです。しっかりです。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:37:25",
+      "utterance": "お母さんからもらったら、お母さんが誕プレ買った感じになってなんかモヤモヤするんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:39:09",
+      "utterance": "そうなんですね。あとは、おこずかい、前借りとか？も、ダメかな",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:39:52",
+      "utterance": "たぶん前借りとかじゃなくてもくれると思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:40:14",
+      "utterance": "それは、良かったです",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:40:46",
+      "utterance": "ただもらうのは、、、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:41:28",
+      "utterance": "貴女だったら、どんな考えが有りますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:42:10",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:43:35",
+      "utterance": "勉強忙しいけど手伝いしよっかな",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:44:02",
+      "utterance": "それは、ぐっとアイデアですね。それだったら、プレゼント出来そうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:45:41",
+      "utterance": "お父さんにもやってるアピールしたら結構もらえるかも",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:45:51",
+      "utterance": "あー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:46:17",
+      "utterance": "勉強は？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:46:26",
+      "utterance": "ってしかられるかも",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:46:32",
+      "utterance": "友達も、貴女の努力が、通じて、どんな高価なものより、いとしょうたいせつにしつくれますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:46:55",
+      "utterance": "一生です",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:47:29",
+      "utterance": "頑張りやのあなたなら、、勉強も大丈夫です",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:49:45",
+      "utterance": "勉強も、一段と、目標を持って頑張ってください。私も、プレゼントもらってとても。よろこぶ、友達のすがたが、見たいです",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:50:48",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:51:27",
+      "utterance": "きっと、貴女なら、大丈夫‼️",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:52:03",
+      "utterance": "そうですかありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:52:54",
+      "utterance": "あとは、大丈夫ですか？そろそろお時間が来てしまいましたが",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:53:07",
+      "utterance": "大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:54:17",
+      "utterance": "はい、今日はきてくださって、ありがとうございました。これで、終了させて頂きます。合掌",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:54:45",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "お金がないという悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 657,
+    "評価作成日時": "2020-11-06T11:26:00",
+    "クライアント役ID": 87,
+    "カウンセラー役ID": 56,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 657,
+    "evaluation_created_at": "2020-11-06T11:26:00",
+    "client_id": 87,
+    "counselor_id": 56,
+    "score": 58,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

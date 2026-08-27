@@ -1,0 +1,849 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:30:33",
+      "utterance": "こんばんは相談員です。よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:30:50",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:31:04",
+      "utterance": "最初に年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:31:36",
+      "utterance": "13才　女です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:31:48",
+      "utterance": "お返事ありがとう。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:32:00",
+      "utterance": "学年も教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:32:11",
+      "utterance": "中学1年です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:32:21",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:32:42",
+      "utterance": "今日はどんな相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:33:02",
+      "utterance": "部活に行きたくないんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:33:36",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:33:56",
+      "utterance": "何か嫌なことがありそうですね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:34:19",
+      "utterance": "はい・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:34:25",
+      "utterance": "話やすいことから話してみていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:34:40",
+      "utterance": "居場所がないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:34:53",
+      "utterance": "そうなんですね・・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:35:42",
+      "utterance": "どんなことが起こっているのでしょう・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:36:54",
+      "utterance": "小学校の時仲良かった子は他の子と仲良くなって私は一緒にいる子がいないです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:37:16",
+      "utterance": "それは悲しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:37:29",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:37:38",
+      "utterance": "それで居場所がないって感じてしまうんですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:37:45",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:38:11",
+      "utterance": "居場所がないって感じただけで、とっても辛くなってきてしまいますよね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:39:19",
+      "utterance": "はい、部活に行きたくありません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:39:36",
+      "utterance": "今はそんな気持ちなんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:39:47",
+      "utterance": "ちなみに何部ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:40:23",
+      "utterance": "吹奏楽部です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:40:38",
+      "utterance": "どうすればいいのでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:41:19",
+      "utterance": "そこをご一緒に考えたいと思っていますよ・・・",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:41:53",
+      "utterance": "吹奏楽部で楽器は何を担当しているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:42:04",
+      "utterance": "ユーホニアムです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:42:31",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:43:42",
+      "utterance": "ステキな楽器ですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:43:53",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:44:49",
+      "utterance": "ユーホニアムのパートを担当している子は他にもいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:45:00",
+      "utterance": "先輩ではいます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:45:34",
+      "utterance": "先ほどの小学校から仲良くしていた子はどんな楽器を担当しているの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:45:48",
+      "utterance": "トランペット",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:46:10",
+      "utterance": "違う楽器の担当なんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:46:44",
+      "utterance": "だからトランペットの子と凄く仲がいい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:47:09",
+      "utterance": "先ほど話してくれた、小学校から仲良くしていた子が他の子と仲良くなってしまったという、その子もやっぱりトランペットを担当なのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:47:33",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:47:46",
+      "utterance": "そうだんたんだ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:48:07",
+      "utterance": "おなじ楽器同士で仲良くなってしまったんだ・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:48:37",
+      "utterance": "はい、、、だから私は一人",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:49:02",
+      "utterance": "そう感じてしまうのも無理ないな・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:49:47",
+      "utterance": "ユーホニアムをやっているのは先輩とあなたと2人だけ？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:50:02",
+      "utterance": "先輩2人いる",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:50:27",
+      "utterance": "じゃあ3人でユーホニアムを担当しているんだ。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:50:46",
+      "utterance": "先輩たちはどんな人？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:51:13",
+      "utterance": "先輩は一人はあんまり話さない人でもう一人はよくさぼる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:51:39",
+      "utterance": "そうなんだ・・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:52:15",
+      "utterance": "あなたは今年中学に入ってからユーホニアムを始めたの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:52:23",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:52:53",
+      "utterance": "ユーホニアムを始めてみて、どんな感じ？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:53:04",
+      "utterance": "本当は陸上と悩んだけど、イケてる先輩が勧誘してきたから、小学校の時に仲良かった子と相談して一緒に入った",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:53:34",
+      "utterance": "そうだったんだね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:53:43",
+      "utterance": "うーん、、よく分からない本当はトランペットが良かった",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:53:57",
+      "utterance": "間違えたトロンボーン",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:54:33",
+      "utterance": "トロンボーンが希望だったんだ。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:54:58",
+      "utterance": "トロンボーンのどんなところが気にいっていたの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:55:22",
+      "utterance": "かっこいいから　あとその勧誘してた先輩がやってたから",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:55:46",
+      "utterance": "イケてる先輩ね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:56:38",
+      "utterance": "その先輩はトロンボーンを吹くのはうまい？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:56:53",
+      "utterance": "もう来てないから分からない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:56:57",
+      "utterance": "幽霊部員",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:57:09",
+      "utterance": "え、そうなんだ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:57:32",
+      "utterance": "あなたを誘ったのに、幽霊部員だったんだ・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:57:44",
+      "utterance": "入った後なった",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:57:59",
+      "utterance": "そうだったんだね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T19:58:23",
+      "utterance": "せっかくイケてる先輩がいるからと思って入ったのに、がっかりだね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:58:59",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:59:19",
+      "utterance": "居場所がない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T19:59:35",
+      "utterance": "つまんない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:01:01",
+      "utterance": "ユーホニアムやってる先輩はあまり話しない人みたいだけど、演奏については教えてくれるの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:02:30",
+      "utterance": "うーんあんまり、、たまに教えてくれる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:04:23",
+      "utterance": "そうなんだね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:04:38",
+      "utterance": "練習は自分でするの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:05:33",
+      "utterance": "本見ながら",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:05:49",
+      "utterance": "そうなんだ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:05:59",
+      "utterance": "ユーホニアムを吹くようになって、自分では少しずつ吹けるようになってきたなという感じとかは？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:06:32",
+      "utterance": "ふけるようには前よりなってきた",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:07:00",
+      "utterance": "少しずつ上達しているってことだね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:10:28",
+      "utterance": "でもおなじ楽器の先輩はあまり話してくれないし、一人ぼっち・・・という気持ちになってしまうのかな・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:11:27",
+      "utterance": "はい・・",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:11:41",
+      "utterance": "そうだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:12:07",
+      "utterance": "誰かに、そんな気持ち相談できそうな人いないかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:12:30",
+      "utterance": "いない",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:12:43",
+      "utterance": "そうなんだ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:13:08",
+      "utterance": "顧問の先生とかは？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:13:19",
+      "utterance": "あまり話さない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:13:31",
+      "utterance": "そうなんだね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:14:23",
+      "utterance": "もしかして、トロンボーンのパートに移れたら楽しそうかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:14:52",
+      "utterance": "分からない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:15:03",
+      "utterance": "居場所がないのは変わらない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:15:36",
+      "utterance": "そうか・・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:16:10",
+      "utterance": "じぶんでは、どうなるといいとおもっているのかな・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:17:33",
+      "utterance": "仲良かった子が冷たいのが悲しい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:17:54",
+      "utterance": "そうだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:18:30",
+      "utterance": "その子と元の様に仲良くなりたいんだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:19:30",
+      "utterance": "どうしたら、仲良くなれるかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:19:44",
+      "utterance": "どうせ私は陰キャラだから嫌になったんだよ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:20:29",
+      "utterance": "どんなことからそう思うの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:21:06",
+      "utterance": "その子はイケイケな子といつも一緒にいるようになったから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:21:24",
+      "utterance": "そうなんだ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:21:52",
+      "utterance": "その子はちょっと目立つ子に目が行くみたいね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:22:44",
+      "utterance": "一つ作戦があるんだけれど、話してもいいかな？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:22:59",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:24:23",
+      "utterance": "あなたがユーホニアムをうまく吹けるようになって、あなたがイケイケになったらいいと思う。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:24:32",
+      "utterance": "どう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:24:42",
+      "utterance": "ちょっと意味が分からない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:25:55",
+      "utterance": "あなたがうまく演奏するようになったら、その子はあなたに注目してくるんと思うんだけど。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:26:45",
+      "utterance": "私はそう思わない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:26:56",
+      "utterance": "そうなんだ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:27:12",
+      "utterance": "あなたの考えを教えてくれる？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:34:52",
+      "utterance": "部活の顧問の先生と相談してみて、やってみたい楽器の所に変えてもらうというのもありかもしれないよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:36:07",
+      "utterance": "あるいは、親御さんにいちど部活のこと済段してみると何か方法が見つかるかもしれないよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:36:38",
+      "utterance": "ざっくばらんに相談してみることをお勧めしますね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:37:02",
+      "utterance": "今日の所は、この辺でよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:38:35",
+      "utterance": "終了で大丈夫です。お疲れ様でした。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-04T20:38:59",
+      "utterance": "お疲れさまでした。今日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-04T20:39:20",
+      "utterance": "ありがとうございました。お疲れさまでした。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "部活におけるコミュニケーションの悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2294,
+    "評価作成日時": "2021-08-04T20:50:00",
+    "クライアント役ID": 207,
+    "カウンセラー役ID": 5,
+    "点数": 11,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 2,
+    "要約": 0,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2294,
+    "evaluation_created_at": "2021-08-04T20:50:00",
+    "client_id": 207,
+    "counselor_id": 5,
+    "score": 11,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

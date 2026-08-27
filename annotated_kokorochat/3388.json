@@ -1,0 +1,538 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:23:47",
+      "utterance": "（おはようございます。本日はよろしくお願いします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:24:43",
+      "utterance": "(よろしくお願いします。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:25:01",
+      "utterance": "（時間になったら、始めさせていただきます(^_^)）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:25:16",
+      "utterance": "(はい。お願いします。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:30:21",
+      "utterance": "ご相談ありがとうございます。始めに、年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:30:44",
+      "utterance": "35歳女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:31:17",
+      "utterance": "ありがとうございます。本日は、どのようなご相談ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:31:30",
+      "utterance": "会社に行きたくありません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:32:24",
+      "utterance": "もう、朝も起きられなくて。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:32:58",
+      "utterance": "つらい。消えたい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:33:04",
+      "utterance": "そうなのですね、何かあったのですか？もう少し詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:34:09",
+      "utterance": "ずっと死にたいと思ってます",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:34:32",
+      "utterance": "死にたいと思っているのですね、いつ頃からですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:34:52",
+      "utterance": "小学生の頃からずっとです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:35:11",
+      "utterance": "小学生の頃からずっと死にたい、消えたいと思ってこられたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:35:23",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:35:56",
+      "utterance": "そのような中、会社勤めまでされて来られてきたのですね。頑張ってこられましたね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:36:57",
+      "utterance": "はい、でも私は仕事もできる方じゃないし",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:37:06",
+      "utterance": "はい（聞いています）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:37:45",
+      "utterance": "どのような時に、死にたい、消えたいと思うのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:38:28",
+      "utterance": "朝つらくて休んでしまったりしています。死にたいのは常に感じています。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:38:42",
+      "utterance": "生きている価値がないんじゃないかと。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:39:51",
+      "utterance": "そうなのですね。よく今日相談してくれましたね。ありがとうございます。このような気持ちを周囲に相談できる方はいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:40:07",
+      "utterance": "いません",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:42:11",
+      "utterance": "そうなのですね。どんな時に、死にたい、消えたいと思うのか、教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:43:31",
+      "utterance": "いつもです。妹と比べられ、母にはいつも否定されてきました。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:44:32",
+      "utterance": "それは辛かったですね。どんな否定をされて来られたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:45:40",
+      "utterance": "おまえは変わっているから結婚もできないだろうとか、仕事しても続かないんじゃないかとか。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:46:59",
+      "utterance": "小学生時代から、お母様から、ずっとそのような言葉を言われ続けたら、とても辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:47:17",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:47:21",
+      "utterance": "お母様は、どうして「変わっている」と言うのでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:47:41",
+      "utterance": "わかりません。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:49:15",
+      "utterance": "相談者様は、今、お仕事されているのですよね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:49:36",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:49:53",
+      "utterance": "休みがちなので辞めたいです",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:51:39",
+      "utterance": "休みがちだと仕事へ行きにくくなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:51:51",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:52:26",
+      "utterance": "上司にも注意されて、でも笑ってごまかしてしまいます",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:53:30",
+      "utterance": "そうなのですね、傷つくことや周囲の雰囲気をみて、笑ってごまかすことありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:53:55",
+      "utterance": "今の仕事は、どのようなお仕事ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:54:05",
+      "utterance": "事務職です",
+      "distress_level": 3,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:54:26",
+      "utterance": "事務職なのですね、コロナの影響は大丈夫ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:55:15",
+      "utterance": "在宅になったりしましたが、今は出勤しなくてはならなくて。在宅の方がよかったかも。",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:56:46",
+      "utterance": "いろんな環境の変化に対応してこられたのですね。相談者様は、会社を事務職として支えておられるのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:57:19",
+      "utterance": "言われたことをやるだけです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:59:08",
+      "utterance": "出勤して、指示された仕事をこなし、注意されながらも仕事を続けるなんてスゴいです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T10:59:35",
+      "utterance": "ここで、一度、整理させていただいてもよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T10:59:49",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:02:31",
+      "utterance": "相談者様は、最近、朝起きることが出来ず仕事を休みがちで辞めたい。在宅から出勤へと変わった。また、小学生の頃からずっと死にたいと思ってきた。妹と比較されて母から否定されてきた。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:02:44",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:03:29",
+      "utterance": "今回のこの時間で、一つだけゴール設定してみませんか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:03:55",
+      "utterance": "ゴールですか？",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:04:30",
+      "utterance": "はい、二つ提案させていただきますね、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:07:41",
+      "utterance": "一つは、朝起きれるような工夫がないか考えてみること二つ目は、お母様から否定されてこられましたが、そのお母様の価値観から離れ、３５歳の相談者様の魅力探しです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:08:37",
+      "utterance": "ちょっと無理です",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:09:02",
+      "utterance": "ありがとうございました。失礼します",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:09:56",
+      "utterance": "せっかく考えて頂いたのにすみません。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:10:32",
+      "utterance": "こちらこそ、お役に立てずにすみませんでした。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:11:09",
+      "utterance": "いいえ",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:11:30",
+      "utterance": "本日のご相談をありがとうございました。別の時間では、別の相談員が対応することもできます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:12:30",
+      "utterance": "わかりました",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:13:34",
+      "utterance": "その場合も、今日のお話を確認してから相談に乗ることができますので、ご安心くださいね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:13:52",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:15:54",
+      "utterance": "それでは終了させていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:16:01",
+      "utterance": "いろいろ聞いてもらってありがとうございました。",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:16:18",
+      "utterance": "（すみませんでした。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:16:38",
+      "utterance": "(いえいえ！お疲れさまでした。)",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:17:01",
+      "utterance": "（要約とアプローチを、どうして欲しかったとかありませんか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:18:58",
+      "utterance": "(評価のレポートでお伝えします。一つ言うなら、ラポールがないままに、承認は入らないかもですね)",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:20:00",
+      "utterance": "（了解しました。評価レポートよろしくお願いします！ありがとうございました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-18T11:20:33",
+      "utterance": "(ありがとうございました！お互いがんばりましょう！)",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-18T11:20:58",
+      "utterance": "（はい！！！とても勉強になりました。ありがとうございました。では、ロールプレイを終了させていただきます。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己評価の低さと母親からの否定による影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3388,
+    "評価作成日時": "2022-04-18T12:35:00",
+    "クライアント役ID": 26,
+    "カウンセラー役ID": 240,
+    "点数": 26,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3388,
+    "evaluation_created_at": "2022-04-18T12:35:00",
+    "client_id": 26,
+    "counselor_id": 240,
+    "score": 26,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

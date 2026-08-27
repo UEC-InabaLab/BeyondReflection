@@ -1,0 +1,496 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-27T09:52:28",
+      "utterance": "おはようございます。今日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T09:55:42",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T09:56:04",
+      "utterance": "時間になりましたら始めさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:00:09",
+      "utterance": "こんにちは、相談員です。本日はどうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:00:22",
+      "utterance": "よろしければ、まず初めにご年齢と性別をお知らせいただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:00:59",
+      "utterance": "宜しくお願い致します。年齢は23歳　男性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:01:29",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:02:15",
+      "utterance": "仕事でやる気が出ないんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:02:41",
+      "utterance": "そうなのですね…",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:03:05",
+      "utterance": "いつぐらいからお感じになっているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:03:34",
+      "utterance": "大体3か月前くらいからです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:04:41",
+      "utterance": "そうですか、、、３か月も、、、朝起きるのも気が重いのではないでしょうか…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:05:14",
+      "utterance": "そうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:05:39",
+      "utterance": "ええ、、それはお辛いですよね…。なにか、きっかけなど思い当たることはあるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:06:31",
+      "utterance": "正直あんまり思い出せないんですよね···",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:07:19",
+      "utterance": "そうなのですね…。それではなおさら、どうしたら良いのかわからなくて辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:08:38",
+      "utterance": "お仕事でやる気がでない、ということですが、就業後やお休みの日はどんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:09:46",
+      "utterance": "仕事終わりはあんまりかわらないですけど休みは特に感じることはないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:10:36",
+      "utterance": "では、お休みはきちんと休息されているのですね。少し安心しました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:11:25",
+      "utterance": "では、本日のご相談は、どうしたらやる気がだせるかということを考えたいということでよろしいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:11:37",
+      "utterance": "違ったら遠慮なく言ってくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:12:08",
+      "utterance": "大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:12:59",
+      "utterance": "では、一緒に考えさせていただきたいと思います。もう少し状況について質問させていただいても良いですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:14:08",
+      "utterance": "大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:14:43",
+      "utterance": "ありがとうございます。今のお仕事にはいつ頃から就かれたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:15:47",
+      "utterance": "約二年ちょっと前くらいです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:16:44",
+      "utterance": "そうなのですね。初めの頃は仕事についてはどのように感じていらっしゃいましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:19:54",
+      "utterance": "そうですねやらなきゃいけないことが多かったので大変でしたけどやりがいはありましたね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:21:43",
+      "utterance": "そうなのですね、、、今もそのやりがいをお感じですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:22:16",
+      "utterance": "今は正直あまりやりがいがないです・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:23:05",
+      "utterance": "そうなのですね…。それは、やはりやることが多くて大変という方が勝っている感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:24:27",
+      "utterance": "いや、逆の感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:25:17",
+      "utterance": "やることがなくなってきてやりがいを感じないんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:26:18",
+      "utterance": "そうなのですか！…やることがなくなってきている、、というのはどういった理由か、少し詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:29:37",
+      "utterance": "最初のころは研修みたいな感じでいろいろ勉強しないと行けなかったんですけど今はそれがなくなっててやることが減っているんですよね・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:30:32",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:32:11",
+      "utterance": "では、研修のように新しいことを学ぶことが減って、実務のみになってやりがいをかんじられていない、、、というような状況でしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:33:21",
+      "utterance": "そんな感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:34:53",
+      "utterance": "そうなのですね…。やりがいを感じられないというのは仕事に行く気力もなくなってしまいそうですね…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:36:25",
+      "utterance": "職場の人間関係はどうでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:37:44",
+      "utterance": "人間関係はいいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:38:12",
+      "utterance": "そうなのですね。このことをどなたかに相談はされましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:40:47",
+      "utterance": "相談はしたことないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:43:22",
+      "utterance": "そうなのですね、、、お一人で抱えてこられて、苦しかったですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:45:09",
+      "utterance": "職場の方に相談されないのは、何か理由はありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:46:03",
+      "utterance": "あまり職場の人に「やる気が出ない」って相談したくないんですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:46:26",
+      "utterance": "ええ、、それはどうしてでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:49:13",
+      "utterance": "相談してもあまりいい返答が来ないと思いますし同じ職場で働いてて「やる気が出ない」ってそうだんされるのもあんまりいいもんじゃないと思うので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:50:05",
+      "utterance": "そのようにお考えなのですね。周りの方を気遣っておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:53:10",
+      "utterance": "「やる気がでない」と悩んでいるのは「やる気を持ちたい」「もっとやりたい」ということだと思いますので、「もっとやりがいを持って仕事をしたいと思っている」というように、上司や先輩に相談するのは悪くはないと思いますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:53:58",
+      "utterance": "なるほど···確かにそういわれると少しいいも知れないですね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:55:25",
+      "utterance": "はい、お話しを伺っていて、相談者様はとても真面目で学びやお仕事を一生懸命やりたいと思われている、とても前向きな方だと感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T10:57:11",
+      "utterance": "前向きなんですかね・・・？",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T10:59:07",
+      "utterance": "はい、そう感じました。研修で大変だったときのほうがやりがいがあったとおしゃっていましたし、やりがいを感じないことで悩まれているということは、もっとやりたい、充実させたいという気持ちと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:01:19",
+      "utterance": "ご自身でやりがいを感じていないことに罪悪感があるようにも感じましたが、いかがでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T11:01:48",
+      "utterance": "確かにそうかもしれません。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:03:24",
+      "utterance": "ええ、周りにとても気遣われたり、そのように罪悪感を持たれていることで、本来の前向きさがよりも「やる気がでない」ということがクローズアップされているように感じます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:06:40",
+      "utterance": "仕事をしていく上で、モチベーションが下がるときというのはどうしても出てきてしまいます。反対に、またこれまで以上にモチベーションが上がるときというのも必ずあると思います。もっとやりがいを持ちたい、もっとやる気を持ってやりたい、という気持ちはとても素晴しいと思いますので、まずは先輩や上司の方にそのお気持ちを相談されてみてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T11:07:04",
+      "utterance": "そうですね。少し相談してみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:07:24",
+      "utterance": "はい、ぜひそうしてみてください。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:08:19",
+      "utterance": "終了のお時間となってしまいましたが、この続きのお話しを、また別の相談員でもすることができます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:09:26",
+      "utterance": "よろしければ、また続きのお話しをしにいらしてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-27T11:09:55",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:09:59",
+      "utterance": "本日はご相談にいらしてくださりありがとうござじました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:10:13",
+      "utterance": "ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:10:30",
+      "utterance": "（最後に失礼しました。お疲れ様でした。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-27T11:13:56",
+      "utterance": "（終了いたします。ありがとうございました。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "やる気が出ない問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3744,
+    "評価作成日時": "2022-07-31T18:38:00",
+    "クライアント役ID": 276,
+    "カウンセラー役ID": 283,
+    "点数": 82,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3744,
+    "evaluation_created_at": "2022-07-31T18:38:00",
+    "client_id": 276,
+    "counselor_id": 283,
+    "score": 82,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

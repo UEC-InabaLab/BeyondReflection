@@ -1,0 +1,518 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-12-01T14:50:54",
+      "utterance": "（こんにちは。お時間になりましたら、よろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T14:51:14",
+      "utterance": "（こちらこそ、よろしくお願いします）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:00:19",
+      "utterance": "はじめまして、相談員です。ご相談に来てくださってありがとうございます。よろしければ、ご年齢と性別をお聞かせください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:00:56",
+      "utterance": "こんにちは、よろしくお願いします。３５才　女性　です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:01:05",
+      "utterance": "今日はどのようなご相談でしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:01:34",
+      "utterance": "最近、一杯考えることあって疲れました。しんどいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:03:06",
+      "utterance": "そうなんですね。考えることが多く、しんどく感じられていらっしゃるのですね。それはつらいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:03:21",
+      "utterance": "はい、辛いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:04:25",
+      "utterance": "どのようなことをお考えになられていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:06:26",
+      "utterance": "一杯あるのですが、一番の悩みはいま一緒に住んでる彼がいるのですが、結婚する気がなくて・・・私は子供が欲しいし、年齢的にもそろそろ限界かなとか・・・どうしよって考えてます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:07:31",
+      "utterance": "一番悩まれているのは娘さんのことなのですね。それは、ご心配かと思います。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:08:19",
+      "utterance": "娘さんとは、ご結婚のことで話はされていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:08:33",
+      "utterance": "いいえ、私自身のことですよ。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:09:11",
+      "utterance": "失礼しました。ご自身のご結婚のことですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:10:28",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:10:45",
+      "utterance": "今、お付き合いされている方がいらっしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:11:32",
+      "utterance": "さっきも言いましたが・・・・一緒に住んでる彼がいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:12:42",
+      "utterance": "大変すみません。一緒に住まれている方との結婚について悩まれているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:13:01",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:13:42",
+      "utterance": "彼氏さんとは、結婚の話をされていらっしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:14:30",
+      "utterance": "はい、でも結婚する気はないと言ってます。一生独身でいたいそうです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:16:14",
+      "utterance": "なるほど。そうなのですね。彼氏さんからそのように言われて、どのようなお気持ちになられましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:16:54",
+      "utterance": "私は子供がほしいのでショックでした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:18:10",
+      "utterance": "ご年齢のことも言われていらっしゃったので、そのようなお気持ちになられるのも、もっともだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:18:50",
+      "utterance": "はい。本当にがっかりです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:20:11",
+      "utterance": "そうですよね。そのお気持ちを彼氏さんにはお伝えになられましたか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:21:15",
+      "utterance": "はい、伝えてます。今の彼は５０才なのですが、若い彼を作って結婚すればとか言われました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:23:10",
+      "utterance": "そのようなことを言われたのですね、ショックを受けられたかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:23:41",
+      "utterance": "はい、とても残念でした。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:25:58",
+      "utterance": "そうですよね。ご結婚の意思をお伝えになられても、なかなか気持ちが伝わらないとお辛いですね。普段のお二人の関係はいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:26:47",
+      "utterance": "普通に仲良しです。普通のカップルと同じです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:30:11",
+      "utterance": "そうなのですね。普段は仲良くされてるけれど、結婚の意思はないのですね。いつから結婚の話はされていたのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:30:59",
+      "utterance": "半年くらい前からだと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:32:04",
+      "utterance": "そうなのですね。半年くらい前から、パートナーさんのお気持ちに変化はないのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:34:37",
+      "utterance": "なさそうです・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:35:12",
+      "utterance": "間もなく３６才なっちゃうし、、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:35:58",
+      "utterance": "でも、結婚して子供も欲しいんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:36:21",
+      "utterance": "そうですよね。あなたは結婚してお子さんを持ちたいと思われている。パートナーさんは一生独身でいたいと思っている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:37:12",
+      "utterance": "そのように思いますが、お二人の未来について、あなたは今どう感じていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:37:37",
+      "utterance": "未来は感じられません・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:38:34",
+      "utterance": "お辛いかなとは思いますがそのように感じられてるのは自然なことかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:39:01",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:40:24",
+      "utterance": "これから、あなたの描かれている未来に向かっていくために、できることを一緒に考えていければと思いますが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:40:37",
+      "utterance": "お願いします。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:42:23",
+      "utterance": "はい。こちらこそ、よろしくお願いいたします。あなたの中で、何かできそうなことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:42:45",
+      "utterance": "わかりません、どうしたらいいか・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:43:10",
+      "utterance": "たとえば、新しい出会いについてはどう思われていますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:44:40",
+      "utterance": "それも考えなきゃいけないと思いますが、今の彼って居心地が良くて、新しい彼氏を見つけること、戸惑います・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:45:44",
+      "utterance": "そのお気持ち、とてもよく分かります。新しいことや変化は、誰にとっても戸惑いを感じるものですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:46:24",
+      "utterance": "いろんなこと、すごく一杯悩んでるんです・・・",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:48:26",
+      "utterance": "そうなのですね。たくさん悩まれているのですね。そのような中、日々の生活を送りながら、少し変化することも考えていらっしゃるように感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:48:57",
+      "utterance": "どうでしょうか・・・分かりません。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:51:11",
+      "utterance": "ご結婚やお子さんのことについて、一番悩まれているとお話をして頂きました。パートナーさんとの間には、なかなか難しさがあると感じられている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:51:37",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:53:13",
+      "utterance": "あなたの中で、変化が必要かなという思いもあって悩まれていらっしゃるようにも感じましたが、いかがでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:53:50",
+      "utterance": "どうしたらいいか、分からないのです・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:54:47",
+      "utterance": "ご自身ではどうしたらいいかわからないお気持ちなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:55:17",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:55:39",
+      "utterance": "一番は結婚して子供が欲しいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:56:04",
+      "utterance": "そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:56:24",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:58:03",
+      "utterance": "今のパートナーさんに、今のお気持ちを話していかれてみながら、新しい出会いにもアンテナをはってみてはと思いましたが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:58:48",
+      "utterance": "気持がついていきません。そんな簡単には考えられません・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:59:10",
+      "utterance": "そろそる外出の時間なので、また相談に来ますね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:59:24",
+      "utterance": "今のパートナーさんが大事なのですね。はい、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T15:59:25",
+      "utterance": "次回、続きの相談をお願いします。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T15:59:39",
+      "utterance": "こちらこそよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-01T16:00:17",
+      "utterance": "（ありがとうございました。勉強させていただきました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-01T16:00:35",
+      "utterance": "（ありがとうございました。勉強になりました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "結婚に対する価値観の相違"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4292,
+    "評価作成日時": "2022-12-01T16:12:00",
+    "クライアント役ID": 31,
+    "カウンセラー役ID": 300,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4292,
+    "evaluation_created_at": "2022-12-01T16:12:00",
+    "client_id": 31,
+    "counselor_id": 300,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

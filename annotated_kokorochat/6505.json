@@ -1,0 +1,440 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-27T12:50:41",
+      "utterance": "（お世話になります。本日はよろしくお願い致します。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T12:54:27",
+      "utterance": "（よろしくお願いします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T12:54:40",
+      "utterance": "（相談役に何かリクエストはありますか？）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T12:55:34",
+      "utterance": "（よろしければ中高生のクライエントでお願い致します。）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T12:55:47",
+      "utterance": "（分かりました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T12:56:09",
+      "utterance": "（ありがとうございます。お時間になりましたら、始めさせていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T12:56:20",
+      "utterance": "（はい、よろしくお願いします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:00:07",
+      "utterance": "こんにちは。相談員です。ご相談にいらしてくださり、ありがとうございます。はじめに、年齢と性別を教えてください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:00:38",
+      "utterance": "こんにちは。14歳女子です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:00:51",
+      "utterance": "ありがとうございます。今日のご相談は、どんなことですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:01:16",
+      "utterance": "学校に行きたくありません。どうしたらいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:01:53",
+      "utterance": "教えてくださりありがとうございます。そのようなことでお悩みなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:03:18",
+      "utterance": "今は何年生ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:03:27",
+      "utterance": "中2です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:04:43",
+      "utterance": "そうなのですね。教えて下さりありがとうございます。いつ頃からそう思うようになりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:06:34",
+      "utterance": "いつから、、中学入ってから学校つまんないって思って、中2になってくらいから、ほんとに行きたくなくなりました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:08:38",
+      "utterance": "そうだったのですね。つまんないと感じる中、入学してから今まで頑張って通われてきたのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:09:11",
+      "utterance": "やっぱ学校行かないとダメですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:11:08",
+      "utterance": "無理して行かなくても大丈夫だと思いますよ。あなたはどう考えていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:11:53",
+      "utterance": "そっか、行かなくてもいいんですね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:12:10",
+      "utterance": "行かなきゃダメだと思ってました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:13:42",
+      "utterance": "そう思われていたのですね。学校って行かなきゃいけないって思ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:14:02",
+      "utterance": "学校ではどういうところがつまらないと感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:14:15",
+      "utterance": "はい、みんな行ってるし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:15:15",
+      "utterance": "授業もつまんないし、友達と話してても、なんか合わない感じがして、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:15:40",
+      "utterance": "息が詰まりそう",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:16:56",
+      "utterance": "そう感じていらっしゃるのですね。息が詰まるような環境ですと楽しくないですし、勉強も身が入りませんよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:17:36",
+      "utterance": "勉強自体は嫌いじゃないんですけど、授業はつまんないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:19:29",
+      "utterance": "そうだったのですね。勉強は嫌いじゃないのですね。嫌いじゃない分、授業がつまらないと楽しくないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:19:50",
+      "utterance": "学校に行きたくないと感じるのは自然なことだと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:20:15",
+      "utterance": "そうなんですか？みんな行ってるし、私が変だと思ってました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:20:39",
+      "utterance": "中学校って辞めれるんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:21:15",
+      "utterance": "そんなことないですよ。つまらないや楽しくないと感じるのは自然なことですし、大切な気持ちですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:25:53",
+      "utterance": "中学校は辞めれると思いますよ。辞められた場合、今後どのように考えていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:26:44",
+      "utterance": "分かんないです。辞めれると思ってなかったから、考えたことなかったです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:30:02",
+      "utterance": "そうですよね。急に言われても困ってしましますよね。申し訳ありません。ちなみに高校に通いたいとは思っていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:32:16",
+      "utterance": "そうですね、、行きたい気もするけど、中学と同じ感じだったらイヤです、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:32:48",
+      "utterance": "中学やめたら、高校もいけなくなるのかな？？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:36:17",
+      "utterance": "そう感じていらっしゃるのですね。一度つまらないと感じたら、そういう風に思ってしまいますよね。中学校を辞めても、高校には入学できますよ。ただ選択肢は狭まってしまいます。行きたい高校がある場合は中学校を卒業された方がいいかと思いますがいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:37:35",
+      "utterance": "そうなんですね。やっぱり行っておいた方がいいですよね、、。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:40:17",
+      "utterance": "そのように感じるのですね。例えばですが、他の中学校に転校するという方法もあると思いますがいかがですが？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:41:56",
+      "utterance": "今の学校は公立なので、学区で決まってます。転校するなら私立ってことですか？お金的に厳しいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:46:05",
+      "utterance": "そうなのですね。金銭的な問題は難しいですよね。通信制の学校などもありますがいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:46:39",
+      "utterance": "それはお金かからないんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:51:10",
+      "utterance": "公立の通信制の学校もあるかと思います。学校にもよると思いますが、今通われている学校と金額の差はあまりないかと思いますがいかがですか？",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:51:44",
+      "utterance": "そうなんですね。調べてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:54:19",
+      "utterance": "是非調べてみてくださいね。あなたにとって少しでも楽しいと思える環境になればいいなと思っております。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:54:50",
+      "utterance": "申し訳ありませんが、もう少しで終了のお時間となってしまいます。今日お話ししてみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:56:02",
+      "utterance": "中学校は辞めれると思ってなかったので、辞めれると聞いて驚きました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:56:34",
+      "utterance": "他の学校のこととか、ちょっと調べてみようと思います。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T13:56:42",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T13:59:39",
+      "utterance": "そう思ってしまいますよね。今日お話ししてみて、自分と向き合い、今や将来についてしっかり考えることができる、真面目な方だと感じました。是非他の学校、いろんな選択肢を考えてみてくださいね。改めてあなたが少しでも楽しく過ごせるように心から応援しております。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T14:00:30",
+      "utterance": "またなにか気になることがありましたら是非相談にいらしてくださいね。またお手伝いをさせていただきたいと思っております。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T14:00:58",
+      "utterance": "それではお時間になりましたので、本日は終了とさせていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T14:01:09",
+      "utterance": "はい、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-27T14:01:55",
+      "utterance": "（お疲れ様でした。とても勉強となる時間でした。ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-27T14:02:21",
+      "utterance": "（お疲れ様でした。こちらこそありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない原因"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6505,
+    "評価作成日時": "2024-02-27T14:34:00",
+    "クライアント役ID": 469,
+    "カウンセラー役ID": 445,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6505,
+    "evaluation_created_at": "2024-02-27T14:34:00",
+    "client_id": 469,
+    "counselor_id": 445,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

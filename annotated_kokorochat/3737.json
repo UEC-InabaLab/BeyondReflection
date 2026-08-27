@@ -1,0 +1,594 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-28T19:52:49",
+      "utterance": "こんばんは今日は、相談者役をありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T19:53:02",
+      "utterance": "こんばんはよろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T19:53:23",
+      "utterance": "お時間になりましたら始めさせていただきますね。どうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T19:53:37",
+      "utterance": "了解ですお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:00:24",
+      "utterance": "こんばんは、相談員です。本日はどうぞよろしくお願いいたします。よろしければ、まず初めにご年齢と性別をお知らせいただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:00:53",
+      "utterance": "こんばんはよろしくお願いします４８才　女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:01:18",
+      "utterance": "本日はどのようなご相談ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:02:08",
+      "utterance": "はいご近所さんとかの物音などが気になって不快感があるんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:02:58",
+      "utterance": "そうなのですね、、、それはストレスも溜まりそうですね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:03:19",
+      "utterance": "いつ頃から気になられているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:04:18",
+      "utterance": "そうなんですいろいろと敏感タイプで、不快な物音などストレスが積み重なっていて…新築一戸建てで引っ越してきて、１８年なんですが…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:05:25",
+      "utterance": "そうなのですね…それは本当にお辛いですね…引っ越された当初から悩まれているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:07:17",
+      "utterance": "最初は、「まぁいろいろあるな…」くらいだったんですが、長年の積み重ねで、意外にストレスたまってるなと最近気付きました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:08:54",
+      "utterance": "そうなのですね…ちょっとしたことでも長い間我慢されていたとなると、とても苦しくなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:09:37",
+      "utterance": "そうなんです自覚してなかっただけに、たまるんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:11:28",
+      "utterance": "ええ、そうですよね…本当にお辛いですよね…例えば、どんな音に不快感を感じられているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:13:45",
+      "utterance": "はいうちの南側のおうちがですね…若い主婦の方が幼児二人に頻繁に怒鳴ってるのが聞こえてきて…しばらくすると、離婚で引っ越したら、次に…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:14:09",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:14:30",
+      "utterance": "きた家族の年配のご主人が、咳やらタンを吐くとか朝の",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:15:13",
+      "utterance": "６時半くらいに毎朝３０分気持ち悪い音が…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:15:39",
+      "utterance": "毎朝　毎朝聞こえてきて気の毒なんですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:15:50",
+      "utterance": "本当に不快なんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:16:16",
+      "utterance": "ええ…そうなんですね！それは…不快に思われて当然と感じます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:16:51",
+      "utterance": "うちの東西南北四方からいろいろな騒音があるんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:17:12",
+      "utterance": "南側のお家だけじゃないのですね…。「ちょっとしたこと」でもないように感じますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:18:03",
+      "utterance": "そうなんです時間帯様々でいろいろな騒音があって、いつの間にかストレスです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:18:36",
+      "utterance": "ええ、それはお悩みにもなりますよね。体調はいかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:19:42",
+      "utterance": "はい元々、私には持病のような体調不調があり、騒音のストレスも原因の１つかもです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:21:09",
+      "utterance": "そうなのですね…それでは本当に長い間苦しかったですね…最近、それらの音がストレスだったと気づかれた、とおしゃってましたが、気づいたきっかけはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:22:59",
+      "utterance": "長年の間に騒音が増えてきて…西側のおうちが頻繁にうちの隣すぐで、バーベキューをするんですが…ある日、深夜１１時まで大騒ぎしてたんです庭で。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:23:31",
+      "utterance": "えっ！それは…",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:24:36",
+      "utterance": "煙やにおいだけでなく、深夜まで、、、苦情など伝えたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:26:41",
+      "utterance": "うるさいな…って思ってたら、南側の早朝咳でうるさいおじさんが、バーベキューメンバー　分譲地4軒の夫婦達　に「いい加減にしろ」って怒鳴って、深夜だけはなくなったんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:27:51",
+      "utterance": "そうなのですね。確かに他の近隣の方にも迷惑ですからね。深夜だけはなくなったということは、バーベキューはまだされているのですね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:29:28",
+      "utterance": "私は、同じ年代だけに、言うと後が怖いので言えません…かなりのバーベキュー好きなので、その家族だけでのバーベキューも頻繁で、匂いがきつくて洗濯物に匂いうつってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:29:57",
+      "utterance": "ええ、昼間であったとしても、隣の庭でのバーベキューは困りますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:30:24",
+      "utterance": "そうなんです住宅地で隣接してますからね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:31:07",
+      "utterance": "それに、近隣の方に苦情を言うのをためらわれるのもごもっともだと思います。それらをずっと我慢されてきたのですね…！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:31:34",
+      "utterance": "相談者さまは同居のご家族はいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:33:09",
+      "utterance": "はい、主人と今は高校生の息子ひとりと同居で。その四家族は、息子より年上で、何か言うといじめられるかもしれません。今は、もう高校生なので大丈夫ですが…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:33:48",
+      "utterance": "↑四家族には、2〜3人　子供がいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:34:34",
+      "utterance": "なるほど…お子さま同士の付き合いなども考えて我慢されてきたのですね。お子さまをとても大切に育てられているのが伝わります。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:35:04",
+      "utterance": "それらの騒音などについて、ご家族とは相談されましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:35:18",
+      "utterance": "ありがとうございます。通学班や子供会で付き合いがありますから…",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:35:48",
+      "utterance": "あと北側も問題が…",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:36:24",
+      "utterance": "ええ、そうなのですね。どんなことでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:37:04",
+      "utterance": "主人も不快に思っているようですが、何かするタイプではないんです北側はですね…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:37:20",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:38:27",
+      "utterance": "毎日昼頃、そこのおうちの車が、１時間近く、アイドリング　エンジンかけっぱなしで、ガソリンの匂いが、洗面所に入ってくるんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:39:02",
+      "utterance": "そうなのですか。それもとても不快ですね…！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:40:12",
+      "utterance": "そうなんです帰宅してエンジンかけてエアコンかけて、幼児を車で昼寝させたり、ビデオみせたりして、そこのお母さんは、うちの中で家事してるんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:40:43",
+      "utterance": "では、そのこともやめてくださいというようなことは言わず、我慢されているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:41:51",
+      "utterance": "さらに夏は頻繁に庭で音楽かけて、プールで水遊びさせて…それらもなかなか言えず…",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:42:43",
+      "utterance": "そうなのですね…体調が悪くなられるのも無理はないのではないかと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:43:18",
+      "utterance": "では、本日のご相談は、これらの騒音に対して何かできることはないかを考えるということでよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:43:39",
+      "utterance": "違ったら遠慮なく言ってくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:43:40",
+      "utterance": "そうなんですいつのまにかかなり音に敏感になってました東側の畑の草刈機の音も気になるようになってきて…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:44:17",
+      "utterance": "ええ、気になりだすと、どんどん気になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:44:49",
+      "utterance": "考えていたただけてうれしいですでもどうしようもないですよね…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:45:55",
+      "utterance": "そうですね…けれど、バーベキューや車のアイドリングなどについては、ひとつできることはあるのではないかなと思いました。お伝えしても良いでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:46:06",
+      "utterance": "はいお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:47:10",
+      "utterance": "一度、自治体に相談されてみてはいかがかなと思いました。騒音などの苦情を取り扱う部署がありますので、誰から、とはわからないように、対応をしてくださると思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:48:28",
+      "utterance": "かといって、それで止めてくださるかどうかはわかりませんが、あまり迷惑かけていると意識せずにされている方もいますので、気が付くことで辞めてくださる場合もあります。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:48:54",
+      "utterance": "そうですね…バーベキューのことは、うち以外にも関わりがあるおうちがあるので良いのですが、アイドリングは、うちだけの被害なので…しかもそこの主婦の方、あとがけっこう怖そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:49:46",
+      "utterance": "市役所に電話すればいいのでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:50:04",
+      "utterance": "そうなのですね。それも含めて、注意していただくかどうかはよく相談されるといいと思います。他の口実でお話しすることなどもできるかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:50:54",
+      "utterance": "ええ、お住いの地域の自治体の代表電話で、近所の騒音などの相談と伝えれば、担当につなげてくださると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:51:57",
+      "utterance": "そうなんですね！アイドリングは子供さんたちが大きくなったらおさまるとは思うので、しばらくまた様子みて考えてみますね！ありがとうございます!",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:53:32",
+      "utterance": "そうなのですね。状況を冷静に判断していらっしゃるのですね！そのように、今しばらくの期間のことだろうと考えられるは、素晴らしいと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:55:22",
+      "utterance": "ありがとうございます！そういえば、実家（子供時代）でも隣接の町工場の騒音が相当うるさかったので、音にはずっと悩まされてます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:57:00",
+      "utterance": "そうですか…。子供時代からのこともあって、音に敏感になられているのでしょうか…。他にも自治体に相談してもどうもできないこともあるかと思いますが、まずは音がストレスだと気が付かれたことは大きな一歩ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T20:57:57",
+      "utterance": "そうですね！今日は、お話聴いていただけてよかったです！今まで誰にも言ってなかったので…",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T20:59:13",
+      "utterance": "そうですか。そう言っていただけて嬉しいです。相談者さまはとても我慢強いのですね。ストレスの原因がわかったことで、ご自身で不快な音を遮るためにできる対策もあるかもしれないと思うのですが、いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T21:00:18",
+      "utterance": "そうですね一時的に窓を閉めたりしてますので…後は、音楽かけたりしてみます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T21:01:26",
+      "utterance": "それはいいですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T21:01:55",
+      "utterance": "はい、今日は本当にありがとうございました！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T21:02:12",
+      "utterance": "では、お時間となってしまったのですが、また、別の相談員でもこの続きの話をすることができます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T21:02:35",
+      "utterance": "はい、またお願いするかもです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T21:03:07",
+      "utterance": "ええ、もしよろしければ、また、その後のことでもお話にいらしてください。本日は相談にいらしてくださりありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-28T21:03:27",
+      "utterance": "ありがとうございました。（お疲れ様でした）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-28T21:03:44",
+      "utterance": "（お疲れ様でした。忌憚ない評価のほどよろしくお願いいたします。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "近隣住民の騒音によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3737,
+    "評価作成日時": "2022-07-28T21:14:00",
+    "クライアント役ID": 287,
+    "カウンセラー役ID": 283,
+    "点数": 97,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3737,
+    "evaluation_created_at": "2022-07-28T21:14:00",
+    "client_id": 287,
+    "counselor_id": 283,
+    "score": 97,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

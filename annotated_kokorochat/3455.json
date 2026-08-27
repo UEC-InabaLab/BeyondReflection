@@ -1,0 +1,649 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:51:58",
+      "utterance": "（こんにちは。本日は相談者役よろしくお願いいたします。時間になりましたら始めさせていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T17:54:51",
+      "utterance": "こんにちは、こちらこそどうぞよろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:00:28",
+      "utterance": "こんにちは。相談員です。本日はお越しいただきありがとうございます。はじめに年齢、性別を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:01:15",
+      "utterance": "はい、よろしくお願いします。30代、女性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:01:41",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:03:13",
+      "utterance": "現在はテレワーク中心なのですが、出社日が増えると聞いて憂うつな気持ちです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:04:06",
+      "utterance": "ご相談ありがとうございます。そのようなお気持ちでお悩みなのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:05:24",
+      "utterance": "憂鬱な気持ちということですが、どのように憂鬱か具体的に教えていたでけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:05:45",
+      "utterance": "はい、しばらく通勤電車に乗っていなかったので、あの混雑具合を考えると憂うつになります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:06:16",
+      "utterance": "ええ満員電車、嫌になりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:07:02",
+      "utterance": "朝のラッシュ時とか、、嫌な思いをたくさんしたので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:07:57",
+      "utterance": "そうなのですねどのようなことがあったのかお答えできる範囲で教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:09:27",
+      "utterance": "知り合いでも何でもない人に突き飛ばされたり",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:09:44",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:10:04",
+      "utterance": "汚い言葉で八つ当たりみたいなことされたり",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:11:01",
+      "utterance": "ぎゅうぎゅうづめだからぶつかったりとかはありましたが、わざとではないし、、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:11:25",
+      "utterance": "なるほどですねそれはお辛い気持ちになりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:12:08",
+      "utterance": "満員電車はかなりのストレスになると思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:12:45",
+      "utterance": "身長も大きい方ではないので、とくにターゲットにされやすいのかなーとも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:13:27",
+      "utterance": "ええ、そのように思われるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:14:09",
+      "utterance": "通勤の時以外では何かストレスになるようなことはございますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:15:05",
+      "utterance": "そうですね、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:15:52",
+      "utterance": "もしかしたら、こんな思いを毎朝してまで通勤する意味あるのかな、とか思っているのかも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:17:03",
+      "utterance": "ええ毎朝そのように通勤されていてお辛い気持ちかと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:17:37",
+      "utterance": "あと、通勤電車に限らないですけど、公共の場でルールを無視する人が苦手かもしれません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:18:47",
+      "utterance": "なるほどですねそういった方をよく見かけてしまうということですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:19:25",
+      "utterance": "そうかもしれません、苦手だから余計目につくのかも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:20:28",
+      "utterance": "ええそういったことがあったのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:21:10",
+      "utterance": "今の会社に通勤するようになったのは、いつ頃からでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:21:50",
+      "utterance": "6年になります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:22:11",
+      "utterance": "在宅が長く続いて、そんなストレスがなかったので、思い出して憂うつが強まったのかも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:23:07",
+      "utterance": "ええ長い間、通勤で大変な思いをされておられたのですね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:23:48",
+      "utterance": "ストレスを感じるのも無理のないことかと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:24:21",
+      "utterance": "ストレスを感じにくくするにはどうしたらいいですか",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:25:35",
+      "utterance": "はいあなたがストレスを少しでも無くせるようにこれから一緒に考えていきましょうね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:26:34",
+      "utterance": "具体的な方法とかありますか",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:27:17",
+      "utterance": "そうですね一度、話をまとめますね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:27:43",
+      "utterance": "お願いします",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:29:10",
+      "utterance": "これから通勤が始まって、大変辛い思いをまたして通勤しないといけない中で、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:30:15",
+      "utterance": "それを考えると今から憂鬱になってしまい、いま、お辛い気持ちである",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:30:53",
+      "utterance": "そのストレスを軽減されたいということでよろしかったでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:31:49",
+      "utterance": "そうですね、なるべくストレスなく、嫌な思いをせずに通勤できたらいいです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:32:44",
+      "utterance": "ありがとうございます。あなたのお役にに少しでもなれればと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:33:27",
+      "utterance": "テレワークをされている期間はどのぐらいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:33:49",
+      "utterance": "2年以上です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:34:32",
+      "utterance": "人混みも苦手意識があります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:34:51",
+      "utterance": "ええそうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:35:39",
+      "utterance": "ではその前の４年間は普通に通勤されていたのしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:36:15",
+      "utterance": "はい、ほぼ毎日嫌な思いをして通勤していました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:36:42",
+      "utterance": "それはお辛かったですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:37:28",
+      "utterance": "その時は大変な中、どのような思いがあって電車に乗っていましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:37:32",
+      "utterance": "テレワークでそのストレスから解放されてから、またあの日々が、、、と思うと前より苦手になっている気がします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:38:07",
+      "utterance": "どのような思い、、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:39:03",
+      "utterance": "２年間乗っていないと余計に嫌になりますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:39:04",
+      "utterance": "それは、どんなふうに我慢して乗っていたかというような質問ですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:41:08",
+      "utterance": "分かりづらくてすみません、、その大変な満員電車に我慢されていたと思いますが、どうして４年も頑張ってこられたのかな？感じたので",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:41:22",
+      "utterance": "と感じたので",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:41:57",
+      "utterance": "説明ありがとうございます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:42:42",
+      "utterance": "特になにも考えていなかったと思います仕事に行かなければ、、、というおもいだけですかね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:43:36",
+      "utterance": "そのように思っておられていたのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:43:37",
+      "utterance": "とにかく電車から降りて駅を出たらやっと呼吸ができるような感じでした",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:43:47",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:44:29",
+      "utterance": "いまのお仕事はこれからも続けていきたいとお思いですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:45:32",
+      "utterance": "正直わかりませんコロナ禍で色々考えることもできたし、嫌な思いをしてまで通勤しなくてもいいのかなーとも思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:46:05",
+      "utterance": "ええそのようにお考えなのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:46:48",
+      "utterance": "でもすぐには行動できないので、、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:47:30",
+      "utterance": "ストレスを感じにくくする具体的な方法があれば知りたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:48:20",
+      "utterance": "ええ今、睡眠はちゃんと取ることはできていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:49:02",
+      "utterance": "そういえば、あまり眠れていないです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:50:20",
+      "utterance": "そうなのですね睡眠は体や脳を休めるのに一番大事なことです、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:51:53",
+      "utterance": "出来るだけ良い睡眠を取っていただきたいのですが、時間はありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:53:35",
+      "utterance": "そうですね、いまはありますが、寝付きは悪いです通勤が始まったら睡眠時間確保は難しい気がします",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:54:52",
+      "utterance": "なるほどですねでは、いまは出来るだけ良く眠るというのを意識されるのがいいかもしれません",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:55:22",
+      "utterance": "良い睡眠を取るとストレスも緩和されますので",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:55:56",
+      "utterance": "具体的な方法を知りたいのですが、、、",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:57:27",
+      "utterance": "はい寝る前に軽くストレッチをしてみてくださいあとスマホなんかはあまり見ないほうがいいですね",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:58:17",
+      "utterance": "あとは湯船にゆっくり浸かってリラックスさせるのも寝つきが良くなると言われています",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:58:41",
+      "utterance": "スマホは見ちゃいますね、見ないように意識してみます",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T18:59:05",
+      "utterance": "そうですね、お風呂に浸かる時間が最近なかったと思います",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T18:59:51",
+      "utterance": "ええ眠れるようになるとまた気持ちが変わってくると思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T19:00:22",
+      "utterance": "そろそろお時間になりますが、少しでもお役に立てたでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T19:00:30",
+      "utterance": "ありがとうございますストレッチもできる時はやってみようかなと思います",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T19:01:16",
+      "utterance": "どうもありがとうございました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T19:01:54",
+      "utterance": "ぜひ、やってみてくださいね満員電車は正直とてもストレスになるものなので無理をなさらないで下さい",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T19:02:13",
+      "utterance": "あなたのお身体が一番大切です",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T19:02:31",
+      "utterance": "はい、やってみます聞いていただきありがとうございました",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T19:03:18",
+      "utterance": "こちらこそ大切なお話ありがとうございました。またいつでもご相談にきてくださいね",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T19:03:58",
+      "utterance": "では本日は終了させていただきますありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T19:04:10",
+      "utterance": "ありがとうございました",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T19:04:56",
+      "utterance": "（相談者役ありがとうございました。お時間あるときに評価、コメントいただければと思います）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "通勤時のストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3455,
+    "評価作成日時": "2022-05-08T20:03:00",
+    "クライアント役ID": 288,
+    "カウンセラー役ID": 280,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3455,
+    "evaluation_created_at": "2022-05-08T20:03:00",
+    "client_id": 288,
+    "counselor_id": 280,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

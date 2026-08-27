@@ -1,0 +1,799 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-15T10:57:13",
+      "utterance": "こんにちは。相談員です。今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T10:58:58",
+      "utterance": "こんにちは。今日は、掃除がなかなかはかどらなくて、はかどるようになりたいと思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:00:14",
+      "utterance": "そうなんですね。思うようにはかどらないのですね…どんな状況なのか、詳しくお話しいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:01:38",
+      "utterance": "はい、そうですね。つい違う用事に気をとられて、後回しにしてしまう感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:02:25",
+      "utterance": "後回しに…そうでしたか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:02:32",
+      "utterance": "落ち着きがないといいますか。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:02:41",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:03:00",
+      "utterance": "そうなんです。後回し気味です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:04:20",
+      "utterance": "ご自身でも、落ち着きがないと思われるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:05:04",
+      "utterance": "そうですね。色々やりたいことが目についてしまうといいますか。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:05:26",
+      "utterance": "ええ　(どうぞ続けてくださいね)",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:07:02",
+      "utterance": "明日しようーって流れてしまいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:07:41",
+      "utterance": "そうなんですね・・・。ついそうなってしまうのですね…",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:08:21",
+      "utterance": "お差し支えなかったら、あなたのご年齢と性別、今日なんとお呼びしたらよいかお聞かせいただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:09:28",
+      "utterance": "37歳、女性です。ミキでお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:10:16",
+      "utterance": "ミキさんですね。つい流してしまうことって、ありますよね…",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:10:28",
+      "utterance": "因みに、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:11:16",
+      "utterance": "お掃除については、特にどんな場面で、流されてしまうのでしょうか？　例えば、お仕事のうえ、または、ご家庭の中とか・・？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:14:23",
+      "utterance": "趣味とか、家で仕事の勉強しとかなきゃとか、が多い気がします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:15:09",
+      "utterance": "そうなんですね。たくさんやることがあるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:15:38",
+      "utterance": "流されてしまうと、なんだかやり残したことが、気になってしまいますよね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:16:23",
+      "utterance": "そうですね。やり残した感があります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:17:10",
+      "utterance": "それから、流されてしまって、結局、どんな感じになってしまうのでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:19:52",
+      "utterance": "その日はやらなかったり、ふとした時に、やっぱりそろそろやろうと思って、掃除道具を手にしてはじめる感じです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:21:15",
+      "utterance": "そうなんですね。やっぱり、お掃除になかなか向き合えないと感じるのですね…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:23:15",
+      "utterance": "私にも、よくあります…。いつまでも向き合えないのは、自分でもしんどくなってしまいますよね…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:23:51",
+      "utterance": "ちなみに、キキさんは、このようなことにお悩みになるのは、いつ頃から感じておられるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:25:54",
+      "utterance": "そうですね。。。忙しくなってからが特にのような気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:26:40",
+      "utterance": "そうだったんですね。いつ頃からどんなことが忙しくなったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:28:37",
+      "utterance": "4，5年くらい前から、仕事が忙しくなってからくらいです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:29:51",
+      "utterance": "そんなに長い間、引っかかっておられたのですね…　やりくりも大変だったでしょうに…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:29:59",
+      "utterance": "あ、後は家の中を日頃からきれいに保っていたいと思うようになってからかもです。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:30:08",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:30:59",
+      "utterance": "そうなんですね。お仕事しながら家をきれいに保つのは、簡単なことではありませんよね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:31:03",
+      "utterance": "ひっかかってはいましたが、たいしたことじゃないのかなと。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:31:14",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:32:42",
+      "utterance": "そうですね。それに掃除を始めるとつい色々したくなってしまうのでそれもあるかもしれません。時間あるときにって。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:34:03",
+      "utterance": "掃除を始めることで、色々目についてしまうのですね。その時が、時間があると気なのだとも、気が付かれるのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:34:49",
+      "utterance": "ミキさんは、とてもいろんなことに気が付いておられるのですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:36:10",
+      "utterance": "因みに",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:36:18",
+      "utterance": "はい、時間があるときにって。やりはじめると夜中とかでながながやってしまうので。そうですね。気になってしまいますね。いつも何か考えているような気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:36:37",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:37:06",
+      "utterance": "そうだったんですね。夜中まで？！",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:38:50",
+      "utterance": "そういう時は、仕事かえってきてからとかなので。変なタイミングでスイッチがはいってしまって。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:40:25",
+      "utterance": "そうでしたか・・・つい夢中になってしまうのですね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:41:15",
+      "utterance": "そうですね。思えば掃除に限らずでしたが。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:41:58",
+      "utterance": "そうなんですね、他にはどんな時に感じていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:44:14",
+      "utterance": "そうですね。勉強とかは特にそうかも。夢中になってたらって多いかもです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:46:01",
+      "utterance": "掃除にしても始めたら長くなりがちな気がします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:46:02",
+      "utterance": "ええ、ええ。夢中になっている時は、どんなことが頭に浮かんでいるのでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:47:00",
+      "utterance": "そうですね。あれもやりたいこれもやりたいって出てくる感じです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:49:15",
+      "utterance": "それで、結局、夢中になって、色々やって、やりたかったことは、片付く感じなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:49:41",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:50:10",
+      "utterance": "一通りは掃除して、落ち着く感じです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:50:56",
+      "utterance": "そっか・・・。結局、遅くはなるけれども、それで、落ち着く感じにななるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:52:34",
+      "utterance": "わたしが気にしすぎなのかもしれません。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:53:37",
+      "utterance": "私は、、もっとキキさんが、気持が軽くなってもらえたらいいと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:53:58",
+      "utterance": "一緒に考えていきたいと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:54:01",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:54:21",
+      "utterance": "私もそう思います。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:54:27",
+      "utterance": "今までお話を伺って、私が思ったことをお話させてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:54:34",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T11:54:40",
+      "utterance": "お願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:55:07",
+      "utterance": "はい。　　こちらこそ。もしかして、キキさんの中では、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:55:50",
+      "utterance": "やりたいと思ったことが、”時間があるな、”と思った時、そのテンションで、スイッチが入れば、そのまま最後まで終わしてしまいたい。っていう気持ちが強くなって、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:58:13",
+      "utterance": "結果、最後までできてはいるんだけれど、どうしても、お掃除が後回しになってしまう気がして、心に残ることで、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:58:28",
+      "utterance": "疲れを感じてしまっているのではないかと思うのですが…。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T11:58:44",
+      "utterance": "ご自身ではどのように思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:02:29",
+      "utterance": "そのことが楽になったらいいな、と思ったのですがになったらいいな、と思ったのですが・・・お話しにくい状況でしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:02:48",
+      "utterance": "そうですね。掃除は時間に余裕のある時にっておもってしまうので、後回しになって心に残ってる感に疲れを感じていると思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:03:28",
+      "utterance": "はい、そのことが、楽になったらいいなと思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:04:47",
+      "utterance": "行違ってしまて、すみません。ずっと気になっていること、軽くなっていただけたらと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:04:59",
+      "utterance": "そもそも、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:06:17",
+      "utterance": "人は、できている事よりも、できなかった、やり残した”　　と思うことに、囚われてしまうもの。なんですね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:06:57",
+      "utterance": "これは、人間の脳の仕組みで、私なんかももちろん、感じること、多いです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:07:48",
+      "utterance": "だから、人は、できなかったな、って思って、疲れてしまうものなんですね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:08:41",
+      "utterance": "だけど、今まで聞きさんのお話を伺って、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:09:25",
+      "utterance": "キキさんです。　失礼しました。）いろいろ気になってしまうのは、それだけ、いろんなことに配慮ができる方だから。キキさんが、それだけ、目標を持っている、勤勉で、誠実な方だからだと思うんです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:11:10",
+      "utterance": "こちらこそ、すみません。考えるのに時間がかかってしまう方で。。。そうですね。やり残したことの方にとらわれて気になっていると思います。とらわれてエネルギー使って疲れている気がします、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:11:10",
+      "utterance": "家の中を日頃からきれいに保っていたいと目標も持たれていたんですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:11:19",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:12:19",
+      "utterance": "そっか、それも目標なのですね。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:13:37",
+      "utterance": "そうですね。家は心地よい空間にしていたいなと。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:14:26",
+      "utterance": "お掃除のことについて、優先目標でなければならないでしょうか？、お伺いした中では、遅くまでかかってしまってはいるけれど、結局、できていたことの方が多かったと思うのですが…。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:16:56",
+      "utterance": "ご自身では、どのように思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:17:09",
+      "utterance": "いわれてみればそうですね。。。掃除が優先目標じゃなくてもいいですね。いまの状態からみると。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:17:25",
+      "utterance": "ええ、そう思われるのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:18:28",
+      "utterance": "ひとつの方法として、優先順位を見極めてみてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:19:42",
+      "utterance": "そうすることで楽になれると思うのですが。いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:20:16",
+      "utterance": "そうですね。書き出すか何かして、優先順位を見極めてみると、整理がつくような気がします。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:20:50",
+      "utterance": "はい、そのような気がしてきました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:20:56",
+      "utterance": "ええ。やっぱり、いろいろ気の付くミキさんですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:21:12",
+      "utterance": "おっしゃるように、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:22:10",
+      "utterance": "お仕事の勉強、趣味、お掃除、それぞれ、もし、やれなかったら、本当に困る事の内容を書き出してみることで、案外、後回しでいいことがはっきりしたりもします。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:22:47",
+      "utterance": "それから、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:23:21",
+      "utterance": "お掃除なんかは、全てを完璧にすることでなく、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:24:06",
+      "utterance": "目標を、今日は、ほこりとりだけ、今日は、トイレだけ。っていう風に、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:25:04",
+      "utterance": "毎日でなくても、小刻みに目標。これだって、きれいになるひとつの方法と思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:26:15",
+      "utterance": "少しずつ、であっても、その時の目標は、達成、できますよ！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:26:24",
+      "utterance": "どう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:28:11",
+      "utterance": "ありがとうございます。本当にそうですね。小刻みにやっても、きれいに保てることには変わりありませんね。そしてメリハリで他のことにもひとつひとつ心地よく集中できるような気がします。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:28:39",
+      "utterance": "小さく達成重ねるといいですね。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:29:09",
+      "utterance": "メリハリ！大切なことにお気づきになったのですね。小刻みにすると、消化も良くなりますね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:29:37",
+      "utterance": "はい、消化大事です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:31:25",
+      "utterance": "うんうん。リズムもつけて、たくさんのことに注力してこられたキキさんなら、きっと、軽やかにやっていけると思います。応援していますね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:32:35",
+      "utterance": "はい、ありがとうございます。自分のペース心地よくしていきます。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:33:18",
+      "utterance": "ええ、ええ！今日は、お時間も来てしまいましたが、お話してみて、いかがでしたでしょうか？何か、他に気になる事とか大丈夫そうでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:34:18",
+      "utterance": "はい、大丈夫です。長い時間ありがとうございました。気持ちが楽になりました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:36:07",
+      "utterance": "こちらこそ、長く、失礼いたしました。キキさんが、軽やかにお過ごしになられることを願っております。頑張りすぎず、お体にも、気を付けてくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:36:44",
+      "utterance": "それでは、今日は、ご相談終了とさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:37:13",
+      "utterance": "はい、ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:37:57",
+      "utterance": "お越しくださって、ありがとうございました。失礼いたします。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-15T12:38:33",
+      "utterance": "はい、失礼いたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-15T12:39:02",
+      "utterance": "それでは、終了いたします。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "掃除に関する優先順位の設定問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1447,
+    "評価作成日時": "2021-03-15T13:04:00",
+    "クライアント役ID": 165,
+    "カウンセラー役ID": 108,
+    "点数": 99,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1447,
+    "evaluation_created_at": "2021-03-15T13:04:00",
+    "client_id": 165,
+    "counselor_id": 108,
+    "score": 99,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

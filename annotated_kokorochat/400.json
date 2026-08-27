@@ -1,0 +1,690 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-09-04T20:52:43",
+      "utterance": "こんばんは。よろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T20:53:21",
+      "utterance": "こんばんは！今日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T20:59:18",
+      "utterance": "そろそろお時間になりますが初めてもよろしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T20:59:28",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:00:14",
+      "utterance": "それではよろしくお願いいたします！",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:00:34",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:00:57",
+      "utterance": "今日はどうされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:01:09",
+      "utterance": "子どものことで困っています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:01:49",
+      "utterance": "子供のことでお悩みなんですね。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:02:01",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:03:08",
+      "utterance": "差し支えなければどういったことでお悩みしているかお聞きしてもよろしいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:03:30",
+      "utterance": "兄妹喧嘩がひどくて…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:04:07",
+      "utterance": "そうなんですね。。それはお困りですね。。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:04:14",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:04:32",
+      "utterance": "顔をみればすぐに喧嘩になってしまうんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:05:10",
+      "utterance": "そんなに仲がお悪いのですね、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:05:35",
+      "utterance": "毎日喧嘩しているのでどうしていいのやら。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:06:34",
+      "utterance": "お子さんは何歳でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:07:03",
+      "utterance": "上は中3,下は小4です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:08:29",
+      "utterance": "そうだったのですね。。上のお子さんがお兄さんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:08:38",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:09:49",
+      "utterance": "そうなんですね。いつ頃から仲が悪くなって行きましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:10:19",
+      "utterance": "上の子が中学生になったくらいから、特にひどくなった感じです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:12:13",
+      "utterance": "そうだったんですね。それは困りますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:13:52",
+      "utterance": "そうですね。年も離れているし、男の子と女の子なので、喧嘩しないかと思いきや、ひどいんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:14:59",
+      "utterance": "親御さんとしてはとても悩まされますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:15:49",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:16:50",
+      "utterance": "はい。喧嘩にも色々と種類がありますがどういったとこまでなっていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:17:50",
+      "utterance": "口喧嘩のときもあれば、お兄ちゃんが下の子を蹴飛ばしたりします",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:18:04",
+      "utterance": "だいたいお兄ちゃんから手を出すことがおおいです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:19:07",
+      "utterance": "そうだったのですね。。妹さんは大丈夫でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:19:33",
+      "utterance": "うーん…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:19:37",
+      "utterance": "よく泣いてますね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:20:33",
+      "utterance": "下の子もお兄ちゃんに反撃するので、ヒートアップしてしまうんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:22:44",
+      "utterance": "そうだったのですね、妹さんもやり返してしまうのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:23:30",
+      "utterance": "そうなんです。やり返さなければ、そこで終わるんでしょうけど、そこはまだ子どもなので我慢できないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:25:25",
+      "utterance": "そうでしたか、、子供も嫌だからやり返してしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:25:56",
+      "utterance": "どうしてお兄ちゃんからちょっかいをかけるのかお聞きしましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:26:58",
+      "utterance": "気に入らないと言っていました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:28:34",
+      "utterance": "そうでしたか。それはとても悲しいですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:29:13",
+      "utterance": "そうですね…困ってしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:29:37",
+      "utterance": "お兄ちゃんも相手にしなければいいのに、ついついちょっかいだすんですよ）",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:31:39",
+      "utterance": "困りますよね親としては。それはお兄ちゃんも無視できないんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:32:36",
+      "utterance": "そうみたいですね。何でかわかりませんが、相手にしているんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:34:21",
+      "utterance": "それはお困りですよね、、お兄ちゃんは「気に入らない」以外に何か伝えてませんでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:35:09",
+      "utterance": "バカだから、とか、ムカつくから、とか。そんなことばかりです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:37:05",
+      "utterance": "そうなんですね。逆に妹さんはお兄ちゃんに何かしたりされてますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:37:59",
+      "utterance": "何もしないですね。テレビを一人で見てたりとか、お菓子食べてるとか。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:38:13",
+      "utterance": "反撃はされたらやり返す的な感じです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:39:39",
+      "utterance": "そうでしたか、、妹さんは何も伝えたりされてませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:41:32",
+      "utterance": "だいたいお兄ちゃんが叩いたとか蹴ってきたとかは言ってきます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:42:29",
+      "utterance": "そうなんですね。親御さんとしてはどう対処されていられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:44:00",
+      "utterance": "お兄ちゃんには手を出さない、蹴らないことは伝えています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:44:05",
+      "utterance": "そして、相手にしない",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:44:21",
+      "utterance": "娘にはお兄ちゃんに反撃しない",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:44:37",
+      "utterance": "お兄ちゃんが近くにきたら逃げる",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:44:57",
+      "utterance": "そんなことですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:46:35",
+      "utterance": "ちゃんとお話しされているんですね。中学校に上がる前はお二人の仲はどうでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:48:24",
+      "utterance": "喧嘩はしていましたが、ここまでひどくなかったですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:50:32",
+      "utterance": "そうなんですね。お兄さんは中学校に上がって何か変わった事はありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:51:06",
+      "utterance": "特にはないと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:53:16",
+      "utterance": "そうでしたか。それは本当に悩まされますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:53:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:55:30",
+      "utterance": "一度お話しを整理しますと、中学校に上がってから喧嘩の仕方が激しくなっていき、妹さんは一方的にちょっかいかけられたり蹴られたり等されていると、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:56:17",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:57:36",
+      "utterance": "本人たちに話をしても理由がわからない為、親御さんが注意したけれど喧嘩はどんどん激しくなってきているという事でよろしいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:58:17",
+      "utterance": "そんな感じですかね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:58:25",
+      "utterance": "どうしたらいいでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T21:59:23",
+      "utterance": "一度お二人と親御さんでお話しされてみてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T21:59:51",
+      "utterance": "話は結構してます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:00:54",
+      "utterance": "そうだったのですね、三人でお話しされてたのですね。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:01:24",
+      "utterance": "夫も交えて話はしているんですけど、なかなか…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:02:34",
+      "utterance": "お父様が言っても改善されないんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:02:51",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:03:43",
+      "utterance": "家族で過ごす時間等は少ないですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:04:26",
+      "utterance": "私は働いているので、日中はいませんが、朝と晩は一緒です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:05:22",
+      "utterance": "その時に喧嘩になったりはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:05:37",
+      "utterance": "子どもたちがですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:05:46",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:05:58",
+      "utterance": "そのときというのは、日中ですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:06:34",
+      "utterance": "すいません。家族でいる時にです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:07:18",
+      "utterance": "たまにですけど、上の子が下の子に仕掛けることはあります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:08:58",
+      "utterance": "そうだったのですね、一方的にですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:09:28",
+      "utterance": "（すいません、時間だいぶ過ぎてますが…）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:09:59",
+      "utterance": "すいません時間すぎてしまいました💧",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:10:38",
+      "utterance": "ちょっと入り込んでいました💧申し訳ないです。。。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:11:02",
+      "utterance": "（いえいえ、真剣に話を聴かれていてすばらしいです。）",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:11:35",
+      "utterance": "そう言っていただけると幸いです。。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:12:10",
+      "utterance": "（お互いに勉強中ですから）",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:13:26",
+      "utterance": "お互い様ですね😅一応ロールプレイの方終了になりますが何か質問等ありますか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:14:05",
+      "utterance": "（ありがとうございます。質問は特にないです）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:14:44",
+      "utterance": "わかりました！今日はありがとうございました！！",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:15:29",
+      "utterance": "またお会いできたらその時はお願いします😊",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-04T22:15:32",
+      "utterance": "（こちらこそ、ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-04T22:15:53",
+      "utterance": "終了しますねー。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "兄妹間の暴力と喧嘩問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 400,
+    "評価作成日時": "2020-09-05T11:21:00",
+    "クライアント役ID": 18,
+    "カウンセラー役ID": 82,
+    "点数": 41,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 400,
+    "evaluation_created_at": "2020-09-05T11:21:00",
+    "client_id": 18,
+    "counselor_id": 82,
+    "score": 41,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

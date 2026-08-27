@@ -1,0 +1,606 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-05T09:53:22",
+      "utterance": "こんにちは、本日はよろしくお願いいたします。時間になったら始めていきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T09:58:32",
+      "utterance": "宜しくお願いいたします＾＾",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:00:03",
+      "utterance": "こんにえ、相談員です。本日は相談にお越しいただきありがとうございます。ここでは安心してどんなことでもお話ください。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:00:23",
+      "utterance": "はじめに年齢、性別、相談内容を教えてください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:00:57",
+      "utterance": "宜しくお願いします。４２歳、男性、人のマネジメント",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:01:36",
+      "utterance": "教えていただきありがとうございます。人のマネジメントですね。もう少し詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:03:04",
+      "utterance": "一人では仕事をできて行くのですが、多くの方をもっと動かしたいと思っております。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:04:24",
+      "utterance": "そうなのですね、一人だと仕事ができていく。多くの人を動かすことで、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:04:40",
+      "utterance": "どうなったらいいとお考えか教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:06:30",
+      "utterance": "チームで動かしたいのですが、中々自分が思うような形になって行かない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:06:50",
+      "utterance": "沢山の方に動いて貰いたい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:08:27",
+      "utterance": "そうなのですね。チームで動かしたいと思っているけど、現状思うような形になっていないのですね。たくさんの方に動いてもらって効率、生産性を上げていきたいということでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:09:25",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:10:05",
+      "utterance": "あなたの思うようにいっていないのはもどかしいお気持ちなのではないかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:10:36",
+      "utterance": "そうですね、自分にマネジメント能力がないのかと思ってしまう",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:11:15",
+      "utterance": "そうでしたか、マネジメント能力がないと思われているのですね。それはお辛いことと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:11:28",
+      "utterance": "いつから今のポジションにいらっしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:13:28",
+      "utterance": "もう、１５年経営をして",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:13:32",
+      "utterance": "おりますす",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:13:41",
+      "utterance": "今は、",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:13:54",
+      "utterance": "組織の中のリーダーの存在です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:15:17",
+      "utterance": "15年経営をしていらっしゃるのですね。そして今は組織のリーダーの立場。責任や期待があり、日々プレッシャーもあるのではないかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:15:48",
+      "utterance": "あなた自身の中に、思い描いているリーダー像みたいなものはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:16:12",
+      "utterance": "プレッシャーよりも自分の能力を生かしたいと思っております",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:16:31",
+      "utterance": "プレッシャーは嫌いではないので＾＾",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:17:31",
+      "utterance": "そうなのですね、自分の能力を活かしたいと思っていらっしゃるのですね。プレッシャーは負担にもありますが、頑張るためにある程度は必要な物かとも思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:18:26",
+      "utterance": "ご自身の能力を把握されていることはとても強みになると思います。どのように生かせたらいいと思いますか？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:18:56",
+      "utterance": "多くの方を巻き込んで行きたいです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:19:42",
+      "utterance": "多くの方を巻き込んでいきたいのですね。そのためにどんな事ができそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:20:01",
+      "utterance": "どんな事ができそうとは？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:20:53",
+      "utterance": "言葉が足らず失礼しました。多くの方を巻き込んでいくためにどんな事ができそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:22:20",
+      "utterance": "目指す方向を同じにするでしょうか。。。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:22:24",
+      "utterance": "どう思いますか",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:23:23",
+      "utterance": "そうですね。目指す方向が同じだと、チーム全体がわかりやすく一体感が持てるかもしれませんね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:23:42",
+      "utterance": "今はチームとしていかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:23:50",
+      "utterance": "うーーん",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:24:18",
+      "utterance": "どうなんでしょうか。もっと同じ目標に向かって行きたいですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:25:04",
+      "utterance": "もっと同じ目標に向かっていきたいのですね。そうしたらあなたの望むようなチームになれそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:25:16",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:25:26",
+      "utterance": "中々それが難しいですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:26:48",
+      "utterance": "そうなのですね、ここが難しいと感じる部分なのですね。どのようなところが難しいと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:28:40",
+      "utterance": "みなさんが目指す場所が違うと言う事でしょうか、、、高校生の受験や部活なら指導者と生徒は目指す場所が同じだと思いますが",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:29:14",
+      "utterance": "社会に出ると、会社組織ではそれぞれが会社に属している目的が変わってくるので、、、",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:29:53",
+      "utterance": "これを同じにして行くのが本当に難しいですね、",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:30:51",
+      "utterance": "教えていただきありがとうございます。そのようにお感じなのですね。確かに社会に出ると働く目的はそれぞれ違うかもしれませんね。同じにしていく事が難しいと思われているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:31:56",
+      "utterance": "ちなみに、あなた自身の目的や目指す場所はありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:32:00",
+      "utterance": "同じにするのは難しいというのは感じているのですが",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:32:51",
+      "utterance": "チームを巻き込んで行くにはどうすればいいのか？それを、悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:34:15",
+      "utterance": "なるほど。目的を同じにするのは難しい、その中でチームを巻き込んで行くにはとお考えなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:35:14",
+      "utterance": "そのために、最初に教えていただいたマネジメント力が必要なのではないかと思っていらっしゃるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:36:35",
+      "utterance": "同じにする方法があれば勿論それは、それでいいのですが、それは難しいと感じています。どう思いますか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:37:31",
+      "utterance": "そうですね、人それぞれ目的や目標、価値観が違うので同じにするのは難しいかもしれませんね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:38:19",
+      "utterance": "その上でどう人を巻き込んで行くのかが課題です",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:39:33",
+      "utterance": "課題点が明確にあるのですね。人を巻き込んで行くというのを、もう少し詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:40:19",
+      "utterance": "多くの方を動かしていくと言う事です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:41:11",
+      "utterance": "あるコミュニティーを増やしたいのですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:41:30",
+      "utterance": "それを１０００人にすると言うプロジェクトがあります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:41:42",
+      "utterance": "現在、３００人",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:42:39",
+      "utterance": "運営メンバーは５０名おりますが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:44:23",
+      "utterance": "そのコミュニティー自体はみんな大好きなはずなんですが、本当に増やしたいと感じている方は５名もいない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:45:04",
+      "utterance": "その４５名にどう火をつけていくかですかね。状況はこんな感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:46:03",
+      "utterance": "教えていただきありがとうございます。大掛かりなプロジェクトをされているのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:47:17",
+      "utterance": "45名の方の仕事ぶりというか、動き方が気になっていらっしゃるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:47:26",
+      "utterance": "そうですかね、、、考えてみるとそうですね",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:48:20",
+      "utterance": "４５名の方の動き",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:49:05",
+      "utterance": "そうだったのですね。気持ちや仕事の取り掛かりに差があるのではやりにくさを感じるのではないかと思います。はい、続けてお話ください。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:49:49",
+      "utterance": "そうですね。この方達を動かせたらもっともっと良いですし、この私を含めた５名ももっとやってくれたら嬉しいなと思っております。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:51:45",
+      "utterance": "そうなのですね。プロジェクト成功のために45名を動かせたらもっと良いし、あなたを含めた5名ももっとやれたらさらにいいとお感じなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:52:05",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:54:21",
+      "utterance": "リーダーの立場で考え、悩まれることも多いと思います。しかしあなたがおっしゃていたように、みなさん考えが違うので",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:54:45",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:56:21",
+      "utterance": "この方法でやれば絶対上手く行くというものはないかもしれません。先ほど自分の能力を生かしたいとおっしゃていたので、その能力を生かした方法でされてみてはいかがかなと思ったのですがいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:57:16",
+      "utterance": "もちろんトライアンドエラーの繰り返しもあるとは思いますが。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:57:17",
+      "utterance": "私の能力生かした方法と言いますと？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T10:57:59",
+      "utterance": "あなた自身のおっしゃていたご自身の能力とはどのようなものですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:59:51",
+      "utterance": "タレント性、行動力",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T10:59:58",
+      "utterance": "ですかね",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T11:01:44",
+      "utterance": "タレント性と行動力なのですね！ご自身のことをよく理解されているのですね。今日はお時間となってしまいましたので、次回その能力を生かしていく方法を一緒に考えていけたらと思うのですが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T11:02:03",
+      "utterance": "はい、宜しくお願い致します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T11:03:19",
+      "utterance": "こちらこそよろしくお願いします。日にち、お時間いつでも構いませんので、いつでもいらしてください。今日はここで一旦終了させていただいてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T11:03:46",
+      "utterance": "本日は、ありがとう御座いました。はい大丈夫です。では、これにて失礼いたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T11:04:25",
+      "utterance": "本日はご相談いただきありがとうございました。またのご相談をお待ちしております。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "人のマネジメントに関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5394,
+    "評価作成日時": "2023-07-05T16:30:00",
+    "クライアント役ID": 387,
+    "カウンセラー役ID": 385,
+    "点数": 63,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5394,
+    "evaluation_created_at": "2023-07-05T16:30:00",
+    "client_id": 387,
+    "counselor_id": 385,
+    "score": 63,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

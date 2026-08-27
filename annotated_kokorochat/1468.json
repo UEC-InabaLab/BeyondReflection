@@ -1,0 +1,1092 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-20T09:52:38",
+      "utterance": "（おはようございます。10:00からのロープレ、どうぞよろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T09:54:44",
+      "utterance": "(おはようございます。本日はよろしくお願いいたします）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T09:55:41",
+      "utterance": "（返信ありがとうございます。お時間になりましたら、お声がけしますね。では、その時に。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T09:56:00",
+      "utterance": "（承知しました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:01:46",
+      "utterance": "（10:00になりました。ロープレ、始めますね。あらためてよろしくお願いします。）おはようございます。LINE相談室です。今日はどうされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:02:21",
+      "utterance": "おはようございます。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:02:38",
+      "utterance": "もう、消えてしまいたい、死んだほうがいいと思っています",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:04:12",
+      "utterance": "どうされました？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:04:29",
+      "utterance": "生きているのが苦しくて・・・",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:05:09",
+      "utterance": "「苦しくて・・・」何があったのか、よかったら教えていただけませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:06:39",
+      "utterance": "私は発達障害じゃないかと思って悩んでいます。あと、食べ吐きがやめられない（やめるつもりはない）んです。私がいても、お金がかかるだけで家族は幸せではないと思うし。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:07:25",
+      "utterance": "私がいないほうがきっといいと思ってしまいます。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:07:56",
+      "utterance": "食べ吐きされているのですね？今、お身体の具合は大丈夫ですか？ご気分は？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:08:22",
+      "utterance": "体重がかなり減っています。親も心配してます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:08:38",
+      "utterance": "最近、すごく眠くなります。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:09:13",
+      "utterance": "太るのは怖いので、やめられません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:09:45",
+      "utterance": "体重が減って、すごく眠い。。すみません、お年と、性別、差し支えなければ、この相談でなんとお呼びしたらいいか、教えてもらっていいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:10:03",
+      "utterance": "１８歳、女、ルナです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:11:43",
+      "utterance": "ルナさん、ありがとうございます。さきほど、気にされていた、ルナさんがいるとお金がかかる、とおっしゃいましたが、詳しく教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:12:23",
+      "utterance": "うちは母子家庭で、今度短大の受験をしようと",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:12:49",
+      "utterance": "考えていたのですが、去年の段階でははっきり進学するか進路を決めていなかったので",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:13:05",
+      "utterance": "奨学金の申請とか準備もしてなかったんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:13:30",
+      "utterance": "急に受験を決めて母も慌てていたのを見て",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:14:01",
+      "utterance": "私がいるとお金がかかるって大変なんだとおもいました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:14:14",
+      "utterance": "あとは、食費がかかることです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:14:52",
+      "utterance": "自分の食べ吐き分は大体自分のバイト代で賄っていますが。。。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:15:25",
+      "utterance": "高校生でバイトもされているのですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:15:52",
+      "utterance": "ええ、１年生の時に全日制高校に行けなくなって２年生から通信制に転学しました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:16:27",
+      "utterance": "友達がいっていたバイト先で時々、品出しのバイトをしていました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:16:27",
+      "utterance": "行けなくなったのは、家計のため？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:16:54",
+      "utterance": "いけなくなったのは、クラスの人の自分に対する言葉が原因です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:17:19",
+      "utterance": "男子が自分のことを見て「ブス」といっていました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:17:22",
+      "utterance": "辛いご経験されているのですね。。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:17:37",
+      "utterance": "ひどい！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:17:39",
+      "utterance": "３学期からは教室に入れなくなってしまいました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:18:23",
+      "utterance": "学校の入り口あたりで吐き気がしてきてしまって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:18:33",
+      "utterance": "うんうん、、、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:18:43",
+      "utterance": "もう無理だと思って転学を決めました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:19:40",
+      "utterance": "辛い中、学校まで行く努力をされて、よく頑張りましたね、ルナさん。容姿のことを言われたのは、今の太るのが怖いお気持ちにつながってるのかな？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:19:52",
+      "utterance": "はい、そう思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:20:41",
+      "utterance": "太っているからブスって思われるんだと。痩せないといけないとおもうようになりました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:21:40",
+      "utterance": "私の経験ではね、高校くらいの男子って、本当にブスな相手にはブス、って言わなくて、ルナさんの気を引きたいから心にもないことを言う、って男子がいました。ルナさん、それで痩せたの？何キロ減？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:22:28",
+      "utterance": "当時に比べると１０㎏近くですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:22:59",
+      "utterance": "10キロ近く痩せられた、今は何キロあります？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:23:43",
+      "utterance": "何キロかな、４１㎏くらいかな",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:24:18",
+      "utterance": "身長は？160センチ超えてる？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:24:46",
+      "utterance": "はい。１６２cmくらいです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:27:00",
+      "utterance": "スラっとしてそうね。162センチの女子だと、モデル体重でも47.24キロ。41キロだと、モデル以上に細いのね。活力出る？眠いって言ってたのは、それも関係してるかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:28:24",
+      "utterance": "そうですね、すぐ眠くなるのは細くなってからですね。持続するスタミナはなくなっているような気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:28:51",
+      "utterance": "学校やバイトは行けてる？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:29:21",
+      "utterance": "なんとか。バイトの帰りに業務スーパーがあって",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:29:43",
+      "utterance": "そこで大量に食料を買い込んでいます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:30:18",
+      "utterance": "学校はスクーリング週１回のなので大丈夫です。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:30:39",
+      "utterance": "そうなのね。バイトで稼いで、その帰りにバイト分の食料を買い込む。学校は行けてるのね、よかった。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:31:02",
+      "utterance": "はい、最後の試験も終わって、何とか卒業できそうです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:31:17",
+      "utterance": "頑張りましたね、ルナさん！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:31:27",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:32:30",
+      "utterance": "進学のこと、お話途中になっちゃったんだけど、卒業したら、どうされます？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:33:15",
+      "utterance": "栄養の勉強をしようかなと思って、栄養学科のある短大にいってみようかなと思っていますが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:33:47",
+      "utterance": "思っていますが、、、？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:33:48",
+      "utterance": "人と話すのが苦手で、もう、将来に希望はないような気もして消えたくもなります。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:34:26",
+      "utterance": "コミュ障だと中学のころから思っています",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:35:04",
+      "utterance": "周りが楽しそうに話していることが理解できなかったりします。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:35:34",
+      "utterance": "ルナさんはその場にいるけど、心から楽しめないのかな？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:35:40",
+      "utterance": "そうなんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:36:10",
+      "utterance": "なんか感覚が共有できずに、私って一人だなと思ってしまう。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:37:12",
+      "utterance": "小さいころ親から突然離れて走り出していたらしく、今もよく大事なことを忘れたりするから、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:37:43",
+      "utterance": "親や親戚、ばあちゃんからルナは発達障害だろうねって言われています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:38:04",
+      "utterance": "注意力がなさすぎって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:38:59",
+      "utterance": "まぁ、発達障害と個性って、区別がつきにくいものよ。ご親戚は、専門家じゃない、よね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:39:27",
+      "utterance": "親戚は障害者とかかわることが多い仕事みたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:40:33",
+      "utterance": "ルナさんのことを発達障害「かも」と言って、そのほかに、何かしてくれましたか？専門家にみてもらいなさい、とか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:41:09",
+      "utterance": "特にないです。困っていなければって感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:41:28",
+      "utterance": "多分私が悩んでいることは家族は知らない。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:42:04",
+      "utterance": "発達障害かもってことで悩んでいることはですね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:42:21",
+      "utterance": "だから、ここに相談に来てくれたのね。勇気を出してお話ししてくれて、どうもありがとう。ルナさんが一番心地よい毎日を送れるよう、ご一緒に考えていってもいい？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:43:02",
+      "utterance": "でもさすがに痩せてきたから、母から病院行こうよとは言われました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:43:14",
+      "utterance": "はい、一緒に考えてもらいたいです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:44:46",
+      "utterance": "スタミナが切れそうなくらい、痩せてきているから、まずは身体を診てもらう、ルナさん、病院行くことには、どう思ってる？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:45:11",
+      "utterance": "お母さんも病院に一緒に行ってくれるのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:45:39",
+      "utterance": "入院とかになったらいやなので、行きたくない気持ちと、この苦しさから解放されたい気持ちと混ざってます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:45:52",
+      "utterance": "はい。病院には一緒に行くって言ってくれています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:47:04",
+      "utterance": "お母さま、ルナさんのこと、大事に思っているんですね。私には、そう思えます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:47:34",
+      "utterance": "はい。母はとてもやさしいですが、仕事に忙しく",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:48:03",
+      "utterance": "帰りが遅い。食事も手抜きが多くて私から見たら",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:48:24",
+      "utterance": "栄養のあるものを作っていない気がして少し腹立たしく感じることがあります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:48:45",
+      "utterance": "小学生の妹がいるのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:48:57",
+      "utterance": "かわいそうなので私が作って食べさせたりします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:50:11",
+      "utterance": "だからルナさん、栄養の勉強をしたいのね。ルナさんのそういう気持ちが、妹さんの成長をどれだけ助けているか、、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:50:55",
+      "utterance": "そうなのかな、わからないけれど「食」や「健康」への興味が強いですね。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:51:18",
+      "utterance": "「運動」とかも。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:51:50",
+      "utterance": "体を美しくするための勉強がしたい。その一つに栄養ということなのでしょう。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:52:19",
+      "utterance": "ルナさんの、短大に行って栄養の勉強をしたい、という気持ちが、生半可なものではないこと、伝わりました。ルナさんみたいに「食」や「健康」「運動」のことを考えている人が、将来、食生活を通じて社会の役にたっていけるんじゃないかな？短大、行きたいよね？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:52:41",
+      "utterance": "そうですね。行ってみたいですね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:53:08",
+      "utterance": "短大に行くために、何から始めましょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:53:55",
+      "utterance": "うーん、母からはいける体力をつけるために普通に食べてほしいと",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:54:06",
+      "utterance": "言われています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:54:10",
+      "utterance": "うん、いいね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:54:24",
+      "utterance": "ルナさんは？それを聞いてどう思うの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:54:31",
+      "utterance": "確かに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:54:37",
+      "utterance": "今は眠くなりすぎるから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:54:50",
+      "utterance": "行っても授業をちゃんと聞けないかもしれませんね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:55:09",
+      "utterance": "それこそ、もったいない、ね？どう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:55:34",
+      "utterance": "本当ですね。寝てたら行く意味がないですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:56:47",
+      "utterance": "でもすでに「普通に食べる」が今の自分にはすごく難しくなっている。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:56:57",
+      "utterance": "病院に行って、先生や栄養士さんが、どういう治療やアドバイスをするのか、これも栄養の勉強に近くない？行ってみる価値はあるような気がしますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:57:47",
+      "utterance": "そっか・・・それも勉強の一つと考えることもできますね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:58:05",
+      "utterance": "でも入院だけは嫌だな",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:58:28",
+      "utterance": "食べ吐きを止められたくない。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T10:59:16",
+      "utterance": "ちょっと病院怖いな・・・",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T10:59:34",
+      "utterance": "嫌だよね、入院。。。私も、何度も何度もダイエット繰り返してきてるけど、食べ吐きって、栄養的にどうなの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:00:09",
+      "utterance": "多分駄目でしょうね。食べ物が",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:00:19",
+      "utterance": "腸まで届かないから。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:00:28",
+      "utterance": "栄養が体に吸収されない。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:00:56",
+      "utterance": "私、矛盾してますね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:02:13",
+      "utterance": "妹さんには栄養のある食事を用意できる、ルナさんの身体には栄養が届いてない、矛盾、かな？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:02:51",
+      "utterance": "うん、私、栄養のことが大事といいながら、それを無視する行動をとっている。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:03:04",
+      "utterance": "うんうん、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:03:25",
+      "utterance": "わかっていても",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:03:49",
+      "utterance": "今の行動をやめたいとなかなか思えない",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:03:49",
+      "utterance": "いても？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:04:01",
+      "utterance": "これが病気？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:04:09",
+      "utterance": "やめたいとなかなか思えないのは、太りたくないから？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:04:18",
+      "utterance": "そうです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:04:55",
+      "utterance": "母からはもう太ってないし、むしろ体重を増やさないと倒れるよといわれても、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:05:16",
+      "utterance": "スタミナ切れしない栄養を吸収しながら、体系を維持する、これって栄養学？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:05:25",
+      "utterance": "体形、ね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:06:03",
+      "utterance": "どうなんでしょうね。。。よくわからなくなってきました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:06:07",
+      "utterance": "お母さま、ルナさんに倒れてほしくないのよね。妹さんも、悲しむと思う。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:06:16",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:06:30",
+      "utterance": "母は本気で心配してくれていると思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:06:59",
+      "utterance": "うん、その本気に、ルナさんはどう応えればいいと思う？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:07:22",
+      "utterance": "（すみません、時間オーバーしちゃいまして。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:07:39",
+      "utterance": "一回一緒に話だけでも聞きに受診してみようかな。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:07:46",
+      "utterance": "（いえ、大丈夫です）",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:08:46",
+      "utterance": "（ありがとうございます）そうね、まずはルナさんの身体が大事です。入院は、極力しない方向で治療したい、とお医者様に言えば、考えてもらえるんじゃないかな？どうかしら？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:09:29",
+      "utterance": "そうですね、自分の気持ちを話せるようにしてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:10:27",
+      "utterance": "学校へ行くことに耐えられる身体にはしないといけないとは思います。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:10:39",
+      "utterance": "ルナさんみたいに、痛みも、栄養の大切さも、身をもって経験した人が、将来栄養士になってくれると、救われる人もいっぱいいるのではないか、と思いました。ぜひ、元気になってね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:11:05",
+      "utterance": "はい。今度は週１ではなく、週５だし。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:11:23",
+      "utterance": "今日はお話を聞いてくれてありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:11:43",
+      "utterance": "少し整理できました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:12:01",
+      "utterance": "こちらこそ。少しでもお役にたてれば、私もうれしいです。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:12:14",
+      "utterance": "親身になって聞いてくれてうれしかったです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:13:29",
+      "utterance": "いちばん辛いのは、ルナさん当人なのだから。。。また、いつでもお話聞きますよ。別の相談員に当たるかもしれませんが、LINE相談を思い出してくださいね。そろそろお時間なのですが、終了しても大丈夫ですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:13:58",
+      "utterance": "はい、わかりました。またつらくなったら相談しますね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:14:45",
+      "utterance": "はい、待ってますね。ありがとうございました！（ロープレ、ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:15:03",
+      "utterance": "（お疲れ様です。こちらこそありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:15:46",
+      "utterance": "（タイムマネジメント、難しいですね。。。オーバーしちゃってすみません。また、マッチングするかもしれませんね、これからもよろしくお願いいたします！）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:16:13",
+      "utterance": "（問題なければ、終了メッセージで締めくくりますが、よろしいですか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:16:14",
+      "utterance": "（こちらこそ、ちょっと重いテーマだったのでオーバー仕方ないかと思いました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:16:28",
+      "utterance": "（終了大丈夫です）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-03-20T11:16:33",
+      "utterance": "（ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-20T11:16:47",
+      "utterance": "（勉強になりました！忌憚なき評価もお願いします。ありがとうございました！！）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "発達障害の可能性についての悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1468,
+    "評価作成日時": "2021-03-20T13:36:00",
+    "クライアント役ID": 120,
+    "カウンセラー役ID": 168,
+    "点数": 94,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1468,
+    "evaluation_created_at": "2021-03-20T13:36:00",
+    "client_id": 120,
+    "counselor_id": 168,
+    "score": 94,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

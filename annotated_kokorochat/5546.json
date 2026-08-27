@@ -1,0 +1,770 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-30T13:50:50",
+      "utterance": "(こんにちは。本日はよろしくお願いいたします。お時間になりましたら、始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T13:54:48",
+      "utterance": "はい。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:00:03",
+      "utterance": "こんにちは。相談員です。本日はお越しくださり、ありがとうございます。まずはじめに年齢・性別・相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:00:08",
+      "utterance": "19歳　男性　親に迷惑ばかりかけている。自分に生きる価値が見出せない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:00:57",
+      "utterance": "ありがとうございます。そうなのですね。親に迷惑ばかりかけているとのことですが、詳しく教えていただけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:01:36",
+      "utterance": "親の期待に添えないんです。僕はゴミクソ野郎なんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:02:28",
+      "utterance": "そのように感じておられるのですね。親の期待とはどういったものなのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:03:14",
+      "utterance": "いい大学に入って、成功した人生を送ることです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:03:44",
+      "utterance": "そのようには言いませんが、きっとそう思っているの違いません。そう感じます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:04:12",
+      "utterance": "そうだったのですね。今の自分とはかけ離れているように感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:04:53",
+      "utterance": "そうです。何もできないダメなやつです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:05:34",
+      "utterance": "そのように考えておられるのですね。それは苦しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:06:06",
+      "utterance": "何もできないとのことですが、どういったことからそのように感じておられるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:07:18",
+      "utterance": "急に学校に行けなくなったことが過去に3回あります。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:07:57",
+      "utterance": "その都度復活するのですが、僕はなんだかわからないけど、そうなってしまうんです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:08:37",
+      "utterance": "今は復活していますが、この先も不安です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:08:58",
+      "utterance": "そうだったのですね。理由がわからないだけに不安になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:09:20",
+      "utterance": "ちなみに今は学生さんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:09:20",
+      "utterance": "親はその都度苦しんでいます。僕が生きていない方が、親は楽になれると思います",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:09:43",
+      "utterance": "すみません。行違いましたね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:10:13",
+      "utterance": "9月から海外大学の準備コースに行くことになっています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:11:35",
+      "utterance": "そうだったのですね。進学校に通われていらっしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:11:45",
+      "utterance": "いえ。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:12:20",
+      "utterance": "そういうわけではないのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:12:28",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:13:02",
+      "utterance": "海外大学の準備コースに行くことはご自身で決められたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:14:29",
+      "utterance": "そうです。でも色々ありました。同級生の友達はもう日本の大学2年生。僕はこれから海外大学準備コース。正式に大学1年になるのは、来年の9月なので、皆から2周回遅れです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:15:36",
+      "utterance": "そうだったのですね。今回の進路が決まるまでに色々とおありだったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:16:10",
+      "utterance": "僕は日本の大学受験をするつもりでしたが、鬱状態になり、受けることができませんでした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:16:56",
+      "utterance": "今はようやく普段の状態に戻りましたが、2年くらいかかったんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:17:25",
+      "utterance": "そうだったのですね。お辛い状況があっての今なのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:17:49",
+      "utterance": "親も辛い時期を過ごしていたのがわかります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:18:15",
+      "utterance": "だから、僕は迷惑ばかりかけていると感じています",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:19:05",
+      "utterance": "そうだったのですね。親の気持ちを考えて自分を責めてしまっているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:19:35",
+      "utterance": "きっとこれからも迷惑をかけるんじゃないか...と。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:20:06",
+      "utterance": "今はそのように感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:20:11",
+      "utterance": "こんな僕がいない方がいいんじゃないか、と毎日思います",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:20:45",
+      "utterance": "ええ、そのように感じると辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:21:42",
+      "utterance": "こんな僕みたいなゴミクソ野郎は死んだ方がいいと思いませんか？",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:22:10",
+      "utterance": "そのように感じておられるのですね。こちらは決してそのように思いませんよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:22:38",
+      "utterance": "なぜですか？ゴミクソ野郎は生きる価値なんかありますか？",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:23:24",
+      "utterance": "そう考えておられるのですね。どんなひとにも生きる価値はあると感じています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:24:04",
+      "utterance": "何故ですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:25:31",
+      "utterance": "あなたは苦しい時期はありながらも、海外大学進学に向けて歩みだそうとされています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:25:56",
+      "utterance": "決してゴミクソ野郎とは感じません。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:26:01",
+      "utterance": "それだって最後まで行けるかどうかわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:26:16",
+      "utterance": "また急に行けなくなってしまうかもしれません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:26:49",
+      "utterance": "大学を出てたとしても、社会に出たらまた同じことが起きるかもしれません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:27:02",
+      "utterance": "何をやってもダメなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:27:21",
+      "utterance": "ええ、先のことが不安に感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:27:56",
+      "utterance": "僕には生きる価値がないと思うんです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:28:30",
+      "utterance": "僕に生きる価値があると説得できますか？",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:29:03",
+      "utterance": "それほど、今は苦しんでおられるのですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:29:47",
+      "utterance": "教えてください。ゴミクソ野郎のどこに生きる価値があるのか？",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:31:42",
+      "utterance": "お話をお伺いして、何もできていないことはないように感じましたが、ご自身がゴミクソ野郎と感じるのはどういったことからなのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:32:23",
+      "utterance": "最後までやり通す前にいつもおかしくなってしまう。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:32:44",
+      "utterance": "やろうと思っても、切羽詰まるまで取りかかれない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:33:05",
+      "utterance": "いつもやるべきこととは違うことばかりやってしまう",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:33:27",
+      "utterance": "親を苦しめている",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:35:00",
+      "utterance": "そうだったのですね。親御さんの顔色を伺っているようにも感じましたが、いかがでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:35:31",
+      "utterance": "顔色をうかがっているわけではなく、直感でわかるんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:35:55",
+      "utterance": "そうなのですね。実際になにか言われたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:37:02",
+      "utterance": "言われたわけではありません。でも小さい時から期待は感じていました。僕は小さい時、割となんでもできる方だったので。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:37:41",
+      "utterance": "そうだったのですね。言われずとも親の期待を感じながら過ごしてこられたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:38:22",
+      "utterance": "そうです。親は色々な経験を僕にさせてくれました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:38:52",
+      "utterance": "今もです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:39:19",
+      "utterance": "そうだったのですね。でもその期待があなたにとって負担になっているのかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:39:58",
+      "utterance": "鬱状態からなんとか回復するよう、僕のために、僕が興味のあることはお金を惜しまず、やらせてくれました。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:41:15",
+      "utterance": "そうだったのですね。親御さんも大切なお子さんだからこそ、精一杯尽くしておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:41:28",
+      "utterance": "それで僕も回復できたと思っています。痛いほど、親が僕を思う気持ちは伝わってきます。でも、今後僕はそんな親を安心させることはできないんじゃないかと思っています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:42:22",
+      "utterance": "僕はダメなやつなんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:42:35",
+      "utterance": "そうなのですね。あなたの親御さんに対するお気持ちが伝わってきました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:44:45",
+      "utterance": "行動や態度で安心させることも１つですが、素直に言葉にして感謝を伝えることも安心してもらえるのではないかと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:45:31",
+      "utterance": "言葉で伝えたところで、行動が伴わなければ意味ないと思います",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:47:38",
+      "utterance": "今はそのように感じておられるのですね。すべてうまくやろうとするとしんどいので、１つずつやれることからこなしてみてもいいように感じますが、いかがでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:48:10",
+      "utterance": "ひとつとしてうまくできることはないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:49:54",
+      "utterance": "うまくできなくても、やるかやらないかを決めることが大事なようにも感じます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:50:56",
+      "utterance": "やると決めて、やろうと思っても、最後の最後になるまでやれないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:51:36",
+      "utterance": "皆ができることを僕はできないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:51:45",
+      "utterance": "親もそれがわかっていません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:52:16",
+      "utterance": "ぼくはやればできるといまだに信じています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:52:29",
+      "utterance": "そうなのですね。みんなと同じようにできると思われているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:52:29",
+      "utterance": "それが辛いんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:52:42",
+      "utterance": "僕にはできないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:53:29",
+      "utterance": "ええ、率直なあなたのお気持ちが伝わってきます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:53:46",
+      "utterance": "だから僕はゴミクソ野郎なんです。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:54:33",
+      "utterance": "そのお気持ちを親御さんに話してみてはいかがでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:56:04",
+      "utterance": "何度も話しましたが、「そんなふうには思わない」と。「できない子供」と子供の前で認めるのは良くないと思っているのだと思います",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T14:57:50",
+      "utterance": "そうだったのですね。そのように言われると余計、あなたの気持ちに負担がかかってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T14:58:27",
+      "utterance": "僕のことを信じているのだと思います。でも僕はそれに値しない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:00:21",
+      "utterance": "そのように感じるともどかしいですし、疲れてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:00:30",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:01:49",
+      "utterance": "親の期待が大きい分、それに答えられていないと感じると辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:01:58",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:04:13",
+      "utterance": "（時間が過ぎてしまいすみません。落としどころが見つけられず、迷走していますので、一旦ここで終わらせていただいてもよろしいでしょうか）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:04:33",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:06:29",
+      "utterance": "お話をお伺いして、あなたはご自身がやれる範囲でやってこられたように感じます。ただ、親の期待が大きい分、思っている以上にやらなければいけないお気持ちになっているのではないかと感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:06:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:07:54",
+      "utterance": "ですので、こちらは決してゴミクソ野郎とは思っていません。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:08:04",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:08:49",
+      "utterance": "本日はお時間となってしまいましたが、またお話の続きをお聞かせいただければと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:09:02",
+      "utterance": "今日はどうも有難うございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:09:28",
+      "utterance": "こちらこそ、大切なお話を聞かせていただき、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:10:13",
+      "utterance": "また、おひとりで抱えずこちらにご相談にお越しください。お待ちしております。ありがとうございました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:10:48",
+      "utterance": "（時間が超過してしまい、すみませんでした。大変勉強になりました。ありがとうございました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-30T15:11:15",
+      "utterance": "有難うございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-30T15:11:34",
+      "utterance": "（本日はこれにて終了させていただきます。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己評価の低さと親の期待によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5546,
+    "評価作成日時": "2023-07-30T16:18:00",
+    "クライアント役ID": 397,
+    "カウンセラー役ID": 294,
+    "点数": 64,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5546,
+    "evaluation_created_at": "2023-07-30T16:18:00",
+    "client_id": 397,
+    "counselor_id": 294,
+    "score": 64,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

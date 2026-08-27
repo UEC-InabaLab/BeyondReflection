@@ -1,0 +1,1431 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-04-06T17:53:12",
+      "utterance": "こんばんは。本日、クライエント役をさせていただきます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T17:53:23",
+      "utterance": "お時間になりましたら、よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T17:55:54",
+      "utterance": "こんばんは。こちらこそ本日はよろしくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T17:56:14",
+      "utterance": "時間になりましたら、はじめさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:00:16",
+      "utterance": "こんにちは、相談員です。最初に、年齢・性別・なんとお呼びしたらよいか教えて頂けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:00:25",
+      "utterance": "こんにちは。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:00:30",
+      "utterance": "40代",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:00:34",
+      "utterance": "男性",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:00:40",
+      "utterance": "鈴木と申します。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:01:06",
+      "utterance": "教えてくださってありがとうございます。鈴木さんですね。よろしくお願い致します。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:01:18",
+      "utterance": "本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:01:52",
+      "utterance": "はい。実は、人間関係でちょっと誰かに相談したくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:03:00",
+      "utterance": "そうだったんですね。人間関係のことで…もう少し詳しく教えて頂けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:04:09",
+      "utterance": "はい。こんなこと言うと、ちょっと感じ悪く聞こえるかもしれないですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:04:19",
+      "utterance": "いわゆる、ジャイアン的、というか、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:04:32",
+      "utterance": "場の空気を支配するタイプの人が苦手で、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:04:42",
+      "utterance": "（聞いてますよ）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:05:07",
+      "utterance": "そういう人がいると、つい少数意見というか、あ、この人面白いこと言ったな、みたいな瞬間に、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:05:36",
+      "utterance": "それを拾ってしまって、ジャイアン的な人の機嫌を損ねてしまうんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:05:50",
+      "utterance": "上司とかだったらまだ気が使えるのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:05:56",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:06:16",
+      "utterance": "親しい友達の旦那さんが、結構そのタイプで、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:06:51",
+      "utterance": "うまく付き合いたいんだけど、ちょっと模索中というか、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:07:03",
+      "utterance": "誰かに相談したくて、今日こちらにお邪魔しました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:08:12",
+      "utterance": "なるほどですね。付き合い方が難しいと感じておられるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:08:36",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:08:50",
+      "utterance": "でも、嫌いとかではないんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:09:20",
+      "utterance": "なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:09:41",
+      "utterance": "嫌いではないけども、なんだか付き合いにくいなといった感じですか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:09:55",
+      "utterance": "うまく付き合いたいんだけど、どうしたらいいかわからない感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:10:45",
+      "utterance": "なるほどですね。何とかしたいと思っていても、どうしたらいいかわからない、そういう時ありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:11:09",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:11:19",
+      "utterance": "鈴木さんのなかでは、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:11:41",
+      "utterance": "ジャイアンタイプのどのようなところが苦手だなと感じられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:12:10",
+      "utterance": "そうですね、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:12:37",
+      "utterance": "（聞いてますよ）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:14:04",
+      "utterance": "その人が中心じゃなく、話題が盛り上がった時、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:14:25",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:15:02",
+      "utterance": "あまり、面白くない様子というか、機嫌が悪くなってしまうところでしょうか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:15:43",
+      "utterance": "うんうん、なるほどですね。そのような様子を見られて、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:16:04",
+      "utterance": "鈴木さんは苦手だなと感じるということですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:16:26",
+      "utterance": "苦手だな、というのは言い過ぎたかもしれません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:16:41",
+      "utterance": "ただ、どうしたらこの人と仲良くなれるかな？と思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:17:07",
+      "utterance": "なるほど。そのような想いだったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:17:15",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:17:35",
+      "utterance": "なんとなく、僕がその人を無視して楽しんでしまったような気もして、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:17:49",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:17:55",
+      "utterance": "他に言い方や話題の振り方もあったんじゃないか、とか考えたりするのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:18:05",
+      "utterance": "結構毎回失敗してて　汗",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:18:44",
+      "utterance": "そうだったんですね。いろいろ考えておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:18:54",
+      "utterance": "そんなに頑張んないで、諦めちゃってもいいものなんでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:19:16",
+      "utterance": "なるほどですね。それは気になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:19:23",
+      "utterance": "親しい友達の旦那さんなので、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:19:33",
+      "utterance": "友達と気まずくもなりたくないし、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:20:14",
+      "utterance": "そうですよね。気も遣いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:20:15",
+      "utterance": "何か、楽しくコミュニケーション取れないか、とは思うのですが、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:20:23",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:20:34",
+      "utterance": "今から一緒に考えていきましょう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:20:52",
+      "utterance": "ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:21:19",
+      "utterance": "では、鈴木さんは本日の相談を通して、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:22:12",
+      "utterance": "ジャイアン的な親しい友達の旦那さんとの付き合い方を明確にできればいいなという想いですか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:22:55",
+      "utterance": "そうですね。明確にならなくても、可能性が見えたら、くらいでも嬉しいですw",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:23:25",
+      "utterance": "なるほどなるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:23:33",
+      "utterance": "可能性が見えるだけでも",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:23:42",
+      "utterance": "気持ちが楽になりそうですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:23:52",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:24:13",
+      "utterance": "ここまでお話を聴かせて頂いて、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:24:40",
+      "utterance": "鈴木さんは非常に周りの方の表情や仕草など、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:24:59",
+      "utterance": "細かなところに気配りできる方なのかなと思いましたが、いかがですか？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:25:12",
+      "utterance": "あ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:25:16",
+      "utterance": "すみません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:25:29",
+      "utterance": "いえいえ、大丈夫ですよ。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:26:07",
+      "utterance": "そういう傾向はあるかと思いますが、みなさんある程度そうなのではないか？と考えてしまいます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:26:55",
+      "utterance": "そうなんですね。では、鈴木さんの中では、気配りできるのは、普通のことといった感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:28:00",
+      "utterance": "う〜ん、そうではないですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:28:25",
+      "utterance": "あまり意識をして気配りをしたり、周りを感じたりしようとしているわけではないので、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:28:40",
+      "utterance": "特別、出来ている実感があまりなく、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:28:43",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:29:29",
+      "utterance": "むしろ、周りの人のコミュニケーション能力をいつもすごいな、と思うこともしばしばです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:30:03",
+      "utterance": "どちらかというと、我が強いタイプだと思います　汗",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:30:15",
+      "utterance": "そうだったんですね。そのようにお感じなんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:30:24",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:30:29",
+      "utterance": "どのようなところで我が強いと感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:31:03",
+      "utterance": "そうですね。元々我が強いタイプで、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:31:14",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:31:17",
+      "utterance": "仕事を始めた頃は、上司の言うことも聞けず、よく叱られました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:31:20",
+      "utterance": "でも、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:31:28",
+      "utterance": "すごく面倒見の良い上司で、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:31:31",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:31:55",
+      "utterance": "大人として、社会人としてのコミュニケーションの仕方をすごく丁寧に教えてくれたんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:32:06",
+      "utterance": "それはよかったんですけど、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:32:19",
+      "utterance": "最近、ちょっと大きな悲しいことがあって、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:32:36",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:32:42",
+      "utterance": "それを通して今に至って、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:33:03",
+      "utterance": "何となく、というか確実に",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:33:08",
+      "utterance": "以前とは違うというか、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:33:12",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:33:24",
+      "utterance": "人の話を聞けなくなってるな、という感覚が強くあります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:33:40",
+      "utterance": "あぁ、また我が強い状態に戻ってるな、、みたいな。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:33:51",
+      "utterance": "なるほど…素敵な上司と出会って、話を聴けるようになったけども、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:34:09",
+      "utterance": "今はもとに戻っているとお感じなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:34:24",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:34:28",
+      "utterance": "大変な思いをされたんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:34:50",
+      "utterance": "そうですね。正直、ちょっと信じられない程の大きな出来事だったので、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:35:00",
+      "utterance": "大変でした",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:35:48",
+      "utterance": "信じられないほどの・・・びっくりされましたね。差し支えなければ、大きな悲しいこととは、どのようなことか教えて頂けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:36:39",
+      "utterance": "はい。私は次男なのですが、妹が兄から猥褻行為を幼少期にうけていた事がわかったのです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:37:01",
+      "utterance": "妹は３０年間それを苦にしていて、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:37:21",
+      "utterance": "パニック障害など、さまざまな症状があったので、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:37:33",
+      "utterance": "そうだったんですね…",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:37:48",
+      "utterance": "生きるために、家族と縁を切ります、といって絶縁をしたんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:38:18",
+      "utterance": "僕も色々行動して、考えて、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:38:28",
+      "utterance": "今は妹の幸せを願うばかりですが、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:38:34",
+      "utterance": "とても大きい事でしたし、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:38:39",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:38:50",
+      "utterance": "自分ととても向き合って、とても深い重い経験をしたので、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:39:17",
+      "utterance": "なんか、以前の自分と同じようにみんなの話を聞けなくて、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:39:33",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:39:58",
+      "utterance": "ちょっと重い自分が出ちゃったり、冗談を返せなかったりすると、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:40:11",
+      "utterance": "気にしちゃう所が今はあるかもしれません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:40:23",
+      "utterance": "お話を聞いていただいている中で、そう感じました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:40:55",
+      "utterance": "なるほど…そうだったんですね。それは本当にショックでしたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:41:06",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:41:25",
+      "utterance": "なるほど。ではその出来事があって",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:41:45",
+      "utterance": "なかなか、人の話を聴けなかったり、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:42:16",
+      "utterance": "冗談を冗談として受け取れない自分がいるという感じなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:42:33",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:42:38",
+      "utterance": "何というか、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:42:45",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:42:48",
+      "utterance": "以前と同じように笑えないのが、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:42:56",
+      "utterance": "悲しいし、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:43:01",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:43:04",
+      "utterance": "自分で辛い時がありますね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:43:34",
+      "utterance": "そうなんですね。心から笑えない・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:43:43",
+      "utterance": "それはつらいですね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:44:30",
+      "utterance": "そうですね。どこか、胸に引っかかる部分があるような気はしてます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:44:50",
+      "utterance": "うんうん。そう感じるのも無理はないと思いますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:45:08",
+      "utterance": "ありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:45:13",
+      "utterance": "聞いていただけて嬉しいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:45:55",
+      "utterance": "うんうん。今は無理に、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:46:23",
+      "utterance": "元気になろうと思わずに、お話しをしていく中で、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:46:54",
+      "utterance": "整理をしていけたらと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:47:25",
+      "utterance": "はい。ありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:47:37",
+      "utterance": "うんうん。ここまで話してみていかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:47:54",
+      "utterance": "すごく、お話を聞いていただいて嬉しかったです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:48:06",
+      "utterance": "誰にでも話せる話ではないので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:48:13",
+      "utterance": "そして、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:48:31",
+      "utterance": "（うんうん、聞いてますね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:48:49",
+      "utterance": "みんなと楽しむようになるまでも、時間がかかってもいいのかな、と思えてきました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:48:59",
+      "utterance": "今はどうしてもまだ悲しいから、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:49:06",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:49:14",
+      "utterance": "無理して楽しもうとしないで、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:49:39",
+      "utterance": "今できる範囲で、やっていく方がいいな、という風に思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:49:53",
+      "utterance": "そのうち、また楽しめるようになったらいいな、とも思いますし。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:50:44",
+      "utterance": "なるほどですね。そのように思われたんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:51:04",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:51:17",
+      "utterance": "鈴木さんと同じような出来事を体験すると、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:51:42",
+      "utterance": "悲しい思いをしないわけがないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:51:51",
+      "utterance": "今話して頂いたように、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:52:26",
+      "utterance": "今は無理せずに、心の整理をしていくのが良いかもしれないですね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:53:09",
+      "utterance": "そうですね。何となく、頑張って楽しまなきゃ、とか、元気にならなくちゃみんなに迷惑かける、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:53:13",
+      "utterance": "みたいに思っていたので、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:53:25",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:53:52",
+      "utterance": "先ほど無理に元気になろうと思わずに、と言っていただけたのが、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:53:59",
+      "utterance": "すごく心が安らぎました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:54:09",
+      "utterance": "すごく頑張ってたんだな、と思って。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:54:56",
+      "utterance": "うんうん、そうだったんですね。鈴木さんの中で、気持ちを抑えて、頑張っておられたのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:54:57",
+      "utterance": "もちろん、頑張れる時は頑張りますけれど、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:55:04",
+      "utterance": "そうですね、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:55:15",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:55:30",
+      "utterance": "ある意味プレッシャーを勝手に感じてたのかもしれません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:55:46",
+      "utterance": "元気に見せなくては、心配させないように、みたいな。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:56:12",
+      "utterance": "なるほど。そのように感じられたんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:56:19",
+      "utterance": "もしかしたら、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:56:58",
+      "utterance": "妹の兄として、元気づけなきゃとか勇気づけなきゃという強い想いがあったのかもしれないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:58:00",
+      "utterance": "あ、妹は絶縁を言い渡されたので、もう会えない可能性が高いんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:58:13",
+      "utterance": "家族と関わると、記憶が蘇るから、ということで。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:58:29",
+      "utterance": "完璧に関係を絶つ事で、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:58:37",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:58:47",
+      "utterance": "生きる、という選択をしたんだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:59:00",
+      "utterance": "自分もギリギリまで失うのが嫌で、追いかけましたが、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T18:59:11",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:59:18",
+      "utterance": "それが返って忌まわしい記憶を呼び起こすことに気づいたので、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T18:59:32",
+      "utterance": "そっとしておく事を選んだんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:00:01",
+      "utterance": "そうだったんですね。鈴木さんも苦渋の決断だったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:00:25",
+      "utterance": "そうですね。生きているうちに、もう一度会えたらいいな、とはどこかで思っておりますけど。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:00:47",
+      "utterance": "なるほどですね。実現すると嬉しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:00:53",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:01:07",
+      "utterance": "うんうん、本日相談されてみて、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:01:14",
+      "utterance": "いかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:01:44",
+      "utterance": "気持ちを吐き出すことが出来て、とても心が安らぎました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:01:54",
+      "utterance": "色々整理がついて、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:02:12",
+      "utterance": "今更まだこの話をするのか？みたいな時期のように思えていたので、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:02:22",
+      "utterance": "自分が、まだ回復途中にあることを、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:02:33",
+      "utterance": "お話を聞いていただくことによって感じて、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:02:35",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:02:54",
+      "utterance": "何というか、今の自分がとてもよくわかりました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:03:09",
+      "utterance": "重い話を聞いていただいてありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:03:25",
+      "utterance": "そうだったんですね。とんでもございません。お手伝いできてよかったです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:03:39",
+      "utterance": "また、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:04:06",
+      "utterance": "色々整理していかれる中でも、ぜひこちらの窓口をご利用くださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:04:18",
+      "utterance": "はい。ありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:04:38",
+      "utterance": "それではこちらで相談を終了させていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:04:58",
+      "utterance": "はい。ありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:05:16",
+      "utterance": "いろいろ考えることもあると思いますが、ご自愛くださいね。今日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-06T19:05:33",
+      "utterance": "ありがとうございました。失礼いたします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-06T19:05:57",
+      "utterance": "ありがとうございました。失礼致します。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "親しい友達の旦那とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1578,
+    "評価作成日時": "2021-04-06T19:27:00",
+    "クライアント役ID": 157,
+    "カウンセラー役ID": 129,
+    "点数": 84,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1578,
+    "evaluation_created_at": "2021-04-06T19:27:00",
+    "client_id": 157,
+    "counselor_id": 129,
+    "score": 84,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

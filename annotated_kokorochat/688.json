@@ -1,0 +1,890 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-13T09:56:11",
+      "utterance": "いくらさん、おはようございます。画面に入っています。時間になりましたら、よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T09:56:34",
+      "utterance": "おはようございます。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T09:59:51",
+      "utterance": "こんにちは、相談員です。よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:00:00",
+      "utterance": "こんにちは、よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:00:24",
+      "utterance": "今日はご相談にお越し頂きありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:00:52",
+      "utterance": "初めにご年齢と性別、ご相談の中でなんとお呼びしたら良いかを教えて下さい。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:01:13",
+      "utterance": "35歳女性　いくらと申します",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:02:02",
+      "utterance": "ありがとうございます。いくらさん、今日はどの様なご相談でお越し頂きましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:02:18",
+      "utterance": "夫を信用できなくなってしまって、悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:02:53",
+      "utterance": "夫さんを信用できないと思ってしまうのは辛いことですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:03:00",
+      "utterance": "はい…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:03:14",
+      "utterance": "悩まれるのも当たり前と思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:03:34",
+      "utterance": "どの様なところが信用できないのか、教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:04:02",
+      "utterance": "去年夫が、ギャンブルで多額の借金を作っていた事が発覚しました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:04:11",
+      "utterance": "そして、失踪したんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:05:23",
+      "utterance": "それは大変なことですね。借金も、疾走も、どれほど驚かれていることでしょうと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:05:35",
+      "utterance": "失踪ごめんなさい",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:05:56",
+      "utterance": "自殺未遂をして病院に運ばれ、連絡が来て見つかりました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:07:15",
+      "utterance": "そこまで行ってしまったのですね。ご連絡を受けてのご心痛、はかり知れません。大変ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:07:56",
+      "utterance": "今現在は、どの様な状態なのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:08:14",
+      "utterance": "今は、仕事にも復帰して、全然普通に見えます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:09:22",
+      "utterance": "お身体は回復なさったと言うことですね、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:09:42",
+      "utterance": "はい、そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:09:59",
+      "utterance": "自殺未遂と言っても、そこまで危機的な物ではありませんでした",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:11:25",
+      "utterance": "そうでしたか、少し安心しました。病院から戻られてからはどの機雷の時が経っているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:11:38",
+      "utterance": "どのくらい",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:11:46",
+      "utterance": "ごめんなさい",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:12:00",
+      "utterance": "もう、1年は経ってますね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:13:08",
+      "utterance": "この一年は、ご夫妻としてどの様に過ごされていらしたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:13:53",
+      "utterance": "金融機関ではなく、あちこちからお金を借りていたので、その整理などをしていました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:14:22",
+      "utterance": "それは大変なことですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:14:31",
+      "utterance": "そのほとんどを、私が考える感じで、夫は楽しそうに復職しています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:15:39",
+      "utterance": "ほとんどをいくらさんがなさっているのですか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:15:51",
+      "utterance": "それはどんなに大変なことでしょう",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:15:59",
+      "utterance": "そうなんです…夫は、任せっきりといった感じで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:16:43",
+      "utterance": "自分のことなのに、無責任だと腹が立つのは当たり前のことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:17:28",
+      "utterance": "私の方が驚いているのに、夫はのんきなもんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:18:18",
+      "utterance": "呑気な顔をみていると、また腹が立つのも当然です。返済の状況などについて、夫さんと話し合う事はあるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:18:47",
+      "utterance": "最初のうちは、反省からなのか、一緒に返済計画を考えてましたね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:19:28",
+      "utterance": "それがいつの間にか止まってしまったのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:19:50",
+      "utterance": "どんどん逃げていった感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:20:12",
+      "utterance": "何か言うと、また自殺するような事を言ってきます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:20:34",
+      "utterance": "まあひどい、脅かしてくるのでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:21:07",
+      "utterance": "自分はこんなに悩んでいるのに、追い詰めてきた…みたいに、被害者的な態度になります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:21:49",
+      "utterance": "被害者は、いくらさんであることに気づいていないのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:22:00",
+      "utterance": "本当に、それなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:22:10",
+      "utterance": "被害者は明らかにいくらさんです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:22:23",
+      "utterance": "当初、病院から紹介された、ギャンブル依存症の会に行ってたのですが色々理由をつけて、行かなくなりました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:24:20",
+      "utterance": "依存症はきちんと治療しないと元に戻ると一般的には言われています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:24:32",
+      "utterance": "そうですよね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:25:42",
+      "utterance": "いくらさんもギャンブル依存症の会には同行なさったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:26:08",
+      "utterance": "家族が行って良い日のには、行きました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:27:02",
+      "utterance": "一緒に向かい合おうとなさったのですね、とても素晴らしい行動だと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:27:36",
+      "utterance": "やめてしまった理由はわかりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:27:47",
+      "utterance": "1人で行かせるのも、心配というか、本当にちゃんと向き合う姿勢で行ってるのか不安で",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:28:30",
+      "utterance": "月1しかなくて、一応今も継続中にはなってますが、体調が悪いだので、全然行ってませんね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:29:04",
+      "utterance": "でも、地域の集まりみたいな物には参加して、お酒を飲んだりしてるので、腹が立ちます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:31:00",
+      "utterance": "これまでのお話を少しまとめさせていただきますね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:31:04",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:31:32",
+      "utterance": "夫さんがギャンブルから多額の借金をし、自殺未遂まで、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:31:46",
+      "utterance": "その借金に一人で対応する状態",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:32:09",
+      "utterance": "ギャンブル依存症の会にもあまり行かなくなっt",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:33:09",
+      "utterance": "近所の飲み会には出かける、仕事も楽しそうにしている様に見える。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:33:40",
+      "utterance": "話を詰めようとすると、また自殺すると脅す。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:34:21",
+      "utterance": "一つ質問です、それでもあなたをつなぎ止めている夫さんへの思いは何ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:34:55",
+      "utterance": "やはり子供がいるので、家庭を壊したくないという事ですかね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:35:27",
+      "utterance": "夫がどうとかいうより、子供達に悟られないように、普通にしようと努力してます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:35:59",
+      "utterance": "そうなんですね、子供さんがいらっしゃるのですね。子供さんは何人で、何歳か教えてください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:36:26",
+      "utterance": "中2，高1の2人です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:36:44",
+      "utterance": "多感なお年頃ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:36:52",
+      "utterance": "そうなんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:38:22",
+      "utterance": "いくらさんが悟られない様にとしても、家庭内の様子は察してしまうお年頃と思いますが、どの様な様子でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:39:00",
+      "utterance": "こんな事が発覚するまでは、夫はとても子煩悩で、家庭の事も沢山してくれる、良い夫だったんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:39:45",
+      "utterance": "そうだったんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:39:50",
+      "utterance": "だから私もとても驚きましたし、しばらく失踪してた時は、子供達も驚いていましたが、自殺未遂の事や借金の事は、言ってないんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:40:04",
+      "utterance": "だから、今も、子供にとっては優しい父親でしょう",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:41:27",
+      "utterance": "子供さんにとっては、お母様も大切なお母様です。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:41:51",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:43:04",
+      "utterance": "お母様が悩んでいる事は、子供さんは肌で感じてらっしゃると思うのです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:43:29",
+      "utterance": "疲れてる感じには見えるでしょうね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:44:35",
+      "utterance": "夫さんに、子供さんたちへの思いを含めて、ご自分の気持ちを伝える事が大切だと思うのですが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:45:53",
+      "utterance": "自殺するなどと言う脅しをいうのは、拒絶感が先に起こってしまうのだと思うのですが、いかがでしょうか、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:46:48",
+      "utterance": "どういうつもりでそう言うのか、私にはわかりませんが",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:47:04",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:47:06",
+      "utterance": "私が何か言う事でまた、俺なんかもういない方が良いから死ぬ、とか、消えるとか言われないかが、とても心配です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:47:42",
+      "utterance": "そうですよね、言うことが怖くなってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:47:55",
+      "utterance": "脅しで言ってるのか、そこでまた本気で、俺なんか…と思ってるのかも、ちょっとよくわからなくて…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:48:58",
+      "utterance": "ひょっとしたら、夫さんもよくわからず、言いながら、自分の気持ちに問いかけているのかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:49:24",
+      "utterance": "そうなんですかね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:49:58",
+      "utterance": "いくらさんの思いの伝え方で、チャレンジしてみていただきたい方法があるのですが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:50:03",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:50:35",
+      "utterance": "あなたはこうだから、とか、あなたはこうしてよ、とかの言い方ではなく、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:51:06",
+      "utterance": "私は、こう思っている。私は、こう感じてしまう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:51:36",
+      "utterance": "この様に、自分の気持ちから話え行く伝え方です。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:51:48",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:52:25",
+      "utterance": "あなたはこうだから！と言われると、人はまず、反発から対応してしまうのが一般的の様です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:53:03",
+      "utterance": "でも、私はこう感じていると切り出されると、意外と思いが伝わっていくことがあります。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:53:35",
+      "utterance": "なるほど",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:53:38",
+      "utterance": "子供さんのことも思い、そして、家族のことを思って、責任感のあるいくらさんですから、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:53:57",
+      "utterance": "たくさんの、愛情あるメッセージが送れると思うのです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:54:29",
+      "utterance": "私は、夫を信用できないと思って悩んでいますが　私の考え方というよりも、夫の受け取り方が変わる？方に期待という事でしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:57:25",
+      "utterance": "そうですね。まず、お話ができる様になって、そこでいよいよ生き方が違うぞと思ったら、そこで子供さんたちも交えて、家族について話し合うことも大切かと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:57:46",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T10:58:21",
+      "utterance": "なぜ、信用出来ないのか、と言う原因もはっきりしてくるかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:58:40",
+      "utterance": "そこはとてもわかっていて",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T10:59:04",
+      "utterance": "夫の外面の良さと、裏でしてきた事の二面性ですね…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:00:26",
+      "utterance": "信用出来ない理由は、はっきりとわかっていらっしゃるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:01:02",
+      "utterance": "今日までの理由は、そう感じていました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:01:26",
+      "utterance": "ここから変わるかどうかは、今はまだよくわからないですが…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:01:46",
+      "utterance": "変われるなら、楽だなーって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:02:10",
+      "utterance": "でも、話す事、試してみます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:02:27",
+      "utterance": "はい、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:03:05",
+      "utterance": "会話が変わることで、気持ちの交流が変わるかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:03:23",
+      "utterance": "そうですね、何かをやってみない事には…ですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:04:06",
+      "utterance": "あなたは！メッセージを少しおやすみして、私は…、メッセージを試してみてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:04:18",
+      "utterance": "わかりました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:04:44",
+      "utterance": "そんな中で、あなたのお気持ちがだんだん伝わり、夫さんがなぜそうなのかも、見えてくるかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:04:53",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:05:27",
+      "utterance": "大きな借金に、一人で立ち向かおうとしているあなたですから、こんなご提案も受け入れてくださるかと思いました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:05:49",
+      "utterance": "ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:06:22",
+      "utterance": "少しでもおらくになられる様にの思います。今日はご相談に来てくださってありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:06:30",
+      "utterance": "ありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:06:39",
+      "utterance": "またご相談してみたいと思われた時には、気軽に来ていただけたら嬉しいです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:06:55",
+      "utterance": "はい、ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:07:21",
+      "utterance": "終了させていただきますが、よろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T11:07:29",
+      "utterance": "はい、大丈夫です",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T11:07:35",
+      "utterance": "今日はありがとうございました。それではカウンセリングを終了致します。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫のギャンブル依存と信用問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 688,
+    "評価作成日時": "2020-11-13T11:11:00",
+    "クライアント役ID": 22,
+    "カウンセラー役ID": 106,
+    "点数": 86,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 688,
+    "evaluation_created_at": "2020-11-13T11:11:00",
+    "client_id": 22,
+    "counselor_id": 106,
+    "score": 86,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:50:38",
+      "utterance": "こにんちは。どうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:51:01",
+      "utterance": "こんにちは。こちらこそ、よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:52:08",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:52:34",
+      "utterance": "今日の課題、テーマ等ございますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:53:41",
+      "utterance": "クライエントになり、クライエントの気持ちを感じることです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:54:09",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:55:40",
+      "utterance": "いま、中高生の課題に取り組んでいます。よろしかったら、中高生の設定でお願いさせていただくのは、いかがでしょうか",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:56:11",
+      "utterance": "はい、承知致しました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:56:24",
+      "utterance": "どうもありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:57:02",
+      "utterance": "お時間になりましたら、はじめさせていただきます。どうぞよろしくお願いいたします。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:57:14",
+      "utterance": "承知致しました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:00:07",
+      "utterance": "こにんちは。相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:00:20",
+      "utterance": "今日は、ご相談にお越しいただいて、どうもありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:00:38",
+      "utterance": "まずはじめに、よろしかったら、年齢、学年、性別をお聴きしてもよろしいでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:01:26",
+      "utterance": "13才 男子",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:01:42",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:02:04",
+      "utterance": "中学２年生でしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:02:12",
+      "utterance": "中一",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:02:46",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:03:23",
+      "utterance": "今日は、どんなご相談ですか。お話ししやすいところからお話ししてくださいね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:03:28",
+      "utterance": "^",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:03:39",
+      "utterance": "学校に行きたくない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:03:53",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:04:07",
+      "utterance": "それは、悩まれますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:04:32",
+      "utterance": "学校で、どんなことがありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:05:09",
+      "utterance": "学校に行くのめんどくさい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:05:35",
+      "utterance": "そう思われるのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:05:52",
+      "utterance": "行かなくていいならいきたくない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:06:05",
+      "utterance": "どんな時に思うのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:06:22",
+      "utterance": "朝起きたらそう思う",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:06:45",
+      "utterance": "なるほど、それはつらいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:07:02",
+      "utterance": "別に辛くないけど",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:08:33",
+      "utterance": "そうなのですね。めんどくさいとは、具体的に、どんなことがめんどくさいと思われますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:09:01",
+      "utterance": "行くのがめんどくさいかな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:09:35",
+      "utterance": "なるほど・・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:10:30",
+      "utterance": "あなたにとって、学校はどんな感じに思うでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:10:48",
+      "utterance": "義務教育",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:11:54",
+      "utterance": "なるほど、そう思われるのですね。もう少し、感じていることをゆっくりでいいので、お話ししていただいても、いいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:12:52",
+      "utterance": "決まってるから行くだけ行かなくていいなら行きたくない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:14:23",
+      "utterance": "なるほど・・・。義務としていかなくてはならないことは、重いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:14:50",
+      "utterance": "学校では、どのように過ごしているのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:15:24",
+      "utterance": "勉強してお昼食べて部活やって帰るの繰り返し",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:17:47",
+      "utterance": "そうなのですね。部活はどんなことをしているのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:17:56",
+      "utterance": "テニス部",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:18:41",
+      "utterance": "なるほど・・・。部活はどんな感じですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:19:19",
+      "utterance": "ふつに練習してる",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:20:08",
+      "utterance": "ふつうに",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:20:32",
+      "utterance": "体を動かすこと、いいですね。勉強しながら、部活をするのも忙しいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:21:14",
+      "utterance": "小学校から中学校になって、気になることありますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:21:40",
+      "utterance": "友達がいない",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:22:01",
+      "utterance": "それは、寂しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:23:30",
+      "utterance": "クラスの仲間、部活の仲間とはどのように過ごしているの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:24:05",
+      "utterance": "話したりはふつうにしてる",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:25:35",
+      "utterance": "お話しできる人がいるのは、いいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:26:43",
+      "utterance": "あなたにとって、お友達とはどんな人ですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:27:09",
+      "utterance": "なんでも話せる人かな",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:28:58",
+      "utterance": "なるほど、なんでも話せたら、心が通じ合う感じで嬉しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:29:56",
+      "utterance": "小学校のときは、お友達とどんな感じですごしていたのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:30:36",
+      "utterance": "小学校でも友達はいなかったかな",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:31:26",
+      "utterance": "そうなのですね。長い間、寂しく思われてきましたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:35:02",
+      "utterance": "そのなか、ご相談にきていただいて、どうもありがとうございます。あなたが少しでも、楽になれるよう一緒に考えていきたいと思います。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:35:44",
+      "utterance": "ここで、お話しをまとめさせていただきますね。いいでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:35:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:38:37",
+      "utterance": "学校へいきたくないとのご相談。学校へは、義務としていっていいるが、行かなくてすむならば、行きたくない。クラス、部活でお話しする人はいるが、なんでも話せる友達がいないと感じている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:38:49",
+      "utterance": "いかがでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:39:03",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:39:54",
+      "utterance": "あなたは、いま一番どのようになりたいと思っていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:41:25",
+      "utterance": "どのように。。学校に行きたくない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:44:41",
+      "utterance": "なるほど・・・。学校に行くのが、苦痛ですね。もし、心が通じ合うお友達ができたら、いかがでしょうか・・・。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:46:02",
+      "utterance": "友達がいれば楽しいかな",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:46:25",
+      "utterance": "そう思われるのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:47:22",
+      "utterance": "お友達がいたら、嬉しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:49:21",
+      "utterance": "学校で、お話しする人には、どんなふうにお話ししているのですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:50:23",
+      "utterance": "委員の仕事とか、係とかやる時はふつうに話すかな",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:52:41",
+      "utterance": "そうなのですね。委員会、係りのお仕事で、人と関わっているのですね。お仕事に向き合っているところ、大切ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:53:14",
+      "utterance": "そんなとき、あなたはどんな気持ちですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:54:27",
+      "utterance": "係の仕事してるだけで特に何も。。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:56:55",
+      "utterance": "学校のお仕事をきちんとしていることは、あなたは大切な存在ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:01:21",
+      "utterance": "学校へ行きたくないとのことですが、お友達との関係以外に気になっていることどんなことありますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:02:21",
+      "utterance": "学校まで行くのが遠いことかな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:03:58",
+      "utterance": "そうなのですね。それは、行くのが嫌になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:04:18",
+      "utterance": "どのくらいかかりますか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:04:41",
+      "utterance": "1時間くらい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:06:47",
+      "utterance": "１時間は、きついですね。中学になり、お勉強も大変だと思います。部活もして、通学ながいと嫌になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:07:54",
+      "utterance": "お友達がいたら、あなたは学校でどのようにすごしたいと思いますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:08:35",
+      "utterance": "楽しく過ごせると思う",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:09:27",
+      "utterance": "お友達と一緒に過ごせたら、いいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:11:12",
+      "utterance": "学校で、どんな人とお友達になりたいと思いましたか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:11:45",
+      "utterance": "気が合う友達が欲しい",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:12:48",
+      "utterance": "素敵ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:13:33",
+      "utterance": "あなたの気の合う友達はどんなひとですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:14:47",
+      "utterance": "話が会う人かな",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:15:38",
+      "utterance": "お話があったら、楽しいですよね。どんなお話しができたら、いいですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:16:12",
+      "utterance": "好きなアニメとか、スポーツとかの話がしたい",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:16:32",
+      "utterance": "とても、いいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:17:14",
+      "utterance": "好きなことを一緒にはなせたら、わくわくしますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:19:36",
+      "utterance": "ここで、感じたことをまとめさせていただきますね。いいでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:19:45",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:23:44",
+      "utterance": "学校へいきたくい理由の一つにお友達がいないことがある。勇気をもってご相談にきていただいたこと、前に向きたい気持ちが伝わってきました。好きなアニメ、スポーツのことをお話したりして、お友達とは心を通じる関係になりたい、そんなお友達を希望している。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:26:18",
+      "utterance": "あなたは、部活、委員会、係り　お仕事など、関わることに取り組まれている。人とのつながりを大切にしています。そして、ご自分のなりたいお友達のことも認識されている。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:26:27",
+      "utterance": "「申し訳ございませんが、お時間が過ぎているようですが」",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:27:22",
+      "utterance": "（すみません、お時間超過してしまいました。終了した方がよろしいでしょうか。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:27:55",
+      "utterance": "「申し訳ございませんが予定があります」",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:28:47",
+      "utterance": "たいへん失礼をいたしました。では、終了させていただきます。貴重なお時間をいただいて、どうもありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:29:58",
+      "utterance": "「すみませんが失礼致します」",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:30:19",
+      "utterance": "「お疲れ様でした。ありがとうございました」",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:30:31",
+      "utterance": "失礼いたします。",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行くのが面倒な理由"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2148,
+    "評価作成日時": "2021-07-07T11:57:00",
+    "クライアント役ID": 17,
+    "カウンセラー役ID": 191,
+    "点数": 43,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2148,
+    "evaluation_created_at": "2021-07-07T11:57:00",
+    "client_id": 17,
+    "counselor_id": 191,
+    "score": 43,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

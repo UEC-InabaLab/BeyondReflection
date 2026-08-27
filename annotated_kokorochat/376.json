@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:00:21",
+      "utterance": "よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:01:01",
+      "utterance": "ききたいんですけど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:01:34",
+      "utterance": "周りの人から求められてることと、自分のやりたいことが違うときどうしたら良いですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:03:11",
+      "utterance": "ご相談ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:04:17",
+      "utterance": "今、心の中で色々な葛藤がおありなんですね、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:04:50",
+      "utterance": "はい、そんな感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:05:10",
+      "utterance": "それは苦しいですよね、、。状況をもう少し詳しく知りたいので教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:07:09",
+      "utterance": "リーダーをやりたくないんですけど、前にやってたからっていう理由でやらないと行けない感じになってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:09:14",
+      "utterance": "リーダー業務が好きではないのですね。前にやっていたからという理由でやらされるのは納得いかないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:10:09",
+      "utterance": "先生もそんな雰囲気出してくるのもあって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:10:20",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:12:09",
+      "utterance": "言葉にはしないけど、圧力を感じるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:12:29",
+      "utterance": "やったら？って言ってきます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:13:08",
+      "utterance": "すみません、、。先生というのは上司になるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:13:41",
+      "utterance": "いや、先生です()",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:14:52",
+      "utterance": "状況が把握できていなくてすみません。学生さんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:15:01",
+      "utterance": "はい、そうです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:15:21",
+      "utterance": "教えてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:15:54",
+      "utterance": "先生に言われると、断れないですよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:17:26",
+      "utterance": "皆もやればいいのにーみたいなこと言ってくるし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:18:07",
+      "utterance": "先生にも言われるし、周りにも言われるし、、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:18:39",
+      "utterance": "みんなであなたをリーダーにさせようとする雰囲気の中にいるのは辛いですね、、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:19:33",
+      "utterance": "批判されても自分の思うようにすべきでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:21:25",
+      "utterance": "自分の思うようにしたことはあるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:21:43",
+      "utterance": "あ、リーダーをやらないってことです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:22:19",
+      "utterance": "はい。みんなからリーダーをするように言われて、しなかったことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:23:20",
+      "utterance": "一回だけあって、そのときはまぁ酷くて、私がやってれば良かったねって言われました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:23:50",
+      "utterance": "１回頑張ってやらなかったことがあるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:24:17",
+      "utterance": "その時、酷くて、、、とは具体的にどのような感じだったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:25:08",
+      "utterance": "全然連携とれてなくてグダグダだった",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:25:45",
+      "utterance": "他の人がリーダーだと全然機能していなかったのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:26:14",
+      "utterance": "あなたはその時、そう思ったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:26:35",
+      "utterance": "↑すみません。打ち間違えました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:26:44",
+      "utterance": "どう思ったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:27:27",
+      "utterance": "みんなから私がリーダーやった方が良かったよって言われてうーんって感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:27:59",
+      "utterance": "うーん、、、。複雑なお気持ちですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:29:44",
+      "utterance": "グダグダになるのも嫌ですし、かと言ってしたくないものはしたくないしという感じでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:32:06",
+      "utterance": "グダグダはしょうがないと思うんですけど",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:32:21",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:32:34",
+      "utterance": "皆から言われるならやった方がいいのかなと",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:32:43",
+      "utterance": "そんな感じです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:33:18",
+      "utterance": "リーダーやることに対して、すごく嫌ってほどでもないってことかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:34:57",
+      "utterance": "うーん、、、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:35:21",
+      "utterance": "やっぱり嫌、、、？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:35:44",
+      "utterance": "やりたくない気持ちが強いです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:36:15",
+      "utterance": "嫌なことをストレスになるくらいならやらなくていいと私は思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:36:28",
+      "utterance": "でも批判されそうで",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:36:53",
+      "utterance": "批判されるって、例えばどんなふうに言われそう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:37:35",
+      "utterance": "前に言われたのはそんなの努力してるって言わないって",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:38:03",
+      "utterance": "それは同じ学生さんに言われたの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:38:18",
+      "utterance": "クラスの人",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:38:39",
+      "utterance": "そうなんですね。そもそも努力しないといけないことだと思う？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:39:49",
+      "utterance": "リーダーをするには努力が必要かって質問で合ってますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:41:28",
+      "utterance": "「努力とリーダーにはどういう関係性があると思うか」ってことを聞きたかったです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:41:41",
+      "utterance": "わかりづらくてすみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:42:49",
+      "utterance": "うーんと、リーダーするのにも私なりに頑張ってきたつもりで、頑張ってるのに！って言ったらそう言われたんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:43:09",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:43:59",
+      "utterance": "努力しているのに「努力していない」って他人に言われて、それは辛いよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:44:21",
+      "utterance": "だからやりたくないんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:44:44",
+      "utterance": "そんな批判的なことを言われるのは嫌な気持ちになるよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:45:05",
+      "utterance": "リーダーはみんなで回していくものではないの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:46:17",
+      "utterance": "一応今回の行事からは、私一人じゃやりませんって行って5人でやるんですけど、私にばっかり仕事が回ってくる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:46:29",
+      "utterance": "言って です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:47:34",
+      "utterance": "それはひどいね。でも、ちゃんと勇気出して「やりません」って言って頑張ったんだね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:48:00",
+      "utterance": "とは言えやってるんですけど()",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:48:32",
+      "utterance": "言ってもダメか、、、。先生に言っても、わかってもらえないんだよね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:49:13",
+      "utterance": "良い経験になるよみたいな感じで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:49:51",
+      "utterance": "確かに経験にはなるかもしれないけど、不平等に感じるよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:50:34",
+      "utterance": "どうしたらいいか。。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:51:20",
+      "utterance": "悩むね、、、。あなたはどうなりたい、どうなればいいって思っている？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:51:37",
+      "utterance": "やりたくないですね、、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:52:09",
+      "utterance": "他の人にも平等にやってほしいよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:52:41",
+      "utterance": "ちなみにリーダー以外の仕事はあるの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:52:42",
+      "utterance": "うーん別に平等じゃなくていいと思うんですけどね",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:53:23",
+      "utterance": "あります",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:53:58",
+      "utterance": "そっか。あんまり平等かどうかは気にしていないんだね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:54:10",
+      "utterance": "やりたい人がやればいいと思っているので",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:54:44",
+      "utterance": "リーダーやりたい人はいるの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:54:58",
+      "utterance": "他の仕事ならできそう？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:55:05",
+      "utterance": "いて、今回の5人の中の一人です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:55:45",
+      "utterance": "ん？もう今回リーダーになってます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:56:00",
+      "utterance": "そのリーダー好きの人はあなたに「リーダーして」って言っているの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:56:34",
+      "utterance": "そうなんだね。もう今回すでにリーダーになっているんだ、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:57:34",
+      "utterance": "別に言ってるわけじゃないんですけど私がいつもやる流れになってたんで言いづらかったんだと思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:57:59",
+      "utterance": "そうそう、なってます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:58:34",
+      "utterance": "そっか。そういう雰囲気がそうさせてしまったんだね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:58:50",
+      "utterance": "今日はお話を聞かせていただいてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T12:59:39",
+      "utterance": "お時間が近づいてきてしまったので、今日はここで終了させていただきたいと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T12:59:58",
+      "utterance": "お疲れさまでした",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T13:00:53",
+      "utterance": "一度に解決するのは難しいですけれども、今後も解決方法を一緒に考えていければと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T13:02:11",
+      "utterance": "では終了しますね。ありがとうございました。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "リーダー業務に対する圧力とストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 376,
+    "評価作成日時": "2020-08-27T14:14:00",
+    "クライアント役ID": 48,
+    "カウンセラー役ID": 74,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 0,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 376,
+    "evaluation_created_at": "2020-08-27T14:14:00",
+    "client_id": 48,
+    "counselor_id": 74,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

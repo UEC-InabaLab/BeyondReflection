@@ -1,0 +1,631 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:01:23",
+      "utterance": "こんばんは相談員です。よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:01:41",
+      "utterance": "こんばんは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:01:48",
+      "utterance": "最初に年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:02:30",
+      "utterance": "１６歳女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:02:43",
+      "utterance": "お返事ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:02:52",
+      "utterance": "学年も教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:03:16",
+      "utterance": "高校２年生です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:03:29",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:03:39",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:04:54",
+      "utterance": "授業中クラスメートがうるさくて授業に集中できないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:05:27",
+      "utterance": "そうなんですね。それは困りましたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:05:51",
+      "utterance": "どうすればいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:06:16",
+      "utterance": "そこはご一緒に考えていきましょう。なんの授業の時にそんな状態になるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:06:54",
+      "utterance": "全ての授業です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:07:13",
+      "utterance": "それは困りますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:08:06",
+      "utterance": "いつも授業中にうるさくするクラスメートは特定の何人かの人たちですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:08:21",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:08:54",
+      "utterance": "いつもうるさくする特定の人たちは何人ぐらいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:09:27",
+      "utterance": "６人くらいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:09:48",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:10:05",
+      "utterance": "困った事ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:10:59",
+      "utterance": "先生はその子たちが授業中にうるさくするときは、どんな対応をしているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:12:25",
+      "utterance": "しっかり注意するのですがまたうるさくなってしまってその繰り返しです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:13:31",
+      "utterance": "そうなんですね。先生が注意してもまたうるさくなるのでは困ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:13:58",
+      "utterance": "どの先生の時も同じようなことが起こっているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:15:18",
+      "utterance": "そうですね全ての授業うるさくなってしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:15:38",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:16:44",
+      "utterance": "本当にお困りですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:16:53",
+      "utterance": "あなたにとって、授業でうるさくする子たちがいるために集中できなくて一番困ることは何ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:17:33",
+      "utterance": "先生の話が聞けなくて黒板に書かないことを聞き逃してしまうことです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:18:17",
+      "utterance": "なるほど。大事な事を聞き逃してしまうかもしれないという点ですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:18:30",
+      "utterance": "それは心配ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:19:04",
+      "utterance": "あなた以外のクラスメートも同じように困っているのでしょうね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:19:21",
+      "utterance": "他の人は何か言っていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:20:07",
+      "utterance": "そうだと思いますみんな我慢して授業を受けていると言っていました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:20:29",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:20:46",
+      "utterance": "多くのクラスメートも困っているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:21:24",
+      "utterance": "その特定の6人の人たちが授業中に騒ぐようになったのは何時ごろからですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:22:57",
+      "utterance": "何時ごろって言うのはなくて朝からずっとです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:23:28",
+      "utterance": "一日中なんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:23:38",
+      "utterance": "教えてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:25:16",
+      "utterance": "その子たちが騒ぐようになったのは、いつごろから？というのは、例えば6月からとか、あるいは2学期に入ってからとかそんなことをお聞きしてみた方のですが・・・",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:27:45",
+      "utterance": "1学期のはじめからです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:28:09",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:28:36",
+      "utterance": "2年になった時にクラス替えはあったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:30:57",
+      "utterance": "ありましたが人数の関係上あまり変わらなかったです逆にうるさいひとが増えました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:31:31",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:32:23",
+      "utterance": "あなたとしては、そのうるさい人たちの何人かは1年の時も一緒のクラスだったのでしょうね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:32:40",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:33:05",
+      "utterance": "それはほとほと困っている状態が続いているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:34:16",
+      "utterance": "あなたとしては、どうしてその子たちが授業の中でうるさくするのだと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:35:54",
+      "utterance": "わからないですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:36:13",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:36:42",
+      "utterance": "とにかく、授業の中でうるさくされるのは困りますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:38:50",
+      "utterance": "学校の中にスクールカウンセラーはきていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:39:45",
+      "utterance": "きています",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:39:57",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "utterance": "今までのお話しの中で、授業中に各先生方は、その子たちに注意はしてくれているけれど、またすぐうるさい状態に戻ってしまうことを繰り返しているとのお話しでした。",
+      "tag": "Paraphrase",
+      "time": "2021-10-05T19:41:28"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:42:12",
+      "utterance": "そうすると、スクールカウンセラーの人の手を借りる必要がありそうな気がするのですが。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:42:22",
+      "utterance": "どう思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:42:54",
+      "utterance": "直接話すのは苦手なんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:43:44",
+      "utterance": "あなたが一人で直接話さなくてもやり方はあると思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:44:30",
+      "utterance": "例えばとして、一つの対応をお話してもいいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:44:35",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:45:47",
+      "utterance": "対応例１１　先ず、クラスメートであなたと同じように、困っている生徒を見つけます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:46:37",
+      "utterance": "２　その子と、タイミングを合わせて、親御さんに、クラスの状況と、困っていることを話します。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:48:01",
+      "utterance": "３　親御さんたちから、学校のスクールカウンセラーに直接、または、学年主任経由で、なんとか対応してくれるように依頼してもらいます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:48:44",
+      "utterance": "※あなたの親御さんだけではなく、複数の親御さんから、同時に訴えが出てくると、学校としても放置できなくなると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:48:52",
+      "utterance": "いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:52:01",
+      "utterance": "複数の親を巻き込むのは難しい気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:52:31",
+      "utterance": "それは、どうしてそう思われるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T19:55:20",
+      "utterance": "クラスメイトは近くに住んでいないし、接点を見つけるのは難しいと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:55:53",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:57:42",
+      "utterance": "あまり、大々的な議論をするとなると大変ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T19:59:26",
+      "utterance": "もしかしたら、学校でお昼休みとか、休憩時間にちょっとづつ話していけたらいいかなと思うのですが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T20:00:03",
+      "utterance": "考えてみます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:00:19",
+      "utterance": "是非。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:00:31",
+      "utterance": "応援していますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T20:00:42",
+      "utterance": "わかりました。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:00:44",
+      "utterance": "またご相談にいらしてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T20:00:56",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:00:58",
+      "utterance": "ご一緒に考えさせていただきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:01:19",
+      "utterance": "今日は、一旦ここまででよろしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T20:01:33",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:01:47",
+      "utterance": "では、失礼させていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T20:02:17",
+      "utterance": "失礼いたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:02:48",
+      "utterance": "今日はご相談に来てくださりありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-05T20:03:06",
+      "utterance": "（ロールプレイありがとうございました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-05T20:03:34",
+      "utterance": "(お疲れ様でした。ありがとうございました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "授業中の騒音による集中障害問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2528,
+    "評価作成日時": "2021-10-05T20:37:00",
+    "クライアント役ID": 204,
+    "カウンセラー役ID": 5,
+    "点数": 39,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 0,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2528,
+    "evaluation_created_at": "2021-10-05T20:37:00",
+    "client_id": 204,
+    "counselor_id": 5,
+    "score": 39,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

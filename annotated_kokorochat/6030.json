@@ -1,0 +1,539 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-11-28T12:52:18",
+      "utterance": "こんにちは。今日はよろしくお願いいたします。お時間になりましたら、こちらから始めさせていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T12:53:11",
+      "utterance": "（よろしくお願いいたします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:00:16",
+      "utterance": "こんにちは。相談員です。本日は、ご相談に来てくださりありがとうございます。まず始めに、年齢、性別、今回のご相談内容をお聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:00:38",
+      "utterance": "こんにちは。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:00:42",
+      "utterance": "中２",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:00:45",
+      "utterance": "女",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:00:50",
+      "utterance": "学校に行きたくない。どうしよう。。。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:02:15",
+      "utterance": "教えていただき、ありがとうございます。そうなんですね。学校に行きたくないと思われているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:02:46",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:03:52",
+      "utterance": "学校に行きたくなくなる程、お辛い体験をされたのですね。少し詳しく教えていだだくことはできますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:04:38",
+      "utterance": "何をくわしく話せばいいですか。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:05:58",
+      "utterance": "どういったことで、学校に行きたくないとお感じになられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:06:14",
+      "utterance": "給食の時間が嫌いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:06:52",
+      "utterance": "そうなんですね。給食の時間が嫌なのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:07:01",
+      "utterance": "はい。嫌いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:07:50",
+      "utterance": "それはいつくらいから、お辛いきもちを抱えてらっしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:08:41",
+      "utterance": "中２の２学期からです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:09:36",
+      "utterance": "うん、うん、そうなんですね。それまでは大丈夫だったんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:10:10",
+      "utterance": "いや、食べることが嫌いなので。。。前から好きではなかったかも。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:11:36",
+      "utterance": "そうだったんですね。以前からあまりお好きではなかったのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:11:48",
+      "utterance": "はい。そうですね。。。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:12:56",
+      "utterance": "今は我慢されて、給食時間を過ごされておられるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:13:46",
+      "utterance": "はい。だから辛いです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:15:34",
+      "utterance": "それは大変お辛いですね。今回のお悩みを、周りの方にご相談されたりしているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:16:16",
+      "utterance": "いいえ。特に相談はしていません。早く食べればいいじゃん。って言われてるので・・・悩みじゃないかも。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:18:48",
+      "utterance": "そうなんですね、、、。人に急かされて食事をすることが苦痛ではありませんか？大丈夫でしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:19:20",
+      "utterance": "はい。苦痛です。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:19:28",
+      "utterance": "家でも、学校でも言われるので。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:21:46",
+      "utterance": "それは精神的にも参ってしまいますよね。今日のご相談では、ゆっくりと時間をかけてご一緒に考えていけたらと思いますが、いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:22:17",
+      "utterance": "どういう意味でしょうか。時間をかける？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:24:07",
+      "utterance": "はい。少しでも相談者様のお気持ちが楽になるよう、お話しをさせていただけたらという意味です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:24:16",
+      "utterance": "はい。よろしくお願いいたします。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:25:19",
+      "utterance": "少し、お家のこともお聞きしていいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:25:31",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:27:08",
+      "utterance": "先ほどお家でも言われるとお聞きしましたが、ご両親に早く食べてと言われるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:27:33",
+      "utterance": "はい。毎日言われます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:28:48",
+      "utterance": "それは大変ですね。自分のペースでゆっくり食事したいというお気持ちではないでしょうか。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:29:31",
+      "utterance": "いや、別に。。。自分のペースというか。好き嫌いが多いので時間かけても食べれない。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:30:39",
+      "utterance": "そうなんですね。好き嫌いがおありなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:31:56",
+      "utterance": "はい。あります。好き嫌い。。。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:33:09",
+      "utterance": "好き嫌いがたくさんあるとどうしても、みんなと同じものを食べることは、本当にお辛いですね。、、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:33:47",
+      "utterance": "そうですね。でも、みんな食べてるから私が悪いと思う。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:35:15",
+      "utterance": "そんなことはないですよ。今は、好き嫌いが多いかもしれませんが、少しづつ食べられるようになっていきますので、大丈夫ですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:35:36",
+      "utterance": "食物アレルギーなどは大丈夫でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:35:48",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:36:28",
+      "utterance": "それは良かったです！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:38:05",
+      "utterance": "ご自分では、これからどうなっていくことが一番だとお考えでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:39:19",
+      "utterance": "よく、分かりません。私が食べないから友達にもいじめられるしって思ってるから。。。私が悪いと思ってるので。でも、辛いんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:42:16",
+      "utterance": "うん、うん、そうなんですね。そんなに苦しい思いをされていたんですね。辛いですよね、、、。何かお力になれることはありませんか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:43:02",
+      "utterance": "力になってもらえると思ってきたのですが、、、",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:44:32",
+      "utterance": "そうでしたね。ごめんなさい。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:46:22",
+      "utterance": "これからは、できる限り快適に過ごせる方法を考えていけたらと思いますが、いかがでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:46:41",
+      "utterance": "はい。よろしくお願いいたします。どうしたら良いですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:48:04",
+      "utterance": "はい。まずは、少ない量から始めるのはいかがでしょう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:48:46",
+      "utterance": "食事を少なくするってことですか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:50:09",
+      "utterance": "先生は、私に少ししかくれません。どうせ食べないの分かってるから。。。でも、その後必ず「いいなー」って言われて。。。結局いじめられます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:51:45",
+      "utterance": "そうなんですね。そうやっていじめてくる子もいるんですね。許せないですね。好きな食べ物だけを選んで食べるのは、いかがでしょう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:52:14",
+      "utterance": "そんな事したら余計にいじられます。みんなも嫌いな物食べてるから。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:54:08",
+      "utterance": "うん、うん、そうなんですね。何かクラス全体でいじめに加担しているように感じます。学校の中に、信頼できる先生やカウンセラーはおられないでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:55:04",
+      "utterance": "よく分かりません。そういう人いるのかとかは。担任の先生も一緒に笑ってるし。。。私が悪いと思って我慢します。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T13:57:40",
+      "utterance": "我慢する必要はありませんし、相談者様が悪いわけでもありません。人それぞれ個人差があります。焦る必要はありませんよ。カウンセラーがいないのであれば、校長先生か教頭先生に一度ご相談していただくことをお勧めします。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T13:58:16",
+      "utterance": "いきなり校長先生？無理だと思います。我慢します。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T14:02:24",
+      "utterance": "信頼できる方にご相談されることが一番だと思います。ここまでお話ししてきましたが、ご相談者様は精神的にも、環境的にも苦しい立場でいらっしゃると感じております。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T14:03:08",
+      "utterance": "そうですか。難しい事はよくわかりません。中２なので。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T14:03:22",
+      "utterance": "私苦しいんですね。やっぱり",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T14:05:08",
+      "utterance": "給食の時間が苦痛なのは、ただ、みんなからからかわれるからだと思ってました。でも、結構やばいのかな。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T14:05:34",
+      "utterance": "親と話してみます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T14:07:24",
+      "utterance": "揶揄われているとお感じだったんですね、、、。ぜひそうしていただけたらと思います。そろそろお時間が来てしまいました。またご相談をお待ちしていますので、いつでもお越しください。本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T14:07:54",
+      "utterance": "ありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-11-28T14:08:34",
+      "utterance": "（お疲れさまでした。ありがとうございました。）",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T14:08:41",
+      "utterance": "お疲れ様でした。かなり時間がオーバーしてしまい、申し訳ありませんでした。ありがとうございました。色々と勉強になりました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-28T14:09:08",
+      "utterance": "終了させていただきます。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "給食の時間に関するいじめ問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6030,
+    "評価作成日時": "2023-11-28T15:41:00",
+    "クライアント役ID": 440,
+    "カウンセラー役ID": 359,
+    "点数": 40,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6030,
+    "evaluation_created_at": "2023-11-28T15:41:00",
+    "client_id": 440,
+    "counselor_id": 359,
+    "score": 40,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

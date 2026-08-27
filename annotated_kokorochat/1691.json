@@ -1,0 +1,845 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:21:39",
+      "utterance": "こんばんは、本日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:22:50",
+      "utterance": "お時間になりましたら声を掛けさせていただきます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:23:00",
+      "utterance": "よろしくお願いいたします。クライアント役は初めてなのですが、お題とか決めるのでしょうか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:23:51",
+      "utterance": "お題は決めてもいいですし、お好きにして頂いて大丈夫です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:24:19",
+      "utterance": "何か決めた方がやりやすそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:24:48",
+      "utterance": "大丈夫です。ルールがあるのかなとおもったので、お聞きしました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:25:53",
+      "utterance": "そうでしたか。自由にできますのでどのようなお話でも大丈夫です。宜しくお願い致します。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:26:04",
+      "utterance": "よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:26:29",
+      "utterance": "30分になったら始めますね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:26:42",
+      "utterance": "はい。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:31:26",
+      "utterance": "こんばんは、相談員です。本日はご相談にお越しいただきありがとうございます。差し支えなければ初めにご年齢と性別を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:31:53",
+      "utterance": "こんばんは４０代 女性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:32:43",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:33:13",
+      "utterance": "仕事に行くのが嫌で嫌でどうしようもないです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:33:50",
+      "utterance": "そうなんですね・・・いやいや行っていらっしゃる感じなんですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:34:01",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:34:11",
+      "utterance": "何か思い当たるようなことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:34:27",
+      "utterance": "雰囲気が最悪",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:35:26",
+      "utterance": "そうでしたか・・・雰囲気は気になりますよね。何人くらいの職場なのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:36:30",
+      "utterance": "シフトで入るので、SVにバイトが三人ぐらいが常勤です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:36:59",
+      "utterance": "私はバイトです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:37:44",
+      "utterance": "なるほど、そうなんですね。ちなみに、最悪な雰囲気の原因はどんなことなのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:38:26",
+      "utterance": "SVが気分屋で、パワハラ半端ないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:12",
+      "utterance": "みんなビクビクしてるけど、お気に入りとは、ペチャクチャ楽しげに喋ってる時もあるし",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:39:37",
+      "utterance": "なるほど・・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:44",
+      "utterance": "それが、めちゃ当て付けみたいに喋ってるんですよ",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:39:52",
+      "utterance": "鬱陶しわー",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:40:24",
+      "utterance": "そう感じてしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:40:33",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:41:21",
+      "utterance": "先ほどパワハラ気味と言われましたが、例えばどのような事がありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:42:10",
+      "utterance": "パワハラ気味ではなく、パワハラそのものでしたね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:44:52",
+      "utterance": "そうですねコールセンターなのですが、お客様に案内してるときに、言い違いをしていたとします。その場で訂正してくれれば、良いのに誤案内してたことを、今の対応ですけどね～って感じでイヤホン持ってきて一回聞いてみて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:45:40",
+      "utterance": "えぇ（お聴きしていますので続けてくださいね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:45:41",
+      "utterance": "とか、それっていつから案内して良かったん？勝手に決めんといてって感じです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:46:33",
+      "utterance": "自分の、お気に入りには途中で、ちょっと待ってって保留してもらって、懇切丁寧に教えてるのにね～",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:47:19",
+      "utterance": "お金もらってる分は仕事して下さいねとかも言われますね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:47:38",
+      "utterance": "そんなことまで・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:48:03",
+      "utterance": "ええ恥ずかしくないんかなぁと、世間話してはります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:50:26",
+      "utterance": "あまりにも扱いが違ってあなたが嫌なお気持ちになっているのが伝わってきます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:51:06",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:52:19",
+      "utterance": "そんな嫌な環境の中で我慢して働いておられる感じなのでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:52:47",
+      "utterance": "イラッとポイントがあるみたいで、私を褒め称えることもあるのですが、その時は別の誰かの当て付けって感じで、居心地が悪くて嫌になります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:53:44",
+      "utterance": "その人達か居ない日は、嫌ではないですが…",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:54:12",
+      "utterance": "特定の人だけがそうなんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:56:07",
+      "utterance": "他の人はそのようなパワハラはない感じですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:56:27",
+      "utterance": "特定の人？SVのことですか？ターゲットにされてる人ですか？どちらかと言えば、仲良しチーム以外は、いつでもターゲットになる可能性あるので、おとなしくしです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:57:06",
+      "utterance": "分かりにくくてすみません。SVの事でした。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:57:17",
+      "utterance": "そうなんですね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:58:18",
+      "utterance": "SVは五人で24時間365日回しているのですが、そのうちの仲良し二人組かキツイです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T20:59:00",
+      "utterance": "なるほど、二人もいるんですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T20:59:10",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:00:05",
+      "utterance": "その人たちとはどのくらいの頻度でシフトが重なるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:00:06",
+      "utterance": "先日、他の時間帯に入ってるバイトに話してみたら、その時間帯は、もっとキツイらしくて悩んでました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:00:20",
+      "utterance": "すみません、行違いました",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:00:50",
+      "utterance": "私の時間帯は、ほぼどちらかが管理者として入ってます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:01:27",
+      "utterance": "そうでしたか",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:01:31",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:02:42",
+      "utterance": "今までのお話を少しまとめてみますのでお待ちいただけますか",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:02:48",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:07:49",
+      "utterance": "職場のSVが気分屋でパワハラもあり雰囲気がとても悪く、仕事に行くのが嫌でどうしようもない。人によって対応が違いすぎる。時々褒められることもあるが居心地が悪い。その嫌な二人組がいない時は嫌ではない。他の時間帯はもっときついらしい。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:08:05",
+      "utterance": "このような感じで間違いないでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:08:17",
+      "utterance": "そんな感じです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:09:17",
+      "utterance": "ありがとうございます。そこで、あなたは今後どのようになれば気持ちが楽になりそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:09:50",
+      "utterance": "どうでしょう楽になれるんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:11:32",
+      "utterance": "他人を変えることは出来ないので、このままだと難しいのかもしれませんが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:12:24",
+      "utterance": "あなたが環境を変えたり、または考え方を少し変えると違ってくるかもしてないですね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:13:43",
+      "utterance": "私が変わるのですか？何を？どうやって？この年から仕事を変えるとかキツイですけど…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:14:27",
+      "utterance": "こんな年でバイト生活してるから、嫌でも我慢して働くしかないですもんね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:14:41",
+      "utterance": "今そう思われるのですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:14:55",
+      "utterance": "そう思いませんか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:15:42",
+      "utterance": "そうですよね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:17:21",
+      "utterance": "ですよね～",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:18:07",
+      "utterance": "ちなみに、今まではそのような嫌な気持ちになったときはどのようにされてきたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:20:24",
+      "utterance": "我慢するか落書きとかして、現実逃避してました。寝てるふりすることもありました。仕事中ですけど…仲良しさん達がドラマの話とかで盛り上がってる時とか、うるさいなぁと寝たふりいや、爆睡してたかもしれません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:21:30",
+      "utterance": "なるほど・・・現実逃避も必要ですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:21:57",
+      "utterance": "落書きとかはなかなかいいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:21:57",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:22:29",
+      "utterance": "そうですかね～",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:23:54",
+      "utterance": "はい、嫌な気持ちを書いたり、話したりしてモヤモヤを少しでも吐き出すのはとてもいいのですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:24:21",
+      "utterance": "そうなんですか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:25:25",
+      "utterance": "そうなんです。少しでも発散することが大事なのです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:25:52",
+      "utterance": "はぁ…発散ほどでもないのですが…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:27:02",
+      "utterance": "そうですか・・・発散している感じでもないのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:27:11",
+      "utterance": "嫌な気持ちは変わらないしバイト自体、すでに罰ゲームですもん",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:27:26",
+      "utterance": "しゃぁないから、罰ゲームするって感じです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:27:53",
+      "utterance": "前は、やりがいあったのになぁ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:28:38",
+      "utterance": "そうだったんですね。前と今ではどこが違っていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:29:47",
+      "utterance": "原因の二人が入社する前と後です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:30:13",
+      "utterance": "底意地悪いのん入ってきたって、さっさと辞めた人もいます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:30:31",
+      "utterance": "なるほど、その二人が間違いなく原因だったんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:30:54",
+      "utterance": "少なくとも、私はそうです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:31:55",
+      "utterance": "その二人は部署を移動する可能性はないのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:32:47",
+      "utterance": "何もなければ、無いと思います。移動なしを希望していたと思いますし。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:33:43",
+      "utterance": "そうでしたか・・・ちなみに、会社でそのパワハラの事とか相談できるところはないのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:34:35",
+      "utterance": "コンプライアンス部が、ありますが…すぐ、バレるでしょ？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:35:12",
+      "utterance": "そう思われるんですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:35:49",
+      "utterance": "ただでさえ、ややこしいのに。もっと、ややこしくなりそうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:36:46",
+      "utterance": "なるほど、そんな感じで考えておられるのですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:36:52",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:39:11",
+      "utterance": "少しでもお気持ちが楽になるような方法があるといいのですが・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:39:49",
+      "utterance": "他の方とこの事でお話をされることはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:42:10",
+      "utterance": "さっき言ったと思うのですが、時間帯が違うバイトの人と話しました。毎日が罰ゲームしてるみたいやね！って。そしたら、別時間帯は、もっと深刻みたいで…聞いてて気の毒になってしまい、自分のことは話せませんでした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:43:34",
+      "utterance": "私の時間帯は、仲良しチームと、ターゲットになっても何を言われてるか、あまり解ってない感じの人達なので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:43:57",
+      "utterance": "誰にも話してません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:44:54",
+      "utterance": "ただ、落書きついでにコンプラへ提出出きるよう本日のパワハラ日記はつけてます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:45:26",
+      "utterance": "なるほど、それはいい方法ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:45:57",
+      "utterance": "憂さ晴らしですいざと言う時の証拠は固めてます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:46:46",
+      "utterance": "それはとてもいいと思います。証拠にもなるし、気持ちの整理もできるので。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:47:02",
+      "utterance": "そうなんですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:47:41",
+      "utterance": "はい。それから今日のように誰かに気持ちを話すのも良いのですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:48:30",
+      "utterance": "嫌な気持ちはため込まないで、少しでも吐き出してください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:48:44",
+      "utterance": "はいありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:49:58",
+      "utterance": "またこちらでもお話を聞かせてくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:50:20",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:51:23",
+      "utterance": "あなたがあなたらしく毎日を過ごせるよう応援しています。それでは本日は終了してもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:51:37",
+      "utterance": "はいありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:52:24",
+      "utterance": "本日はご相談に来ていただきありがとうございました。それでは、終了メッセージを送ります。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-21T21:52:49",
+      "utterance": "(ありがとうございました。)",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-21T21:53:11",
+      "utterance": "（時間をオーバーしてしまいすみませんでした。こちらこそありがとうございました）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "パワハラによる職場の雰囲気の悪化"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1691,
+    "評価作成日時": "2021-04-21T22:14:00",
+    "クライアント役ID": 128,
+    "カウンセラー役ID": 179,
+    "点数": 62,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1691,
+    "evaluation_created_at": "2021-04-21T22:14:00",
+    "client_id": 128,
+    "counselor_id": 179,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

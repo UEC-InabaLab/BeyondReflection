@@ -1,0 +1,648 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-05T12:52:10",
+      "utterance": "こんにちは、お世話になります、本日はよろしくお願いします。お時間になりましたら、はじめさせていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T12:53:01",
+      "utterance": "こんにちは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:00:20",
+      "utterance": "こんにちは、相談員です。まずはじめにご年齢と性別、相談内容を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:00:44",
+      "utterance": "17歳。女子。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:01:00",
+      "utterance": "どこにも居場所がない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:01:15",
+      "utterance": "はい、教えていただきありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:01:37",
+      "utterance": "どこにも居場所がないと感じているのですね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:01:52",
+      "utterance": "いつ頃からそのように感じていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:02:17",
+      "utterance": "もうずっと何年も。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:03:45",
+      "utterance": "そうでしたか、、長いこと寂しい気持ちを感じてこられたのですね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:04:10",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:04:13",
+      "utterance": "今は学生さんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:04:24",
+      "utterance": "高校生。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:04:42",
+      "utterance": "高校生活はどうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:05:03",
+      "utterance": "まあまあ。家よりはまし。目立たないように過ごしてる。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:06:20",
+      "utterance": "そうなんですね、お家よりは居心地が良いのですね、でもどうして”目立たないように”しているのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:06:52",
+      "utterance": "目立つといろいろ面倒くさいと思うから。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:09:01",
+      "utterance": "なるほど、目立たない方が楽に感じるのかな、面倒くさくない方がいいよね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:09:18",
+      "utterance": "そう。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:09:36",
+      "utterance": "じゃぁおうちではどんな感じなのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:10:07",
+      "utterance": "親がけんかばっかり。怒鳴り声とかすごい。家にいたくない。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:10:35",
+      "utterance": "そうなんだね、、それは居心地が悪いね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:10:44",
+      "utterance": "居場所がない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:12:25",
+      "utterance": "うんうん、そう感じちゃうよね、、怒鳴り声とか怖いよね、、怒鳴るのはお父さん？お母さん？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:13:14",
+      "utterance": "どっちもかな。お父さんの声の方が大きいけど。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:13:48",
+      "utterance": "お母さんはパニックになると、泣いてるし。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:14:49",
+      "utterance": "そっかぁ、、お母さんが泣いちゃうこともあるんだね、、それはどうしていいかわからなくなっちゃうよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:15:06",
+      "utterance": "そう。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:15:19",
+      "utterance": "だから、家にはいたくない。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:16:39",
+      "utterance": "うん、そう思ってしまうような環境だね、相談者さんに怒鳴ったり、直接何かされることはない？大丈夫？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:16:58",
+      "utterance": "うん。それは大丈夫。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:17:24",
+      "utterance": "良かった、それは安心しました、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:17:36",
+      "utterance": "ありがとう。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:18:10",
+      "utterance": "はい、このことを周りに相談したことはある？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:18:23",
+      "utterance": "ない。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:18:40",
+      "utterance": "したくない。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:19:13",
+      "utterance": "そうだよね、なかなかお友達とかに話しづらいよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:19:26",
+      "utterance": "言えるわけない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:20:15",
+      "utterance": "うんうん、おじいちゃんやおばあちゃんとかは近くに住んでいるかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:20:36",
+      "utterance": "ううん。県外にはいる。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:21:17",
+      "utterance": "そっかぁ、じゃあ様子は自然には伝わらないね、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:21:42",
+      "utterance": "伝えてもどうにもならないかな。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:22:26",
+      "utterance": "そうなの？どうしてそう思うのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:23:04",
+      "utterance": "だって、どうにもならないでしょ？面倒くさくなるのは、いやだしね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:23:50",
+      "utterance": "そうだね、、確かに、、告げ口したみたいになっちゃったら嫌だしね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:24:02",
+      "utterance": "うん。まあ。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:24:21",
+      "utterance": "でもこのままではお家に帰りたくなくなちゃいそうで心配です、、",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:24:39",
+      "utterance": "家にいたくないときは、彼氏の家にいる。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:26:12",
+      "utterance": "そうなんだね、うんうん、相談者さんの気持ちを話せるパートナーさんがいて安心しました、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:27:20",
+      "utterance": "別に話せるわけじゃないけどね。ときどき殴られたりするけど、ときどきやさしいから、まあ、しょうがない。行くとこないし。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:27:20",
+      "utterance": "パートナーさんのご両親は心配していない？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:27:46",
+      "utterance": "彼は1人ぐらしだから。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:29:24",
+      "utterance": "そうなんだね、、”ときどき殴られる”のは嫌じゃないの？怪我とかしない？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:30:14",
+      "utterance": "嫌にきまってる。あざができることもあるし。でも、家よりまし。優しいときもあるし。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:30:50",
+      "utterance": "こんな私と一緒にいてくれるんだから、しょうがないよね。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:30:59",
+      "utterance": "そうなんだね、、それほど家にいたくないんだね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:31:49",
+      "utterance": "それでも相談者さんは何も悪いことしていないでしょ？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:32:24",
+      "utterance": "う～ん。どうなんだろ？　でも、私も言い返したりするけど。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:34:30",
+      "utterance": "そうなんだね、、けんかみたいになって殴られることもあるけど、優しくしてくれるから家にいるよりはいいんだね、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:34:37",
+      "utterance": "そうかな。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:35:45",
+      "utterance": "うん、、自分でもよくわからない感じなのかな？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:36:02",
+      "utterance": "うん。あんまり考えないことにしてる。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:36:58",
+      "utterance": "そうなんだね、、考えない方が楽だし、どうしたらいいのかわからないもんね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:37:26",
+      "utterance": "そうだよね。考えない方がらく。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:39:00",
+      "utterance": "うん、、でもね、お話を聞いていてとても心配になりました、私の感じたことをお話してもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:39:08",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:41:09",
+      "utterance": "相談者さんはまだ学生さんで未成年なので、本当はお家でご両親が守ってあげなくてはいけないの、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:41:39",
+      "utterance": "まあ、そうだとは思う。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:42:37",
+      "utterance": "でもご両親が今それができていないから、相談者さんが他に安心できる居場所を探している状態になってしまっています",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:42:47",
+      "utterance": "そう。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:43:30",
+      "utterance": "これは自然なことだし、相談者さんは自分で自分を守ろうと必死になっていると感じました",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:43:45",
+      "utterance": "よくわからないけど、そうなのかな。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:44:52",
+      "utterance": "はい、そこで、彼氏さんのお家を見つけたのだけれど、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:46:19",
+      "utterance": "本当にそこは安全なのかな、、他にもっと安全な場所があるように思いました、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:46:40",
+      "utterance": "もっと安全な場所？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:49:29",
+      "utterance": "はい、、やっぱりおじいちゃんやおばあちゃんに相談をして、お父さんとお母さんに相談者さんの気持ちを伝えるべきだと感じました、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:49:36",
+      "utterance": "いかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:50:16",
+      "utterance": "大事にはしたくないです。それに、そんなことくらいで、うちの親はどうにかはならないと思う。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:53:26",
+      "utterance": "そうなんだね、、大事にはしたくない気持ちが大きいんだね、、とてもよく伝わってきました",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:53:56",
+      "utterance": "誰にも言えないこと、誰かにきいてほしかっただけだから…。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:54:35",
+      "utterance": "そうは言っても、これでいいのかな…って、思うときもあるしね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:56:17",
+      "utterance": "そうだったんだね、、今日はお話聞かせてくれてありがとう、うんうん、、そう思うときもあるんだね、今日お話してみてどうでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:57:03",
+      "utterance": "まっ、これまで何とかなってきたから、なんとかなるっしょ。みたいな感じかな。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T13:59:41",
+      "utterance": "はい、今日お話を聞かせていただいて相談者さんはとても前向きだしご両親思いの心優しい方だと感じました。それでも彼氏さんには殴らないで！とお伝えください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T13:59:59",
+      "utterance": "はい。ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T14:00:07",
+      "utterance": "今日はこれでお時間となってしまいましたが、他に大丈夫でしたでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T14:00:13",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-10-05T14:00:27",
+      "utterance": "(おつかれさまでした。ありがとうございました。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-05T14:00:49",
+      "utterance": "ではこれで終了とさせていただきます。ありがとうございました。それでは失礼します。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親の喧嘩による居場所の喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4084,
+    "評価作成日時": "2022-10-05T16:00:00",
+    "クライアント役ID": 316,
+    "カウンセラー役ID": 301,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4084,
+    "evaluation_created_at": "2022-10-05T16:00:00",
+    "client_id": 316,
+    "counselor_id": 301,
+    "score": 57,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

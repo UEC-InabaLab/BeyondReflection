@@ -1,0 +1,796 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-03T19:53:15",
+      "utterance": "（宜しくお願い致します。時間まで待機させて頂きます）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T19:53:56",
+      "utterance": "（宜しくお願い致します）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:00:11",
+      "utterance": "こんばんは。相談員です。お越し下さりありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:00:45",
+      "utterance": "こんばんは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:01:23",
+      "utterance": "宜しくお願いします。はじめに、年齢と性別をお伺い致します。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:01:58",
+      "utterance": "あまり言いたくありません",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:02:48",
+      "utterance": "そうでしたか、では男性か女性かお聞きしても宜しいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:03:05",
+      "utterance": "言わないとダメなんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:03:57",
+      "utterance": "いいえ、ご相談の内容の、参考までにお伺いしているだけですので大丈夫です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:04:27",
+      "utterance": "それでは、きょうのご相談内容をお伺いします。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:04:28",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:04:44",
+      "utterance": "生きるのに疲れました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:05:28",
+      "utterance": "生きるのに疲れてしまった、とは何か重大な問題が発生してしまったのですね？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:05:58",
+      "utterance": "そう言うわけでは無いんですけど…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:06:03",
+      "utterance": "今、お体の調子は大丈夫ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:06:13",
+      "utterance": "やる事が多すぎてもう疲れました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:06:45",
+      "utterance": "とにかく疲れました色々",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:06:52",
+      "utterance": "どうすればいいですか",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:06:58",
+      "utterance": "そうでしたか、毎日やることが沢山ありすぎて疲れておしまいになった、ということですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:07:15",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:08:05",
+      "utterance": "もう生きていても辛い",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:08:07",
+      "utterance": "そこまで酷く疲れるほど、毎日頑張っていらっしゃったのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:08:54",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:09:04",
+      "utterance": "生きることに疲れてしまった、今のお気持ちはとても疲労感ばかり、ということですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:10:05",
+      "utterance": "まあそんな感じです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:10:48",
+      "utterance": "そんなに酷く疲れてしまうまで、頑張れていたけれど、限界近くまで頑張りすぎてしまったのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:11:50",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:11:55",
+      "utterance": "少し質問させて頂いても宜しいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:12:04",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:12:31",
+      "utterance": "ここで話せば解決しますか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:12:58",
+      "utterance": "解決のお手伝いが出来ればと、思っています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:13:14",
+      "utterance": "何でも遠慮無くお話下さい。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:13:15",
+      "utterance": "じゃあここでは解決できないんですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:13:59",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:14:36",
+      "utterance": "この時間内に最終的に解決できるか、は未知数ですが、精一杯の対応を致します。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:15:02",
+      "utterance": "いつ頃からそのようなお気持ちになられましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:15:29",
+      "utterance": "1年前から",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:15:56",
+      "utterance": "そうでしたか、一年間も我慢なさっていたということですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:16:28",
+      "utterance": "まあ",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:16:53",
+      "utterance": "想像を超えるほど頑張っていらしたのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:17:27",
+      "utterance": "今、十分な睡眠などはとれていらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:17:29",
+      "utterance": "そんな事はないですけど",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:18:05",
+      "utterance": "あまり寝れてないですね",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:18:07",
+      "utterance": "いいえ、そうたやすいことではないと考えます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:18:32",
+      "utterance": "なにがですか？",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:19:09",
+      "utterance": "一年間頑張って耐えてきたことです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:19:23",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:20:05",
+      "utterance": "十分な睡眠もとれずに、沢山やることがあったら、心身がまいってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:20:34",
+      "utterance": "だから、もう疲れました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:20:41",
+      "utterance": "生きるのしんどいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:21:11",
+      "utterance": "そうだったのですね、今日、よくご相談に来て下さいました。お疲れでしょうに・・・・。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:21:55",
+      "utterance": "一番困っていること、或いは悩ましいことは何か、お伺いできますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:22:44",
+      "utterance": "色々ありすぎて決められません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:23:12",
+      "utterance": "眠れないというのも、理由の一つだと考えますが、いかがでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:23:47",
+      "utterance": "お身体は、調子が悪くなったりしていませんか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:24:27",
+      "utterance": "今も、もし気分が悪くなったりしたら、遠慮無く言って下さいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:24:40",
+      "utterance": "眠れないから困ってるんじゃなくてやる事が多すぎて疲れてるから寝れないんですけど…",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:25:23",
+      "utterance": "なるほど、それでは今急いでやらなくてはならないことをお伺いできますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:26:39",
+      "utterance": "そんな事言われても",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:27:31",
+      "utterance": "そうでしたか、お答えしにくい質問で申し訳ありません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:28:28",
+      "utterance": "もう自分なんていなくなっても周りは困らないと思うし",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:29:39",
+      "utterance": "そんなことは無いと思います。沢山のやることに関わると言うことは、必要とされている方だからだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:30:10",
+      "utterance": "褒めても無駄ですよ",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:30:38",
+      "utterance": "いいえ、褒めたのでは無く、そう感じました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:32:43",
+      "utterance": "生きることに疲れながらも、頑張っていらっしゃる方ですから。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:33:04",
+      "utterance": "で、どうすればいいんですか？",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:34:01",
+      "utterance": "今、必要なのは休養ではないかと考えます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:34:53",
+      "utterance": "仕事をやめればいいですか？",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:34:55",
+      "utterance": "忙しすぎてご自分に厳しすぎたのでは無いかとも考えます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:35:30",
+      "utterance": "お仕事が沢山おありだったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:35:41",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:36:59",
+      "utterance": "そうでしたか、責任感がとても強い方だと感じます。だからこそ、そこまで疲弊してしまったのでは無いでしょうか。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:37:39",
+      "utterance": "疲弊ってなんですか？",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:38:15",
+      "utterance": "すみません、酷く疲れて嫌になってしまう状態のことです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:39:20",
+      "utterance": "お疲れのところ、こうしてお話に来て下さったのは、本当にしんどかったと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:39:35",
+      "utterance": "なんども言ってますけどとにかくもう疲れたんですよ",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:40:06",
+      "utterance": "はい、よく承知しております。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:40:24",
+      "utterance": "あなたに何がわかるんですか？",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:41:29",
+      "utterance": "お話をして下さっているのが、責任感が強く、とてもお忙しく過ごされた方だと言うことですが。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:42:08",
+      "utterance": "そして生きるのが嫌になるほど疲れていらっしゃる、と言うことです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:42:52",
+      "utterance": "この先どうすればいいですか？",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:42:52",
+      "utterance": "お話を続けるのはしんどいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:43:56",
+      "utterance": "失礼しました。もしお仕事が沢山ありすぎると言うことでしたら、どなたかに手伝って頂くことは出来ますでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:44:40",
+      "utterance": "誰かに手伝ってもらえるなんて無理です",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:44:57",
+      "utterance": "みんな押し付けてきますから",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:45:43",
+      "utterance": "それでは、他の方の分まで仕事をしなくてはならない、と言うことなのですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:46:45",
+      "utterance": "そうですね",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:48:19",
+      "utterance": "これ以上、お仕事を押しつけられそうになったとき、出来ません、と断ることは出来ますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:48:54",
+      "utterance": "そんなことできる訳ないですよ",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:49:50",
+      "utterance": "断ることが出来ないとお感じになるのですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:50:50",
+      "utterance": "だから困ってるんで。",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:51:09",
+      "utterance": "職場で、信頼できる方はいらっしゃいますか？例えば上司の方とか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:51:46",
+      "utterance": "信頼できる人なんていません",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:53:00",
+      "utterance": "そうでしたか。となると、信頼できない人たちの中で、沢山の仕事を抱えながら、眠れないほど悩まれているという状況なのですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:53:31",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:54:14",
+      "utterance": "やることが多すぎるというのも、お仕事のことでしょうか？他にもありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:55:12",
+      "utterance": "仕事です",
+      "distress_level": 3,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:55:57",
+      "utterance": "お仕事が一番の悩ましい、困った状況ということですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:56:13",
+      "utterance": "（もうそろそろ時間ですがこのまま続けますか？）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:56:19",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:56:31",
+      "utterance": "（ほんの少し宜しいですか）「",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:56:49",
+      "utterance": "（はい、大丈夫ですよ）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:57:49",
+      "utterance": "お仕事のことで、生きるのが嫌になるのは人生が勿体ないと思います。場合によっては、転職や休養も視野に入れてみるのも良いかも知れません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T20:58:33",
+      "utterance": "本日はお時間が来てしまいましたが、こちらで宜しければまた続きを訊かせて下さい。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:58:41",
+      "utterance": "やっぱ仕事辞めるしかないんですね。。。",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T20:58:52",
+      "utterance": "考えます。",
+      "distress_level": 3,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T21:00:04",
+      "utterance": "申し訳ありません、本日はここまでですが、また続きを訊かせて下さると嬉しいです。ありがとうございました、大事なお話を聞かせて下さって。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T21:00:28",
+      "utterance": "機会があればまた来ます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T21:00:57",
+      "utterance": "申し訳ありませんが、ここで終了のメッセージを送らせて頂きます。今夜、まずは眠れますように、と思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T21:01:21",
+      "utterance": "はい、失礼します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-03T21:01:24",
+      "utterance": "ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-03T21:01:42",
+      "utterance": "（ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "仕事の負担によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3444,
+    "評価作成日時": "2022-05-03T23:43:00",
+    "クライアント役ID": 274,
+    "カウンセラー役ID": 273,
+    "点数": 20,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 1,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3444,
+    "evaluation_created_at": "2022-05-03T23:43:00",
+    "client_id": 274,
+    "counselor_id": 273,
+    "score": 20,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 1,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

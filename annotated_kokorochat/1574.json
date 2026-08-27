@@ -1,0 +1,849 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-05T20:52:09",
+      "utterance": "こんばんは。相談員の役をさせていただきます。宜しくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T20:52:40",
+      "utterance": "こんばんは。宜しくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T20:53:12",
+      "utterance": "こちらこそ♪規定時刻の、２１時から開始させていただきます。宜しくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:00:24",
+      "utterance": "こんばんは。本日は、ご相談にお越しくださり、ありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:00:36",
+      "utterance": "宜しくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:00:55",
+      "utterance": "まずは、あなた様のお名前と年齢と性別をお聞かせいただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:02:14",
+      "utterance": "ミキ呼んでください。40代男性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:03:00",
+      "utterance": "ありがとうございます。ミキさんですね。今日は、どのようなお悩みでお越しになられたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:05:00",
+      "utterance": "今、実家から離れたところで働いていますが、最近母親が亡くなって、父親が一人暮らしになり、今後の事で悩んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:06:03",
+      "utterance": "それは、お辛いですね。お母さまが最近・・。お悔み申し上げます。一人暮らしをされて居らっしゃる、お父様のことで、お悩みでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:07:48",
+      "utterance": "はい、親をこのまま一人暮らしさせていいのかと考えてしまいます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:08:35",
+      "utterance": "そうでしたか・・。息子さんであるミキさんも、ご健在のお父様のことは、ご心配でしょうね・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:08:49",
+      "utterance": "ミキさんご自身は、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:09:09",
+      "utterance": "今後、お父様に、どのようになっていただきたいとお考えですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:11:17",
+      "utterance": "一人だと深酒したりするし、何かあって気付くのが遅れたらとか、いろいろ心配です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:12:19",
+      "utterance": "お父様が深酒をされた後のことも、ご心配になってらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:12:31",
+      "utterance": "お父様ご自身は、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:13:19",
+      "utterance": "今後のことを、どのようにしたいなどのお考えを、ミキさんにお話をされたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:13:49",
+      "utterance": "特にそんな話はしていないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:14:08",
+      "utterance": "そうなんですね・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:14:20",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:14:33",
+      "utterance": "普段、お父様と行き来などのお付き合いは、されてらっしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:15:04",
+      "utterance": "遠いので、あまりしてないですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:15:49",
+      "utterance": "お父様は、遠くにお住みになってらっしゃるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:16:01",
+      "utterance": "そうです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:16:54",
+      "utterance": "現在、ミキさんとお父様は、お仕事をそれぞれにされているとか、現在の土地を離れられない事情などは、お持ちですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:18:05",
+      "utterance": "自分は仕事していますが、父親はだいぶ前に引退しました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:18:38",
+      "utterance": "お父様は、だいぶ前に引退されて、のんびりした生活を送られているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:18:49",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:20:30",
+      "utterance": "お父様がお仕事を引退される前と比べると、現在のお父様の体のお心配は、減ったような感じでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:21:36",
+      "utterance": "年寄りなので、今の方が心配です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:22:30",
+      "utterance": "そうでしたか・・。確かに、年齢が高くなればなるほど、ミキさんの心配は尽きなくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:22:48",
+      "utterance": "お父様の身近に、",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:23:22",
+      "utterance": "お父様が親しくされている方とか、お友達は住んであるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:23:59",
+      "utterance": "そうですね、友達はいるみたいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:24:52",
+      "utterance": "そうでしたか。お父様の身近に、お友達がいらっしゃると、多少は安心な気持ちになれますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:25:03",
+      "utterance": "ミキさんは、",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:25:18",
+      "utterance": "既婚ですか？それとも、独身ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:25:28",
+      "utterance": "独身です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:26:08",
+      "utterance": "そうでしたか・・。ミキさんは現在、独身で一人暮らしをされてらっしゃるということですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:26:20",
+      "utterance": "そうです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:28:25",
+      "utterance": "そうなりますと、ミキさんは独身でフルタイムでお勤めに出てらっしゃるので、既婚の奥様がいらっしゃる男性のように、例え近くにお父様が住んでいても、身の周りのことのお世話などは難しいということになりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:30:18",
+      "utterance": "世話の前に、近くに住む事が難しい気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:31:38",
+      "utterance": "そうでしたか・・。今回のお話を、他にもお聞かせになった方は居らっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:31:55",
+      "utterance": "いません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:33:03",
+      "utterance": "ミキさんは、お父様の事を一人で抱え込まれ、ご心配を今までずっと、されて来られたのですね。もどかしい気持ちで、いっぱいになられたことでしょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:33:20",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:33:57",
+      "utterance": "今まで、辛くてもどかしいお気持ちを一人で抱え、よく辛抱されましたね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:34:30",
+      "utterance": "例えばの話となりますが・・、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:34:41",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:35:59",
+      "utterance": "ミキさんが、ミキさんのお友達や親しい方から、今回のような悩みを聴かせられたら、ミキさんは、どのように答えて差し上げますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:37:17",
+      "utterance": "難しいですね…簡単に答えは出ませんね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:37:53",
+      "utterance": "そうですよね。簡単な問題ではありませんから、ミキさんのおっしゃられる通りだと、私も思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:38:41",
+      "utterance": "現在、お父様は、年金を受給されて生活をされてらっしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:38:55",
+      "utterance": "そうです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:39:23",
+      "utterance": "経済的な心配はしていません",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:39:45",
+      "utterance": "例えば、一般的にはというお話になりますが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:40:33",
+      "utterance": "６０代から福祉施設をご利用になられている方は多いです。その辺りのご検討も、されたことはありますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:41:27",
+      "utterance": "福祉施設の利用とは具体的にはどんな事ですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:41:48",
+      "utterance": "具体的にお話をさせていただきますと・・、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:42:46",
+      "utterance": "通所の高齢者専門のディサービス。これは、現在の身体機能や痴ほう症予防のためのリハビリを施してくださる施設です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:43:00",
+      "utterance": "それとですね・・、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:43:28",
+      "utterance": "年齢と共に必然的に身体機能などは現在よりも低下してまいりますから、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:43:54",
+      "utterance": "お試しで入居タイプのショートステイを体験していただくサービスや、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:44:49",
+      "utterance": "本格的に、現在のお住いの住宅を手放し、在宅型老人ホームへの入居。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:45:34",
+      "utterance": "重篤な身体機能などの低下が認められるご高齢者様用に、特別養護老人ホームというのもあります。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:46:31",
+      "utterance": "そうですか…取り敢えず身体は普通なので、どれも行きたがらない気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:46:45",
+      "utterance": "料金は有料となってしまうものとなるのですが、料金や提供してくださるサービスなどの詳しいご説明や契約方法などを、最寄りの市役所の福祉課でもお聞きいただくことが出来ます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:46:57",
+      "utterance": "そうですね。現在は、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:48:05",
+      "utterance": "ミキさんがおっしゃられたように、現在、お身体が全く問題なくご健康であるのなら、行きたがりませんよね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:48:17",
+      "utterance": "単にですね、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:49:11",
+      "utterance": "将来的に、そのような方法もあるということを、視野に入れておくというのは、いかがなものかなと、ミキさんのお話をお聞きしながら、そのように思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:49:22",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:49:30",
+      "utterance": "はい・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:49:55",
+      "utterance": "他にも将来的にですが、方法はありまして、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:50:27",
+      "utterance": "ご自宅に来てくださる、ヘルパーさん制度というのも、福祉施設にございます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:50:59",
+      "utterance": "それはちょっと嫌がるかも",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:51:46",
+      "utterance": "そうなんですね・・・。お父様ご自身の、意思も大切にされたいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:52:00",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:52:15",
+      "utterance": "無理強いはしたくないので",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:52:39",
+      "utterance": "普段、お父様とお電話などで、他愛もないお話をされることは、現在あるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:53:06",
+      "utterance": "用事がある時だけしか話さないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:54:14",
+      "utterance": "そうなんですね。世間一般的にも、特に男性同士の親子関係は、用事がある時のみ、お話をされる方が多い傾向が強いようです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:54:28",
+      "utterance": "でありましたら、となりますが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:55:52",
+      "utterance": "一人暮らしをされてらっしゃるお父様に、ミキさんが必要を感じるように将来的になってから、高齢者専門の介護ディサービスのご利用を、お話されてみるとかは、出来そうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:56:58",
+      "utterance": "気難しいので、聞くかどうか…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:57:31",
+      "utterance": "そうですよね・・。お父様の元々の性格も、おありでしょうから・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T21:57:54",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T21:59:12",
+      "utterance": "現在のお父様は、お身体は全く問題なくご健康である。つまり、気力も体力もあり、お元気であり、外出も一人でされることも多いということでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:00:20",
+      "utterance": "見た目は問題ないですが、あちこち爆弾抱えています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:01:49",
+      "utterance": "なるほど。お父様は、あちらこちらに抱えられた爆弾（病気）の痛いなどの症状は全く出てなくて、深刻な悩みまでには発展していらっしゃらないということですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:02:42",
+      "utterance": "毎晩酒を飲むので、肝臓はかなり悪いと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:03:02",
+      "utterance": "そうでしたか・・・。であれば、ですが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:03:36",
+      "utterance": "一般的に、人は誰もが年齢と共に老化現象は始まり、外観の見た目だけでなく、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:04:08",
+      "utterance": "内臓も全ての器官も、年齢と共に老化してまいりますので、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:05:16",
+      "utterance": "今現在は、お元気であると思いますが、今後の将来的に、現在抱えてある肝臓の病気の悪化や、他の器官も病気になる可能性が出て来るということが考えられます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:06:01",
+      "utterance": "実際に、将来、お父様が病気が悪化したり、深刻な病気になられた時、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:06:42",
+      "utterance": "お父様ご自身が、一人きりでは必然的に自分の身の周りの世話を自分でできなくなって行くことが考えられますので、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:07:30",
+      "utterance": "そうなってから、ミキさんに救いの手を差し伸べて欲しいとか、どうしたら良いのだろうか？の悩み相談をミキさんにされるようになるとか、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:08:01",
+      "utterance": "身近に住んでいるお友達に、そのようなお話をされるようになるだろうということが、考えられるのです。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:08:38",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:08:50",
+      "utterance": "その時が来たら、ミキさんにお父様から将来、そのような悩みを打ち明けられた時は、どのように対処されたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:10:40",
+      "utterance": "どうするかなあ…今は分かりません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:10:58",
+      "utterance": "話し途中で、誠に申し訳ございませんが、質問です。お約束のお時間の２１時を過ぎてしまいましたけど、ミキさんのこの後のお時間のご都合は、大丈夫でしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:11:52",
+      "utterance": "すみません、途中ですが、今日はこれで終わりにします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:11:53",
+      "utterance": "そうですね。まだお父様がお元気で健康でいらっしゃる、今、どのように対処されるかは、ずぐには答えは出ませんものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:12:34",
+      "utterance": "承知しました。ご相談は、本日はこれで終わりにさせていただきましょうね。最後に、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:13:54",
+      "utterance": "私であれば、将来的に自身の親に介護が必要かなと感じるようになったら、最寄りの市役所の福祉課に相談に行きます。ご参考までに、お話をさせていただきました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:14:01",
+      "utterance": "それと、",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:14:52",
+      "utterance": "本日は、別宅にお住いの一人暮らしのお父様のご心配のお悩みで良かったでしょうか？他にも、最後に、ミキさんから、何かございますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:15:43",
+      "utterance": "今日は、お話をされてみて、いかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:16:14",
+      "utterance": "はい、父親を今後どうしたらいいかの悩み相談でした。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:17:24",
+      "utterance": "はい。それでは、今後、又何かあった時は、いつでもお気軽にご相談にお見えになられてください。お父様が、ご心配ですね。ミキさんご自身も、お身体に気を付けてご自愛ください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:17:28",
+      "utterance": "利用するかしないかは分かりませんが、いろいろな方法があると分かりました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:18:09",
+      "utterance": "参考にさせていただきます。遅くまでありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:18:27",
+      "utterance": "それは、良かったです。色々な方法を、ミキさんと一緒に考えさせていただくことが出来て、良かったです。ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:18:45",
+      "utterance": "では、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:19:36",
+      "utterance": "本日はご相談をいただき、ありがとうございました。後日、又この相談機関をご利用になられることがございましたら、他の相談員が対応させていただくことになると思いますが、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:20:14",
+      "utterance": "今回のお話のやり取りを確認した上で、ご相談に乗ることも出来ますので、ご安心ください。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:20:32",
+      "utterance": "はい、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:21:01",
+      "utterance": "私の方こそ、ありがとうございました。それでは、終了させていただきます。おやすみなさい・・。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-05T22:21:25",
+      "utterance": "お疲れ様でした。おやすみなさい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-05T22:21:59",
+      "utterance": "はい。ねぎらいのお言葉もいただき、ありがとうございました。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親の一人暮らしに関する心配と今後の介護問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1574,
+    "評価作成日時": "2021-04-05T22:55:00",
+    "クライアント役ID": 179,
+    "カウンセラー役ID": 176,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1574,
+    "evaluation_created_at": "2021-04-05T22:55:00",
+    "client_id": 179,
+    "counselor_id": 176,
+    "score": 57,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

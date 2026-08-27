@@ -1,0 +1,701 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-03-28T18:51:24",
+      "utterance": "（ こんばんは。　カウンセラー役です。）（本日は、１９時からロープレよろしくお願いします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T18:52:08",
+      "utterance": "(こんばんは。相談役をさせていただきます。よろしくお願いいたします。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:00:16",
+      "utterance": "はじめまして相談員です。こんばんは。相談しに来てくださりありがとうございます。はじめに年齢と性別を教えてもらえますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:00:57",
+      "utterance": "こんばんは。35歳　男性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:01:02",
+      "utterance": "よろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:01:18",
+      "utterance": "教えていただき、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:01:40",
+      "utterance": "本日ご相談になりたいことについて、教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:02:35",
+      "utterance": "この先、どうしていけば良いかわからなくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:03:18",
+      "utterance": "そうなんですね。良かったら、もう少し詳しく教えてもらえますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:03:28",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:04:33",
+      "utterance": "仕事を辞めてしまって、なかなか良い仕事が見つからず。八方ふさがりです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:05:22",
+      "utterance": "そうなんですね。次の仕事が見つからないと不安ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:05:44",
+      "utterance": "以前は、どのようなお仕事をされていたのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:06:21",
+      "utterance": "はい。営業事務のような仕事です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:07:13",
+      "utterance": "そうだったんですね。営業の方をサポートする大事なお仕事ですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:08:24",
+      "utterance": "そのお仕事は、何年くらい働いていたんでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:08:27",
+      "utterance": "それほど大事な仕事だったのかどうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:08:37",
+      "utterance": "1年半です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:08:46",
+      "utterance": "あっ　失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:09:48",
+      "utterance": "1年半だったんですね。退職するにあたり、何かきっかけがあったのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:10:34",
+      "utterance": "社長が理不尽で、みんな辞めてしまって、自分と社長だけになってしまいました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:11:09",
+      "utterance": "キツくて辞めました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:12:00",
+      "utterance": "そうだったんですね。それは、厳しい環境でお仕事をされていたんですね。そんな中で、１年半もホントに頑張ってこられたんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:12:59",
+      "utterance": "頑張ったというか、転職先も見つからず、仕方なく我慢していた感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:14:31",
+      "utterance": "そうでしたか。次のお仕事が見つからないと、なかなか転職を決断することは、できないですよね。がまんしてこられたんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:15:15",
+      "utterance": "私も３回転職した経験がありますので。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:15:56",
+      "utterance": "失礼ですが、ご家族はいらっしゃるんでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:16:10",
+      "utterance": "母と2人です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:17:20",
+      "utterance": "そうなんですね。お母様と暮らしているということで、お給料が入ってこないと、不安になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:18:36",
+      "utterance": "現在、就職活動は、どのようなことをされているのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:19:14",
+      "utterance": "ネットで探して、応募をしています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:20:26",
+      "utterance": "そうなんですね。面接までは、進むことが多いのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:21:13",
+      "utterance": "進んだり、進まなかったりです。10件中1回進めばいいところでしょうか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:22:36",
+      "utterance": "そうなんですね。今は、そんなに厳しい世の中なんですね。そのような転職活動が続くのは、しんどいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:23:32",
+      "utterance": "最近は少しあきらめ気味で、どうしたら良いかわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:24:33",
+      "utterance": "そうなんですね。確かに、どうすればいいのか、いつまで続くのか、不安な気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:24:58",
+      "utterance": "色々と教えていただき、ありがとうございます。そのような大変な時に、本日ご相談に来てくれたんですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:25:57",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:26:18",
+      "utterance": "ありがとうございます。本日のご相談内容は、今後どうすればいいかについて、一緒に考えてみる、ということでよろしいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:27:06",
+      "utterance": "そうですね。これからどうすれば良いのか、です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:28:18",
+      "utterance": "承知しました。あなたのお役に立ちたいので、またいくつか質問させていただいてもよろしいでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:28:33",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:28:44",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:29:31",
+      "utterance": "現在は、雇用保険のいわゆる失業手当は、需給されているのですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:29:56",
+      "utterance": "受給の間違いです。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:29:57",
+      "utterance": "いいえ、していません。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:30:31",
+      "utterance": "そうなんですね。それでは、収入はないんですかね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:31:08",
+      "utterance": "空手の指導をしているので、少しはあります。わずかですが。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:31:54",
+      "utterance": "そうなんですね。素敵なお仕事をされているんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:32:14",
+      "utterance": "仕事という感じではありません。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:32:41",
+      "utterance": "そうなんですね。失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:32:59",
+      "utterance": "子どもの頃から続けていて、その流れで教えることになっています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:33:57",
+      "utterance": "そうだったんですね。地元のお子様を相手に指導されている感じなのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:35:44",
+      "utterance": "そうですね。お世話になってきた道場や師範への恩返しというか、これまで学んできたことを、後世に伝えていく使命というか、無道なので説明難しいですが、、子どもも大人も教えています。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:36:25",
+      "utterance": "「武道なので説明難しいですが」の間違いです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:37:11",
+      "utterance": "はい、わかりました。そうなんですね。ご立派ですね。私も見習わなければなりません。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:37:55",
+      "utterance": "ところで、今後は、これまでの営業事務などの経験を生かしたい、とお考えですか？それとも手に新しい資格や技術を身に付けたいとお考えでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:38:50",
+      "utterance": "営業事務の経験といっても、特に何ができるわけでもないので、あまり役に立たないようです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:39:13",
+      "utterance": "資格や技術も何か思い当たるものがありません。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:39:58",
+      "utterance": "そうでしたか。資格や技術もですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:40:43",
+      "utterance": "定時に終わって、空手の指導ができて、土日が休める仕事が良いのですが。そんな都合の良い仕事はないですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:41:34",
+      "utterance": "そういうお仕事がご希望なんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:41:56",
+      "utterance": "はい。なので、困っています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:42:07",
+      "utterance": "このご時世では、厳しいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:42:22",
+      "utterance": "そうですね。正社員ですと、なかなか定時には上がれないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:42:57",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:43:45",
+      "utterance": "アルバイト、パート社員、契約社員、派遣社員といった、正社員とは異なった雇用形態は、検討されたことはありますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:44:00",
+      "utterance": "以前はやっていました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:44:16",
+      "utterance": "20代の頃は",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:44:19",
+      "utterance": "あっ　そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:44:29",
+      "utterance": "そうでしたか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:45:06",
+      "utterance": "前々職もアルバイトみたいな仕事でした",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:45:35",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:45:47",
+      "utterance": "今は、正社員という雇用形態をご希望なんですかね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:46:03",
+      "utterance": "できればそうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:46:38",
+      "utterance": "そうですよね。　安定しますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:47:16",
+      "utterance": "落ち着きたいというのでしょうか。そんな感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:48:44",
+      "utterance": "アルバイト、パート、契約社員、派遣社員ですと、契約更新されない可能性がありますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:49:18",
+      "utterance": "人材紹介会社　経由　正社員を目指すという手段もあると思いますけれども、ご検討されたことはありますでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:50:09",
+      "utterance": "人材紹介の会社にはいくつか登録しています。それを使って、紹介があった会社に応募しています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:50:33",
+      "utterance": "ああ、そうだったんですね。失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:51:49",
+      "utterance": "それでも、応募した１０社に１社しか、面接まで進まないんですね。それは、本当に困ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:52:56",
+      "utterance": "はい、うまくいきません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:54:15",
+      "utterance": "そうでしたか、本当に八方塞がりな感じになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:54:42",
+      "utterance": "ハローワークを使った、求職活動もされていますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:54:55",
+      "utterance": "何度か行きました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:55:39",
+      "utterance": "そうでしたか、やはり見つからないですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:56:27",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:57:15",
+      "utterance": "そのような状況になると、本当に泣きたくなりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T19:58:01",
+      "utterance": "生きてるのもツラいです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T19:59:15",
+      "utterance": "本当に、ツラい気持ちになりますよね。そろそろお時間となりますが、今日は、ご相談されてみて、いかがでしたでしょうか。全くお役に立てなかったようで、本当に申し訳ないです。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T20:00:26",
+      "utterance": "聞いていただきありがとうございました。自分で考えるしかないですね。お時間いただきありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T20:01:06",
+      "utterance": "色々とお話を聞かせていただき、ありがとうございました。今日はこのあたりにしたいと思うのですが、いかがでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T20:01:18",
+      "utterance": "はい。ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T20:01:34",
+      "utterance": "カウンセリングは、これで終わりになりますが、もしかすると、またいつか、ひどく気分が落ち込んでしまったとか、そんな困ったことがあるかもしれません。そんなときは遠慮なく、また、いらしてください。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T20:01:43",
+      "utterance": "それでは、「終了メッセージ」をお送りします",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-28T20:01:55",
+      "utterance": "（ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-28T20:01:59",
+      "utterance": "(ありがとうございました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職活動の行き詰まり"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3337,
+    "評価作成日時": "2022-04-05T13:20:00",
+    "クライアント役ID": 257,
+    "カウンセラー役ID": 270,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3337,
+    "evaluation_created_at": "2022-04-05T13:20:00",
+    "client_id": 257,
+    "counselor_id": 270,
+    "score": 57,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

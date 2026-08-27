@@ -1,0 +1,514 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-10-01T20:21:44",
+      "utterance": "(こんばんは。よろしくお願い致します。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:21:46",
+      "utterance": "(こんばんは。時間になりましたら始めさせていただきます。よろしくお願い致します。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:22:13",
+      "utterance": "(何かご希望はございますか？)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:22:45",
+      "utterance": "（特にありません。お気遣いありがとうございます。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:22:57",
+      "utterance": "(かしこまりました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:30:04",
+      "utterance": "こんばんは。相談員です。初めに年齢とお話したいことを教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:30:34",
+      "utterance": "22歳女性。彼と別れた方が良いのか悩んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:32:26",
+      "utterance": "教えてくださりありがとうございます。パートナーさんと別れた方がいいと悩まれている理由を話せる範囲でいいので教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:33:11",
+      "utterance": "↑別れた方がいいのかと悩まれている理由です。失礼いたしました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:33:31",
+      "utterance": "彼が私のことをどう思っているのかわからなくなる時があるので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:34:16",
+      "utterance": "そのように感じるときがあるのですね。具体的にどんな時にそう感じられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:35:32",
+      "utterance": "普段はとても優しいんです。私のこと愛してると言ってもくれます。でも、ケンカすると怒るので、怖くなります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:36:50",
+      "utterance": "そう言う時に、私のこともう好きじゃないのかな、と思います。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:38:11",
+      "utterance": "そういう場面で相談者さんに対してどう思っているのかが分からなく感じるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:38:51",
+      "utterance": "はい。もう好きじゃないのなら、彼にとっても別れた方が幸せなのかな、って思うこともあって、どうしたら良いかわからなくなります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:39:07",
+      "utterance": "パートナーさんが自分のことを好きじゃないのかなと感じるのは不安になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:39:16",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:41:02",
+      "utterance": "別れた方がいいのかなという思いもあるのですね。パートナーさんが怖いと感じるのは喧嘩して怒った時だけでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:41:42",
+      "utterance": "そうですね。普段はとても優しいんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:43:18",
+      "utterance": "そうなのですね。怖いと感じるのはどういったところからそう感じるのでしょうか？怒鳴るからとか乱暴な言葉を使うからとかいろいろあると思いますが。。。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:44:09",
+      "utterance": "怒鳴ることもありますし、乱暴な言い方になる時もあります。きっと私がいけないんだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:45:25",
+      "utterance": "そうでしたか。相談者さんがご自身が悪いんだと感じてしまうのですね。自分を責めるのは辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:46:02",
+      "utterance": "はい。でも、彼を怒らせてしまうのは私が悪いんだって、彼はいつもそう言うんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:47:10",
+      "utterance": "それで、彼もカッとなるみたいです、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:48:29",
+      "utterance": "そうなんですね。パートナーさんから直接そのように言われると傷つきますよね。パートナーさんとのお付き合いはどれくらいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:48:44",
+      "utterance": "2年になります。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:49:52",
+      "utterance": "そうなのですね。付き合い始めからそのような怒り方をされるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:50:59",
+      "utterance": "最初はわからなかったんです。半年ぐらいして一緒に住むようになったら、今まで知らなかった姿が見えてきました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:53:59",
+      "utterance": "同棲をしてからそのような状況が見えてきたのですね。知らなかった姿は他にも見えてきましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:55:35",
+      "utterance": "他には、私の予定を知りたがったり、スマホを見たがったりするようになりました。でもスマホを見せっこするのって、別に変じゃありませんよね？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T20:56:15",
+      "utterance": "お前のことが好きだから心配になるんだ、って彼は言ってます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T20:58:49",
+      "utterance": "好きで心配だからと言って相談者さんの予定を把握したがったり、スマホを見たがったりするのですね。スマホを見せ合うことに関しては変と感じるかどうかは人それぞれだと思いますが、誰かにそのようなことを言われたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:00:35",
+      "utterance": "私は最初、スマホを見せるのはイヤだなって思ったんです。でも彼に、お前のこと何でも知っていたい、隠し事がなくてやましいことがないなら見せてくれても良いだろ？って言われて、そういうのもあるのかなと思ったんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:02:57",
+      "utterance": "そういう経緯があったのですね。最初は抵抗があったけど、今は見せ合いっこしているってことですかね。今相談していただいていることを周りに相談はできていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:04:04",
+      "utterance": "いえ、最近は友達にも会わせて貰えてなくて。LINEも全部消されてしまいました。今日は彼が夜勤でいないので、こちらに相談に来ました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:05:48",
+      "utterance": "そうでしたか。。友人の方とも連絡が取れず相談ができないのは心細いかと思います。貴重な時間をつかって相談に来ていただきありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:07:09",
+      "utterance": "あの………ここで相談したことって、誰にもバレませんか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:08:27",
+      "utterance": "はい。こちらでの相談は秘密厳守なのでバレませんよ。安心してお話してくださいね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:09:35",
+      "utterance": "友人に会わせてもらえずＬＩＮＥも消されてしまって相談者さんはどんなお気持ちですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:10:44",
+      "utterance": "彼がそんなに私のことが心配なら仕方ないのかな、と思います。彼を不安にさせている私が悪いので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:12:34",
+      "utterance": "私が悪いから、彼に叩かれたりもするんだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:12:45",
+      "utterance": "パートナーさんを不安にさせている自分が悪いと感じているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:13:24",
+      "utterance": "彼はいつも、お前が悪いんだ、って言います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:15:08",
+      "utterance": "叩かれたりもしているのですか。。。いつもそんなことをいわれてしまうとご自身が悪いんだと感じてしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:15:30",
+      "utterance": "すみません、さっきはここが安全かわからなくて言えませんでした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:16:16",
+      "utterance": "いえいえ、話してくださってありがとうございます。他に暴力は受けていませんか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:17:09",
+      "utterance": "カッとなると我を忘れてしまうみたいで、髪を引っ張られたり、お腹を殴られたり蹴られたりします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:17:22",
+      "utterance": "でも冷静になると、ちゃんと謝ってくれるんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:17:43",
+      "utterance": "お前が居ないと生きていけない、って泣くんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:18:09",
+      "utterance": "怒らなければ、本当に良い人なんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:18:40",
+      "utterance": "そうでしたか。カッとなってしまうと感情を抑えられなくなってしまうのかもしれませんね。相談者さんはよく今まで耐えてこられましたね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:19:42",
+      "utterance": "彼は私が必要だと言ってますから。怒ってる時だけ我慢していれば、また優しい彼が戻ってきます。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:20:13",
+      "utterance": "でも、時々怖くなります。このままもしかしたら私死んじゃうのかなぁ、って。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:20:51",
+      "utterance": "そうでしたか。相談者さんはそう思って彼のそばにいるのですね。ただこのままだと身の危険を感じているところもあると。。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:21:27",
+      "utterance": "はい。でも別れたら彼を見捨てることになってしまうし。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:24:04",
+      "utterance": "見捨てたくはないとお思いなのですね。これまでのお話を聞かせてもらい感じたのは1度警察に相談にいった方がいいかと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:25:03",
+      "utterance": "警察に行ったことがバレたら、きっとまたひどく殴られます。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:25:14",
+      "utterance": "怖いです。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:27:19",
+      "utterance": "怖いと感じているのですね。ですが身の危険も感じているとのことですし、何より相談者さんの身の安全が1番だと相談員は思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:29:24",
+      "utterance": "いつもいつも暴力振るうわけじゃないんです。私が悪いから殴られるんです。彼はおかしいんですか？",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:31:36",
+      "utterance": "相談者さんはそう感じられているのですね。パートナーさんがおかしいかどうかではなく、ただ暴力を振るわれるのは普通のことではないので一度警察に相談にいかれた方がいいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:32:12",
+      "utterance": "お話の途中ですがそろそろお時間が来てしまいました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:32:20",
+      "utterance": "そうなんですね、ここじゃなく警察のが良かったんですね。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:32:40",
+      "utterance": "お時間とっていただいて、ありがとうございました。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:34:39",
+      "utterance": "警察に行く前にここでお話していただいて話が整理されることもあります。またいつでもお話に来てください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:35:27",
+      "utterance": "今日はお話をしていただきありがとうございました。本日の相談を終了させていただきますj。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-01T21:35:35",
+      "utterance": "(時間オーバーして申し訳ございませんでした。ありがとうございました)",
+      "distress_level": 3,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-01T21:36:00",
+      "utterance": "（こちらこそ申し訳ありませんでした。ありがとうございました。）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "パートナーからの暴力とその影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5781,
+    "評価作成日時": "2023-10-02T00:11:00",
+    "クライアント役ID": 420,
+    "カウンセラー役ID": 410,
+    "点数": 17,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 0,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 0,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5781,
+    "evaluation_created_at": "2023-10-02T00:11:00",
+    "client_id": 420,
+    "counselor_id": 410,
+    "score": 17,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

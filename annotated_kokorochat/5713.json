@@ -1,0 +1,563 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-14T20:51:13",
+      "utterance": "(こんばんは。本日はよろしくお願いいたします。お時間になりましたら始めさせていただきますね。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:00:52",
+      "utterance": "（お時間になりましたが始めさせていただいてよろしいでしょうか。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:18:33",
+      "utterance": "こんばんは。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:19:21",
+      "utterance": "こちらの内容は届いていますでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:21:37",
+      "utterance": "(ごめんなさい。おそくなりました。よろしくお願いします。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:22:42",
+      "utterance": "(お待たせしてしまって大変申し訳ありません。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:23:01",
+      "utterance": "（こちらこそよろしくお願いいたします。不具合だったとので、無事に繋がれてよかったです。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:23:24",
+      "utterance": "（それでは始めさせていただきますね。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:23:33",
+      "utterance": "(はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:24:26",
+      "utterance": "こんばんは。本日はこちらに来ていただきありがとうございます。まずはじめに、年齢、性別、ご相談内容をお聞かせいただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:25:12",
+      "utterance": "32歳女何もかも疲れてしまって投げ出したいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:25:57",
+      "utterance": "そうなのですね。それはとてもお辛いですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:26:52",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:27:09",
+      "utterance": "相談者さんにとって今どんなことがお辛いのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:27:45",
+      "utterance": "家と仕事の両立がうまくいかないことです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:28:47",
+      "utterance": "教えていただきありがとうございます。そうなのですね。日常生活で家のことと仕事の両立がうまくいかないことに辛さを感じておられるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:29:11",
+      "utterance": "どんなふうに「うまくいかない」と感じるのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:31:32",
+      "utterance": "仕事で忙しくなるのと比例して家のことが何も出来なくなります。子供のお迎えだけして家でいろいろしてると夫が帰ってきて迷惑かけることがよくあります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:32:09",
+      "utterance": "こんなの妻としても母親としてもダメだと理解しているんですけど、どうしていいのかわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:33:36",
+      "utterance": "ええ。そうだったのですね。それほどまでに大変な毎日を送っているのですね。何もかも投げ出したくなるほど疲れてしまうのも自然なことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:34:41",
+      "utterance": "お子さんもいらっしゃるのでは母親としての仕事も増え、まさに２４時間お仕事を抱えている状況ですよね。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:34:58",
+      "utterance": "今の時代どの家庭も共働きで上手くやってるのに私だけ全くできてないし、仕事にも支障でているので辛いです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:36:38",
+      "utterance": "ええ。相談者さんはそう感じていらっしゃるのですね。それほどご自分で毎日必死に働いていらっしゃる分、ご自分にも責任がある、と自分を責めるお気持ちもあるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:37:18",
+      "utterance": "そうですね。職場にも家庭にも迷惑をかけています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:38:12",
+      "utterance": "迷惑をかけている、と思うととても心苦しいですよね。いつごろから今のようなお気持ちになったのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:38:54",
+      "utterance": "ここ1.2年ですかね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:39:11",
+      "utterance": "頑張ってきたんですけど、そろそろ限界かなと",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:39:16",
+      "utterance": "そんなに長い期間苦しみを抱えて頑張ってこられたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:40:00",
+      "utterance": "限界になって当然のことと思います。相談者さんのお体が心配です。体調はいかがですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:40:48",
+      "utterance": "あんまり優れないですけど、仕事も正念場なんで休めないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:41:38",
+      "utterance": "仕事も家庭も休める状況ではないほど、お体を酷使されているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:42:09",
+      "utterance": "自分が選んだ道なので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:42:28",
+      "utterance": "そのような大変な中で、今日はこちらに来ていただきありがとうございます。何か少しでも相談者さんのお役に立てたらと思います。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:43:27",
+      "utterance": "様々なことがある中で今日はどんなことを一番お話しされたいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:44:06",
+      "utterance": "どうやったら両立できますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:44:58",
+      "utterance": "迷惑をかけたくないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:45:24",
+      "utterance": "考えていただきありがとうございます。両立、ということですが、相談者さんにとって理想の両立というのは「迷惑をかけない」というところでしょうか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:46:05",
+      "utterance": "それもありますが、私自身がちゃんとしたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:47:13",
+      "utterance": "そうなのですね。「ちゃんと」というとどのような感じでしょうか。例えば細かいことも完璧にする、とか健康保持とか。色々あるかと思います。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:48:04",
+      "utterance": "そうですね。イメージとしてはできることは全部しっかりやりたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:50:49",
+      "utterance": "そう感じておられるのですね。相談者さんのようなとても責任感があって、しっか向き合おうとされるお気持ちのある方といる家族や職場の方はとても嬉しいでしょうね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:51:19",
+      "utterance": "けれど今はそれが全てこなせず心が痛むわけですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:52:00",
+      "utterance": "今の状況についてご家族の方のサポートはどのような感じでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:52:09",
+      "utterance": "そうですね。自分が選択したのでちゃんとやりたいのにできないのでそんな自分に苛立ちもあります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:52:50",
+      "utterance": "夫は休みの日は手伝ってくれますし、月に一回母が来てくれてるんで恵まれています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:53:47",
+      "utterance": "苛立ちさえ感じておられるのですね。とても苦しいですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:54:12",
+      "utterance": "なんでできないんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:54:20",
+      "utterance": "ご家族の方の支えもあるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:55:45",
+      "utterance": "相談者さんはこれまで両立について、そのようなことを実践されてきましたか。例えば手帳などに記入する、など。どのようなことでも良いです。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T21:57:40",
+      "utterance": "個人のスケジュール管理、家族のスケジュール共有、毎朝タスク整理などはやっています。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T21:58:31",
+      "utterance": "いろいろと工夫されてきたのですね。きっと相当な努力もされてこられたように感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:00:52",
+      "utterance": "ちなみに、相談者さんが一番大切にしたいものは何でしょうか。子供との時間、パートナーさんとの会話、家族の時間、仕事に集中したい。笑顔。健康。など。どのようなことを大切にされたいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:01:38",
+      "utterance": "そうですね。家族はマストですけど、それと同じくらい仕事も大切に思っています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:02:27",
+      "utterance": "考えていただきありがとうございます。家族だけではなく、仕事も大切にされたいと感じているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:03:02",
+      "utterance": "そうですね。やりたい仕事に就けてるんで",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:04:53",
+      "utterance": "お仕事は自分自身として立っていられる場所でもあります。そんなやり甲斐のあるお仕事に就けるとは、踏ん張ることのできる相談者さんだからこそ出来ていることなのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:06:34",
+      "utterance": "やりがいはありますね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:07:46",
+      "utterance": "ここまでお話を聴かせていただき、相談者さんの家族や仕事に真剣に向き合っている姿勢、そしてご自分の決めたことはちゃんんとやりたいと感じる真剣な気持ちや責任感など、辛くともとても頑張る力のある方なのだな、と感じました。きっと周りにいる方もそんな相談者さんだからこそ信頼もされているのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:08:31",
+      "utterance": "きっと、ご自分よりも周りを大切にされている方なのだと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:10:02",
+      "utterance": "けれど、もしかするとあまりに「やらなくては」と思うあまり、ご自分に「矢」を向けてとても辛くなることもあるように感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:13:41",
+      "utterance": "伺っている限り、毎日やるべきタスクが多すぎて２４時間お仕事をされていらっしゃる状況に思います。家族や仕事をこなすことは簡単なことではないと思います。自分に向けている「矢」を外してみることも良いように私は感じましたがいかがでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:14:22",
+      "utterance": "もしそうだとしたら矢はどうすれば外れるのでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:15:34",
+      "utterance": "一番初めに仰っていた、「投げ出したい」というお気持ちを受け止めて例えば何か一つ「やらない」または「簡単にすませる」「代わりに頼む」なども良いかと思いますがいかがでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:16:07",
+      "utterance": "それは手抜きではないですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:18:26",
+      "utterance": "他の大切なことをする為に「時間を作る」というイメージです。なのでそれは意味のあることだと私は思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:19:25",
+      "utterance": "これは相談者さんが何を大切にしたいか、ということを考える必要もあるかとは思います。その為に「時間を作る」のです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:19:43",
+      "utterance": "手をぬいて休む時間を作るのは気が引けますが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:21:51",
+      "utterance": "それを「やらない」。ということで他にご自分がやりたい重要なことに時間を作る。そういった時間が増えれば少しずつ相談者さんが本当に「ちゃんと」やりたかった時間もおのずと増えると思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:22:41",
+      "utterance": "本当にちゃんとやりたいことっていわれても全部本当にちゃんとやりたいんですけど。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:24:11",
+      "utterance": "そうなのですね。全て大切なことなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:25:32",
+      "utterance": "もし、よろしければ次回お話の続きもできるのでまたご一緒に考えてみませんか。相談者さんのお気持ちが少しでも軽くなればと思います。今日はお時間になってしまいましたが、こちらはいつでもお待ちしています。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:25:53",
+      "utterance": "わかりました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:26:01",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:26:36",
+      "utterance": "何よりもお体に負担がかかり続けることは避けられたらと思います。いつでもまたこちらに来てください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:26:56",
+      "utterance": "それでは本日は終了とさせていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-14T22:27:08",
+      "utterance": "(遅くまでお疲れ様でした。勉強になりました。ありがとうございます)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-14T22:27:34",
+      "utterance": "（本日はありがとうございました。！こちらこそすみません！）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "家事分担の問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5713,
+    "評価作成日時": "2023-09-15T13:13:00",
+    "クライアント役ID": 410,
+    "カウンセラー役ID": 412,
+    "点数": 81,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 3,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5713,
+    "evaluation_created_at": "2023-09-15T13:13:00",
+    "client_id": 410,
+    "counselor_id": 412,
+    "score": 81,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

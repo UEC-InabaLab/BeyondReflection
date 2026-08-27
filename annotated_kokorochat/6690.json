@@ -1,0 +1,851 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-05T09:52:05",
+      "utterance": "(おはようございます。よろしくお願いいたします。時間になりましたら、始めさせていただきます。)",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:00:03",
+      "utterance": "こんにちは。相談員です。はじめに、年齢と性別を教えていただけますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:00:32",
+      "utterance": "19歳　男性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:00:44",
+      "utterance": "相談にきてくださって、ありがとうございます。どんなご相談ですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:01:06",
+      "utterance": "人前でうまく話せなくなってしまったことを悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:02:17",
+      "utterance": "そうでしたか。どうしたらいいかな…と、思ってしまいますね。お話しできるところからで大丈夫です。もう少し詳しく教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:03:01",
+      "utterance": "人前で話そうとすると、手や声が震えて止まらなくなります",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:04:25",
+      "utterance": "そうなのですね。それは不安になりますよね。うまく話せなくなってしまった…とのことでしたが、もしかしたら何かきっかけがあってそうなった…ということなのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:05:37",
+      "utterance": "たぶんですが、高校の時です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:06:12",
+      "utterance": "授業で発表することがあって、なんか失敗しちゃって",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:06:40",
+      "utterance": "教えてくれて、ありがとうございます。そんなことがあったのですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:07:19",
+      "utterance": "とまどってしまいましたよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:07:54",
+      "utterance": "それから、授業中に当てられても声が震えてうまく答えられなくなりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:08:35",
+      "utterance": "つらかったこと、話してくださって、ありがとうございます。あなたのお話、しっかり受けとめていきたいです。何でもお話しくださいね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:08:45",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:09:36",
+      "utterance": "どうすれば治るのかわからなくて困ってます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:10:31",
+      "utterance": "困ってしまいますよね。なんとかしたい…とのお気持ち、伝わってきます。一緒に考えていきたいです。ちなみのなのですが、今現在は、どこかにお勤めですか？　それとも、学生さん…とかでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:10:50",
+      "utterance": "大学生です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:11:38",
+      "utterance": "そうなのですね。今現在、特にはどんな場面でお困りでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:12:39",
+      "utterance": "大学でゼミとか始まると、人前で話したり、発表したりすることが増えるのでこわいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:13:37",
+      "utterance": "そんなふうにお感じなのですね。この先のことを考えると、不安や怖さが出てくるご様子なのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:13:45",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:14:04",
+      "utterance": "今は、2年生でしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:14:16",
+      "utterance": "これから2年になります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:14:51",
+      "utterance": "声とか手とか、震えてしまった時に、どうすればいいでしょうか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:15:21",
+      "utterance": "ありがとうございます。今は、そのような場面があったときは、どのようにして、対処しているのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:16:03",
+      "utterance": "高校の時は当てられても、全部、わかりませんでやり過ごしました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:16:35",
+      "utterance": "なるほどです。精一杯の自分を守る術ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:16:42",
+      "utterance": "大学では、まだそういう場面がないんですが、これからゼミが始まるので",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:16:51",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:17:12",
+      "utterance": "もう避けられそうになくて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:17:31",
+      "utterance": "そうなのですね。追い詰められるお気持ちですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:18:13",
+      "utterance": "ちなみに、お話しするときに、緊張しない場面もあったりしますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:18:49",
+      "utterance": "家族や友達と普通に話すとかは大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:19:29",
+      "utterance": "そうでしたか。日常的な場は、大丈夫なのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:19:36",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:19:47",
+      "utterance": "一旦ここまで、お話まとめさせてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:20:01",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:21:58",
+      "utterance": "高校生の時のことがきっかけで、人前でうまく話せなくなってしまった。話そうとすると、手や声が震えて止まらなくなりる。大学でゼミとか始まると、人前で話したり、発表したりすることが増えるだろう。そう思うと怖くなる。なんとか直すための方法を見つけたい。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:22:17",
+      "utterance": "そのように考えて、今日ご相談に来てくださったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:22:33",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:23:48",
+      "utterance": "ありがとうございます。もう少し、ご質問させてくださいね。人前で話そうとするとき、あなたの頭の中には、どんな考えが浮かんでくる感じでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:24:09",
+      "utterance": "また失敗して笑われる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:24:47",
+      "utterance": "なるほどです。そう考えると、怖くなる…のですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:24:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:25:19",
+      "utterance": "どうすれば怖くなくなりますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:26:02",
+      "utterance": "そうですね…。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:26:08",
+      "utterance": "ゼミは必修なので、避けられないので、もう大学無理なんでしょうか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:26:43",
+      "utterance": "では、解決に向けてのイメージを、共有させていただきながら、考えていきましょう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:27:14",
+      "utterance": "イメージの共有ってどうすればいいですか",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:27:50",
+      "utterance": "あなたにとって、うまく話せているイメージって、どんなイメージでしょう。教えてもらうことできますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:28:06",
+      "utterance": "手や声が震えないこと",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:28:21",
+      "utterance": "あと、笑われない",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:28:22",
+      "utterance": "ありがとうございます。他にもありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:28:42",
+      "utterance": "笑われないことも、大切なポイントなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:29:01",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:29:30",
+      "utterance": "ウケ狙いしてないのに笑われると、馬鹿にされてる気がする",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:29:43",
+      "utterance": "すごく恥ずかしい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:30:16",
+      "utterance": "なるほどです。馬鹿にされているような気がして、恥ずかしい…とお考えなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:30:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:30:40",
+      "utterance": "そう思ってしまうのは、くやしいですね。苦しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:30:47",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:31:51",
+      "utterance": "もう直ぐ、2年生が始まるのに、どうしていいかわからないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:32:15",
+      "utterance": "大切な気持ち、教えてくれて、ありがとうございます。さきほどの、いいイメージのお話に戻ってもよいでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:32:21",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:33:07",
+      "utterance": "あなたにとって、人前でいいイメージでお話できているなって思える人、誰か思い浮かんだりしますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:33:29",
+      "utterance": "自分以外の人はできてるって思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:33:58",
+      "utterance": "テレビに出てる人とか、政治家もすごい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:35:07",
+      "utterance": "そんなふうに思うのですね。なるほどです！たとえば、テレビに出てる人や政治家で、こんな風に話せたらいいな…って思える人、名前をあげられるでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:36:02",
+      "utterance": "人前で声が震えたりしない人は、みんなすごいと思うし、すごくうらやましい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:36:59",
+      "utterance": "すごいし、うらやましい…そうなりたいなという、あなたの切実な願いなのですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:37:15",
+      "utterance": "これは、ひとつのご提案なのですが…",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:37:26",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:37:41",
+      "utterance": "お伝えしてみてもいいでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:37:48",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:39:34",
+      "utterance": "心理学的にはモデリング…というのですが(すでにご存じかもなのですが)、なにか目指したい自分像があるとき、モデルになるろうな人のイメージに近づけていく…というのは、ひとつの視点・方法だったりすることがあります。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:40:16",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:40:47",
+      "utterance": "発表する時に誰かをイメージするということですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:41:21",
+      "utterance": "そういったことに近いかもしれないですね。そういった意味から、あらためて考えてみると、誰かモデルに人、思い浮かびますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:41:22",
+      "utterance": "そうすれば、緊張はなくなりますか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:42:19",
+      "utterance": "人前で話そうとすることを想像するだけで、もうつらいので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:42:51",
+      "utterance": "今のあなたにとって、人前で震えずに話をするということは、もしかしたら、遠くにある目標…ともお感じなのかもしれません。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:43:19",
+      "utterance": "もう直ぐゼミが始まってしまうので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:43:46",
+      "utterance": "そうなのですね。お時間取ってしまって、ごめんなさいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:43:48",
+      "utterance": "発表する機会が避けられない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:44:16",
+      "utterance": "もう一度、お話もどしますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:45:05",
+      "utterance": "目標が遠くて高いと感じてしまうと、人は、不安や怖さも感じやすくなります。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:45:27",
+      "utterance": "手とか声とか震えながら発表してたらおかしいですよね？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:46:11",
+      "utterance": "目標が高いとか遠いとかはよくわかりませんが、何とかしたいので相談しました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:47:39",
+      "utterance": "人前で話す時に緊張しますか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:47:44",
+      "utterance": "今、スモールステップで、モデルとなるイメージに向けての前進…という視点から、ご提案でできれば…と考えています。どうでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:47:56",
+      "utterance": "よくわかりません、ごめんなさい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:48:40",
+      "utterance": "承知しました。うまく伝えられなくて、ごめんなさいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:48:47",
+      "utterance": "具体的にどうしたら良いか教えてください",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:49:05",
+      "utterance": "理解できなくてごめんなさい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:49:33",
+      "utterance": "とんでもない！こちらこそです。人前で話すときに…ですか？はい、私(相談者)は緊張します。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:49:50",
+      "utterance": "そんな時はどうされているんですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:50:18",
+      "utterance": "参考になるかどうか…なのですが、お話してみますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:50:35",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:50:55",
+      "utterance": "私は、まずこんなふうに自分に話しかけます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:51:55",
+      "utterance": "どんな風にですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:52:01",
+      "utterance": "「私は私を受け入れました。私はあなた(あなたがた)を受け入れました。そして、あなた(あなたがた)は、私を受け入れました。」その後、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:53:03",
+      "utterance": "自分の足もとから、大きな太い木が、自分の中を突き抜けるようなイメージで、空高く伸びている様子をイメージします。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:53:15",
+      "utterance": "だから、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:53:49",
+      "utterance": "自分は揺らがない。ドーンとしていられる。大丈夫！…のようなイメージです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:54:05",
+      "utterance": "私ごとで、恐縮なのですが…。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:54:28",
+      "utterance": "うーん、よくわからないところもありますが、イメージしてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:54:34",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:54:56",
+      "utterance": "もう、今日は大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:55:02",
+      "utterance": "こちらこそです。そう言ってｋれて、ありがとうございます。少しは、少しでも参考になると、嬉しいのですが…。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:55:10",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:55:11",
+      "utterance": "承知しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:55:41",
+      "utterance": "今日は、ありがとうございました。もしよろしければ、",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:56:20",
+      "utterance": "引き続きあなたのお話をきかせていただけたらと思っています。また、どうぞ、いらしてくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:56:21",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:56:49",
+      "utterance": "わかりました。今日はありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:56:57",
+      "utterance": "これで失礼します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:57:01",
+      "utterance": "それでは、今日は終了と点せて頂きます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-05T10:57:07",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-05T10:57:52",
+      "utterance": "(ありがとうございました。うまく着地できず、もうしわけありません。お疲れ様でした！)",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "人前で話すことへの強い不安や緊張"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6690,
+    "評価作成日時": "2024-04-05T14:37:00",
+    "クライアント役ID": 498,
+    "カウンセラー役ID": 316,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6690,
+    "evaluation_created_at": "2024-04-05T14:37:00",
+    "client_id": 498,
+    "counselor_id": 316,
+    "score": 56,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

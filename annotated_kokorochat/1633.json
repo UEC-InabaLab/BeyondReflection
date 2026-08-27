@@ -1,0 +1,897 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:00:05",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:00:21",
+      "utterance": "こんにちは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:00:33",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:01:15",
+      "utterance": "はい、知らない人と話をする時や、大勢の前で話をする時に凄く緊張して困っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:02:34",
+      "utterance": "そうなんですね。それはお困りですね。いつごろからそんなことが起こるようになったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:03:06",
+      "utterance": "それは、ずっと前からの気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:03:28",
+      "utterance": "子どもの時から知らない人と話をするのは緊張していました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:03:54",
+      "utterance": "そうだったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:04:02",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:04:28",
+      "utterance": "それでは言いたいことが言えないということもあったのでしょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:05:05",
+      "utterance": "そうですね、基本的に言いたいことがすぐに言える性格ではないですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:05:53",
+      "utterance": "そうなんですね。知らない人と話すのに緊張してしまうということですが、最近ではどんな時にそんなことがあったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:07:13",
+      "utterance": "はい、2週間くらい前にも、ストレスマネージメントの話を15人位の前でした時に、緊張して、途中から訳が分らなくなりました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:07:43",
+      "utterance": "15人だと大勢といえないかもしれませんが…",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:08:06",
+      "utterance": "いえいえ、15人はけっこう大人数だと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:08:33",
+      "utterance": "そうなのかな。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:09:24",
+      "utterance": "わたしの個人的な感じですけれど、7人を超えると多い部類に入りそうな気がしますけど・・・",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:09:46",
+      "utterance": "人によってその辺は受け止め方が違うかもしれないですね…",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:09:57",
+      "utterance": "ストレスマネジメントのお話しをしていたとのことですが、講師のような立場でお話しをしていたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:10:14",
+      "utterance": "そうです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:10:38",
+      "utterance": "ペット関係の仕事をしていて、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:11:06",
+      "utterance": "ペット関連業の仕事をされている方に向けてストレスマネージメントをお伝えしています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:11:25",
+      "utterance": "そういう自分がストレスマネージメントできていない気がしますが…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:12:02",
+      "utterance": "そうなんですね。じゃあ先ずはご自分がそこのところをしっかりマスターしなくてはと思っていらっしゃると言うことでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:12:33",
+      "utterance": "そうですね。お伝えする以上、実践できなければと思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:13:34",
+      "utterance": "ストレスマネジメントについて先輩とか誰か相談できる方は近くにいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:14:24",
+      "utterance": "そうですね。相談できる人はいませんね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:14:44",
+      "utterance": "緊張すると何を話しているか分らなくなって焦るので、",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:14:58",
+      "utterance": "それを何とかしたいと思っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:15:18",
+      "utterance": "はいそうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:15:48",
+      "utterance": "そうなんです。焦ると心臓もバクバクするし",
+      "label": "",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:16:10",
+      "utterance": "終わった後、凄くぐったりするんです。",
+      "label": "",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:16:42",
+      "utterance": "なるほど。それは大変ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:17:01",
+      "utterance": "はい、凄く嫌です。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:17:02",
+      "utterance": "それだけで、すっかりくたびれてしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:17:51",
+      "utterance": "そうなんです。焦って訳が分らなくなり、心臓がバクバクした後は、くたびれてしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:17:52",
+      "utterance": "先ほど途中で分からくなってしまったことがあったとお話しくださいましたが、最後まで話し切れた問うこともあったのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:18:35",
+      "utterance": "はい、たいていはとりあえず最後まで話はするのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:18:44",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:19:17",
+      "utterance": "そこそこ緊張していても、「ちゃんと伝えられたな」と思うこともあるし、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:19:30",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:20:08",
+      "utterance": "途中で焦って訳が分らなくなって「あー何言っているんだろう」と",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:20:17",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:20:33",
+      "utterance": "終わった後にぐったりして落ち込むこととあります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:20:53",
+      "utterance": "そうでしたか・・・ご苦労されていますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:21:09",
+      "utterance": "はい、しんどいですね…",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:21:39",
+      "utterance": "そうですよね。ちなみに　講師としてストレスマネジメントのお話をするようになって、どのくらい期間が経ちますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:21:59",
+      "utterance": "半年くらいです。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:22:37",
+      "utterance": "そうなんですね。お話をする頻度は、今まで何回ぐらいありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:23:01",
+      "utterance": "半年の間で4回かな。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:23:32",
+      "utterance": "そうだったんですね。もう一つ教えてください。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:23:36",
+      "utterance": "はい",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:24:17",
+      "utterance": "質問ばかりで申し訳ないのですが、講師としてストレスマネジメント以外のテーマでお話をすることはこの半年の間にどのくらいありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:25:08",
+      "utterance": "そうですね。10回位あったと思います。",
+      "label": "",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:25:39",
+      "utterance": "その時にも、焦って訳が分らなくなることもあります。",
+      "label": "",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:26:03",
+      "utterance": "なるほど。そうなんですね。お返事ありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:26:14",
+      "utterance": "はい",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:26:29",
+      "utterance": "この辺で今までのお話しをすこし整理させていただいてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:26:39",
+      "utterance": "はい、お願いします。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:26:47",
+      "utterance": "ちなみに　あなたは　なんと　お呼びしたらよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:27:11",
+      "utterance": "高橋さんと呼んでください。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:27:28",
+      "utterance": "高橋さんありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:29:14",
+      "utterance": "高橋さんはペット関係のお仕事をしていて、その関連で業界関係の方に半年ぐらい前から　ストレスマネジメントのテーマでお話をするようになった。人数は15人ぐらい。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:29:23",
+      "utterance": "はい",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:29:51",
+      "utterance": "なんとか話し終えることもあるが、話している途中で訳が分からなくなってしまうこともある。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:30:04",
+      "utterance": "はい",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:30:45",
+      "utterance": "ストレスマネジメントの話は半年で4回ぐらい、他のテーマでは10回位話したが、やっぱり　話し終われることもあるが、途中で分からなくなってしまうこともある。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:30:52",
+      "utterance": "はい",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:31:08",
+      "utterance": "子供の頃から知らない人の前で話すと緊張するところがあった。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:31:20",
+      "utterance": "その通りです。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:31:22",
+      "utterance": "何とかしたいと思っている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:31:40",
+      "utterance": "という理解でよろしいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:32:32",
+      "utterance": "はい、ある程度緊張するのは仕方ないのかもしれませんが、訳が分らなくなるくないの緊張はしないようにしたいです。",
+      "label": "",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:32:58",
+      "utterance": "たしかにそこですよね。そこで一つ質問ですが、高橋さんご自身がストレスマネジメントのお話しをなさっているのですが、ご自身が話している内容に基づくと　どのような対処方法がありそうでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:33:55",
+      "utterance": "いちおう、知らない人に合ったり、講座があると解っている時には、その前に深呼吸して気持ちを落ち着かせるようにしています。",
+      "label": "",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:34:37",
+      "utterance": "いいですね。なるほどです。深呼吸すると、効果はいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:35:58",
+      "utterance": "はい、なので、スタートからつまづくことはあまりないです。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:36:27",
+      "utterance": "深呼吸するとその時には気持ちは落ち着きますね。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:36:43",
+      "utterance": "そうなんですね。じゃあ　ご自分が勧めていらっしゃる深呼吸を活用なさっていると言えますね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:37:01",
+      "utterance": "そうなりますね。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:37:14",
+      "utterance": "そこでもう一つ教えてください。そのストレスマネジメントのお話しはどのくらい時間をかけて話すのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:37:32",
+      "utterance": "3時間です。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:37:50",
+      "utterance": "途中に休憩を1回取ります。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:38:21",
+      "utterance": "けっこうながいですね。その3時間の中には参加者の方によるワークとか作業とかを含むのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:38:36",
+      "utterance": "はい、含まれます。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:39:09",
+      "utterance": "そうなんですね。そうすると講師が話す時間は実際にはどのくらいになりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:39:58",
+      "utterance": "そうですね…2時間弱でしょうか。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:40:14",
+      "utterance": "なるほど、それでも結構長いですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:40:42",
+      "utterance": "そうなのかな。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:41:23",
+      "utterance": "半年の間に4回ほどお話をされたとのことですが、お話しする前にどのくらい話の準備とかされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:41:56",
+      "utterance": "講座自体の準備ですか？",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:42:06",
+      "utterance": "はいそうです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:44:09",
+      "utterance": "講座自体の構成は確か1月位かけて準備して、講座内容はパワポを作ってそのパワポごとに話すことを、その日もしくは前の日にそのたびに予習している感じです。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:44:48",
+      "utterance": "予習は毎回1時間位かけて行っています。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:44:57",
+      "utterance": "準備を結構丁寧になさっていらっしゃるんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:45:21",
+      "utterance": "はい、準備だけはちゃんとしておこうと思って…",
+      "label": "",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:45:42",
+      "utterance": "予習は毎回　1時間ぐらいなさっているのですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:45:54",
+      "utterance": "はい、そうです。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:46:53",
+      "utterance": "実は　私も講師をしているのですが、先輩から教えられたことがあるので　ちょっとだけ　共有させていただいてもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:47:04",
+      "utterance": "はい、よろしくお願いいたします。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:47:22",
+      "utterance": "私の場合には、先輩から次のように始動されました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:47:32",
+      "utterance": "はい",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:48:01",
+      "utterance": "１　原稿を書き上げる。（100分）２　原稿を話し込む。　　（原稿を見ないで話せるまで）",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:48:11",
+      "utterance": "この2点だけでした。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:48:59",
+      "utterance": "でも　十分に話し込むと、原稿を見ないでも、本番で次から次に内容が出てきて話せました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:49:44",
+      "utterance": "もしかしたら、1時間の予習の他に　話し込みをなさってみると　違ってくるのではないかな　と思うのですが・・・",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:50:12",
+      "utterance": "そうなんですね。原稿を見ないで話せるまで、身体に叩きこむということですね。",
+      "label": "",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:50:56",
+      "utterance": "そうすれば、途中で緊張したり焦ったりせずに話しきれるのかな。",
+      "label": "",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:51:45",
+      "utterance": "はい　そうです。緊張していても　体が覚えていて、とにかく話し続けられるという体験でした。そうすると、　次第に　順序を間違えても　なんとなく　頭に入っているので　話し切ることができろ　という体験でした",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:52:35",
+      "utterance": "なるほど、話し込んで身体に覚えさせる、やってみます。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:52:57",
+      "utterance": "よろしければ　今度試してみてください。応援しています。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:53:12",
+      "utterance": "ありがとうございます。やってみます。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:53:16",
+      "utterance": "その他に何か気になっていることはおありでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:53:27",
+      "utterance": "大丈夫です。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:53:55",
+      "utterance": "それでは、今日は一旦この辺で終了とさせていただいてもよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:54:07",
+      "utterance": "はい、ありがとうございました。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:54:21",
+      "utterance": "また　気になることが出てきたらいらしてください。ご一緒に考えさせていただきます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:54:37",
+      "utterance": "ありがとうございます。そうさせていただきます。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:55:00",
+      "utterance": "今日はいらしてくださりありがとうございました。ではこれにて失礼させていただきます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-13T17:55:12",
+      "utterance": "ありがとうございました。",
+      "label": "",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-13T17:56:01",
+      "utterance": "またお会いする機会を楽しみにしております。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "人前での緊張・焦り"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1633,
+    "評価作成日時": "2021-04-13T18:13:00",
+    "クライアント役ID": 170,
+    "カウンセラー役ID": 5,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1633,
+    "evaluation_created_at": "2021-04-13T18:13:00",
+    "client_id": 170,
+    "counselor_id": 5,
+    "score": 74,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

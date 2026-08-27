@@ -1,0 +1,593 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-04-17T19:54:17",
+      "utterance": "こんばんは。承認ありがとうございます。本日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T19:58:26",
+      "utterance": "時間になったら一度お声がけします。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T19:58:27",
+      "utterance": "こんばんはこちらこそ宜しくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T19:58:49",
+      "utterance": "行き違い失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T19:59:19",
+      "utterance": "時間になりましたら、スタートして頂いて大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:00:04",
+      "utterance": "こんばんは。休日夜分遅くにご相談へお越しくださり、ありがとうございます。本日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:00:45",
+      "utterance": "宜しくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:01:03",
+      "utterance": "まずはじめに、性別と年齢をうかがえますでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:01:19",
+      "utterance": "40代女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:01:36",
+      "utterance": "ありがとうございます。本日はどのようなご相談でお越しくださいましたでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:02:13",
+      "utterance": "仕事のことで悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:02:25",
+      "utterance": "お仕事のことですか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:02:32",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:02:46",
+      "utterance": "職場で何かあったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:03:57",
+      "utterance": "大丈夫ですか？ゆっくりお話しくださいって。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:04:27",
+      "utterance": "失礼しました。ゆっくりお話しくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:04:35",
+      "utterance": "派遣社員で、デパートで、食品関係のイベントで販売をしています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:05:41",
+      "utterance": "なるほど、イベントですか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:05:47",
+      "utterance": "よく物産展とかある時の販売です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:06:36",
+      "utterance": "ありますね。私も行ったことがあります。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:07:12",
+      "utterance": "こういう販売は、たいていお店の人は一人くらいで、あとは派遣社員が入っています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:07:57",
+      "utterance": "そうなんですね。期間限定のイベントということは、短期就労なのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:09:13",
+      "utterance": "そうですね毎回違うデパートでお仕事します派遣で入る方達は皆さんベテランさんが多く",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:10:02",
+      "utterance": "私は仕事が遅いので、いつも先輩達から叱られます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:10:56",
+      "utterance": "なるほど、職場で叱られてしまうのが辛いんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:11:28",
+      "utterance": "叱られることもそうなんですが、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:11:53",
+      "utterance": "自分の仕事のできなさに落ち込みます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:12:17",
+      "utterance": "こちらの方が辛いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:12:37",
+      "utterance": "もっとできると思っても、うまく仕事をこなせないことに悔しさを感じているのでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:13:32",
+      "utterance": "もっと出来るというより、なぜ早く出来ないのかなとかですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:14:49",
+      "utterance": "なるほど、求められるのは早さなんですね。先輩に指摘されるのも早さなんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:15:58",
+      "utterance": "そうなんですああいう類いの販売は、たいていお客さんは並ぶので、とにかくスピード勝負なんです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:16:33",
+      "utterance": "でも雑でもダメなんです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:17:57",
+      "utterance": "大変なんですね。素早く丁寧に、ということですか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:18:14",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:19:19",
+      "utterance": "先輩からの指摘があって、自身で意識して行った対策などはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:20:30",
+      "utterance": "先輩は速く出来るコツとかを教えてくれるので真似してみるのですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:21:04",
+      "utterance": "自分では速いつもりでも遅いらしく…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:22:11",
+      "utterance": "結果はともかく、考えて工夫しているのは、素晴らしいことのように思えます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:23:14",
+      "utterance": "ありがとうございます段々と仕事への自信もなくなります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:23:38",
+      "utterance": "素早く丁寧にというポイントをしっかりと伝えられることも、あなたの中に基礎ができているからだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:24:44",
+      "utterance": "うーんどうなんでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:24:49",
+      "utterance": "もっと早く仕事ができたらという悩みを抱えておられるのも、大きな向上心があるが故だと感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:26:08",
+      "utterance": "当たり前のことなのかもしれませんが、それを強く他人に伝えられるのは、素晴らしいことだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:26:23",
+      "utterance": "それが出来ないと、先輩にもお客様にも迷惑をかけるので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:26:47",
+      "utterance": "頑張ってはいるつもりなんですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:28:00",
+      "utterance": "人のことをちゃんと考えておられるのも、接客業では大事なことのように思います。私もあなたのように、思いやりがある店員さん接客してもらいたいなと感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:28:17",
+      "utterance": "頑張っていると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:29:07",
+      "utterance": "先輩や周りの方に、褒められたりする点はありませんか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:30:21",
+      "utterance": "ありがとうございますそう言ってもらえると嬉しいです丁寧なんだけどね…とは言われます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:31:55",
+      "utterance": "なるほど、丁寧さは評価してもらえているのですね。その点においては、やはり嬉しいのではないでしょうか。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:33:00",
+      "utterance": "そうですねそこは嬉しいですでも、向いてないのかなと思ったりもします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:34:18",
+      "utterance": "そんなことはないと思いますよ。一般論になってしまいますが、100個物を売っても、100件のクレームになっては意味がありませんし、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:35:14",
+      "utterance": "10個の物を丁寧に売って、10件の感謝の言葉をもらう方が尊いよいな気がします。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:38:03",
+      "utterance": "評価してもらえる点が一つでもあるなら、向いていると自信を持ってもいいのではないでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:38:41",
+      "utterance": "確かにそうなのですが、お客様は『早くて丁寧』が当たり前だと思っているので、いくら丁寧でも遅いとクレームになります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:39:23",
+      "utterance": "あと、業者さんが怖いです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:39:32",
+      "utterance": "なるほど、そういう厳しい現実とも向き合う必要があるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:40:34",
+      "utterance": "限られた期間、限られた時間内に一個でも多く売って欲しいと要求されるので",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:41:16",
+      "utterance": "そうですよね、商売ですもんね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:41:23",
+      "utterance": "例えば、あなたの丁寧さが損なわれない範囲で、小さな目標を立てて、それを達成していくというのはどうでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:42:10",
+      "utterance": "小さな目標というのはどういうものでしょうか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:43:15",
+      "utterance": "例えば、イベント期間が終わるまでに、一日何件対応できるようになりたいか？などを決めて、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:44:29",
+      "utterance": "そのためには、一日どのくらいのペースで対応件数を上げればいいか？を考えます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:46:13",
+      "utterance": "実際にやってみると、達成できなかったり、先輩に叱責されてしまうこともあるかもしれませんが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:48:44",
+      "utterance": "そうですね…出来る時とそうでない時があるとは思いますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:49:29",
+      "utterance": "まずは、どうすれば前回より一件多く対応できるか？を深く考えることに集中して、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:50:46",
+      "utterance": "うまくいった時があるのであれば、その時はどうしてうまくいったのかを掴んでいくことが大切なように思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:52:24",
+      "utterance": "そうですね速さにばかり集中して雑にならないといいのですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:53:29",
+      "utterance": "おっしゃる通りだと思います。せっかくですから、あなたの良さである丁寧さを活かして、少しずつレベルアップしていくことが大切だと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:54:34",
+      "utterance": "そうですね頑張ってみます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:55:05",
+      "utterance": "きっとうまくいくと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:55:16",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:55:59",
+      "utterance": "終了のお時間が近づいてまいりましたが、最後に何かおっしゃりたいことはありますか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:56:15",
+      "utterance": "いえ大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:56:59",
+      "utterance": "さようでございますか。また何かお悩みのことがありましたら、お気軽にご相談にお越しください。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:57:14",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:57:54",
+      "utterance": "本日はありがとうございました。ご健闘を心より願っております。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:58:05",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-04-17T20:58:19",
+      "utterance": "(カウンセラー役、お疲れ様でした)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-17T20:58:53",
+      "utterance": "(相談者役、お疲れ様でした。)",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "派遣社員としての業務の速さに関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3392,
+    "評価作成日時": "2022-04-18T23:58:00",
+    "クライアント役ID": 277,
+    "カウンセラー役ID": 228,
+    "点数": 31,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 0,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3392,
+    "evaluation_created_at": "2022-04-18T23:58:00",
+    "client_id": 277,
+    "counselor_id": 228,
+    "score": 31,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

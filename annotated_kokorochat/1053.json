@@ -1,0 +1,513 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:55:46",
+      "utterance": "本日のメンタルトレーナー役のひつじです。オオミソカさん、よろしくお願い申し上げます。今日はメンタルトレーニング、第一試合テーマ恋愛です。スタートして大丈夫ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:56:22",
+      "utterance": "はいよろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:56:30",
+      "utterance": "こんにちは。相談員です。ご相談ありがとうございます。今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:56:53",
+      "utterance": "彼女がほしいです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:57:06",
+      "utterance": "今までできたことがありません",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:57:50",
+      "utterance": "そうなんですね！そうですよね、恋をするって日常がキラキラする感じですものね。憧れますよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:58:03",
+      "utterance": "憧れます！",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:58:20",
+      "utterance": "クリスマスはいつもひとりきりです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:58:58",
+      "utterance": "そうなんですね。それはぜひ、彼女さんと過ごしたいですね。オオミソカさんとお呼びしてよろしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:59:07",
+      "utterance": "はい！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:59:27",
+      "utterance": "オオミソカさんは今、おいくつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:59:50",
+      "utterance": "27歳です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:00:54",
+      "utterance": "そうなんですね！色々お忙しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:01:27",
+      "utterance": "近くにいる存在がほしいすよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:02:16",
+      "utterance": "そうですね…彼女とか気になる人と連絡できる時って、忙しい時でも充実する気がします",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:02:34",
+      "utterance": "そうですよね！わかります！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:02:40",
+      "utterance": "そういう存在が欲しいです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:03:06",
+      "utterance": "うんうん、一緒にかんがえていきましょうね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:03:14",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:03:43",
+      "utterance": "今は、お休みの日とかどのようにお過ごしなんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:04:34",
+      "utterance": "家でYouTubeみたり、ネットフリックスで映画みたりしています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:05:03",
+      "utterance": "あー、いいですね！今、本当に充実していますものね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:05:35",
+      "utterance": "一緒に見てくれる人がいてくれるとさらにいいですよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:06:24",
+      "utterance": "楽しいですね！あと野球やサッカーも好きなので、同じ趣味を持つ方がいればいいなって思います！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:07:04",
+      "utterance": "いいですね！一緒に盛り上がりたいですよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:07:15",
+      "utterance": "はい！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:08:26",
+      "utterance": "うんうんオオミソカさんは、いつまでに彼女さんがほしいというのイメージはいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:09:43",
+      "utterance": "6ヶ月以内ですねそれまでに3ヶ月以内に仲良くなれる存在はほしいですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:10:20",
+      "utterance": "ごめんなさい、今パソコンが固まっていました！",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:10:43",
+      "utterance": "はーい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:11:15",
+      "utterance": "お待たせしてごめんなさいね。オオミソカさんはいつまでに彼女さんを見つけたいというのはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:11:41",
+      "utterance": "6ヶ月以内ですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:12:50",
+      "utterance": "なるほど！では、今日は６カ月以内に彼女を見つけるためにどうすればいいかということでよろしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:13:12",
+      "utterance": "はい！よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:13:55",
+      "utterance": "はい！オオミソカさんは、今、彼女さんを見つけるために何かしていることはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:14:54",
+      "utterance": "以前はマッチングアプリを使っていましたが、",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:15:04",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:15:37",
+      "utterance": "ヤリ目な人ばかりでウンザリして辞めました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:16:15",
+      "utterance": "あとは",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:16:32",
+      "utterance": "SNSは使っていますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:16:40",
+      "utterance": "そうだったんですね。せっかく素敵な恋を求めているのに、そういう気持ちになるのは残念ですよね。どうぞ続けてくださいね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:16:56",
+      "utterance": "SNS、うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:17:34",
+      "utterance": "SNSで見つけたりはしていないですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:18:13",
+      "utterance": "そうだったんですね。それは何か理由はありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:18:56",
+      "utterance": "見つけるのが下手なのと",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:19:03",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:19:55",
+      "utterance": "どうやって探したらいいか分からないってことが大きい要因ですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:20:48",
+      "utterance": "そうですよね。自分の気持ちとは裏腹にどうしたらいいのかわからないと焦りますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:21:44",
+      "utterance": "どうやって知り合うんだろうって思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:22:02",
+      "utterance": "うんうん、そうですよね。例えば、お知り合いとかそうった関係とかにお話ししたとか、どなたかにこういったことをお話ししたことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:22:21",
+      "utterance": "ないですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:22:56",
+      "utterance": "SNSで知り合った子は近くの友人にはいないですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:23:52",
+      "utterance": "そうだったんですね。例えば彼女がほしいというのを、お知り合いの方にいったりするのは難しそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:24:17",
+      "utterance": "んー",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:24:39",
+      "utterance": "なかなか、勇気がいるとかありますよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:24:58",
+      "utterance": "知り合い紹介してほしいとは言えるかな？笑",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:25:03",
+      "utterance": "って感じです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:26:21",
+      "utterance": "そうですよね。わかります、わかります。でも実は最初は案外、この自分の状況をできるだけ発信するって大切な手段の１つだったりするんですよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:26:37",
+      "utterance": "なるほど！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:27:20",
+      "utterance": "そうなんです！けっこう最初はそこからスタートする方も多いんですよ！",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:27:51",
+      "utterance": "そうなんですね！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:28:29",
+      "utterance": "先ほど、お話しされていた、野球とかサッカーとか一緒に行けるような人いないかなー、もし誰かいたら紹介してね、みたいにいろいろ発信しておくんです！",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:29:31",
+      "utterance": "いいですね！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:29:45",
+      "utterance": "あとは、婚活情報を検索して、情報収集したりして、できることはやってみる！まずは、こういったできることからやってみる！っというのはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:30:15",
+      "utterance": "はい！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:30:21",
+      "utterance": "ありがとうございます！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:30:30",
+      "utterance": "ありがとうございました！",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:30:45",
+      "utterance": "ありがとうございました！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼女を見つけるための活動とアプローチ方法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1053,
+    "評価作成日時": "2020-12-31T11:41:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 135,
+    "点数": 93,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1053,
+    "evaluation_created_at": "2020-12-31T11:41:00",
+    "client_id": 136,
+    "counselor_id": 135,
+    "score": 93,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

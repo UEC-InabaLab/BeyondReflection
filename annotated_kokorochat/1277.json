@@ -1,0 +1,744 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:00:22",
+      "utterance": "こんばんは 相談員です。よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:00:52",
+      "utterance": "お願いします🙇",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:01:04",
+      "utterance": "はい！お願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:01:11",
+      "utterance": "ご相談頂くにあたって、性別、年齢、また今日はなんとお呼びすれば良いか、",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:01:12",
+      "utterance": "答えられる範囲で教えていただいてもいいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:01:42",
+      "utterance": "女性、19歳です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:02:09",
+      "utterance": "るーさんでお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:02:24",
+      "utterance": "ありがとうございます。るーさんですね、よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:02:31",
+      "utterance": "今日は、どんなご相談でしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:03:57",
+      "utterance": "言えることからで構いませんよ。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:04:20",
+      "utterance": "小学6年生の妹がいるのですが、私の服を許可なく勝手に着るうえに、汚して帰ってきたと思ったら部屋中に散らかすんです。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:04:41",
+      "utterance": "なるほど。。そうだったんですね、それは困ってしまいますね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:05:52",
+      "utterance": "私の家は自分の洗濯は自分で洗う決まりなので、妹も自分の服は自分で洗ってほしいのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:06:02",
+      "utterance": "うん、うん。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:06:23",
+      "utterance": "洗わずに私が洗濯した服を使ってしまうんです。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:06:58",
+      "utterance": "なるほど、、それは嫌になってしまいますね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:08:03",
+      "utterance": "私は早朝から仕事で朝はいないので、私がいないことをいいことに隠れて使うので、使われていたことさえ気づかない日があります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:08:08",
+      "utterance": "はい。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:09:02",
+      "utterance": "なるほど、そうだったんですね…それはただただ困りますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:10:52",
+      "utterance": "るーさんから、妹さんに指摘されたことはありますか…？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:11:57",
+      "utterance": "私は完全になめられてしまっている立場なので、怒っても\"うるせぇなぁ\"\"死ね\"など、汚い言葉で逆ギレされるので、毎回負けてしまいます。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:12:29",
+      "utterance": "なるほど。。それは辛いですね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:13:33",
+      "utterance": "そんなるーさんと妹さんの姿について、ご家族はどういった反応をされているのでしょうか…？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:16:32",
+      "utterance": "お答えになれる範囲で大丈夫ですよ。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:17:00",
+      "utterance": "妹はママッ子なので、お母さんの前だといい子になります。もちろん、私からお母さんに言葉遣いに関して伝えるとそのときは注意してくれるのですが、妹は末っ子なので、母親からするとどうしてもかわいくなってしまうみたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:17:26",
+      "utterance": "打つのになれていなくて、返事が遅くてすみません😞💦",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:18:08",
+      "utterance": "いえいえ！ゆっくりで構いませんよ。こちらこそ、急かしている感じがあったらすみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:19:39",
+      "utterance": "家のたち位置としては、母,妹1,妹2,父,私、みたいな感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:20:12",
+      "utterance": "いえいえ、お気遣いありがとうございます☺",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:20:20",
+      "utterance": "なるほど！教えてくれてありがとうございます。一つ下の次女の妹さんもいらっしゃるのですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:20:41",
+      "utterance": "末っ子さんについては…怒ってもらいたくても可愛がられると、納得がいかない気持ちになりますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:21:21",
+      "utterance": "三姉妹なのですが、二女は事実があり、今はおばあちゃん家で暮らしています。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:21:38",
+      "utterance": "そうなんですよね。。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:22:18",
+      "utterance": "なるほど…そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:22:20",
+      "utterance": "最終的には長女なんだからもっとしっかりして！とよき言われます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:22:40",
+      "utterance": "ええ…るーさんも大変な思いもあるのに、そう言われると虚しくなりますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:23:10",
+      "utterance": "そうなんです。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:23:54",
+      "utterance": "なるほど、、妹さんが服を勝手に着るようになったのは、いつ頃からなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:24:16",
+      "utterance": "でも私もかなりめんどくさがりなので、時間がたつとまあいっか。ってなります😓",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:24:37",
+      "utterance": "私が仕事を始めてからなので、６月くらいからになります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:25:10",
+      "utterance": "なるほど、そうしたらもうそろそろ1年ほどになるのでしょうか…？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:25:39",
+      "utterance": "半年は続いてますね。。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:26:13",
+      "utterance": "実はワンちゃんを二頭飼っているのですが、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:26:26",
+      "utterance": "例えば、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:26:28",
+      "utterance": "はい、はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:28:26",
+      "utterance": "私のお気に入りの服を妹が勝手に使う→洗濯に出さずに部屋に散らかす→ワンちゃんたちが散らかった服で遊ぶ→服が壊れてしまい着れなくなる",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:28:43",
+      "utterance": "ええ。。それはひどいですね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:28:46",
+      "utterance": "みたいな感じが多いです。。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:28:50",
+      "utterance": "はい。。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:28:51",
+      "utterance": "なるほど、、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:28:57",
+      "utterance": "そんな中で、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:29:11",
+      "utterance": "半年間も悩まれてきたんですね。辛かったですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:31:01",
+      "utterance": "はい。。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:31:22",
+      "utterance": "そうですよね。今日は改めて、相談しにきてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:31:34",
+      "utterance": "るーさんの気持ちが少しでも軽くなるように、是非一緒に考えさせてくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:32:26",
+      "utterance": "ありがとうございます😃",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:33:02",
+      "utterance": "いえいえ！改めて、るーさんの気持ちを整理したいな、と思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:34:20",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:36:30",
+      "utterance": "仕事を始めた6月から、末っ子の妹さんが勝手にるーさんの服を着て、そのまま洗濯せずに散らかして…飼っているワンちゃんに遊んで着られなくなってしまいましたよね。お母さんに伝えても、妹さんはママっ子だから、なかなか聞いてもらえず…最後には「長女なんだからしっかりして」と言われてしまう。ご自分でも時間が経つとまぁいっか、ってなってしまうんですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:37:22",
+      "utterance": "そうです。。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:37:49",
+      "utterance": "この中で…妹さんやお母さんに、一番理解して欲しかった気持ちはどんなことでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:39:17",
+      "utterance": "もっと私の複雑な気持ちを考えて欲しいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:39:50",
+      "utterance": "そうですよね、あなただってたくさん悩んでいますもんね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:40:22",
+      "utterance": "いろいろと難しいですね、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:41:34",
+      "utterance": "うん、うん。そう思われているんですね。ご自分では、今の家庭について、どんな風になったら良いな、と思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:42:55",
+      "utterance": "平等な家庭になったらいいなと思っています",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:43:43",
+      "utterance": "なるほど…そうですよね、ご自分も対等に扱って欲しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:44:26",
+      "utterance": "もう一つ…どんな風になれば、平等になったと感じられそうでしょうか…？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:47:58",
+      "utterance": "末っ子に対しての対応を私にもしてほしい、という気持ちは正直あまりないので、よくわからないです。。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:49:06",
+      "utterance": "なるほど、そうだったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:50:04",
+      "utterance": "はい。。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:50:56",
+      "utterance": "なるほど。。妹さんの行いが止まれば、すっきりした毎日を過ごせそうでしょうか…？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:51:53",
+      "utterance": "私が妹に対しての関わりも変わってくると思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:51:59",
+      "utterance": "そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:52:42",
+      "utterance": "るーさんは、妹さんが服を着て散らかすのには、どんな理由があると思われますか…？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:53:59",
+      "utterance": "そこが私にはわからない点なのですが、カウンセラーさんはどう思いますか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:54:13",
+      "utterance": "なるほど。私の意見ですが…。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T21:56:36",
+      "utterance": "お願いします🙇",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:56:41",
+      "utterance": "一番は寂しさだと思います。妹さんにとっての一つ上のお姉さんがおばあさんの家に行ってしまった…。服を着出したのは、仕事を始めた半年あたりからだと言っていましたね。妹さんからすると、仕事で家を空けるようになったあなたをみて、「さらに一人ぼっちになってしまった」と思ったのかもしれません。それに…",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:58:13",
+      "utterance": "お姉さんの服を着る、というのも、もしかすると強い悩みからとった行動かもしれません。寂しいからこそ、強くなろうと感じた。妹さんにとって、「お姉さん」は強さの象徴なのかもしれません。お姉さんの服を着て、自分も大人になって、強くなった、寂しくないんだ、と思いたいのかもしれません。あるいは…",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:58:52",
+      "utterance": "お姉さんが離れていったように感じ、その寂しさを紛らわすために服を着ることで「お姉さんをそばに置いておく」という意味があるかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:59:14",
+      "utterance": "ルールを破って放置するのも…みてもらうため、気づいてもらうためなようにも見えます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T21:59:36",
+      "utterance": "無論、私が思ったことですが…るーさんはどう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:00:02",
+      "utterance": "なるほど。。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:00:20",
+      "utterance": "私には到底考え付かなかったです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:00:43",
+      "utterance": "とてもためになりました...！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:00:51",
+      "utterance": "あなたも仕事が始まって、必死だったはずです。決してあなたが悪いわけではないと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:01:02",
+      "utterance": "それでも…妹さんのいたずらが止まればあなたが楽になるのなら、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:01:40",
+      "utterance": "改めて、妹さんと向き合う時間を作ると変わるのかもしれませが…いかがでしょう",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:03:26",
+      "utterance": "この相談を機に、妹と向き合っていきたいと思いました",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:03:47",
+      "utterance": "はい。あなたは今日私に相談してくれましたが、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:03:53",
+      "utterance": "すばらしいアドバイスをありがとうございました✨",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:04:02",
+      "utterance": "一つ一つのお話が丁寧で、しっかりと家族をみている方だな、と感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:04:24",
+      "utterance": "妹さんがこう考えているのかな？と思えたのは、あなたの話がとても精緻だったからです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:04:37",
+      "utterance": "あなたは家族のことを誰よりも考えている人だと私は感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:04:45",
+      "utterance": "きっと今より良くなると、信じています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:06:20",
+      "utterance": "はい、貴重な時間をありがとうございました(>_<)",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:06:47",
+      "utterance": "いえ、こちらこそありがとうございました！ここにはまた、いつでもいらしてくださいね。間も無く時間となりますが、今日は何かお役に立てました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:06:49",
+      "utterance": "か？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:07:39",
+      "utterance": "見えなかったゴールが見えました！",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:08:01",
+      "utterance": "そうなんですね！よかったです。ずっと応援しています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:08:54",
+      "utterance": "それでは、今日はこれで一旦終了とさせていただきます。どうぞお身体を大事にお過ごしくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:10:14",
+      "utterance": "またお話できるのを楽しみにしています！",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-01T22:10:20",
+      "utterance": "それでは、失礼いたしますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-01T22:10:36",
+      "utterance": "はい！ありがとうございました☺",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "妹とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1277,
+    "評価作成日時": "2021-02-01T22:18:00",
+    "クライアント役ID": 133,
+    "カウンセラー役ID": 119,
+    "点数": 98,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1277,
+    "evaluation_created_at": "2021-02-01T22:18:00",
+    "client_id": 133,
+    "counselor_id": 119,
+    "score": 98,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

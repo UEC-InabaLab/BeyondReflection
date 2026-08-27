@@ -1,0 +1,850 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:21:08",
+      "utterance": "こんにちは。本日13半からよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:23:56",
+      "utterance": "こんにちは。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:30:05",
+      "utterance": "こんにちは。相談員です。今日は相談に来てくださりありがとうございます。始めに、性別・年齢を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:31:39",
+      "utterance": "男性　41歳",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:31:54",
+      "utterance": "ありがとうございます。今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:32:21",
+      "utterance": "地面の汚れなどが気になります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:32:53",
+      "utterance": "そうなのですね。地面のどのような汚れが気になるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:33:38",
+      "utterance": "地面全般が汚いと感じます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:34:08",
+      "utterance": "そう感じられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:34:20",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:34:58",
+      "utterance": "地面全般が汚いと、その上にいるのが嫌な感じがするのではないかと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:35:16",
+      "utterance": "いつ頃から、そう感じていらっしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:36:00",
+      "utterance": "はい。多分、10代後半位からです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:37:08",
+      "utterance": "そうだったのですね。20年以上ずっと感じられてきたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:37:49",
+      "utterance": "長い間居心地の悪さを感じていらっしゃったのではないかと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:38:04",
+      "utterance": "はい、外出時は神経を使います。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:38:44",
+      "utterance": "そうなのですね。外出は少し疲れてしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:38:59",
+      "utterance": "はい、疲れます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:40:19",
+      "utterance": "ええ。外出時は大変だと思います。なにか、そう感じるようになったきっかけなどあるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:40:57",
+      "utterance": "あまりはっきり覚えていませんが、",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:41:20",
+      "utterance": "はい（聞いておりますので、お話し続けてください）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:41:35",
+      "utterance": "寮生活のときに自分のベッド以外は汚いと感じました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:41:56",
+      "utterance": "そうだったのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:42:08",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:42:34",
+      "utterance": "寮生活をされていたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:42:49",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:43:43",
+      "utterance": "自分のベットから出るのも大変な思いだったのではないかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:44:25",
+      "utterance": "その時は、どうしていたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:45:43",
+      "utterance": "たしか、ベッドにいるときとそうでない時の服を替えていました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:46:38",
+      "utterance": "そうだったのですね。洋服を替えて汚れを持ち込まないようにされていたのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:47:34",
+      "utterance": "はい。あまり記憶は定かではありませんが。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:47:57",
+      "utterance": "外を歩いていると、枯れ葉が舞って来たり、小石が当たったりしてズボンの裾が汚れる気がします。それで、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:48:34",
+      "utterance": "ええ（お話し続けてくださいね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:49:15",
+      "utterance": "帰宅すると、自分でズボンの裾を良く見たり、妻にも見てもらって汚れていないかチェックをします。以前は、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:49:44",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:50:14",
+      "utterance": "毎日ズボンを洗濯していました。妻の負担を考えて最近は汚れていなければ数日履くようにしています。ただ、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:50:37",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:50:58",
+      "utterance": "一旦確認しても見落としがあるのではないかと思って、またチェックしたり、そのことばかり考えたりします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:51:23",
+      "utterance": "そうだったのですね。教えてくださりありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:51:34",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:52:58",
+      "utterance": "ずっと、ご自分でチェックされたりしながら、折り合いをつけながら、やってこられたのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:53:51",
+      "utterance": "外出すると、砂埃やチリなどは避けることができませんから、苦労されていらしたことが伝わってきます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:54:36",
+      "utterance": "はい。ありがとうございます。帰宅後は必ずシャワーをします。正直疲れます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:55:30",
+      "utterance": "外で物を落としても基本的に拾いません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:55:58",
+      "utterance": "そうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:56:51",
+      "utterance": "以前、妻が帽子を落として、拾うなと言いました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:57:09",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:57:23",
+      "utterance": "妻さんはどのような反応だったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:58:05",
+      "utterance": "はい。結局妻が拾って袋に入れて持ち帰りましたが、もめました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:58:22",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:58:36",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:58:47",
+      "utterance": "ちなみに、ご家族は夫婦おふたりですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:59:00",
+      "utterance": "はい、二人です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T13:59:15",
+      "utterance": "教えてくださり、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T13:59:29",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:00:09",
+      "utterance": "外出するたびに、大変な思いをされていらっしゃってきたことをお伺いしましたが、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:00:38",
+      "utterance": "今、一番どんなことでお困りなのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:01:36",
+      "utterance": "はい。そういうことで時間や労力をとられることです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:02:33",
+      "utterance": "長い間、本当に大変な日々ですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:02:55",
+      "utterance": "どなたかに、相談されたこと、今までありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:03:15",
+      "utterance": "数年前にエアコンを買い換えたのですが、エアコン業者が触ったと思う所に自分の身体が当たったかもしれないと思うと何度も確認したり、妻に聞いたりします。妻も1,2度は普通に答えてくれますが、回数が増えるととても嫌そうに答えます。相談は、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:04:05",
+      "utterance": "そのようなことがあったのですね。（お話し続けてくださいね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:04:12",
+      "utterance": "周りの人に意見を聞いたりはしますが、専門機関には行っていません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:05:23",
+      "utterance": "そうだったのですね。専門機関も考えられたことがあったのですね。周りの方は、どんなふうにお話ししていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:06:36",
+      "utterance": "周りは、外の汚れがついたとしても何も起こらない、病気になることもないと言います。でも、気になって仕方がありません。どうしたらよいでしょうか。確認ばかりしていて、疲れました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:07:57",
+      "utterance": "何十年のも間、外出の度に確認されて、本当に途方もない労力だったのだと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:08:13",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:08:36",
+      "utterance": "ご自分で、周りの方が言うことは分かってはいても、そう思ってしまうのは、どうにもならない",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:09:43",
+      "utterance": "本当に理解してもらえる方がいない中で、ご自分が納得されるやり方で、対処されてきたこと、強い方だと感じます",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:10:11",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:10:48",
+      "utterance": "ただ、その期間がとても長くなってしまい、妻さんのことも気になっているご様子で",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:11:45",
+      "utterance": "今、ご自身のその部分に向き合おうとされていらっしゃるというのが伝わってきています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:12:19",
+      "utterance": "ありがとうございます。正直、もう辞めたいと思います。妻にも何度も確認してしまい、それで寝る時間が遅くなったりします。それに、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:12:33",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:13:03",
+      "utterance": "一緒に生活をしているから、妻にも先ほどの帽子の件のように強要してしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:13:22",
+      "utterance": "そうだったのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:13:31",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:15:10",
+      "utterance": "日常生活に支障をきたすだけでなく、睡眠時間が短くなればそれだけ、健康のことも気になってきますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:15:25",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:15:52",
+      "utterance": "妻さんとの生活も大切に考えていらっしゃるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:16:02",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:16:40",
+      "utterance": "もう辞めたいと思っていらっしゃるとのこと。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:17:29",
+      "utterance": "一度、専門機関で相談してみるのはどうかと思うのですが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:19:05",
+      "utterance": "専門機関は正直行きたくないです。本当に改善するのか疑問です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:20:01",
+      "utterance": "そうなのですね。疑問に思うようなことがあったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:20:55",
+      "utterance": "学生のとき、カウンセリングを受けても何も変わりませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:21:13",
+      "utterance": "そのようなことがあったのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:21:27",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:21:35",
+      "utterance": "きっと、がっかりされたことと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:22:16",
+      "utterance": "はい、何の意味があったのかと不信に思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:22:33",
+      "utterance": "不信感もおありになるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:22:47",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:23:44",
+      "utterance": "長い期間、悩まれてきたことだと思いますので、ご自分でも本当にたくさんのことを調べてこられたのではないかと思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:24:16",
+      "utterance": "はい、何か良い方法はありませんか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:25:05",
+      "utterance": "そうですね。ご自身で調べられた中で、これはよさそうだと感じたものはどんなものでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:26:13",
+      "utterance": "特にありません。ただ、とても忙しいときは、そんなことはしている暇がなかったです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:26:51",
+      "utterance": "そうだったのですね。お忙しい中、調べたりしている余裕がなかったのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:27:34",
+      "utterance": "外出が大変な中、お忙しくされていて、本当に努力家の方なのだなと感じます",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:27:53",
+      "utterance": "本は読みましたが、今一つでした。ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:28:35",
+      "utterance": "そうだったのですね。今、もう一度、ご自身の課題に取り組まれようとされていらっしゃる時だと思います",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:28:53",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:29:39",
+      "utterance": "ご家族や、ご自身の生活のために改善していきたいという、強いお気持ちなのですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:30:00",
+      "utterance": "はい。もう疲れました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:30:09",
+      "utterance": "専門家にも、様々な方がおられると思います",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:30:31",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:30:38",
+      "utterance": "学生の時、出会ったカウンセラーとはうまくいかず、残念なものとはなりましたが、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:30:51",
+      "utterance": "あれから、20年以上たち、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:31:14",
+      "utterance": "今は以前より情報もたくさん得ることができます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:31:42",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:32:09",
+      "utterance": "ご自分に合いそうな療法でアプローチしている専門家を探してみるというのも、一つかと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:32:57",
+      "utterance": "はい、自分に合う療法を探してみます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:33:27",
+      "utterance": "はい。ぜひ、ご自分のペースで探されてみてください。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:33:40",
+      "utterance": "はい、今日はありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:34:10",
+      "utterance": "努力家で、誠実なあなたですから、きっと良い出会いがあると思います。応援しております。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:34:30",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:34:40",
+      "utterance": "今日は、大切なお話を聞かせてくださりありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:34:53",
+      "utterance": "こちらこそ、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:35:08",
+      "utterance": "それでは、今回のご相談はこれで終わらせていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:35:17",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-11-29T14:35:32",
+      "utterance": "（お疲れさまでした。ありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-29T14:35:58",
+      "utterance": "（相談者役、ありがとうございました。これで終わらせていただきます。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "確認行動と不安感の悪循環"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4284,
+    "評価作成日時": "2022-11-29T15:03:00",
+    "クライアント役ID": 313,
+    "カウンセラー役ID": 33,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4284,
+    "evaluation_created_at": "2022-11-29T15:03:00",
+    "client_id": 313,
+    "counselor_id": 33,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

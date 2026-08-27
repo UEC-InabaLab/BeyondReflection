@@ -1,0 +1,516 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-16T09:51:14",
+      "utterance": "（おはようございます。今日はよろしくお願いします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:00:52",
+      "utterance": "宜しくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:02:06",
+      "utterance": "おはようございます。相談員です。まず初めによろしかったら年齢、性別、相談内容についてお聞かせ下さい。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:03:07",
+      "utterance": "57才　男性何もやる気がなくこの先どうやって生きていったらいいか・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:04:04",
+      "utterance": "そうなんですね。それはお悩みですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:04:33",
+      "utterance": "はい、しんどいです・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:05:16",
+      "utterance": "そうなんですね。それは、お辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:05:32",
+      "utterance": "はい辛いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:05:48",
+      "utterance": "いつ頃からそのように感じられるようになられたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:06:07",
+      "utterance": "もう２年前からです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:06:42",
+      "utterance": "そうだったのですね。長い間悩まれていらっしゃるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:07:02",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:07:11",
+      "utterance": "何かきっかになるようなことは、ございましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:07:47",
+      "utterance": "2年前に仕事を辞めました",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:09:10",
+      "utterance": "そうだったのですね。どのようなことで仕事を辞められのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:10:03",
+      "utterance": "勤めていた会社が倒産してしまって・・・それ以来、いろいろ面接にいったのですが、全部ダメでした",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:10:42",
+      "utterance": "そうなんですね。それはお辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:11:24",
+      "utterance": "今は、どのように毎日を過ごされたいらしゃるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:11:33",
+      "utterance": "はい・・・辛いですが、今は何もやる気がおきません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:12:47",
+      "utterance": "そうですよね、そういう状況であれば、そのようにお考えになられるのは、無理もないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:13:13",
+      "utterance": "ご家族はいらしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:13:48",
+      "utterance": "家族はいません　ひとり身です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:15:55",
+      "utterance": "そうなんですね。大分お辛い状況ですが、お体はいかがですか？食事とか、睡眠は取られていらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:17:00",
+      "utterance": "はい、睡眠は大丈夫ですが、食事は１日１食です　お金が無くて・・・",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:18:07",
+      "utterance": "そうなんですね。それはしんどいですよね。この件は、どなたかにご相談されましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:19:25",
+      "utterance": "いいえ、相談してません相談できる人も居ません・・・",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:21:09",
+      "utterance": "そうなんですね。そういう状況で今日はこちらに起こしいただいたんですね。ありがとうございます。何でもお話しいただいて結構ですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:21:36",
+      "utterance": "はい、温かいお言葉ありがとうございます",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:22:12",
+      "utterance": "いいえ。以前はどのようなお仕事をされていらっしゃたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:22:30",
+      "utterance": "工事現場で働いてました",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:23:49",
+      "utterance": "そうだったのですね。そのお仕事は楽しくやられていらっしゃたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:24:32",
+      "utterance": "楽しいって感じはなかったです体力勝負だったので。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:26:19",
+      "utterance": "そうだったのですね。体力の必要なお仕事だったのですね。貴方は、丈夫な体をお持ちなんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:27:16",
+      "utterance": "そうなんですかね・・・体は丈夫かもですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:28:04",
+      "utterance": "きっとそうだと思います。次のお仕事は、どんな形で探されていらしたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:28:50",
+      "utterance": "求人誌とかです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:29:41",
+      "utterance": "なるほど。どのようなお仕事をされたいと思われていらしたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:30:17",
+      "utterance": "工事現場の仕事を探してましたそれしかできないので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:31:51",
+      "utterance": "そうなんですね。お話しお伺いするとそのお仕事は今中々就職が難しい状況でいらしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:32:38",
+      "utterance": "どうなんでしょうか？？年齢でダメだったと思ってました・・・",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:33:35",
+      "utterance": "そう思われていらっしゃたのですね。それは、いたたまれないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:34:30",
+      "utterance": "もうお金も底をつきそうですどうしたらいいでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:35:48",
+      "utterance": "そうなんですね。それは、不安になられますよね。公共の窓口には、ご相談に行かれましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:39:08",
+      "utterance": "一度市役所に行ったのですが、嫌な顔されて、ハローワークに行けと言われました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:40:35",
+      "utterance": "そうだったのですね。それは、納得いかないですよね。ハローワークには行かれたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:41:22",
+      "utterance": "行きましたけど、自分に合うのがまだ見つかってません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:41:57",
+      "utterance": "そうなんですね。それは、もどかしいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:42:27",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:43:36",
+      "utterance": "ハローワークでは、色々研修とか、教育とかやられていると思いますが、何か資格とかとれらるのは、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:44:46",
+      "utterance": "資格ですか・・・もうその気力はないです。やはり資格とかないとダメでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:45:47",
+      "utterance": "いいえ、ひとつの方法としてご提案させていただいただけすから。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:48:08",
+      "utterance": "色々お話聴かせていただきましたが、会社が倒産されて再就職を探されているが、中々見つからない。経済的にも厳しくなられている。現在は何もする気が起きないということでよろしいでしょうか",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:48:24",
+      "utterance": "はい、この先どうやって生きていったらいいでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:49:41",
+      "utterance": "色々お話しいただき、貴方としては、この先どんな風になったらいいなと思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:50:31",
+      "utterance": "生活ができればいいのです。でも仕事する気もなくなってしまって、どうしたいいのか、分かりません・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:51:20",
+      "utterance": "そうなんですね。それはしんどいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:51:34",
+      "utterance": "はい、しんどいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:51:44",
+      "utterance": "どうしたらいいでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:52:20",
+      "utterance": "そうですよね、そういうお気持ちになられますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:53:07",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:54:26",
+      "utterance": "焦らず、ハローワークに通われて、職種は色々な物に挑戦されて、まずは、仕事を確保されるのが、一番と考えますがいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:56:05",
+      "utterance": "最近ハローワークに行く気力も無くなってきました自分ができる仕事が全然なくって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:57:34",
+      "utterance": "そうなんですね。今の状況を再度役所に行かれて、お辛いとは思いますが、もう一度相談されてはと思いますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:59:04",
+      "utterance": "わかりました。もう一度市役所行ってみます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T10:59:29",
+      "utterance": "そうですか、それは良かったです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T10:59:47",
+      "utterance": "本日はありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T11:00:36",
+      "utterance": "こちらこそ。今日はこちらに起こしいただきありがとうございました。また、お話し聴かせて下さい。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-16T11:00:57",
+      "utterance": "（お疲れ様でした。ありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-16T11:01:03",
+      "utterance": "（ありがとうございました。大変勉強になりました。）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "再就職の難しさと経済的困窮"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4234,
+    "評価作成日時": "2022-11-16T18:01:00",
+    "クライアント役ID": 31,
+    "カウンセラー役ID": 312,
+    "点数": 84,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4234,
+    "evaluation_created_at": "2022-11-16T18:01:00",
+    "client_id": 31,
+    "counselor_id": 312,
+    "score": 84,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

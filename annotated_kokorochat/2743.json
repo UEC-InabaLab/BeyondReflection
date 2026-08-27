@@ -1,0 +1,442 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:00:09",
+      "utterance": "こんばんは。相談員です。年齢、性別、相談内容を教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:00:51",
+      "utterance": "こんばんは。30代　女性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:01:08",
+      "utterance": "よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:01:52",
+      "utterance": "お願いします。相談は、役員決めの事でなんだかな…と思う事があったので、相談にきました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:03:07",
+      "utterance": "そうですか。役員決めの事での相談なんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:03:27",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:04:32",
+      "utterance": "なんだかなと思う事とはどういったことなんでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:05:21",
+      "utterance": "そうですね、みんな色んな事情があって当然なんですが、ちょっと決め方が不公平な感じがして",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:07:07",
+      "utterance": "そうですか。これは学校のPTAの役員会などの事でしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:07:30",
+      "utterance": "子供会ですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:08:37",
+      "utterance": "子供会の役員決めのことなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:08:46",
+      "utterance": "はい、そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:10:29",
+      "utterance": "役員の決め方がおかしいとおもわれているんですよね。どういうところがおかしいと思われますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:11:24",
+      "utterance": "はい、順番にまわってくるのでどこかではやらないといけないのですが、係によって負担の差があるので、仕事だったり、小さな子供を抱えていたり、色んな事情を考慮しながら決めてほしいなと思ったので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:13:25",
+      "utterance": "そうなんですね。shizukuさんは色んな事情を考慮して決めてほしいと思っていらっしゃるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:13:59",
+      "utterance": "はい、そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:14:45",
+      "utterance": "今回はどのように役員が決められたのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:16:13",
+      "utterance": "役員決めに選出されたお母さん達の中には、日中仕事がないので時間の融通がききそうな方もいますし、もう小さな子供がいない方もいたのですが、やりたい役の立候補だけでじゃんけんなどで決められてしまったので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:18:52",
+      "utterance": "私にはこうした事情がありますのでこの役なら無理なくできそうなので、とは伝えたのですが、そんな事は全く聞き入れてもらえませんでした",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:20:09",
+      "utterance": "そうですか。それはお困りですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:20:45",
+      "utterance": "はい…",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:21:10",
+      "utterance": "役というのはたくさんあるんでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:21:29",
+      "utterance": "6役くらいですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:22:21",
+      "utterance": "今回は会長になってしまったので、一番困っているところです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:24:13",
+      "utterance": "そうなんですね。それはお困りですね。お子さんは今何年生なんでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:25:50",
+      "utterance": "上の子は3年生ですが、下の子がまだ保育園なので、まだ手がかかってしまって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:26:39",
+      "utterance": "そうですか、それは大変ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:28:11",
+      "utterance": "子供会の子達は何人くらい、いらっしゃるんですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:28:48",
+      "utterance": "そうですね、だいたい役の活動計画を見ても、夕方から夜にかけて会議が頻繁にあったり、土日も何かと活動に顔を出さないといけなかったりみたいで。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:29:20",
+      "utterance": "どうでしょうか、地区ごとで分かれているので、全体としてはまだ把握していないところです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:31:12",
+      "utterance": "平日の夜間や土日にも仕事されるというのは、とても辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:32:28",
+      "utterance": "そこなんですよね、ちょうど子供を寝かせる時間帯だったり、食事の時間だったりと、ほんと困る時間帯なので役員なんかしている場合ではないのですが…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:34:56",
+      "utterance": "そうなんですね。この事を誰か相談にのってくれる人は、いらっしゃいますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:35:51",
+      "utterance": "相談できるといえば、今会長をしている人に何かと話をしてみることくらいなのかな、とは思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:38:25",
+      "utterance": "そうですか。今までは何か役員をしたことは、あるんでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:38:46",
+      "utterance": "今は町内会の役員でして(笑)",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:39:20",
+      "utterance": "そこまで負担はないのでなんとかなってますね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:40:42",
+      "utterance": "町内会の役員もされているんですね。二つの役員となると、お辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:41:41",
+      "utterance": "町内会は今年度でもうすぐ終わりなのでやれやれです。子供会が来年度からになるので休み無しといった感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:43:05",
+      "utterance": "昼も仕事があるので、仕事を何度か休んでまで子供会の役をやる必要があるんだろうか、とか何かと思いますね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:44:28",
+      "utterance": "そうですか。来年度から会長さんになられるんですね。仕事のことも心配になってきますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:45:21",
+      "utterance": "そうですね、職場にあまり迷惑はかけたくないところですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:46:46",
+      "utterance": "二人体制で仕事してるので、私が休むと片側の人に全部負担がいってしまうので…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:46:47",
+      "utterance": "そうですよね。パートナーの方には相談されているんでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:48:04",
+      "utterance": "二人体制の仕事で負担をかけてしまいそうなんですね。それはお困りですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:48:47",
+      "utterance": "会長になったという報告はしたのですが、主人も平日は帰ってくるのが遅いので頼めないですし、お客さん相手なので特に頼めなくて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:50:10",
+      "utterance": "夜の時間帯の確保や、無理なくで役ができれば会長でも問題はないところなので、そういった話は今の会長さんに話してみようと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:52:56",
+      "utterance": "そうですね。小さいお子さんがいるので、その辺は今の会長さんに話されることは良いことだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:54:06",
+      "utterance": "はい、理解してくれるかどうかは不安なところではありますが、かといって他の人が代わってくれる気配もないので、なんとかしないとといったところです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:55:55",
+      "utterance": "会長になりたいって立候補した訳じゃないんだし…って開き直ってます(笑)",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:57:23",
+      "utterance": "そうですか。そういった気持ちでぜひ頑張って話をしてみてください。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:58:52",
+      "utterance": "はい、まずは話してみます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T20:59:05",
+      "utterance": "今日はここまで話をされていかがでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T20:59:52",
+      "utterance": "はい、話すだけでも気は少し紛れますね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T21:00:47",
+      "utterance": "お話を聞かせていただき、ありがとうございました。今日はこのあたりにしたいと思うのですが、いかがでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-20T21:01:17",
+      "utterance": "はい、大丈夫です。聴いていただきありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-20T21:01:34",
+      "utterance": "ありがとうございました。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子供会の役員決めに関する不公平感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2743,
+    "評価作成日時": "2021-11-20T21:28:00",
+    "クライアント役ID": 235,
+    "カウンセラー役ID": 224,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2743,
+    "evaluation_created_at": "2021-11-20T21:28:00",
+    "client_id": 235,
+    "counselor_id": 224,
+    "score": 69,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

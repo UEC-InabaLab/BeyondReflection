@@ -1,0 +1,678 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-08-10T16:51:30",
+      "utterance": "（こんにちは。本日はよろしくお願いいたします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:01:19",
+      "utterance": "よろしくお願いいたします！",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:01:35",
+      "utterance": "それでは始めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:01:42",
+      "utterance": "（はい、お願いします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:03:00",
+      "utterance": "相談者です。本日はご相談ありがとうございます。解決に導いていければとおもいますので、お悩み内容と年齢、性別、なんとお呼びすればよいか教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:03:34",
+      "utterance": "こんにちは。60代女性です。山田といいます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:03:57",
+      "utterance": "山田さんですね。よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:04:49",
+      "utterance": "よろしくお願いします。先日の水害の被災地に住んでいまして、今避難中なのですが、避難所のコロナ感染も心配ですし、色々つらくて、夜も眠れません。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:06:43",
+      "utterance": "そうですか。。本当に大変な状況である事、ご察しいたします。。本当に不安な毎日ですよね。。ご飯はたべられてますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:07:13",
+      "utterance": "ご飯もあまり。食欲は無いです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:08:15",
+      "utterance": "雨が降ると、怖いんです。また雨が近づいているとか、台風が近づいているというニュースを聞くと。。血圧も上がるし、頭も痛くなってきます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:08:29",
+      "utterance": "そうですか。。寝不足から体調もみだれてしまいますよね。。本当にお辛い状況であるとお察しします。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:09:22",
+      "utterance": "雨に対して恐怖を感じる事も誰でもそうなってしまうと思います。。不安ですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:09:37",
+      "utterance": "そうですね、もう生きた心地がしません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:11:09",
+      "utterance": "血圧も高いし、頭痛もするし、眠れないし、、お医者さんに行きたいのですが、保険証が見当たらなくて、、、どうしたらいいんでしょうか。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:11:22",
+      "utterance": "そうですよね。。自然災害といえど、本当にお辛い状況ですよね。。すごく心配な気持ちとその中で戦っている、山田さんに対して尊敬の気持ちです。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:11:44",
+      "utterance": "尊敬されるような人間じゃないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:12:01",
+      "utterance": "戦いたくて戦っているわけでもないですし。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:13:05",
+      "utterance": "失礼しました。。勿論そうなのですが、その中で生きているご自身をせめて褒めてあげてほしいというおもいです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:13:38",
+      "utterance": "お友達のご主人が亡くなったんです。なので、そういうお言葉は今はちょっとつらいんです。すみません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:14:08",
+      "utterance": "お友達にもどうしてあげて良いかわからなくて。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:14:17",
+      "utterance": "何も出来ないじゃないですか。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:14:48",
+      "utterance": "大変失礼しました。。本当にお辛い事、お察しします。。そんな中相談してくれてありがとうございます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:15:39",
+      "utterance": "友人にはどう接したら良いでしょうか。。とても落ち込んでいるし、安易な励ましは出来ないし。自分もこんな状況ですし。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:15:39",
+      "utterance": "一つ一つ一緒に考えていければと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:16:20",
+      "utterance": "そうですね、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:17:52",
+      "utterance": "ご友人は近くにいらっしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:18:02",
+      "utterance": "同じ避難所にいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:18:52",
+      "utterance": "そうなのですね。。ご友人は今はどんなご様子でいらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:19:13",
+      "utterance": "もちろん落ち込んでいますし、私以上に食べれていないのではないかと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:20:24",
+      "utterance": "さようでございますか。。そのようなご様子なのですね。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:20:53",
+      "utterance": "彼女も眠れていないようで、同じように血圧も高い気がすると少し話したときに言っていました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:21:18",
+      "utterance": "さようですか。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:21:43",
+      "utterance": "彼女も病院へは行けていない様子ですかね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:22:26",
+      "utterance": "はい、彼女も保険証が無くて、どうして良いのかと二人で話していました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:22:54",
+      "utterance": "なるほどです。保険証に関しては警察に紛失届を出す必要があるようですが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:23:49",
+      "utterance": "今は一度見てもらったほうが良いので、ぜひ一度病院へお問い合わせしてください。紛失中でも対応はできるとおもいますので。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:24:07",
+      "utterance": "そうですかね。考えてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:25:23",
+      "utterance": "はい。やはり体と心はつながっているので、しんどいとおもいますが、聞いてみてください。。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:25:39",
+      "utterance": "彼女への接しかたですが、",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:25:40",
+      "utterance": "はい、聞いてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:25:51",
+      "utterance": "お願いします。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:26:22",
+      "utterance": "最後にお話したのはいつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:26:42",
+      "utterance": "同じ避難所にいるので毎日挨拶はします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:27:24",
+      "utterance": "そうですか。彼女はどなたかと一緒にいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:27:30",
+      "utterance": "一人です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:28:44",
+      "utterance": "そうですか。。一人でいたい様子か、誰かといたいかどうかは何か感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:28:59",
+      "utterance": "わからないです。とにかく落ち込んでいるので。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:29:36",
+      "utterance": "そうですよね。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:30:17",
+      "utterance": "本当にお辛い事をお察しします。。ですが、少しでも山田さんの力になれればとおもいます。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:30:41",
+      "utterance": "ご友人の方の力にも。。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:30:51",
+      "utterance": "でも皆雨が降ればまた怖いし、台風が近づいているとと聞けば心配で怖くて寝られないんです。友人も一緒だと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:32:29",
+      "utterance": "そうですよね。。怖いですよね。。友人が一人でいることで更に怯えたり寂しくなっている可能性もありますかね？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:33:08",
+      "utterance": "それもわからないです。ただ今までいた旦那さんがいないのだから、色々思うことはあると思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:34:31",
+      "utterance": "そうですよね。。計り知れない悲しみを感じている事を心からお察しします。。今のご友人の気持ちを把握するためにはなにか方法はおもいつきますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:35:19",
+      "utterance": "ごめんなさい、それもわからない。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:35:48",
+      "utterance": "私が知りたいのはどう接したら良いでしょう、ということなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:35:56",
+      "utterance": "いえいえ、謝ることではないですよ。。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:36:17",
+      "utterance": "そうですね。。接しかたですね。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:36:34",
+      "utterance": "大切な事は、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:37:27",
+      "utterance": "ご友人が今どのようなお気持ちであるか。だと私は感じております。一人でいたいのか。誰かといたいのか。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:37:37",
+      "utterance": "そこで、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:40:02",
+      "utterance": "ご友人の隣に行けるようであれば言ってみて、「少しとなりにいても大丈夫？」と聞いてみてはどうでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:40:13",
+      "utterance": "そうですね、そうしてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:40:50",
+      "utterance": "そこで感情の反応をしっかり観察して、分析することが大切だと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:41:30",
+      "utterance": "もし一人がよければ気を使わないで言ってね？など聞いてみてもいいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:41:55",
+      "utterance": "あ",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:41:59",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:42:17",
+      "utterance": "誤送です。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:42:36",
+      "utterance": "（どちらがですか？）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:43:00",
+      "utterance": "今は一人が良ければ無理しないでいってね？といってみてもよいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:43:10",
+      "utterance": "（あ　　です）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:43:54",
+      "utterance": "（そうなんですね、同じようなメッセージ2つですけど、それは誤送ではないのですね。。？）",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:44:04",
+      "utterance": "わかりました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:45:42",
+      "utterance": "（同じようなものがとどいていたのであれば一つ誤送っです。こちらには一つしか表示されていなくて、もう一度おくってしましました）",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:45:55",
+      "utterance": "（返信不要です）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:46:11",
+      "utterance": "もし、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:47:28",
+      "utterance": "一緒にいても大丈夫そうであれば、体調は大丈夫？とまずはそこから聞いてあげてもよいと思います。保険証の件も確認したあと、情報共有してあげたら良いと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:49:04",
+      "utterance": "そうですね、そうしてみます。旦那さんのことはどうしたら良いでしょう？私たち皆、すんでいた景色が大きく変わってしまって、みんなすごい喪失感で。。さらに旦那さんもなんです。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:50:11",
+      "utterance": "今まであった家が無くなったり、道路が無くなってしまうんです。。今でも信じられないです。。信じたくない。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:51:04",
+      "utterance": "そうですね。。。本当にお辛い気持ちをお察しします。。旦那さんについては",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:52:24",
+      "utterance": "こちらからはあえて触れずに、日常のサポートを気にかけてあげて、その中で、涙したり、明らかに辛そうな様子であれば、優しく背中をさすったり",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:54:31",
+      "utterance": "手を握ってあげたり、状況にもよりますが、優しく抱きしめてあげながら、何か力になれる事があれば遠慮なくいってね。私はあなたの力になりたいというニュアンスで伝えてあげてもらえば、相手の安心感にもなると思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:57:46",
+      "utterance": "そうですか、そうですね。私も被災者なので、あまり何もできませんが。。できればそうしてみます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:58:22",
+      "utterance": "そうですよね。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:58:29",
+      "utterance": "山田さんも",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:59:37",
+      "utterance": "被災者という立場で本当にお辛い中で、でも友人の事をきにかけてあげられるお気持ちがあれば、ご友人にとっても大きな支えになると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:00:26",
+      "utterance": "そうだったら良いのですが。。今日はありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:00:35",
+      "utterance": "私も非常に無力さを感じておりますが、私に出来ることは聞いたりすることです。またいつでもご相談してくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:00:46",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:00:51",
+      "utterance": "（時間になりましたね、ありがとうございました。お疲れ様でした。）",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:01:00",
+      "utterance": "心から山田さんを応援しております。ありがとうございました！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:01:35",
+      "utterance": "（ありがとうございます。感じたことを評価してもらえればと思います！厳し目でお願い致します！",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:01:44",
+      "utterance": "終了します。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:01:51",
+      "utterance": "（承知しました。はい、ありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "災害による喪失感と不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 312,
+    "評価作成日時": "2020-08-10T18:31:00",
+    "クライアント役ID": 75,
+    "カウンセラー役ID": 68,
+    "点数": 51,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 312,
+    "evaluation_created_at": "2020-08-10T18:31:00",
+    "client_id": 75,
+    "counselor_id": 68,
+    "score": 51,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-21T09:52:15",
+      "utterance": "こんにちは。今日はよろしくお願いします。準備が出来ましたら声をかけていただけたらと思います。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T09:57:06",
+      "utterance": "こんにちは。よろしくお願いします。準備完了です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T09:58:55",
+      "utterance": "ありがとうございます。相談員です。今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T09:59:21",
+      "utterance": "高校受験のことで",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:01:36",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:02:22",
+      "utterance": "よろしければ詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:03:53",
+      "utterance": "今、中学2年生です。勉強好きじゃないので高校に行く意味がないと親に言ったら怒られました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:05:11",
+      "utterance": "そうなのですね。怒られることは嫌ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:05:50",
+      "utterance": "良ければお名前を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:06:06",
+      "utterance": "さくら",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:06:29",
+      "utterance": "さくらさんですね。ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:07:07",
+      "utterance": "何で高校行かないといけないのですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:07:26",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:07:40",
+      "utterance": "その気持ちわかります。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:08:16",
+      "utterance": "学校に行く意味がわからなくなってしまうことありますよね...",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:08:53",
+      "utterance": "中学校は楽しいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:09:04",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:10:04",
+      "utterance": "学校は楽しいけれど勉強が辛いということでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:11:54",
+      "utterance": "勉強は辛くはないけど、高校の勉強って中学の復習みたいなものと聞いたんです。それじゃ行く意味ないかなって。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:12:14",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:12:56",
+      "utterance": "さくらさんにとって中学校の勉強は身についているので",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:13:54",
+      "utterance": "中学校の復習で高校に行く意味をあまり感じられないという思いがあるのでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:14:21",
+      "utterance": "そうなんです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:15:10",
+      "utterance": "さくらさんは勉強が苦手なのではなく、得意な方なのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:15:52",
+      "utterance": "でもお母様は高校に通ってほしいと思われているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:17:16",
+      "utterance": "得意ではないです。お姉ちゃんが高校行ってるので私も行くものだと思ってたみたい。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:17:35",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:18:51",
+      "utterance": "親子の気持ちってそれぞれの思いがありますよね...",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:19:25",
+      "utterance": "お母様はお姉さんが高校に通ったので",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:19:58",
+      "utterance": "さくらさんも高校に通うのが当たり前と思っていらっしゃるのか",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:21:02",
+      "utterance": "高校には通ってほしいと思っていらっしゃるのかどちらかの思いがあるのかと",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:21:22",
+      "utterance": "思ったのですがどちらでもなさそうですか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:23:47",
+      "utterance": "近所の同級生が高校行くのに、私だけ行かないというのはないと言ってる。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:24:16",
+      "utterance": "そうなのですね...",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:25:15",
+      "utterance": "お母様にとっては世間体が気になる感じがします...",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:27:40",
+      "utterance": "昔からそうゆう所あります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:27:57",
+      "utterance": "そうなのですね...",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:28:21",
+      "utterance": "さくらさんは高校に通うことはしなくても",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:28:39",
+      "utterance": "でも、お母さんを変えられないからなぁ･･･",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:28:47",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:29:10",
+      "utterance": "どーしたらいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:29:22",
+      "utterance": "家で勉強したいという気持ちはあるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:30:08",
+      "utterance": "家で勉強？どーゆうこと？？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:31:48",
+      "utterance": "学校での勉強は意味がないと思っても、家で勉強することは良いという気持ちがあるのかなと思いました。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:33:31",
+      "utterance": "場所じゃなくて、中学校で勉強した内容をまたやることに意味を感じられないので、違う勉強ならしてみたい。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:33:57",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:34:24",
+      "utterance": "さくらさんはどのような学びに興味があるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:35:43",
+      "utterance": "資格を取ると将来いいと聞きました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:36:27",
+      "utterance": "そうですね。私も資格はとても良いと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:37:00",
+      "utterance": "どのような資格に興味をお持ちですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:37:13",
+      "utterance": "美容師",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:39:09",
+      "utterance": "美容師なのですね。オシャレに綺麗になっていただける素敵な職業ですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:40:06",
+      "utterance": "さくらさんはオシャレが好きな方に感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:41:03",
+      "utterance": "そんなにオシャレではないけど、友達の髪型作るのが好きです。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:42:30",
+      "utterance": "それは良いですね！髪型を作ってもらった友達は嬉しいですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:43:25",
+      "utterance": "さくらさん自身も自分の髪を結ったりするのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:44:28",
+      "utterance": "ショートカットで出来ないので友達のをやらせてもらってる。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:44:45",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:45:09",
+      "utterance": "お母様とはそういうお話しをされたりしますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:45:43",
+      "utterance": "そうゆう話って何ですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:46:31",
+      "utterance": "説明が飛んでしまってごめんなさい",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:47:21",
+      "utterance": "さくらさんが美容師がいいなという思いを持っていて",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:48:11",
+      "utterance": "友達の髪を結ったりしてあげてることとかをお母様と話したりしたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:49:30",
+      "utterance": "美容師に憧れている話はしたことあります。友達の髪型やってるのは知らないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:49:48",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:50:42",
+      "utterance": "美容師に憧れているお話しをされた時は、お母様は何とおっしゃっていましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:51:13",
+      "utterance": "特に何も･･･",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:52:38",
+      "utterance": "お母様はさくらさんが興味を持っていることに関心がないのでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:54:10",
+      "utterance": "そうかも知れません。ウチの親は放任主義で、勉強しろとか言いません。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:54:30",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:55:37",
+      "utterance": "勉強しなさいとかは言わなくても高校には行ってもらわないとという感じなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T10:56:08",
+      "utterance": "そうなんです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T10:58:49",
+      "utterance": "さくらさんは美容師になりたくて美容師の勉強をしたいから高校に通うのではなく、美容師に向けての勉強をしたいと伝えることは難しいでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T11:00:48",
+      "utterance": "こないだ3者面談で少し話しましたが、地元の高校に行くようにと説得されて終わりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T11:01:18",
+      "utterance": "そうなのですね...",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T11:02:13",
+      "utterance": "スミマセン、お時間なので終了してもいですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T11:03:18",
+      "utterance": "はい中途半端な形になってしまいお力になれずごめんなさい",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T11:03:44",
+      "utterance": "いえいえ、お疲れ様でした",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-02-21T11:04:00",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T11:04:26",
+      "utterance": "こちらこそありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-21T11:05:45",
+      "utterance": "失礼いたします。",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "高校進学に対する意義の理解"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1378,
+    "評価作成日時": "2021-02-21T15:42:00",
+    "クライアント役ID": 107,
+    "カウンセラー役ID": 133,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1378,
+    "evaluation_created_at": "2021-02-21T15:42:00",
+    "client_id": 107,
+    "counselor_id": 133,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

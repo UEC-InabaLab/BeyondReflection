@@ -1,0 +1,599 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-13T19:52:53",
+      "utterance": "こんばんは。本日はよろしくお願いいたします。お時間になったら始めさせて頂きますね。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T19:53:15",
+      "utterance": "宜しくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T19:55:38",
+      "utterance": "よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:00:11",
+      "utterance": "こんばんは。本日はよろしくお願いいたします。年齢、性別、ご相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:01:21",
+      "utterance": "40歳  女",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:01:53",
+      "utterance": "ご相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:02:06",
+      "utterance": "私は既婚者です。ですが…他に好きな人ができてしまいました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:02:29",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:03:12",
+      "utterance": "ご主人はきがつかれていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:03:31",
+      "utterance": "気づいていないと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:04:23",
+      "utterance": "何かキカッケのようなことがありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:05:18",
+      "utterance": "全く意識していなかった通っている美容室の担当の方を好きになってしまい…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:07:05",
+      "utterance": "あ～そうなんですね。相手の方もご相談者様の事を好きなのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:07:24",
+      "utterance": "好きだと言ってくれています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:08:05",
+      "utterance": "お付き合いしていらしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:08:16",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:08:51",
+      "utterance": "ときめいてしまいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:08:58",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:09:27",
+      "utterance": "いつ頃から聴いてもよいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:09:47",
+      "utterance": "去年の夏からです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:10:50",
+      "utterance": "そうですか。罪悪感がおありですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:11:15",
+      "utterance": "無いと言ったら嘘になります。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:12:20",
+      "utterance": "そうなんですね、、、お子さまはいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:12:32",
+      "utterance": "います。お互い",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:14:25",
+      "utterance": "お互いいらっしゃるんですね。今後はどの様にするとか、このままお付き合いするだけなのかお話しされた時ありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:15:32",
+      "utterance": "ないです。怖くて聞くことができません。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:16:37",
+      "utterance": "怖くて聞けないんですね。どうしてなのか、お話しできますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:17:57",
+      "utterance": "終わりがある関係だとわかっているので。私の質問をきっかけに関係を壊したくないです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:18:42",
+      "utterance": "その方が好きなんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:18:58",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:20:03",
+      "utterance": "家庭も壊したくないけどその方ともお別れしたくない感じですか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:20:50",
+      "utterance": "都合よすぎますよね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:21:49",
+      "utterance": "いえいえ!そんなことないとわたしは思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:22:13",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:23:25",
+      "utterance": "人を好きになるってちょっとしたことから始まってしまいますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:23:41",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:24:47",
+      "utterance": "家庭を壊したくなければご主人にわからないようにしないと。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:25:03",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:25:31",
+      "utterance": "どうですか、大丈夫？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:26:21",
+      "utterance": "続けるなら隠し通さなければいけないと思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:26:56",
+      "utterance": "そうですね。お相手の奥様も。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:27:14",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:27:59",
+      "utterance": "隠しとうせそうですかね",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:28:11",
+      "utterance": "たぶん…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:29:58",
+      "utterance": "たぶん、、お付き合いずっとするのなら、また離婚しないのなら、、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:31:17",
+      "utterance": "子供さんはおいくつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:31:59",
+      "utterance": "6歳と9歳です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:33:20",
+      "utterance": "今のところ離婚は考えてらしゃらない感じですよね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:33:31",
+      "utterance": "考えていないです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:34:34",
+      "utterance": "では、絶対わからないようにしないと。です、、、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:34:50",
+      "utterance": "そうですよね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:35:15",
+      "utterance": "大丈夫そう？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:35:34",
+      "utterance": "わからないようにすることがですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:37:13",
+      "utterance": "そうですね。まだ子供さんも小さなので離婚だけは、避けたいとおもいますが？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:38:04",
+      "utterance": "そうですね。それは避けたいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:39:17",
+      "utterance": "そうですよね。ご主人はご相談者様の不貞を許してくれそうなタイプですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:39:52",
+      "utterance": "うーん……許してくれないと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:40:44",
+      "utterance": "では、離婚だけは避けるように、、、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:42:00",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:42:46",
+      "utterance": "お相手の方とはこのままお付き合いされたと思っているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:43:33",
+      "utterance": "そうですね。ただ不安はずっとあります。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:43:53",
+      "utterance": "ご相談者様は今後どうされたいと思っていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:44:55",
+      "utterance": "まだ結論がないです。自分がどうしたいのか…自分でもわからなくて",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:46:57",
+      "utterance": "そうですよね。人間ってひとりの人をずっと好きでいられるのって難しいんじゃないかと私はおもうんですよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:47:52",
+      "utterance": "好きになろうとして好きになったわけではなくて。好きになってしまって。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:49:03",
+      "utterance": "うん、うん、好きに理由なんてないとおもいます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:49:21",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:50:45",
+      "utterance": "いつの間に好きってことありますよね。いけないことだってわかっていても、、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:51:08",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:52:13",
+      "utterance": "うん、うん、自分ではどうしてよいやら、、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:52:40",
+      "utterance": "わからないです。ただ今は好きでいたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:54:30",
+      "utterance": "うんうん!良信に呵責を持ちながら生活しているんですね。辛い",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:55:12",
+      "utterance": "でも、逢いたい、、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:55:23",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T20:59:37",
+      "utterance": "ごめんなさい。そろそろお時間がきてしまいました。ご相談者様のお話を聴くだけで解決にもならずごめんなさい。守秘義務は絶対なので安心してください。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T20:59:53",
+      "utterance": "ありがとうございました！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T21:00:16",
+      "utterance": "こちらこそありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T21:01:52",
+      "utterance": "(大変勉強になりました。ありがとうございました。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T21:02:27",
+      "utterance": "(こちらこそありがとうございました🙏)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T21:03:12",
+      "utterance": "(それでは失礼いたします。勉強不足なため、ごめんなさい。)",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T21:03:39",
+      "utterance": "(とんでもないです。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T21:04:08",
+      "utterance": "(終了させて頂きますね。ありがとうございました。)",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "不倫関係の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5268,
+    "評価作成日時": "2023-06-13T21:19:00",
+    "クライアント役ID": 405,
+    "カウンセラー役ID": 390,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5268,
+    "evaluation_created_at": "2023-06-13T21:19:00",
+    "client_id": 405,
+    "counselor_id": 390,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

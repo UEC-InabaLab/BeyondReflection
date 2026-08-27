@@ -1,0 +1,549 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-30T19:52:37",
+      "utterance": "（こんばんは、今日はありがとうございます。お時間が来ましたら、始めさせていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T19:53:14",
+      "utterance": "(こんばんは。どうぞよろしくお願いいたします。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:00:15",
+      "utterance": "こんばんは、相談員です。相談に来てくださり、ありがとうございます。始めに年齢と性別を教えてください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:00:41",
+      "utterance": "15歳女子です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:14:40",
+      "utterance": "何かご都合がお悪くなりましたか？もし無理でしたら、今日の相談は終了いたしますが、いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:15:49",
+      "utterance": "(すみません、15歳女子です、のメッセージの後に何か送っていただいていますか？)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:17:04",
+      "utterance": "すみません、その年齢と性別も届いていなかったのでお待ちしていました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:17:47",
+      "utterance": "何事もなくてよかったです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:17:59",
+      "utterance": "すみません、既読がついていたので、読まれていたのかと思っていました。。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:18:29",
+      "utterance": "いいえ、こちらにはとどいていなかったです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:18:57",
+      "utterance": "バグでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:18:58",
+      "utterance": "そうなんですね、ごめんなさい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:19:47",
+      "utterance": "こちらも早くメールを送ればよかったです。失礼いたしました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:20:21",
+      "utterance": "それでは改めまして、ご相談内容を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:20:26",
+      "utterance": "いえ、こちらこそ失礼致しました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:20:47",
+      "utterance": "学校に行きたくなくて悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:21:17",
+      "utterance": "そうなんですね。それは辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:21:25",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:22:09",
+      "utterance": "何かそのように思うきっかけなどあったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:22:53",
+      "utterance": "高校に入ってから、友達もできないし、勉強もつまらないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:24:21",
+      "utterance": "なるほど、そうなのですね。今は学校は通われていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:24:36",
+      "utterance": "たまにさぼってる",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:25:10",
+      "utterance": "うん、うん。そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:25:18",
+      "utterance": "うん",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:26:02",
+      "utterance": "受験をして入ったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:26:11",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:26:58",
+      "utterance": "なるほど、ご自身で選ばれた高校なのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:27:22",
+      "utterance": "親が決めた感じ",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:28:28",
+      "utterance": "そうだったのですね。ご自身が決めた高校ではなく、ご両親が決めた高校だったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:28:53",
+      "utterance": "うん、母親が",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:30:02",
+      "utterance": "そうなのですね。お母様はどういった点でその高校を勧められたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:30:38",
+      "utterance": "よくわかんないけど、ここに行きなさい、みたいな",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:31:27",
+      "utterance": "そうなのですね、ご相談者様はそれを聞いてどう思われたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:32:47",
+      "utterance": "まあ、そこでもいいかなって思った",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:34:04",
+      "utterance": "なるほど、そうなのですね。ご自身では行きたい高校はなかったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:35:18",
+      "utterance": "特になかった",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:36:22",
+      "utterance": "そうだったのですね。ご相談者様は、高校以外で何かやりたいことなどはあったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:36:50",
+      "utterance": "なかった",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:39:00",
+      "utterance": "そうなんですね。でも勧められていった高校だったけど、面白くなかった、ということですか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:39:15",
+      "utterance": "うん",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:40:03",
+      "utterance": "今は時々さぼって何かしているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:41:29",
+      "utterance": "家にいる。親は仕事してるから家にいないし",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:42:20",
+      "utterance": "そうなのですね、家にいて何をしているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:42:52",
+      "utterance": "マンガ読んだりしてる",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:43:30",
+      "utterance": "そうなのですね、どんな漫画を読んでいるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:44:44",
+      "utterance": "いろいろ。ハイキューとか",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:46:03",
+      "utterance": "そうなのですね、楽しそうですね。お母様はご自身が家にいることを、ご存じなのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:47:40",
+      "utterance": "私が休んでるって学校から電話がかかってきた、って言って怒ってた",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:48:46",
+      "utterance": "そうだったのですね。その時ご相談者様は、なんと答えたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:49:17",
+      "utterance": "具合が悪いから休んだって言った",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:50:31",
+      "utterance": "そうなのですね、お母様はどうなさりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:51:23",
+      "utterance": "熱がないならちゃんと学校行きなさいよって言ってた",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:52:15",
+      "utterance": "そうなのですね。ご相談者様は、お母様をどのように思われているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:53:05",
+      "utterance": "そんなに好きじゃない",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:53:42",
+      "utterance": "そうだったのですね。どんなところが好きではないのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:54:53",
+      "utterance": "あなたのため、とか言ってるけど、ウソくさい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:55:21",
+      "utterance": "なるほど、そう思われているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:55:30",
+      "utterance": "うん",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:56:12",
+      "utterance": "嘘くさい、と思われることは他にもあるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:58:28",
+      "utterance": "あなたのためにお母さんは頑張ってるのよ、とか",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T20:59:22",
+      "utterance": "なるほど、そうお母様は言われているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T20:59:31",
+      "utterance": "うん",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T21:00:53",
+      "utterance": "学校行きたくないんだけど、どうすればいいですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T21:02:03",
+      "utterance": "そうですね、それはまたこの次にお話をお聞きしたいのでまたいらしてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T21:02:22",
+      "utterance": "わかりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T21:02:40",
+      "utterance": "（すみませんでした。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T21:03:01",
+      "utterance": "(こちらこそすみませんでした)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T21:03:08",
+      "utterance": "いつでもお待ちしています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T21:03:20",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T21:03:29",
+      "utterance": "（ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T21:03:52",
+      "utterance": "それでは終了させていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T21:04:09",
+      "utterance": "(ありがとうございました。時間がかなり短くなってしまい、ごめんなさい。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-01-30T21:04:24",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-30T21:05:06",
+      "utterance": "（こちらこそ早く声を掛ければよかったです。失礼しました。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない理由"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6354,
+    "評価作成日時": "2024-01-31T16:01:00",
+    "クライアント役ID": 471,
+    "カウンセラー役ID": 439,
+    "点数": 39,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6354,
+    "evaluation_created_at": "2024-01-31T16:01:00",
+    "client_id": 471,
+    "counselor_id": 439,
+    "score": 39,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

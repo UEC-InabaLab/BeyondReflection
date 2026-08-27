@@ -1,0 +1,521 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-29T09:50:59",
+      "utterance": "（本日はよろしくお願いします。時間になりましたら始めさせていただきますね）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T09:52:33",
+      "utterance": "（おはようございます。こちらこそよろしくお願い致します。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T09:53:13",
+      "utterance": "（相談者のリクエストがあれば教えて下さい。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T09:53:35",
+      "utterance": "（お任せで大丈夫です！）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T09:58:49",
+      "utterance": "（承知致しました！ではよろしくお願いします）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:00:01",
+      "utterance": "おはようございます。相談員です。本日はご相談にお越しくださりありがとうございます。まずはじめに、年齢、性別、ご相談内容を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:00:49",
+      "utterance": "35歳　男性",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:00:56",
+      "utterance": "引きこもりです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:01:53",
+      "utterance": "教えていただき、ありがとうございます。どんなことからでも構いませんので、お話になりたいことをお話しくださいね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:02:21",
+      "utterance": "すみません、どんなことから話せばいいか分かりません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:03:02",
+      "utterance": "そうですよね。今のような状況はいつぐらいからですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:04:30",
+      "utterance": "5年くらいですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:06:33",
+      "utterance": "そうだったんですね・・・悩みますよね・・・今、一番どんなことがお困りですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:07:25",
+      "utterance": "35でこんなことになってしまったことに絶望してます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:08:14",
+      "utterance": "そうなんですね・・そんな風に感じておられるのですね・・それはお辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:09:04",
+      "utterance": "はい、どうしたらいいでしょう。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:09:12",
+      "utterance": "5年間ということですが、それ以前はどんな感じだったのですか？話せるところから、お聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:11:15",
+      "utterance": "新卒で前の仕事に就いてから、30前まで働いてました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:11:50",
+      "utterance": "営業職でやりがいは感じてたんですけど、ノルマがきつくなってきて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:12:09",
+      "utterance": "だんだん仕事を休むようになりました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:13:10",
+      "utterance": "そうだったんですね・・お話しくださり、ありがとうございます。営業のお仕事を頑張ってこられたんですね・・・ノルマがキツくなってきたのは、いつ頃からなんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:15:12",
+      "utterance": "あんまり覚えてないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:16:47",
+      "utterance": "そうなんですね・・今はどなたかと一緒にお暮らしですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:17:02",
+      "utterance": "一人暮らしです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:18:18",
+      "utterance": "そうなんですね。身の回りのことなど、ご自分でされていらっしゃるんですね・・・食事や睡眠はいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:20:44",
+      "utterance": "なんとか貯金を崩してやってます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:21:17",
+      "utterance": "食事はコンビニで買ったりしてます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:21:44",
+      "utterance": "夜は、あんまり眠れません。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:22:49",
+      "utterance": "そうなんですね。食事は、そのようにされているのですね・・夜は眠れないというのは、それはお辛いですね・・何かお薬とかは飲まれたりはされていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:24:48",
+      "utterance": "眠れない時に、前にもらった睡眠薬飲んだりしてます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:25:38",
+      "utterance": "そうだったんですね・・・睡眠薬を飲むと眠れますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:26:48",
+      "utterance": "はい、睡眠薬飲んだ時は。睡眠薬飲むと眠くなるので、このまま目が覚めなければいいなと思って。気付いたら寝てる感じです。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:28:06",
+      "utterance": "なるほど、そうなんですね・・薬を飲むと眠れるということですね。睡眠がとれないと苦しいですものね。そんな風に考えてしまうほど、お辛い思いをされているのですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:28:42",
+      "utterance": "5年という長い月日をお一人で生活されながら、苦しい思いを抱え続けてこられたんですね・・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:29:33",
+      "utterance": "はい。目が覚めて、絶望します。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:31:27",
+      "utterance": "そうなのですね・・・そのような気持ちになるのは悲しいですね・・・他にどのようなお気持ちがありますか？もしお話できることがあれば、お話しくださいね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:32:19",
+      "utterance": "生きてる価値、あるんでしょうか。。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:32:36",
+      "utterance": "貯金だってそのうち底付きます。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:32:45",
+      "utterance": "そうしたらどうやって生きていこう",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:33:05",
+      "utterance": "そんな風に考えてしまうのですね・・・お金のことや生活のこと、将来のことなど、考えると不安になりますよね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:33:31",
+      "utterance": "今、ご家族やご友人との関わりはいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:34:04",
+      "utterance": "はい、だからいっそのこと死んだほうが楽かもしれません。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:34:32",
+      "utterance": "ほとんど関わりないです。親はたまに連絡してきます。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:35:01",
+      "utterance": "その方が楽になれると思うほど、今、生きていることがそんなにお辛いと感じておられるのですね・・・それは苦しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:36:00",
+      "utterance": "ご家族とは、たまにお話をされるのですね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:36:22",
+      "utterance": "はい、これからのこと考えると絶望するので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:36:37",
+      "utterance": "親は一応心配はしてるみたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:37:41",
+      "utterance": "そうなんですね。親御さんは、ご心配をされていらっしゃるのですね・・・そのことを感じられて、どう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:38:50",
+      "utterance": "親も歳も歳なので、心配かけて申し訳ないと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:39:05",
+      "utterance": "自慢の息子になれませんでした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:40:13",
+      "utterance": "そうだったんですね・・・そんな風に思われるのですね。親御さんにとって、あなたは唯一無二の存在であり、そこに居てくれるだけでいい・・・そんな風にお思いではないでしょうか・・・",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:41:05",
+      "utterance": "そうでしょうか。相談員さんは子どもいますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:41:28",
+      "utterance": "はい・・・いますよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:42:42",
+      "utterance": "子どもが35にもなって、働かず引きこもってても、そう言えますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:43:01",
+      "utterance": "すみません、気になって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:45:23",
+      "utterance": "大丈夫ですよ・・・今、すごくご自分を責めるお気持ちなのは、とても辛いと思います。そして、いなくなった方がいいと考えてしまうのも、無理もないことだと思います。でも、あなたは、今、こうしてここに来てくださった。そしてこうしてお話をすることができて、私はとても嬉しく思っていますよ。もし、自分が親であっても、いなくなられるのは何より辛いですから・・・生きていて欲しい・・・そう思うと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:46:46",
+      "utterance": "そうなんですね、そういうものなんですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:48:55",
+      "utterance": "今はまだ、苦しい時が続いていると思いますが、生きていくためのエネルギーをためていく時間がまだ、相談者様には必要なんではないかと、私は思いますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:49:39",
+      "utterance": "そうですね、それはそうだと思います。でもどうやったらエネルギーたまるんでしょうか。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:51:34",
+      "utterance": "今のように、ゆっくり過ごしたり、ご自身のことをもっと労ってあげたり・・・とにかく自分のために時間を使うというのも一つだと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:52:32",
+      "utterance": "でもそんなことしてたらもっと歳とっちゃいませんか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:54:48",
+      "utterance": "そう考えてしまいますよね・・・もっともっとお話をしたいのですが、時間が近づいて来てしまいました。これからのこと、一緒にもっとお話したいので、またお話をしに来てくださいますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:55:58",
+      "utterance": "はい、来られる時にまた来ます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:57:39",
+      "utterance": "ありがとうございます。5年間という長い間、辛く苦しい思いをお一人で抱えてこられ、今日は勇気を出してご相談に来てくださり、本当にありがとうございました。焦る気持ちは当然だと思いますが、今は、頑張ってこられたご自分のことを大切にできる時間を少しでも持てたら・・・と思います。きっとあなたにとって生きる希望があるはずだと私は信じています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:58:18",
+      "utterance": "大切な気持ちをお話しくださり、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:59:18",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T10:59:29",
+      "utterance": "今日、お話されてみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-29T10:59:45",
+      "utterance": "気晴らしにはなりました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-29T11:00:28",
+      "utterance": "それはよかったです。ありがとうございました。またお越しくださるのをお待ちしています。本日はこれで終わりにさせていただきます。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "引きこもりによる絶望感と生きる価値の喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5654,
+    "評価作成日時": "2023-08-29T12:07:00",
+    "クライアント役ID": 350,
+    "カウンセラー役ID": 376,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5654,
+    "evaluation_created_at": "2023-08-29T12:07:00",
+    "client_id": 350,
+    "counselor_id": 376,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

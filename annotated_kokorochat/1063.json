@@ -1,0 +1,501 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:00:59",
+      "utterance": "こんにちはメンタルトレーナー：受験ですよろしくお願いします",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:01:19",
+      "utterance": "お願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:01:31",
+      "utterance": "本日はどういったご相談でしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:02:09",
+      "utterance": "もう時間が無いのですがやる気が出ません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:02:51",
+      "utterance": "そうなんですね、それはしんどいですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:02:58",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:03:22",
+      "utterance": "今、どういったことに取り組んでおられますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:03:59",
+      "utterance": "朝早く起きて3時間勉強します",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:04:38",
+      "utterance": "やる気でないと感じる中でもとても頑張っておられるのですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:04:45",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:05:25",
+      "utterance": "差し支えなければ、何の試験に挑戦しておられるのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:05:48",
+      "utterance": "高校受験です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:06:20",
+      "utterance": "確かに今とても大切な時期ですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:06:30",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:07:03",
+      "utterance": "やる気でないということですが、どんなところに一番困っておられますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:08:32",
+      "utterance": "目指す学校は無理だと思うんですがレベルを落とすと女子校になるのが嫌です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:09:31",
+      "utterance": "そうなんですね、自分の目指す高校に入れたらと考えると嬉しいですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:09:39",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:10:32",
+      "utterance": "共学にいくのが、自分にとってはいいかなと思われるのでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:10:42",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:11:52",
+      "utterance": "ここでは、レベル落とさずに共学の学校にどうしたら行けるか 　を一緒に考えるというこうでよいでしょうか",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:12:05",
+      "utterance": "はいお願い致します",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:13:19",
+      "utterance": "目指しておられる学校は無理かもということですが、試験か何かで評価が出ているということでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:14:05",
+      "utterance": "そうです♪頭が悪いからなかなか結果が出ません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:15:02",
+      "utterance": "そうなんですね、でも朝3時間の勉強を続けているのは、とてもすごいことだと私は思いますよ",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:15:30",
+      "utterance": "でもやはり結果が出ない",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:16:02",
+      "utterance": "うんうん結果がついてこないのは、しんどいですよね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:16:57",
+      "utterance": "他の人の3倍やるしか無いと思うけれど",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:17:08",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:18:23",
+      "utterance": "やる気が出ないということでしたが、ご自身ではそこはどんな感じなのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:19:17",
+      "utterance": "どうせ　私なんかって思うのかなぁ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:19:41",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:20:00",
+      "utterance": "私なんかって・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:20:12",
+      "utterance": "思ってしまうのですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:20:36",
+      "utterance": "そうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:21:29",
+      "utterance": "もし、目指す高校に入れた自分って想像してみたらどんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:22:19",
+      "utterance": "好きな習い事をしながらも楽しく",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:22:29",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:23:58",
+      "utterance": "好きな習い事をやりながらイキイキしている感じでしょうか",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:24:10",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:24:31",
+      "utterance": "そんな自分になれたらとても嬉しいですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:25:11",
+      "utterance": "自分は何ならば出来るかなぁと考えております",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:25:55",
+      "utterance": "これからの目標を考える大事な時間を過ごされているのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:26:42",
+      "utterance": "はい　だからこそ受験が大事だと思う",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:26:59",
+      "utterance": "うんうん、本当にそうですよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:28:26",
+      "utterance": "お勉強はダメだけど気配りは出来る",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:28:26",
+      "utterance": "今、難しいレベルの高校を目指されていますが、結果がでず苦しんでおられます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:28:41",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:29:22",
+      "utterance": "でも、それは真剣に自分の将来のことを考えるからこそ、そこにチャレンジする価値を感じておられるのではないでしょうか",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:29:40",
+      "utterance": "そうか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:30:26",
+      "utterance": "はい、私はそう感じました！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:30:44",
+      "utterance": "具体的に試験日はいつでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:31:42",
+      "utterance": "2月のうちに3日あって25日に終わります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:32:47",
+      "utterance": "あともう少しの間頑張れば　というところですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:32:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:33:07",
+      "utterance": "合格までのサブゴールを設定したいのですが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:33:15",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:33:56",
+      "utterance": "2月受験として2月の受験日までに模試は何回くらいありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:34:15",
+      "utterance": "3回",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:34:59",
+      "utterance": "3回ですね、そこでどれくらいの点を取らないといけないのかを学校の先生や塾の先生に相談してみるのはどうですか",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:35:13",
+      "utterance": "解りましたー",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:35:19",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:35:37",
+      "utterance": "そこで必要な点数を具体化していくのです",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:35:40",
+      "utterance": "やってみる",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:35:54",
+      "utterance": "ありがとうございました😊",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:36:02",
+      "utterance": "時間になりました、ご相談有難うございました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:36:16",
+      "utterance": "終了させていただきます",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "高校受験に対する不安とやる気の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1063,
+    "評価作成日時": "2020-12-31T12:38:00",
+    "クライアント役ID": 127,
+    "カウンセラー役ID": 39,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1063,
+    "evaluation_created_at": "2020-12-31T12:38:00",
+    "client_id": 127,
+    "counselor_id": 39,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

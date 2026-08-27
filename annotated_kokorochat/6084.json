@@ -1,0 +1,341 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-09T20:50:41",
+      "utterance": "（時間になりましたら始めますので宜しくお願い致します）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T20:52:12",
+      "utterance": "（こんばんは。こちらこそ、よろしくお願い致します）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:00:03",
+      "utterance": "こんばんは。相談員です。まずは、年齢と性別、話したい事を教えてください。宜しくお願い致します。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:00:38",
+      "utterance": "こんばんは。40代女性もう楽になりたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:02:46",
+      "utterance": "はい、楽になりたいとは、他の言葉で言うと具体的にありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:03:28",
+      "utterance": "べつに。楽になりたいんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:04:47",
+      "utterance": "そうなんですね。今は楽ではないという事ですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:04:54",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:06:19",
+      "utterance": "どうしたら自分では楽になれると思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:06:45",
+      "utterance": "どうしたらいいかわからないから来てるんですけど",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:09:13",
+      "utterance": "はい、何かあるから楽になりたいんですよね、具体的に教えてくれますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:09:57",
+      "utterance": "最近夜眠れず、夜中に色々と考えてしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:11:33",
+      "utterance": "そうなんですね。何かがあるから眠れないで考えてしまうんですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:11:41",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:12:36",
+      "utterance": "自分ではその何かはわかりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:13:05",
+      "utterance": "仕事のプレッシャーですかね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:14:40",
+      "utterance": "なるほど。仕事での事ですね。ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:16:13",
+      "utterance": "どういったプレッシャーか良ければ教えてくれますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:17:08",
+      "utterance": "管理職なので、責任がある仕事が多く、うまくこなせるか心配になります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:20:34",
+      "utterance": "そうなんですね。管理をされていて責任が多くうまくこなせるかとありますが最近になられたのですかね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:20:45",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:22:53",
+      "utterance": "そうなんですね。なってばかりでこれから上手くできるかが不安で悩んでるのですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:23:38",
+      "utterance": "それだけじゃないですけど、まぁそうですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:28:05",
+      "utterance": "例えば、責任感のないひとにはそのような仕事には、会社は任命しないと思います、貴方は会社から見て責任感があると見られて選ばれただと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:29:07",
+      "utterance": "いや、ただ資格を持っていて管理職として転職しただけなので",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:31:08",
+      "utterance": "新しい会社に、転職されたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:31:23",
+      "utterance": "会社じゃないですけどね",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:35:05",
+      "utterance": "すみません。新しい環境で上手くできるか悩んでしまい、睡眠にも支障が来ているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:35:26",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:37:17",
+      "utterance": "私も新しい環境では困ったことありますから、どうしたら今後いいのか一緒に考えて行きませんか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:38:20",
+      "utterance": "私まだほとんど話してないですけど、大丈夫ですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:39:22",
+      "utterance": "私のことわかってくれてるんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:41:17",
+      "utterance": "最初に楽になりたいが一番の悩みですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:41:48",
+      "utterance": "楽になりたいが率直な気持ちです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:43:56",
+      "utterance": "はい、仕事いがいではどうですかね。楽になれない理由として",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:44:48",
+      "utterance": "わかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:48:22",
+      "utterance": "とにかく楽になりたくて相談に来てもらったのに適切なアドバイスができなくてすいません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:49:31",
+      "utterance": "べつにアドバイスなんて求めていないので大丈夫です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:54:49",
+      "utterance": "わかりました。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:57:00",
+      "utterance": "（ありがとうございます、勉強になりました。難しかったです）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-09T21:57:43",
+      "utterance": "（お疲れ様でした！ありがとうございました。今日はこの辺りで終わりましょう！）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-09T21:58:11",
+      "utterance": "（すみません）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "管理職としてのプレッシャー"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6084,
+    "評価作成日時": "2023-12-09T22:28:00",
+    "クライアント役ID": 294,
+    "カウンセラー役ID": 423,
+    "点数": 15,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 0,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 0,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 1,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6084,
+    "evaluation_created_at": "2023-12-09T22:28:00",
+    "client_id": 294,
+    "counselor_id": 423,
+    "score": 15,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 0,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 1,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

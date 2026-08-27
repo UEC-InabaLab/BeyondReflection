@@ -1,0 +1,526 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-13T19:51:04",
+      "utterance": "(こんばんわ。時間になりましたら始めさせていただきます。よろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T19:51:34",
+      "utterance": "(こんばんは。よろしくお願いします。希望はありますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T19:52:28",
+      "utterance": "（希死念慮以外で相談いただけると助かります。よろしくお願いいたします。）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T19:52:46",
+      "utterance": "(かしこまりました。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:00:05",
+      "utterance": "こんばんわ。相談員です。はじめに年齢と性別、ご相談の内容を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:00:21",
+      "utterance": "15歳男",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:00:49",
+      "utterance": "確認ですけどここに相談することって誰にも言いませんか？",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:01:37",
+      "utterance": "コメントありがとうございます。そうですね。基本的に守秘義務がありますので、大丈夫ですよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:01:48",
+      "utterance": "わかりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:02:11",
+      "utterance": "相談したいことを教えてもらえますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:02:29",
+      "utterance": "同じクラスの男を好きになりました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:02:59",
+      "utterance": "どうしていいのかわからなくて相談にきたんですが、こんな相談でもいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:03:34",
+      "utterance": "そうなんですね。人を好きになるということはとても素敵なことだと相談員は思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:04:13",
+      "utterance": "でも、どうしたらいいのかわからなくて悩んでいるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:04:41",
+      "utterance": "そんな感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:06:07",
+      "utterance": "うんうん、どういう事に困っている感じなのか、わかりますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:06:52",
+      "utterance": "これが恋愛感情なのかわからない",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:08:27",
+      "utterance": "自分の気持ちが分からないなのかな。今まで人を好きになった事ってあるのかな。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:09:47",
+      "utterance": "半年前まで彼女いました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:11:31",
+      "utterance": "ごめんね。なんか言い方がきつくなってしまったようです。半年前まではお付き合いしている人がいたんだね。今は同性が気になっている自分に戸惑ってしまっている感じなんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:12:27",
+      "utterance": "そんな感じ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:14:18",
+      "utterance": "ありがとう。それは色々と考えてしまって、驚いたり苦しくなってしまったのかもしれないね。自分の思いとしては同性を好きになる人のことを今までどんなふうに思っていたのかな。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:14:53",
+      "utterance": "特に意識していなかったのでわかりません",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:15:49",
+      "utterance": "そうなんだね。今まではあまり気にしてこなかったんだね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:16:39",
+      "utterance": "気になる男子とは普段仲良く遊んだりしているのかな。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:16:59",
+      "utterance": "いつも遊んでるグループの1人です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:17:56",
+      "utterance": "うんうん、一緒に遊んで楽しんでいるんだね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:18:33",
+      "utterance": "気になりだすきっかけはあったのかな。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:19:08",
+      "utterance": "いつもみんなを盛り上げてくれて優しいから",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:19:44",
+      "utterance": "なるほど、そういう人なんだね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:21:15",
+      "utterance": "そういう人なら、一緒にいるとドキドキしたり、ときめいてしまうように感じているのかな。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:21:57",
+      "utterance": "する時もあるし、しない時もある",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:22:04",
+      "utterance": "これって変ですか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:22:14",
+      "utterance": "誰にも相談できないし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:22:42",
+      "utterance": "友達に話したら変な目でみられそうな気がするし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:22:52",
+      "utterance": "どうしていいのかわからないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:24:06",
+      "utterance": "そうなんだね。一人で相談できず、悩んできたんだね。辛かったことと思います。でも、素敵な人と感じるのに性別は関係ないと相談員は思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:25:10",
+      "utterance": "そしてここに相談に来てくれたこと、とても勇気がいる事だったと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:26:31",
+      "utterance": "これから、その男子とどうしていきたいか考えたことはありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:27:30",
+      "utterance": "さっきも書いたけどこれが恋愛感情なのかどうかわからないからわかりません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:28:09",
+      "utterance": "もしこれが恋愛感情なら好きって伝えるべきですか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:29:46",
+      "utterance": "そうなんだね。恋愛感情であるならば、伝えて、受け止めてもらえるなら・・・と誰でも思うと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:30:16",
+      "utterance": "そうなんですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:31:15",
+      "utterance": "ただ、異性間であってもダメな時が当然あるし、それと同じように同性間でもダメな時があるのかなと思いますよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:31:31",
+      "utterance": "ダメな時ってなんですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:34:14",
+      "utterance": "例えば、好みや考え方が違えば「つきあって」と言われても「ごめんなさい」となることが異性でも同性でも、誰でもあると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:34:27",
+      "utterance": "それはそうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:35:19",
+      "utterance": "なので、そこは考えておくといいんじゃないかと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:37:14",
+      "utterance": "そして、もう一つ、考え方があるのですが・・・",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:38:58",
+      "utterance": "例えば学校で授業をしていても、それぞれ「お腹がすいたな…」とか「部活で今日は何するのかな…」とか「今回の模試で頑張るには…」なんてみんな考えていることが違うように・・・",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:41:10",
+      "utterance": "人を好きになる基準も人それぞれ違うということがあると思います。今は世界的に「異性でも同性でも人を好きになるということは素敵なこと」という考え方も多く認められるようになってきていますが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:41:41",
+      "utterance": "そういう考え方でない人もいるのも確かです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:43:59",
+      "utterance": "勇気をもってここに相談に来てくれたあなたはあなた一人しかいません。一人の人として立派だと思いますし、誰でも好きになっていいと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:45:14",
+      "utterance": "色々とお話してしまいましたが、どんなふうに思いましたか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:45:52",
+      "utterance": "そうなんだなと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:46:16",
+      "utterance": "それを考えても僕のモヤモヤは消えないですけど",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:47:38",
+      "utterance": "うんうん、そう思ったんだね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:49:24",
+      "utterance": "もし恋愛感情だったら告白してもいいのかと質問してもらったけれど、そうだったらしてみたいのかな。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:50:14",
+      "utterance": "できたらしたい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:53:00",
+      "utterance": "そう思ったんだね。それは素敵なことだと思うよ。ただ、周りにどう思われるのかが心配なところもあって、誰にも相談できないでいることもあったんだね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:55:26",
+      "utterance": "色々と考えながらも気持ちを伝えたいという事を言えたのはすごいと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:57:16",
+      "utterance": "まだまだ気持ちははっきりしないかもしれないけれど、もし、恋愛感情であるならば告白したいということが決められましたね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T20:57:59",
+      "utterance": "どうですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T20:59:45",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T21:00:38",
+      "utterance": "よくわかんないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T21:01:47",
+      "utterance": "申し訳ありませんが、時間が来てしまいました。もう少しあなたの戸惑う気持ちに寄り添って上げられたらよかったと思っています。本当にごめんなさい。もしよかったrまた相談に来てください。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T21:02:03",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T21:02:46",
+      "utterance": "こちらこそありがとうございました。それでは終わりにします。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T21:03:07",
+      "utterance": "（貴重なケースをありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-13T21:03:08",
+      "utterance": "(お疲れ様でした。ありがとうございました。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-13T21:03:25",
+      "utterance": "（これで締めさせていただきます。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "自分の感情の混乱と告白の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5712,
+    "評価作成日時": "2023-09-13T22:17:00",
+    "クライアント役ID": 410,
+    "カウンセラー役ID": 402,
+    "点数": 3,
+    "聴いてもらえた、わかってもらえたと感じた": 0,
+    "尊重されたと感じた": 0,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 0,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 0,
+    "全体として適切でよかった": 0,
+    "今回の相談は価値があった": 0,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 0,
+    "受容・共感": 1,
+    "肯定・承認": 0,
+    "的確な質問による会話の促進": 0,
+    "要約": 0,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5712,
+    "evaluation_created_at": "2023-09-13T22:17:00",
+    "client_id": 410,
+    "counselor_id": 402,
+    "score": 3,
+    "felt_heard_and_understood": 0,
+    "felt_respected": 0,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 0,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 0,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 0,
+    "asked_effective_questions": 0,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

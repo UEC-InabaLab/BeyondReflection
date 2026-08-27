@@ -1,0 +1,850 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-28T14:51:30",
+      "utterance": "今日はお時間ありがとうございます。よろしくお願いします。1500になったら始めさせて頂きます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T14:51:48",
+      "utterance": "こんにちは。よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:01:02",
+      "utterance": "こんにちは、相談員です。今日はお越し頂きありがとうございます。初めに、あなたの年齢、性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:01:40",
+      "utterance": "こんにちは。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:02:08",
+      "utterance": "18歳、女子",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:02:21",
+      "utterance": "教えて頂きありがとうございます。今日お話ししたいことはどんなことでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:02:47",
+      "utterance": "進路のことで悩んでます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:03:07",
+      "utterance": "ええ、もう少し詳しくお話しを聞いてもよろしいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:03:46",
+      "utterance": "私は専門学校に行きたいけど、親と意見が合わないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:04:03",
+      "utterance": "ええ、えぇ。それは落ち込みますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:04:25",
+      "utterance": "専門学校というのはどのようなことを学ぶのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:04:54",
+      "utterance": "調理の勉強です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:05:23",
+      "utterance": "そうなんですね。いま高校3年生ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:05:31",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:06:10",
+      "utterance": "教えて頂きありがとうございます。親と意見が合わないと思うのはどのようなことがあってなのでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:06:37",
+      "utterance": "親は国立大に行くように言います",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:06:55",
+      "utterance": "そうだったのですね…それは悩みますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:07:14",
+      "utterance": "その件について親御さんはどのようなことを言ってますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:07:54",
+      "utterance": "国立大に行くように、だけです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:08:07",
+      "utterance": "ええ、ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:08:33",
+      "utterance": "進路について他に親御さんとお話しされてることはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:09:23",
+      "utterance": "昔はから成績に関してはうるさくて、国立大以外は認めないと言われてます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:09:34",
+      "utterance": "えて、ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:10:04",
+      "utterance": "打ち間違い失礼しました。そうなんですね。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:10:40",
+      "utterance": "成績に関してうるさいというのはどのような点でそう思われるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:11:25",
+      "utterance": "成績が下がるとすごくコワイ顔して何も言わないんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:11:46",
+      "utterance": "ええ、それは困りますよね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:12:08",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:12:56",
+      "utterance": "親御さんは成績に関して厳しく、国立大に行って欲しいと言われてるこの状況をあなたはどのように思われますか、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:13:20",
+      "utterance": "どうにも思いません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:13:32",
+      "utterance": "ええ、ええ、そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:14:45",
+      "utterance": "現在、学校での進路活動はどのような状況なのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:15:15",
+      "utterance": "明後日面談があります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:15:42",
+      "utterance": "そうでしたか。どのようなことをその面談で話されるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:16:12",
+      "utterance": "国立大に行けるか聞きます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:16:26",
+      "utterance": "先生にですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:16:47",
+      "utterance": "進路の先生にです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:17:00",
+      "utterance": "なるほど、そうでしたか",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:17:14",
+      "utterance": "進路の先生とはどんなことをすでに話されてるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:17:27",
+      "utterance": "まだ話してません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:17:49",
+      "utterance": "明後日に初めてお話しされるのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:18:06",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:18:24",
+      "utterance": "国立大に行けるか聞いてみるということですが",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:18:50",
+      "utterance": "あなた自身は進路について実際にどうしていきたいと思っておられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:19:14",
+      "utterance": "専門学校に行きたいです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:19:30",
+      "utterance": "ええ、ええ。そのように思われてるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:20:00",
+      "utterance": "ちなみにあなたのその悩みを他の誰かに相談されたことはあるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:20:09",
+      "utterance": "まだありません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:20:49",
+      "utterance": "そうでしたか。ここに勇気を持って相談しにきてくださってありがとうございます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:21:35",
+      "utterance": "少しでも前向きにあなたが進んでいけるように、一緒に考えていきましょうね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:21:48",
+      "utterance": "もう少しお話しを聞かせて頂きたいのですが",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:22:13",
+      "utterance": "親御さんに国立大に行けというように言われた時にあなたはどんなことを言うのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:22:28",
+      "utterance": "何も言わないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:22:43",
+      "utterance": "ええ、ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:23:12",
+      "utterance": "その時にどのようなことを頭で考えているのか思い出せる範囲で教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:23:42",
+      "utterance": "何も思わないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:24:05",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:24:58",
+      "utterance": "親御さんとは普段どんなことを話したりしてるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:25:56",
+      "utterance": "お弁当の確認とか、食事のこととか話します",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:26:28",
+      "utterance": "ええ、ええ。食事のどんなことを話すのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:27:00",
+      "utterance": "ご飯出来たよ、とか普通の話です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:27:31",
+      "utterance": "ええ、ええ。そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:28:29",
+      "utterance": "これまでに親御さんに相談したり、あなた自身の考えや意見を言ったりすることってあったりしますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:29:36",
+      "utterance": "今までもないですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:29:54",
+      "utterance": "ええ、ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:30:21",
+      "utterance": "もし可能であれば、家族構成がどんなものか教えて頂くことは可能ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:30:44",
+      "utterance": "父、母です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:31:05",
+      "utterance": "教えてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:31:55",
+      "utterance": "ご両親どちらも同じことを言うのですか？国立大に行けと。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:32:15",
+      "utterance": "父が国立大希望です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:32:24",
+      "utterance": "そうでしたか…",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:32:40",
+      "utterance": "お母様はどんなことを言ってますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:32:55",
+      "utterance": "何も言いません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:33:36",
+      "utterance": "ええ、ええ。お母様とお父様、どのような方なのかもう少し教えて頂くことはできますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:34:38",
+      "utterance": "父は成績にうるさくて、母は何も言わない人です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:34:52",
+      "utterance": "ええ、ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:35:19",
+      "utterance": "なるほどですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:36:05",
+      "utterance": "では、あなた自身が調理の学校に進みたいと思ったきっかけはどんなことがあったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:36:57",
+      "utterance": "美味しい食事を出して、みんなに食べてもらいたいからです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:37:12",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:37:41",
+      "utterance": "そのように思ったきっかけってあったりするのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:38:52",
+      "utterance": "昔、テレビで美味しい料理を作ってる人を見て、いいな、と思いました",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:39:16",
+      "utterance": "素敵ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:39:32",
+      "utterance": "それをみんなにたべてもらいたいのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:39:47",
+      "utterance": "どんな方に食べてもらいたいのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:40:48",
+      "utterance": "普通のお客さんですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:41:03",
+      "utterance": "ええ、ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:41:21",
+      "utterance": "その調理の専門学校に行って、どんなことを学びたいのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:42:26",
+      "utterance": "調理の方法とか、盛り付けとか、です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:42:46",
+      "utterance": "その学校でそのようなことが学べるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:43:36",
+      "utterance": "これまでお話しを聞いていて、あなた自身から伝わる熱い気持ちを拝見しました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:44:10",
+      "utterance": "どうにか親御さんに伝えたいですね…いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:44:59",
+      "utterance": "いえ、行くのは国立大です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:45:28",
+      "utterance": "そのように思うのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:46:12",
+      "utterance": "国立大に行くとなるとあなた自身の調理の専門学校に行きたいという思いは今の時点で果たせなくなりそうですが",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:46:25",
+      "utterance": "その点についてはどのように思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:47:13",
+      "utterance": "何も思いつかないですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:47:33",
+      "utterance": "ええ、ええ。そうでしたか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:48:19",
+      "utterance": "もしあなたの思いを親御さんや、周りの進路の先生に相談できたとしたらどんなことが起こると思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:49:00",
+      "utterance": "何も変わらないと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:49:20",
+      "utterance": "そのように思われるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:49:36",
+      "utterance": "どのようなことが実際に起きそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:50:25",
+      "utterance": "何も起こらないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:50:35",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:51:44",
+      "utterance": "あなたとしては調理の専門学校に進みたい、ですが親御さんや周りの人には理解してもらえそうになく、伝えることが難しそう、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:52:38",
+      "utterance": "あなた自身の中で本当は夢を諦めたくないという気持ちと無理かもしれないというあきらめの気持ちから国立大を目指そうという２つの気持ちを拝見しました",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:53:10",
+      "utterance": "あなたとしてはこれからどうしていきたいですか？話せる範囲でいいので、気持ちをお聞かせください",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:54:24",
+      "utterance": "親の希望通り国立大に行って卒業することだと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:54:50",
+      "utterance": "それで本当にいいのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:55:25",
+      "utterance": "そう思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:55:57",
+      "utterance": "そう思われるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:57:04",
+      "utterance": "いまの時点で国立大を選択して、あとからまた選択を変えることもできます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:57:46",
+      "utterance": "なのでもしあなた自身がまた悩んだ時はぜひ相談しにきて欲しいです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:58:15",
+      "utterance": "いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:58:36",
+      "utterance": "はい、ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:59:04",
+      "utterance": "はい、ここでいつでもお待ちしております。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T15:59:22",
+      "utterance": "そろそろお時間ですが、なにかいま話し足りないことはありますか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T15:59:42",
+      "utterance": "大丈夫ですありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T16:00:18",
+      "utterance": "こちらこそありがとうございました。お話を聞かせて頂きとても嬉しかったです。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T16:00:26",
+      "utterance": "それでは失礼致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T16:00:42",
+      "utterance": "(ありがとうございました。お疲れ様です)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T16:00:59",
+      "utterance": "失礼します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T16:01:19",
+      "utterance": "「ありがとうございました。お疲れ様でした」",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "親との進路に関する意見の不一致"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2262,
+    "評価作成日時": "2021-07-28T17:56:00",
+    "クライアント役ID": 17,
+    "カウンセラー役ID": 181,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2262,
+    "evaluation_created_at": "2021-07-28T17:56:00",
+    "client_id": 17,
+    "counselor_id": 181,
+    "score": 57,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

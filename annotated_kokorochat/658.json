@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-06T09:56:58",
+      "utterance": "みどりさん、おはようございます。本日宜しくお願い致します。みどりさんのご準備ができましたら、お知らせ下さい。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T09:58:00",
+      "utterance": "おはようございます。どうぞよろしくお願いいたします。準備ができました。始めて頂いて大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T09:58:22",
+      "utterance": "ありがとうございます。でははじめさせて頂きます。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T09:58:37",
+      "utterance": "こんにちは、相談員です。まず初めにあなたの年齢、性別、本日の相談内容を教えて頂けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T09:59:57",
+      "utterance": "18歳、女性、高校3年生です。好きなことだけして両親から許される妹をズルいと思い、許せません。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:00:19",
+      "utterance": "そうなんですね。それは苦しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:00:26",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:00:35",
+      "utterance": "もう少し詳しく教えて頂けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:04:33",
+      "utterance": "私は中学3年間、塾に通って今の公立の進学校を目指して勉強していましたが、絵を描くことが好きでした。でも、親や祖父母は、偏差値の高い高校へ行って欲しいという感じで、私もそれが当たり前だと思ってました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:05:12",
+      "utterance": "そうだったんですね。それは一生懸命頑張ってこられたよね。でもしんどかったよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:06:05",
+      "utterance": "好きな絵を我慢して今の進学校に入学したのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:07:30",
+      "utterance": "そうなんです。そして私が中3の時に、妹が「美術系の高校へ行きたい」と言い出しました。わたしはあり得ないと思いましたが、両親はそれを了承しました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:07:59",
+      "utterance": "なるほど、それはあなたにとって驚きだったよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:08:30",
+      "utterance": "自分は我慢して親の願う道を選択したのに、妹は自由なのか。と思ってしまうよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:09:19",
+      "utterance": "あなたも美術系の高校に行きたかったのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:09:32",
+      "utterance": "そうですね。私も心底美術系の高校に行きたいと思いましたが、もう出願は終わっていて、すでに遅かったんです、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:09:46",
+      "utterance": "そっか。それはつらかったよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:09:51",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:10:13",
+      "utterance": "自分の行きたい高校に行けないのは悲しいよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:10:24",
+      "utterance": "そうなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:10:35",
+      "utterance": "ご両親にはその気持ちは伝えたりしたのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:12:28",
+      "utterance": "はい。両親が許可した理由は、「妹は勉強を全くしようとしないから、美術系の高校に行かないと不登校になるかもしれない」ということでした。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:13:37",
+      "utterance": "そうなんですね。それは自分の気持ちだけおいてきぼりになっている気がして、悲しいかったり、腹立たしかったりしたよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:14:06",
+      "utterance": "ちなみに、あなたを何とお呼びしたらよろしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:14:33",
+      "utterance": "はい、えみでお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:14:46",
+      "utterance": "ありがとうございます。えみさんですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:15:42",
+      "utterance": "えみさんが美術系の高校を希望した時、ご両親は何と言ったのかな？反対したのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:17:49",
+      "utterance": "希望した時には、もうすでに出願は終わっていてので、せっかく頑張って入った高校なんだから、続けて欲しいと言われました。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:18:19",
+      "utterance": "そっか。そういわれてえみさんもつらくても我慢したんだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:18:34",
+      "utterance": "それは自分の気持ちを消して苦しかったよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:20:54",
+      "utterance": "はい、頑張って高校に行き、高2のころからやっと慣れて楽しくなってきて、高3になった頃に妹が美術系の高校に行くようになって、それを見ると羨ましくて、怒りが沸き上がってきました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:21:30",
+      "utterance": "うんうん。それは当然の気持ちだよね。えみさんは我慢して頑張ってきたんだもんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:21:40",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:22:36",
+      "utterance": "えみさんは小さいころから自分の気持ちより親の気持ちを大切にしてきたのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:24:30",
+      "utterance": "そうですね。親や祖父母の言うことが当たり前だと思って、疑わなかったです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:25:15",
+      "utterance": "そっか。えみさんが自分の気持ちよりご両親の思いを優先しているのは、ずっとご両親のことを思う優しい気持ちも持って成長してきたのからなのかな？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:25:47",
+      "utterance": "そうなんですかね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:26:59",
+      "utterance": "違ったら違うでいいですよ。えみさんは親の言うことを信じてきたんだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:28:12",
+      "utterance": "だから高校も親の望む道を選択して頑張ったきたんですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:28:26",
+      "utterance": "そうですね。他の選択肢を知らなかったし、流されてしまったということかな？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:29:15",
+      "utterance": "そうか、流されたと感じんたんだね。えみさんはなぜ流されたと思ったのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:29:38",
+      "utterance": "そうですね。結果的には信じていたんでしょうけど。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:30:31",
+      "utterance": "うんうん。きっとご両親のことを一生懸命きいてえみさんなりに折り合いをつけて頑張ってきたのですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:30:46",
+      "utterance": "親や祖父母は、私のことをもっと理解してくれていると思ってたんだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:31:17",
+      "utterance": "そっか、それはすごく大切なことだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:31:59",
+      "utterance": "えみさんは妹さんの進学の件を通じて、ご両親が自分の本当の気持ちを理解してくれていないことにきづいたんだよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:32:13",
+      "utterance": "私は勉強もちゃんと頑張ったのにそれほど楽しくなくて、妹はズルいと思います。この怒りをどうおさめたら良いのでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:33:29",
+      "utterance": "うんうん。怒りはとても大切な感情なんです。そして勝手に消えるものでもないのだけそ、親御さんに今の気持ちを話すことはできますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:34:31",
+      "utterance": "我慢してきた気持ちを抱えて頑張ってきたのだから、ずるいと思うのは当たり前だし、そりゃ怒りもわいて当然だよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:35:22",
+      "utterance": "はい。一度半年位前に、親の前で感情を爆発させたことがありましたが、親は一時の気の迷いと思ったようで、私をたしなめる感じで済んでしまいました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:36:11",
+      "utterance": "そっか、それは辛かったね。自分の気持ちをちゃんと受け止めてもらえなかったら苦しいし、悲しくもなるよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:36:47",
+      "utterance": "その時えみさんはどう思ったのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:37:32",
+      "utterance": "はい。もう親に扱いを変えてもらおうとは思いません。ただ、この怒りをおさめるにはどうしたら良いですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:38:36",
+      "utterance": "そっか。そう思うよね。吐き出してみるのが一番かと思うけど、紙に自分の妹さんへの悔しい気持ちやずるい感情を書くのはどうかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:40:02",
+      "utterance": "今えみさんは怒りで心が一杯でおさめるところを探しているんだよね。その気持ちを吐き出すことを、クリアリングといって、心の中の荷物を一度全部出す感じのイメージです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:40:58",
+      "utterance": "そうですね。やってみますけど、妹を見てしまうとやっぱり怒りが沸き上がってきそうですね。辛い作業になりそうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:41:56",
+      "utterance": "そうだよね。妹さんをみるとせっかく書いてもまたわきあっがてくるよね。ここで吐き出すのももちろんありだよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:42:14",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:43:20",
+      "utterance": "友達とかにも話したりできますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:43:44",
+      "utterance": "はい、友達には話しました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:44:29",
+      "utterance": "そっか、えみさんは自分の気持ちを話せる友達をちゃんと築けているんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:44:55",
+      "utterance": "そうですね。でも、怒りが強すぎて。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:45:27",
+      "utterance": "なるほど、どうしても妹さんへの怒りが消えなくてしんどいよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:45:39",
+      "utterance": "はい、そうなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:45:57",
+      "utterance": "それだけえみさんは自分の気持ちを我慢して今まで頑張ってきたんだよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:46:12",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:47:21",
+      "utterance": "その怒りは今までの自分の言えなかった気持ちとかだよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:47:38",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:49:01",
+      "utterance": "吐き出す作業がしんどそうなら、今は無理にしなくても大丈夫ですよ。今えみさんは自分の感情をしっかり認識して、それを抱えながらも日々過ごしているんだよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:49:31",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:50:34",
+      "utterance": "なんとなく親の言うことを受け入れてきた時間から、今度は自分の気持ちを認めて自分で進んでいく時間へと変わってきているのかな。それはとてもすごい気づきで変化だと思うけど、えみさんはどう思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:52:07",
+      "utterance": "そうですね。もうすぐ受験だし、自分の進路を決めなくちゃいけない時期なので、その事についても焦っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:52:46",
+      "utterance": "そっか、そうだよね。えみさんは今でも美術の道に進みたいのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:54:58",
+      "utterance": "あなたの温かいご指摘、とても嬉しかったです。私は今でも美術系の大学に進みたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:55:31",
+      "utterance": "そうなんだね、それは素敵な夢だよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:55:38",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:56:29",
+      "utterance": "今のえみさんは自分の感情をしっかり感じて、自分で決める力があると思います。その力を今度は自分の進学に注いでみることはできそうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:57:42",
+      "utterance": "そうですね。頑張ってみようと思います。何だか勇気が出てきました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:58:43",
+      "utterance": "うんうん。えみさんの将来に進む勇気や気持ちを全力で応援していますね。そしていつでも吐き出したい気持ちがでたときはここにきてください。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T10:59:03",
+      "utterance": "はい、ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T10:59:47",
+      "utterance": "一緒に心の荷物を下ろしながら、自分の人生を自分で決めて進めるえみさんの力を信じて応援します。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T11:00:03",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T11:00:43",
+      "utterance": "今日はもうすぐお時間ですが、ここで相談を終了してもよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T11:01:03",
+      "utterance": "はい、大丈夫です。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T11:01:30",
+      "utterance": "妹さんへの怒りや心の内、我慢して頑張ってきた気持ちを聞かせてくれてありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T11:01:55",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T11:02:06",
+      "utterance": "本日は、これでロールプレイを終了してもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T11:02:18",
+      "utterance": "はい、お願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T11:02:31",
+      "utterance": "本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T11:02:41",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T11:03:06",
+      "utterance": "これでロールプレイを終了致します。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "妹への嫉妬とその感情の処理方法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 658,
+    "評価作成日時": "2020-11-06T11:40:00",
+    "クライアント役ID": 49,
+    "カウンセラー役ID": 101,
+    "点数": 75,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 658,
+    "evaluation_created_at": "2020-11-06T11:40:00",
+    "client_id": 49,
+    "counselor_id": 101,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,918 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-03-09T19:52:06",
+      "utterance": "（こんばんは。カウンセラー役です。）（本日は、２０時からロープレよろしくお願いします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T19:53:02",
+      "utterance": "「こんばんは、こちらこそ、今日は宜しくお願い致します。承認ありがとうございます。」",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:00:10",
+      "utterance": "こんばんは。　相談員です。本日は、カウンセリングにお越しいただき、ありがとうございます。はじめに年齢と性別を教えてもらえますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:00:48",
+      "utterance": "相談ありがとうございます。30歳、男です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:01:08",
+      "utterance": "教えていただき、ありがとうございます。相談内容を教えてもらえますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:01:35",
+      "utterance": "はい、本当に陰鬱な話なのですが、モテなくて悩んでます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:02:08",
+      "utterance": "モテなくて、そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:02:26",
+      "utterance": "ええ、プライド、ズタズタです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:02:52",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:03:11",
+      "utterance": "最近、なにかあったのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:03:12",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:03:22",
+      "utterance": "最近ではないですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:03:47",
+      "utterance": "昔からモテないのです。どうにかしたいのですが、どうすれば良いのか検討もつかない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:04:21",
+      "utterance": "そうなんですね。これまで、ずっと、ということでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:04:30",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:05:12",
+      "utterance": "どんな時に、プライドがズタズタという風にかんじるのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:06:06",
+      "utterance": "自分は仲良くなろうと話しかけたり、お菓子を上げたりするのに",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:06:14",
+      "utterance": "全く相手にされないばかりか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:06:25",
+      "utterance": "はい。ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:06:41",
+      "utterance": "他のイケメンの男が、自分より後に知り合ったのに仲良くなってる時ですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:06:52",
+      "utterance": "自分は何やってんだろうと",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:06:59",
+      "utterance": "バカバカしくなって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:07:06",
+      "utterance": "そういうことが、あったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:07:25",
+      "utterance": "バカバカしくなったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:07:29",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:08:36",
+      "utterance": "そういったときは、やはりイケメンのほうがモテる、と思われるのでしょうかね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:09:05",
+      "utterance": "思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:09:28",
+      "utterance": "そうですか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:09:44",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:10:29",
+      "utterance": "全ての女性と仲良くなれない、ということではないですよね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:11:28",
+      "utterance": "仲良くはなれますが、恋愛にならないのです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:12:16",
+      "utterance": "そうなんですね。仲良くは、なれるのにと・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:12:55",
+      "utterance": "何か、きっかけがあれば、いいんですかね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:13:11",
+      "utterance": "いや、キッカケどうこうではないと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:14:43",
+      "utterance": "そうでしたか、ご自分では、なにか恋愛になるために、必要なこと、思い当たることはありませんか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:16:04",
+      "utterance": "うーん、基本ですが、顔、体、コミュニケーションかな",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:16:18",
+      "utterance": "多分だけど、性格ではないと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:16:45",
+      "utterance": "教えていただき、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:17:21",
+      "utterance": "いえ、主観ですけどね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:17:47",
+      "utterance": "確認なのですが、顔、体、コミュニケーション、性格には、自信があるということなのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:19:36",
+      "utterance": "いや、性格と顔は普通だと思うので、全く自信が無い訳ではありませんが、体とコミュニケーションはまるで無いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:20:57",
+      "utterance": "性格と顔は普通で、体とコミュニケーションが、自信がないとおもわれているんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:21:45",
+      "utterance": "体とコミュニケーションに自信がつけば、モテるようになりそうですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:22:26",
+      "utterance": "どうですかね。。今よりはマシでしょうが。それに、体はジムにでも真面目に通えば良いのでしょうが、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:22:37",
+      "utterance": "コミュニケーションはどうしたら良いのか。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:22:45",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:22:57",
+      "utterance": "そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:23:16",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:24:05",
+      "utterance": "それでは、本日一番解決したいことは、コミュニケーションの向上ということでよろしいでしょうか？それとも、ほかにありますでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:24:55",
+      "utterance": "コミュニケーションというか、モテる様になりたいですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:25:28",
+      "utterance": "そうでしたよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:25:50",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:25:56",
+      "utterance": "コミュニケーションそのものではありません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:26:20",
+      "utterance": "そのモテるために、何をしたらとういか、迷われているんですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:27:04",
+      "utterance": "ええ、だから相談しました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:28:01",
+      "utterance": "ええ。あなたが、モテると思う状態というのは、恋愛関係になって、相手の女性と付き合う、ということですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:28:43",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:29:47",
+      "utterance": "これまで、あともう少しで、恋愛関係になりそうだった、ということはあったのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:30:06",
+      "utterance": "ないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:31:03",
+      "utterance": "相手に",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:31:14",
+      "utterance": "気持ち悪がられて避けられて終わりが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:31:22",
+      "utterance": "関の山",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:31:52",
+      "utterance": "はい、そうなんですか？",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:32:10",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:32:39",
+      "utterance": "自分から行くと、全部避けられて終わりです。よっぽど嫌なんでしょうね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:33:15",
+      "utterance": "気持ち悪がられる、というのは、どうしてなんでしょうかね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:33:37",
+      "utterance": "お顔と性格は、普通なのに・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:33:44",
+      "utterance": "それが分かれば苦労ないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:35:06",
+      "utterance": "嫌なことを伺うようで、申し訳ないのですが、これまで、気持ち悪がられるというのは、どんな場面だったのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:35:52",
+      "utterance": "いえ、申し訳ないなんてとんでもない。聞かないと分からないのだから当然です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:35:57",
+      "utterance": "場面ですか。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:36:15",
+      "utterance": "こんなことがあったとか・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:36:23",
+      "utterance": "気持ち悪いというか、避けられるといった方が正しいかな",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:36:41",
+      "utterance": "気持ち悪いと言われる訳ではないですからね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:37:02",
+      "utterance": "避けられてしまうんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:37:08",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:37:28",
+      "utterance": "好きな女性に、避けられてしまうのは、悲しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:38:26",
+      "utterance": "ええ、だからもうバカバカしい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:39:18",
+      "utterance": "バカバカしくなるんですね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:39:52",
+      "utterance": "よく人に真面目とか優しいとか言われるのですが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:40:09",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:40:15",
+      "utterance": "でも、恋愛にはならない、真面目や優しいなんて何の取り柄にも、ならない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:40:21",
+      "utterance": "だから、バカバカしいのです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:40:46",
+      "utterance": "不真面目で冷たくても良いから、イケメンでコミュニケーション上手いほうがマシです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:41:07",
+      "utterance": "実際、それでも押しの強い男なんかはモテることも多々ありますから。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:41:10",
+      "utterance": "バカバカしいわ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:41:21",
+      "utterance": "そうなんですね。真面目とか、優しいといわれるのになんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:42:34",
+      "utterance": "真面目が好き、優しい男性が好き、という女性も中にはいるのではないでしょうかね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:42:43",
+      "utterance": "いかがでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:44:30",
+      "utterance": "いやー、女の「真面目で優しい男性が好き」ほど、アテにならないものはありませんわ。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:45:21",
+      "utterance": "そうなんですね。アテになりませんかね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:46:41",
+      "utterance": "あなたは、コミュニケーションがうまくなりたい、とはお考えにならないのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:46:47",
+      "utterance": "アテにならないですね。周りでモテてるのは、大抵、何か軽い男です。その軽さが良いのかも知れないと、ある女性にちょっと聞きたら言ってましたね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:47:03",
+      "utterance": "あっ　失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:47:16",
+      "utterance": "コミュニケーションが下手かどうかは分かりませんが、より上手くなりたいとは思いますよ。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:48:08",
+      "utterance": "そうなんですね。こういった状況で、そのように思われるのは、とても良いことだと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:48:46",
+      "utterance": "ありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:49:02",
+      "utterance": "コミュニケーションは恋愛に限ったことではないですから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:49:48",
+      "utterance": "確かに、そうですよね。あなたは、真面目で、優しい方なので、そこにコミュニケーションが、今よりも良くなったら、最強になると思いますけれどもね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:51:09",
+      "utterance": "ありがとうございます。コミュニケーションというか、恋愛での女性へのアピールの仕方が下手かなとも思います。それがコミュニケーションと言えばコミュニケーションですけどね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:52:25",
+      "utterance": "女性へのアピールの仕方に問題があるのかな、と思われているんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:53:01",
+      "utterance": "確かに、アピールの仕方もコミュニケーションのひとつですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:53:13",
+      "utterance": "問題がないのなら、いくらなんでも避けられるはないかと。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:54:21",
+      "utterance": "そうですよね。ここまで話してきてみて、何か、ここをこうしたらいいのでは？というお考えは湧いてきませんでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:54:53",
+      "utterance": "うーん、とりあえずはやはりコミュニケーションですかね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:55:05",
+      "utterance": "そこしか考えられないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:55:25",
+      "utterance": "そうなんですね。はい、わかりました。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:56:17",
+      "utterance": "どちらかというと、話し過ぎてしまうのでしょうか？それとも聴き上手なタイプなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:57:04",
+      "utterance": "それも分かりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:57:29",
+      "utterance": "そうでしたか。失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:58:02",
+      "utterance": "いえ、失礼ではないですよ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T20:58:20",
+      "utterance": "ありがとうございます。コミュニケーション向上について、こうしたらいいのかな、というイメージはおありですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:58:40",
+      "utterance": "それこそ、さっぱり分かりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T20:59:10",
+      "utterance": "何をしたら上達しますかね?コミュニケーションのトレーニング方法って何でしょう?",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:00:08",
+      "utterance": "はい、私なりの意見になってしまいますが、どちらかというと、相手のお話をよく聴くことかな、と考えています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:00:33",
+      "utterance": "なるほど",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:01:23",
+      "utterance": "まもなく、お時間となってしまいます。今日は、アドバイスをするところまでいけず、申し訳ありませんでした。今日は、ここまで相談してみていかがでしたでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:02:30",
+      "utterance": "少し気持ちが楽になり、頭が整理できました。なんか、コミュニケーションの問題かなと思えましたから",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:02:52",
+      "utterance": "そういってもらえたら幸いです。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:03:08",
+      "utterance": "いえいえ、ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:03:12",
+      "utterance": "ぜひまた、相談におこしください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:03:22",
+      "utterance": "今日は、これで終わってもいいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:03:36",
+      "utterance": "はい、ありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:03:45",
+      "utterance": "それでは、「終了メッセージ」をお送りします",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:03:54",
+      "utterance": "ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:03:56",
+      "utterance": "はい、また宜しくお願い致します。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:04:00",
+      "utterance": "ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:04:07",
+      "utterance": "（本自治は、ロープレありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-09T21:04:21",
+      "utterance": "「ありがとうございました。」",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-09T21:04:32",
+      "utterance": "（忌憚のない評価を　お待ちしています。）",
+      "tag": "Suggest"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "モテないことに対する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3250,
+    "評価作成日時": "2022-03-11T15:08:00",
+    "クライアント役ID": 251,
+    "カウンセラー役ID": 270,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3250,
+    "evaluation_created_at": "2022-03-11T15:08:00",
+    "client_id": 251,
+    "counselor_id": 270,
+    "score": 69,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

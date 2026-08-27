@@ -1,0 +1,690 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-09-21T15:52:42",
+      "utterance": "こんにちは。よろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T15:54:22",
+      "utterance": "こんには。今日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T15:56:30",
+      "utterance": "ちょっと質問しても良いですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T15:59:24",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T15:59:31",
+      "utterance": "これってノルマってカウンセラー２０回クライアント２０回計４０回でしたっけ？それともカウンセラー１０回クライアント１０回計２０回でしたっけ？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:00:09",
+      "utterance": "詳細はよくわからないので、アイディアに質問していただいたほうがいいかと思います。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:00:24",
+      "utterance": "そうですね。すみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:00:38",
+      "utterance": "こちらこそ、すいません。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:00:51",
+      "utterance": "では始めます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:01:01",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:01:22",
+      "utterance": "こんには相談員です。本日はどのようなご相談で起こし下さいましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:02:17",
+      "utterance": "在宅勤務になり、やる気がなくなってしまいました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:03:13",
+      "utterance": "そうなんですね・・環境が変わるとモチベーションも変わってしまいますよね。どんなお仕事をされているんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:03:39",
+      "utterance": "設計です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:05:01",
+      "utterance": "素敵ですね。専門的なお仕事で誰でもできるような仕事ではないですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:05:50",
+      "utterance": "小さい会社なので大したことはしてないんです。それに聞いたかんじはいいのですが、まだ新人なので何もやらせてもらえません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:07:42",
+      "utterance": "そうだったんですね。新人で入り期待と不安との在宅勤務になっては分からない所があっても先輩にすぐ聞ける状態でないしなかなかはかどらないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:09:12",
+      "utterance": "何もやらせてもらえないとのことですが在宅では現在どのようなお仕事をされているんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:09:50",
+      "utterance": "とりあえず言われたことを言われたとおりにすることです。資料を作ったり、読んだり…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:10:15",
+      "utterance": "でも、よくわからなくて…先輩にきいても今は忙しいと言われ後回しです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:11:00",
+      "utterance": "新人だと最初は言われたとおりにやるしかできないですもんね・・その状況とてもお辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:11:47",
+      "utterance": "そうなんですよ…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:12:03",
+      "utterance": "そうなんですか。折角分からなくで聞いているのに後回しにされたら、出来る事も出来なくなりどんどんやる気はなくなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:12:15",
+      "utterance": "なんだかやる気がなくなりました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:12:26",
+      "utterance": "辞めてしまおうかと考えています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:12:54",
+      "utterance": "やる気がなくなっても仕方がないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:13:24",
+      "utterance": "そうですよね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:14:59",
+      "utterance": "ぇえ。辞めてしまおうか考えてしますくらいお辛い気持ちですよね。もっと必要としてほしい気持ちや職員として一員として認めてもらいたい気持ちもありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:15:47",
+      "utterance": "そうなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:16:43",
+      "utterance": "ぇえ。新人の頃はそう思ってしまいます。どんな事があって辞めてしまおうかお考えになったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:17:49",
+      "utterance": "何もできないし、時間ばかりたってしまって、仕事ってこんな感じなの？って思ってしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:18:25",
+      "utterance": "人とも直接会うこともないので、あまり話もしないし…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:19:48",
+      "utterance": "なるほどですね。在宅では先輩の技術を目で見て学ぶ事も出来ないですし、仰るとおり面と向かって会話も出来なければ距離も縮まらないですもんね。なかなか厳しい状況ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:20:19",
+      "utterance": "やりがいも感じないので、いっそのこと転職もありかと思っています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:21:07",
+      "utterance": "就職もなかなか決まらなくてやっと入った会社なんですが、思ってたのとは違ったし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:21:39",
+      "utterance": "他の業種でもいいのかなと感じてしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:22:17",
+      "utterance": "そうですね・・・今の現状ではやりがいを感じるのは難しいですよね。入ってみるとイメージと違ってがっかりしてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:23:08",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:23:16",
+      "utterance": "設計のお仕事はどんな思いてやってみようと思われたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:24:18",
+      "utterance": "両親が家を購入するときに、設計士さんと話していてそれを聞いてすごいなぁ、と憧れました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:25:01",
+      "utterance": "大きい会社に入りたかったけど、頭が悪くて落ちてきまったんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:26:38",
+      "utterance": "憧れから夢になり実現までがんばってこられたんですね。形はどうあれやりたい仕事に就くことはなかなか出来る事ではありません。そこは卑下しなくてもいいと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:27:13",
+      "utterance": "ありがとうございます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:27:59",
+      "utterance": "だけど、今、あまり会社のために何もしてないし…しばらくずっとこんな感じだとどうしていいのかわからなくて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:28:35",
+      "utterance": "現実やってみて憧れていた内容と現状のあまりにも違いにがっかりされたんですね。それはいろいろ落胆してしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:28:58",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:29:45",
+      "utterance": "ぇえ会社の為にになっていないと思うと辛くなりますよね。確かにずっとこの感じでやられると先が見えなくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:30:25",
+      "utterance": "そうなんです。だから辞めようかなぁと考えてます。どう思いますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:31:01",
+      "utterance": "なるほど色々考えてしまうところですよね。相談者さんの目には先輩は憧れていた設計のお仕事をしているように見えていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:32:18",
+      "utterance": "在宅なので先輩がどのように働いているのかよくわからないんですよね…",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:32:47",
+      "utterance": "たまに電話などで話はするんですけど、実際みてるわけではないので。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:34:00",
+      "utterance": "そうなんですね。それじゃ考える事も出来ないですよね。ぇえ。仕事をしている所見てみないとイメージも付きずらいですよね。入社してどのくらいで自宅勤務になられたんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:35:10",
+      "utterance": "今年入ったばかりなんです。だから、入って研修もなくほぼ在宅です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:36:55",
+      "utterance": "それでは設計の勉強はしていても、どんな風に仕事をするのか見る事も出来ず、やらせてもらえず現在に至るのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:37:28",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:37:52",
+      "utterance": "それはなかなか新人に対して配慮に欠けているように感じますね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:38:00",
+      "utterance": "たぶん今年はずっとこんな感じみたいです。世の中が落ち着くまではと言ってました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:39:54",
+      "utterance": "なるほど。今のままでは相談者さんのモチベーションも上がらないですし、その会社のルールのせいで設計のお仕事もマイナスのイメージになってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:40:35",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:40:58",
+      "utterance": "仕事を変えると話されていましたがやめる事に対してはどう思われていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:41:39",
+      "utterance": "辞めることにはあまり抵抗はないです。ただ、次の就職がみつかるか心配で…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:41:50",
+      "utterance": "今の会社もやっと決まったので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:43:04",
+      "utterance": "なるほど・・・苦労して入社が決まったと話されていましたもんね。次の仕事が見つかるか心配になるのは当然だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:43:43",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:43:55",
+      "utterance": "次の仕事は設計のお仕事で探される予定ですか？他にやりたいお仕事をお探しですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:44:33",
+      "utterance": "他にやりたい仕事も特になく…設計だとかなり優秀じゃないとなかなか受からないんですよね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:44:53",
+      "utterance": "在宅でない仕事はないかな？くらいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:46:25",
+      "utterance": "なるほど。設計のお仕事も経験は必要になってきますよね。その経験が積めるような会社が見つかるか不安になるところですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:47:06",
+      "utterance": "新しい仕事をするとして収入とかはどのくらいで考えているんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:47:55",
+      "utterance": "うーん。今は在宅になったので、実家にいるんです。なので、そこそこ普通にもらえればって考えてます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:48:39",
+      "utterance": "なるほど少しまとめさせていただいてよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:48:46",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:50:13",
+      "utterance": "相談者さんは設計士と親のやり取りをみて憧れてこの職業に就こうと努力し職場に就けました。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:50:48",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:51:43",
+      "utterance": "が入社から今まで在宅勤務で仕事を教えてもらえず、やらせて貰えず、質問があったも後回しされ、会社にいる意味を感じなくなってやめようかなと考えています。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:52:05",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:52:52",
+      "utterance": "しかしやめるにしても前回の就活の経験から次が見つかるか悩んでおられる。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:53:34",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:53:45",
+      "utterance": "収入面は実家にいるためそこまで気にしておられない。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:53:53",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:54:49",
+      "utterance": "そんな会社の不遇な扱いの中。様々な思いを抱きながらお仕事されて、色々悩まれたと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:55:01",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:55:58",
+      "utterance": "落ち込む事もあったと思いますが、相談者さんはなにも悪くないですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:56:08",
+      "utterance": "ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T16:58:30",
+      "utterance": "提案としてはそんな不遇な扱いを受けながら今のお仕事を続けるのは精神的にもきついと思われます。新しいお仕事は職種を選ばなければ割りと見つかりますので探して頂けば良いと思います。見つかってから退職という形でも世間的には何の問題もありません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T16:59:07",
+      "utterance": "わかりました。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T17:01:40",
+      "utterance": "ですので、仕事は探して頂いて、せっかく設計のお仕事をされる為勉強もされてきたんだと思いますので、新しい仕事をしながら世間が落ち着くまで在宅勤務が必要なくなる時期にあるように設計の実績が積めそうな会社をピックアップしていくのはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T17:02:46",
+      "utterance": "↑時期にあうようにでした。誤字すみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T17:03:19",
+      "utterance": "わかりました。設計の仕事も探しつつ、いろいろな仕事も探してみます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T17:04:36",
+      "utterance": "経験はいろんなところで活きてきますのでどうか相談者さんがたくさん活きる経験ができますよう心から祈っております。他になにかご相談されたいことはございますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T17:05:03",
+      "utterance": "ありがとうございます。特にありません",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T17:05:53",
+      "utterance": "それでは本日のセッションを終了したいと思います。どうもありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T17:06:04",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-21T17:06:34",
+      "utterance": "お疲れさまでした。ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-21T17:06:37",
+      "utterance": "（お疲れさまでした。ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "在宅勤務によるモチベーション低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 458,
+    "評価作成日時": "2020-09-23T17:18:00",
+    "クライアント役ID": 18,
+    "カウンセラー役ID": 63,
+    "点数": 66,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 458,
+    "evaluation_created_at": "2020-09-23T17:18:00",
+    "client_id": 18,
+    "counselor_id": 63,
+    "score": 66,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

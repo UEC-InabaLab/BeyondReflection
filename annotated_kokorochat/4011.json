@@ -1,0 +1,624 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-19T15:51:19",
+      "utterance": "(こんにちは。本日はよろしくお願いします。時間になりましたら始めさせていただきますね。)",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T15:51:29",
+      "utterance": "こちらこそよろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:00:08",
+      "utterance": "こんにちは。相談員です。まずはじめに、ご年齢、性別、相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:00:45",
+      "utterance": "21才、女家族のことです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:01:50",
+      "utterance": "教えてくださりありがとうございます。家族のことなんですね。どんなご相談か少し詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:03:01",
+      "utterance": "はい。私は学生で、実家を出ています。夏休みに帰省した時、あまりに家が汚いので、掃除しました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:03:52",
+      "utterance": "そしたら、母と姉からやめろと怒られました。家を恥ずかしいと思ってるんだろうと。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:04:49",
+      "utterance": "そんなことがあったのですね。せっかく掃除をしたのに、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:04:49",
+      "utterance": "去年も同じことがあって。どうしてあんなに怒るのか分からないです。そんなに私は悪い子なんでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:06:27",
+      "utterance": "確かに、どうして怒るのかわからないですよね。あなたは決して悪い子ではないと思いますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:07:19",
+      "utterance": "むしろ、喜んでくれるのかな、と私だったら思ってしまいます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:07:29",
+      "utterance": "ありがとうございます。そうですよね？10年前の冷凍食品を捨てるのは、おかしくないですよね？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:08:02",
+      "utterance": "喜んで欲しかったです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:09:11",
+      "utterance": "ええ、そうですよね。そう思うのは当然だと思いますよ。それにしても、10年前ですか、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:10:05",
+      "utterance": "お母様とお姉さんは、普段から掃除が苦手な方なのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:10:15",
+      "utterance": "はい。冷蔵庫がパンパンなんですが、古い物がいっぱいで。それを捨てて、引き出しを洗ったりしたんです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:11:03",
+      "utterance": "なるほど。そしたら怒られたんですね？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:11:12",
+      "utterance": "母は、掃除ができないと思います。発達障害なんじゃないかと思ってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:12:01",
+      "utterance": "昔からで、私は家を出たので、周りと比べておかしいって思うようになったんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:13:04",
+      "utterance": "そうだったんですね。周りと比べた時に。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:13:35",
+      "utterance": "掃除の他で、どんなところでそう思うことが多いですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:15:02",
+      "utterance": "子供の頃から、洗濯物がよくなくなりました。靴下が片方なくなんです。そういう物だと思っていましたが、自分で暮らすようになったらなくならないので、びっくりしました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:16:16",
+      "utterance": "なるほど。ご自身で暮らすようになって、さらに気づかれた感じなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:17:31",
+      "utterance": "ちなみに、そのことで医療機関などへ行かれたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:18:18",
+      "utterance": "ありません。母にはそういう指摘をした事はありません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:20:11",
+      "utterance": "私も凡ミスするので多少はその毛があると思いますが、母ほどではないので、気をつけながら生活しています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:21:42",
+      "utterance": "そうなのですね。ご自身も少しその毛があるのかな？とお考えなのですね。他のお母さんと少し違うと思うことは、なんでだろうとか心配ですし、心が落ち着かないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:22:56",
+      "utterance": "そうですね。実家がいわゆる汚部屋なので。それで帰省した時だけでも役に立とうと思ったのに、怒られてしまうと、もう何が正しいのか分からなくなります",
+      "label": "client",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:24:07",
+      "utterance": "ええ、ええ。そうですよね。私だったら、とても悲しくなりますし、怒りも湧いてきてしまいますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:25:31",
+      "utterance": "悲しいです。分かってくれないのが辛いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:26:30",
+      "utterance": "なんで母はあんなに怒るんでしょうか。それも分からないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:27:50",
+      "utterance": "お母様の気持ちもわからないですよね。なんで？ってなりますよね、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:28:11",
+      "utterance": "なります。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:28:38",
+      "utterance": "気持ちが分かってもらえないと辛いですよね。ちなみに、怒られたとき、あなたはどういう対応をされてるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:30:27",
+      "utterance": "冷蔵庫の掃除の途中で言われたので、怒られたても、途中だから最後までやらせて、と頼み、最後までやりました。他の所には我慢して手をつけませんでした",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:31:31",
+      "utterance": "そうだったんですね。えらい、というか我慢強い方だなと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:32:50",
+      "utterance": "ありがとうございます。たまに帰っててきてはそんなことして！　と言われるので、家を出てる身では手を出しちゃいけないこともあるのかな、と思ったんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:34:30",
+      "utterance": "なるほど、そう思われるんですね。優しい方なのですね。それにしても、なぜ怒られてしまうのか、そこがモヤモヤしますよね。お心当たりは、ないのですよね、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:37:16",
+      "utterance": "お母様は普段から何かストレスを溜めているかも、など。なさそうでしたら、大丈夫ですのでね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:37:23",
+      "utterance": "優しくはないです。たまに帰ってきて…とか、恥ずかしいと思ってるんだろうと言うのが親の反感の原因かなとは感じます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:38:39",
+      "utterance": "確かなに、実家が汚いのは恥ずかしいので、グサっときます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:41:00",
+      "utterance": "そういう恥ずかしい、という思いがご自身の中にはあるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:41:42",
+      "utterance": "そう思っているご自身に、少し罪悪感があるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:41:58",
+      "utterance": "恥ずかしいです。自分の根原の実家が汚いのも、親がそんな生活してるのも。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:42:25",
+      "utterance": "罪悪感ですか。どうでしょう…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:42:46",
+      "utterance": "あるかも知れません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:43:27",
+      "utterance": "親の在り方を尊敬できないのは、罪悪感があります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:44:48",
+      "utterance": "先ほど、グサッときます、とあったのでそういう思いがおありなのかなと思いました。親を尊敬できないと、確かに罪悪感は生まれやすいものですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:45:37",
+      "utterance": "そういうものでしょうか。私はひどい子ではないですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:47:18",
+      "utterance": "ひどい子では決してありませんよ。他の方でも、理由は様々ですが、親を尊敬できないことに罪悪感を持っている方は非常に多いです。なのでそれは自然なことなので安心してください。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:48:15",
+      "utterance": "私も親に何らかの不満はあるので、もしかしたらみんな少しは罪悪感を持っているのかもしれませんね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:48:29",
+      "utterance": "仕送りもしてもらってるのに尊敬できないのがつらいんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:49:10",
+      "utterance": "遠方に進学して、帰省がしにくいのも罪悪感です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:50:37",
+      "utterance": "ええ、ええ。色々な罪悪感、申し訳なさみたいなものを抱えていらしたのですね。今までお辛かったですね、、。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:51:45",
+      "utterance": "みんな持ってるものなんですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:52:23",
+      "utterance": "もう波風を立てたくないので、掃除はしない方がいいでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:52:45",
+      "utterance": "はい、持っていると思いますよ。あなただけではないので、大丈夫です。掃除は、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:54:11",
+      "utterance": "お母様、お姉さまと一度話し合ってみては、と思うのですうが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:54:40",
+      "utterance": "ですが、です。すみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:55:33",
+      "utterance": "掃除する前に、やるよーって声をかけてますが、やらなくていいと言われます。それを強行して怒られるんですが。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:55:47",
+      "utterance": "何を話せばいいんでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T16:57:33",
+      "utterance": "なるほど。強行されるのですね。でもしたくなっちゃいますよね。例えば、どうしていつも汚いのか、掃除をするとなぜ怒るのか、などを少し冷静に聞いてみることってできそうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:58:52",
+      "utterance": "汚いのや捨てないを聞くと、面倒、疲れた、後でしようと思ってるから！　と反発されます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T16:59:22",
+      "utterance": "冷静が1番難しいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:00:26",
+      "utterance": "（一時間経ちました）",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:01:46",
+      "utterance": "（お時間すぎてしましすみません。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:02:24",
+      "utterance": "（いえいえ。収束に向かっていただけますか）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:02:48",
+      "utterance": "（承知しました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:03:55",
+      "utterance": "反発されてしまうのですね！そんな言われ方したらカチンときて冷静ではいられなくなってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:05:03",
+      "utterance": "次回帰られた時には少しそこを意識してお話ししてみてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:05:06",
+      "utterance": "私もですが、何よりも母が感情的になってしまって、上に書いたように怒って話が進まないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:05:51",
+      "utterance": "母が感情的にならないような言い方ですか。考えてみます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:07:10",
+      "utterance": "ご自身がより冷静になれる話し方を少し試してみてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:07:33",
+      "utterance": "ありがとうございます。試してみます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:08:32",
+      "utterance": "はい、ぜひ。お話の途中なのですが、そろそろお時間になってしまいますが、大丈夫でしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:08:58",
+      "utterance": "大丈夫です。お時間をいただいてありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:09:54",
+      "utterance": "こちらこそ、ありがとうございました。少し冷静にお話をされてみてください。しっかりとした、かつお優しいあなたなら前進できると信じております。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:10:15",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:11:01",
+      "utterance": "はい、困ったらまたここへお越しいただければと思います。本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:11:12",
+      "utterance": "はい。ありがとうございました！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:11:16",
+      "utterance": "では、失礼します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:11:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:12:18",
+      "utterance": "（お時間だいぶ過ぎてしまいました。これで終了いたしますね。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T17:12:32",
+      "utterance": "ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T17:12:42",
+      "utterance": "（こちらこそありがとうございました^_^",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4011,
+    "評価作成日時": "2022-09-20T22:02:00",
+    "クライアント役ID": 320,
+    "カウンセラー役ID": 292,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4011,
+    "evaluation_created_at": "2022-09-20T22:02:00",
+    "client_id": 320,
+    "counselor_id": 292,
+    "score": 59,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,1036 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-04-12T12:55:40",
+      "utterance": "（今日はよろしくお願いします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T12:56:02",
+      "utterance": "（本日はよろしくお願いします。時間になったら始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T12:56:34",
+      "utterance": "（本日はよろしくお願いします。時間になったら始めさせていただきます）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T12:59:06",
+      "utterance": "（すみません。システム不具合で２回送ってしまいました。更新ができないようなので、試しに送っていますが、気になさらないでください）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T12:59:28",
+      "utterance": "（承知しました！）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:00:35",
+      "utterance": "本日はありがとうございます。始めに、年齢、性別、相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:01:26",
+      "utterance": "24歳、女性、彼についてです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:02:17",
+      "utterance": "ありがとうございます。彼についてのご相談ですね。もう少し、詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:02:41",
+      "utterance": "付き合って1年くらいなんですけど、この前なんかリストラされてすごい落ち込んでて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:03:00",
+      "utterance": "死にたいとか言うから怖くて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:03:19",
+      "utterance": "多分本当には死なないと思うんですけど",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:03:41",
+      "utterance": "彼がリストラをされて落ち込んでいる様子なんですね。そんな姿をみるのはお辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:04:01",
+      "utterance": "辛いっていうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:04:11",
+      "utterance": "正直もうちょっと面倒だなって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:04:44",
+      "utterance": "LINEでも電話でもグチグチ言ってくるし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:05:02",
+      "utterance": "会っても暗いから楽しくないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:05:11",
+      "utterance": "あんまり外にも出たがらないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:06:00",
+      "utterance": "でも次の仕事まだ探してなくて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:06:35",
+      "utterance": "なるほど。彼が落ち込んで、相談者さんに弱音を吐いてきているのを、面倒だなぁと思ってらっしゃるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:06:52",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:07:06",
+      "utterance": "もう別れてもいいかなと思ってるんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:07:23",
+      "utterance": "でも彼が自分で友だちにリストラされたーって言いふらしてて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:07:35",
+      "utterance": "今別れたら私がイヤな女に見えませんか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:07:37",
+      "utterance": "（すみません。システムがやっぱりおかしくてすぐに更新できずにタイムラグが起こってしまいます。。。ちょっと立ち上げなおすのでお時間いただいてもいいでしょうか）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:07:57",
+      "utterance": "（了解です）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:10:25",
+      "utterance": "（お待たせしました）そうだったんですね。ご相談者さんは彼と別れてもいいなぁと思ってらっしゃるんですね。でも、今わかれるとリストラされた人だから別れた。と思われてしまいそうだと。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:11:04",
+      "utterance": "なんか",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:11:22",
+      "utterance": "仕事探したりしてるならまぁ応援しようかなって思うんですけど",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:11:31",
+      "utterance": "ただただ落ち込むだけで何にもしてなくて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:11:54",
+      "utterance": "彼、自分が優秀だと思ってたみたいで、それが恥ずかしかったみたいで",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:12:31",
+      "utterance": "それでもうダメだ、死にたいって言うんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:12:46",
+      "utterance": "そうなんですね。ご相談者さんは、彼に前向きになってほしいんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:13:00",
+      "utterance": "あー",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:13:08",
+      "utterance": "そうですね確かに",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:14:29",
+      "utterance": "本当にそれで死ねるとは思ってないけど、でも死んじゃったら怖いし",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:14:39",
+      "utterance": "彼が、死にたい、もうだめだと言ってきたときには、ご相談者さんはなんと答えているんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:14:45",
+      "utterance": "それはそれで私のせいになりそうで",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:14:51",
+      "utterance": "あー",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:15:00",
+      "utterance": "大丈夫だよって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:15:18",
+      "utterance": "そうですよね、本当に死んでしまうと思うと怖いですよね。自然なことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:15:39",
+      "utterance": "次の仕事探せばいいじゃんって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:15:47",
+      "utterance": "正社員じゃなくてもいいし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:15:57",
+      "utterance": "（ごめんなさい。やっぱり更新がうまくいかず。。。このままいきます）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:16:07",
+      "utterance": "（はい！）",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:16:42",
+      "utterance": "自分が優秀だと思ってたっていうのがなんていうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:16:45",
+      "utterance": "痛いというかｗ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:17:07",
+      "utterance": "そうですよね。ご相談者さんの、お気持ちは彼には伝えているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:17:27",
+      "utterance": "気持ちですか？",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:17:35",
+      "utterance": "別れようかとはまだ言ってません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:17:59",
+      "utterance": "わかりにくくてすみません。正社員ではなくても、仕事を探したらどうか？ということです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:18:14",
+      "utterance": "それは言ってます、もうしょっちゅう",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:18:42",
+      "utterance": "無職の人にお金出してもらえないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:18:53",
+      "utterance": "ご飯食べに行くのとか私が出してて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:18:58",
+      "utterance": "それは別にいいんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:19:12",
+      "utterance": "私が払うと彼はそれも辛いとか言うし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:19:21",
+      "utterance": "そうなんですね。そこで、“自分が優秀だ”という彼の思いがみてとれたんですね。励ましても聞いてくれないと、嫌になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:19:24",
+      "utterance": "もうどうしろと？って感じで",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:19:36",
+      "utterance": "あーそうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:19:54",
+      "utterance": "それでリストラされたらそれは恥ずかしいよねって思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:20:20",
+      "utterance": "私が支えないといけないんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:20:42",
+      "utterance": "そうですよね。何をいっても、受け入れてもらえないと、こちらも無力感がでますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:20:42",
+      "utterance": "死ぬのだけはちょっとやめてほしいけど",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:21:14",
+      "utterance": "そうなんですよ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:22:07",
+      "utterance": "別れたら私が悪く見える",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:22:14",
+      "utterance": "死なれたら私が悪く見える",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:22:19",
+      "utterance": "もうどうしたら？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:22:33",
+      "utterance": "そうなんですね。彼には前を向いてほしくて、いろいろと提案をしてみるけど、聞いてくれない。そんな彼といると相談者さんもうんざりしてしまって別れてもいいなぁと、、でも、死なれたら嫌だ。そんな感じでしょうか",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:23:05",
+      "utterance": "そうですそうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:23:07",
+      "utterance": "そんな感じ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:23:31",
+      "utterance": "このままだと私まで落ち込みそう",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:24:36",
+      "utterance": "ありがとうございます。落ち込んでいる彼に前を向いてほしい、そして彼をどうにかしてあげなければいけないという責任感が強い方のように思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:25:31",
+      "utterance": "責任感というか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:26:02",
+      "utterance": "だから、落ち込んでしまいそうなんだと。例えば、ご相談者さんの友人が同じ境遇で彼と別れたとしたらご相談者さんはそのご友人のことをどう思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:27:03",
+      "utterance": "私の友だちの彼氏がリストラされたらってことですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:27:35",
+      "utterance": "別れた理由によるかな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:28:01",
+      "utterance": "メッセージが前後してしまってごめんなさい。ご相談者さんの言葉を切ってしまいました。責任感というかどんな気持ちでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:28:37",
+      "utterance": "あーなんで私が彼のリストラのことで悩まなきゃいけないのって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:28:49",
+      "utterance": "イライラする感じもあって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:30:01",
+      "utterance": "でも落ち込んでるのが本当ならちょっとかわいそうだけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:30:12",
+      "utterance": "落ち込んででもしょうがないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:30:16",
+      "utterance": "元の会社には戻れないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:30:29",
+      "utterance": "っていうのも言ってるんですけどね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:30:39",
+      "utterance": "お前にはわかんないとか言われて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:30:44",
+      "utterance": "なんだ元気じゃん、みたいな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:30:48",
+      "utterance": "そうなんですね。彼のことを放っておくこともできるのに悩むのはお優しいんだとお見受けしますよ。さきほどの質問に戻りますね。友達があなたの立場で、結果的にわかれた場合です。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:31:22",
+      "utterance": "んー",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:31:35",
+      "utterance": "友だちの性格にもよるけど",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:31:56",
+      "utterance": "まぁあの子なら別れるよねって思う子もいるし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:32:39",
+      "utterance": "その彼のことを知ってたら、ちょっとかわいそうだと思うかも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:34:18",
+      "utterance": "別れた後なんでもなければいいけど",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:34:36",
+      "utterance": "万が一本当に死なれちゃったりしたらちょっと",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:35:03",
+      "utterance": "ありがとうございます。ご友人や彼によって、気持ちが変わるということですね。彼がもし、彼が仕事を探しだしたらご相談者さんのお気持ちは変わりそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:35:16",
+      "utterance": "それはそうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:35:23",
+      "utterance": "仕事探ししてほしい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:35:40",
+      "utterance": "だって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:35:49",
+      "utterance": "失業保険ももらますよね？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:35:53",
+      "utterance": "それもやってない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:37:35",
+      "utterance": "俺仕事できるしって言ったたんだから、次の仕事でやればいいのに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:37:47",
+      "utterance": "恥ずかしい死にたいってばっかり",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:39:17",
+      "utterance": "彼はリストラを恥ずかしいと思ってらっしゃるんですね。そこに固執して動かない彼に、ご相談者さんは怒りも感じておられるのでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:39:28",
+      "utterance": "イライラしますね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:39:49",
+      "utterance": "私のことは考えてくれないし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:39:57",
+      "utterance": "自分のことばっかり",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:41:17",
+      "utterance": "リストラされた人の彼女って",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:41:21",
+      "utterance": "私も恥ずかしいわ",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:41:48",
+      "utterance": "そうなんですね。彼は、自分の気持ちだけ一方的にぶつけてきて、うけとるご相談者さんの気持ちに寄り添ってくれていない感じがするのですね。それは、悲しいしイライラしますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:42:12",
+      "utterance": "あーそうですね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:42:24",
+      "utterance": "ちょっとならいいんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:42:28",
+      "utterance": "仕方ないと思うんだけど",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:42:40",
+      "utterance": "もう２ヶ月くらいそんな感じだから",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:43:27",
+      "utterance": "２か月は、長く感じますね。彼は他に弱音をはける相手はいないんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:44:01",
+      "utterance": "友だちには自分で言いふらしてましたよ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:44:06",
+      "utterance": "リストラされた―って",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:44:12",
+      "utterance": "その直後に",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:44:22",
+      "utterance": "でも今は後悔してるみたいだけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:44:38",
+      "utterance": "言わなきゃよかったって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:44:46",
+      "utterance": "プライド高いから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:46:59",
+      "utterance": "そうなんですね。ご相談者さんの前ではそのプライドをぬげる貴重な存在なんですね。死ぬという言葉がなかったら、別れたいという気持ちはどうでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:47:33",
+      "utterance": "あーそうですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:47:55",
+      "utterance": "絶対死なないなら別れるかな",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:51:10",
+      "utterance": "そうなんですね。彼が前を向いて動きだしたら、（仕事を探したり）別れる気はなくなりそうだし、逆に今のままで死ななければ別たい。ということですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:51:55",
+      "utterance": "わー",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:51:57",
+      "utterance": "そうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:52:14",
+      "utterance": "私そう思ってるんですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:52:49",
+      "utterance": "どっちでもいいのかな",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:53:02",
+      "utterance": "好きなのかどうなのかわかんなくなってきました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:53:08",
+      "utterance": "お話しを伺っていて、そう感じましたがいかがでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:53:44",
+      "utterance": "嫌いではないけど、ずーっと暗いのは相手するのが面倒",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:53:53",
+      "utterance": "つまんないし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:54:48",
+      "utterance": "でも仕事してた時は普通に好きだった",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:55:14",
+      "utterance": "だから仕事探してって言うんだけどな",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:55:34",
+      "utterance": "そうですよね。暗い相手をするのは、こちらも暗くなってしまいますよね。彼がリストラされるまで２人で楽しんでいたことはどんなことでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:55:58",
+      "utterance": "とにかく出かけてました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:56:20",
+      "utterance": "いろんなところ遊びに行って旅行も行って",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:56:46",
+      "utterance": "そうなんですね。リストラされてからはどうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:56:46",
+      "utterance": "彼が写真が趣味だったから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:57:02",
+      "utterance": "家からほとんど出ませんね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:57:18",
+      "utterance": "たまに飲みに誘うとしぶしぶ出てくる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T13:58:18",
+      "utterance": "今年は桜も見なかった",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T13:59:48",
+      "utterance": "そうだったんですね。しぶしぶだと、残念ですね。前の彼に戻ってほしいという気持ち、そんな彼が好きだったというお気持ちもわかりました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T14:00:30",
+      "utterance": "（すみません、最後までまとめられませんでした。うまくタイミングも合わせられずにすみません。問い合わせしてみます。。。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-12T14:00:50",
+      "utterance": "もしよろしければこれで終了させていただきます。ありがとうございました）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-12T14:01:01",
+      "utterance": "（いえいえ、大変でしたね。ありがとうございました！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼のリストラに対する気持ちとコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4882,
+    "評価作成日時": "2023-04-12T16:59:00",
+    "クライアント役ID": 378,
+    "カウンセラー役ID": 375,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4882,
+    "evaluation_created_at": "2023-04-12T16:59:00",
+    "client_id": 378,
+    "counselor_id": 375,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

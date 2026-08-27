@@ -1,0 +1,508 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-01-07T10:51:19",
+      "utterance": "（こんにちは。本日はよろしくお願いいたします。時間となりましたら、始めさせていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T10:51:57",
+      "utterance": "こちらこそよろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:00:07",
+      "utterance": "こんにちは、相談員です。本日はお越しいただきありがとうございます。宜しかったら、初めに年齢・性別・相談内容をお聞かせください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:01:10",
+      "utterance": "31歳　主婦 生きているだけで苦しいんですどうしたら楽になりますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:02:13",
+      "utterance": "そうなんですね。それはお辛いですね。宜しかったら、もう少し詳しくお聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:03:41",
+      "utterance": "常に死にたい気持ちで、、、ご飯を食べてても、、TVを見てても、、、とにかく、いつも死にたいけど死ねない　つらいんです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:05:09",
+      "utterance": "なるほど、死にたいくらい辛いお気持ちなんですね。相談者さんの事を何とお呼びしたらよろしいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:05:38",
+      "utterance": "はいまる　ですよろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:07:15",
+      "utterance": "ありがとうございます。まるさん、睡眠は取れておられますか？食事はいかがですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:08:35",
+      "utterance": "寝られていません食欲もなくて　やっと食べても　素うどんにポン酢をかけて食べてる感じです食べるのも苦痛です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:10:58",
+      "utterance": "そうなんですね。常に苦痛を感じておられるですね。お辛いですね。まるさんがこういう状況になった理由は、何か心当たりはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:11:42",
+      "utterance": "私は仕方なく生まれてきました",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:11:59",
+      "utterance": "本当はいなくてもいい存在なんです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:12:48",
+      "utterance": "うん、うん、そう感じておられるんですね。まるさんがそうお感じになる理由はございますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:13:54",
+      "utterance": "3か4歳頃に両親が離婚して、、、母親に言われたんです",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:14:15",
+      "utterance": "お前は、これ以上おろせないから　産んだんだってって",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:14:22",
+      "utterance": "散々言われました",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:15:47",
+      "utterance": "そうなんですね。幼いころにお母さんに言われたことで、悲しく辛い思いをされているんですね。お母さんは今どうされていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:16:52",
+      "utterance": "私は親を捨てました男と一緒に住んでると思いますが、、、どうしているのかわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:17:55",
+      "utterance": "なるほど、お母さんとは疎遠になっているんですね。まるさんは現在、ご家族はいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:18:40",
+      "utterance": "はい結婚して　子供が1歳と4歳の男の子がいます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:19:42",
+      "utterance": "そうなんですね。まるさんにとって、ご家族はどういう存在ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:19:53",
+      "utterance": "んー",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:20:16",
+      "utterance": "例えば、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:20:18",
+      "utterance": "家族を作れば　幸せになると思ってました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:20:54",
+      "utterance": "実際、いかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:21:03",
+      "utterance": "孤独です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:22:26",
+      "utterance": "なるほど、家族が出来てもまるさんの悲しみは消えなかったのですね。常に孤独と感じることは、お辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:22:40",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:23:01",
+      "utterance": "どうしたら楽になりますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:24:55",
+      "utterance": "まるさんは幼い頃に受けたお母さんからの仕打ちのために、大人になってからもその悲しさ・辛さをを抱え、ご家族が出来た今でも、人生を辛く悲しいものだと感じておられます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:25:30",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:26:58",
+      "utterance": "まるさんが少しだけでも気持ちを楽にできる、呼吸が出来るよう考えていきたいと思っていますがいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:27:20",
+      "utterance": "はい　よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:30:04",
+      "utterance": "3歳～4歳の頃にお母さんに言われ続けた「仕方なく生んだ」「いなくてもいい存在」という言葉をまるさんは、同じ母親としてどう感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:31:04",
+      "utterance": "無責任な発言人として許せない発言そんな感じがします",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:34:10",
+      "utterance": "うん、うん、そうですね。それでは、そういわれている小さな子供に対しては、まるさん自身でもよいのですが、どういう言葉をかけてあげたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:35:30",
+      "utterance": "可哀想にあなたは何も悪くないでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:38:48",
+      "utterance": "そうですよね。何も悪くありません。ただただ可哀想です。お母さんのまるさんに対す発言は、無責任です。まるさんは、何も悪くありません。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:39:12",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:40:18",
+      "utterance": "ぜひこれは、心に留めておいてください。まるさんのその後の辛い気持ちについて、誰かに相談したり、聴いてもらったりしたことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:41:27",
+      "utterance": "ありません主人には話してみましたが向き合ってはくれなくて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:42:45",
+      "utterance": "なるほど、そうだったんですね。だから、孤独を感じていらっしゃったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:42:55",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:43:14",
+      "utterance": "1人でいる時も孤独を強く感じます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:43:26",
+      "utterance": "1人でいる時よりも",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:43:34",
+      "utterance": "強く感じます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:45:44",
+      "utterance": "そうだったんですね。自分の辛さを分かってもらえないことで、孤独の気持ちが強まっていったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:46:23",
+      "utterance": "はい結婚すれば　家族ができれば　幸せになると思ってました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:48:41",
+      "utterance": "うん、うん、そうだったんですね。そんな中で、まるさんは今日、ご相談にお越しいただきました。勇気がいったと思いますがいかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:49:16",
+      "utterance": "はい初めてなので少し緊張しました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:50:36",
+      "utterance": "なるほど、自分の気持ちを話すことで、何か変化はありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:51:39",
+      "utterance": "そうでね少しだけ気持ちを吐けたので、、、でも、楽にはなかなかなりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:53:00",
+      "utterance": "うん、うん、そうですよね。まるさんのお悩みは、短い時間で解決することはないと感じます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:53:30",
+      "utterance": "はい　やはりそうですよね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:53:39",
+      "utterance": "どうしたらいいですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:55:27",
+      "utterance": "今日は、少しでも一息ついたと感じていただけたなら、またお話を聴かせていただきたいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:55:57",
+      "utterance": "わかりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:57:31",
+      "utterance": "そろそろ時間がきますが、話足りないことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T11:58:01",
+      "utterance": "モヤモヤがたくさんあります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T11:59:42",
+      "utterance": "そうですよね。モヤモヤをぜひお聞かせください！今日はこの後、ゆっくりお休みください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T12:00:03",
+      "utterance": "はい　ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T12:01:14",
+      "utterance": "今日はお越しいただきありがとうございました。またお越しいただく事をお待ちしています。本日はありがとうございました。相談を終了させていただきます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T12:01:52",
+      "utterance": "（ありがとうございました。とても勉強になりました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T12:02:19",
+      "utterance": "(こちらこそ、ありがとうございました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-07T12:02:35",
+      "utterance": "（それではロールプレイを終了させていただきます。よろしいでしょうか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-07T12:02:46",
+      "utterance": "はい　大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "幼少期のトラウマによる孤独感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4405,
+    "評価作成日時": "2023-01-07T17:15:00",
+    "クライアント役ID": 347,
+    "カウンセラー役ID": 333,
+    "点数": 40,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4405,
+    "evaluation_created_at": "2023-01-07T17:15:00",
+    "client_id": 347,
+    "counselor_id": 333,
+    "score": 40,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

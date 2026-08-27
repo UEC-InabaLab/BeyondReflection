@@ -1,0 +1,1376 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-04-20T20:52:21",
+      "utterance": "こんばんは。承認ありがとうございます。本日もよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T20:56:30",
+      "utterance": "こんばんは。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T20:56:34",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T20:57:23",
+      "utterance": "もしかして、またお会いしましたかね？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T20:57:41",
+      "utterance": "はいYMです。私の相手ばかりしていただいて、申し訳ないです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T20:57:57",
+      "utterance": "いえいえ、とんでもないです。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T20:58:13",
+      "utterance": "それでは、絞り出してみますね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T20:58:31",
+      "utterance": "恐れ入りますが、よろしくお願いします。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T20:59:23",
+      "utterance": "はい、リアルな相談ですが、今から考えますので、すぐに終わってしまうかもしれません。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:00:32",
+      "utterance": "こんばんは。夜分遅くにご相談にお越し頂きありがとうございます。本日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:00:53",
+      "utterance": "はい、こんばんは。こちらこそ、よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:01:18",
+      "utterance": "最初に、性別と年齢を教えていただけますでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:01:49",
+      "utterance": "はい、52歳、男性です。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:02:09",
+      "utterance": "ありがとうございます。本日はどのようなご相談でお越し頂きましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:02:51",
+      "utterance": "ええ、実は、10歳離れた兄との関係性で、ご相談があります。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:03:55",
+      "utterance": "お兄様とのことについてのご相談ですか、何かあったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:04:29",
+      "utterance": "最近、何かがあったというわけではないのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:04:51",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:05:21",
+      "utterance": "両親が亡くなった、6年前から付き合いが、ほとんどなくなってしまっていることが、気にかかっています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:06:03",
+      "utterance": "なるほど、ご無沙汰しているんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:06:38",
+      "utterance": "仲が悪いわけではないのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:06:56",
+      "utterance": "そうですね。父親が93歳、母親が88歳で、同年に亡くなりました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:07:18",
+      "utterance": "仲が悪いという感じではなかったんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:07:29",
+      "utterance": "今は、ほぼ音信不通です。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:07:47",
+      "utterance": "両親の介護を",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:08:06",
+      "utterance": "兄と義姉がしてくれていました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:08:35",
+      "utterance": "私は、ほぼ全く、介護の手伝いをしていなかったものですから、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:08:43",
+      "utterance": "そのようなことがあったのですね。10歳上ということですし、心強い存在だったのではないでしょうか。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:08:57",
+      "utterance": "そこら辺が、わだかまりになっているのかな？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:09:07",
+      "utterance": "と感じています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:09:23",
+      "utterance": "お金も出していなかったので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:09:30",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:09:48",
+      "utterance": "中学の入学式に来てくれました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:10:00",
+      "utterance": "わだかまりですか、当時ご両親のことでお兄様に何か言われたことがあったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:10:16",
+      "utterance": "若いお父さんですね、と勘違いされたりしましたね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:10:24",
+      "utterance": "とても優しいお兄様なんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:10:31",
+      "utterance": "う～ん",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:10:35",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:11:06",
+      "utterance": "お金には、かなり困っていたみたいですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:11:27",
+      "utterance": "二人とも介護施設に入っていたので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:11:47",
+      "utterance": "毎月20万円以上、かかっていたかと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:12:00",
+      "utterance": "お金のことで困っていたんですね。そうですよね、介護にもお金がかかりますもんね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:12:19",
+      "utterance": "それなのに、お金も出さないし、世話もしないしと、思われていたかもしれませんね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:12:29",
+      "utterance": "そうなんですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:12:44",
+      "utterance": "当時、ご心配な気持ちがあったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:12:57",
+      "utterance": "面と向かって、言われた訳けではないんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:13:03",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:13:15",
+      "utterance": "それでも、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:13:46",
+      "utterance": "そうですか、お兄様もあなたに気をつかわれていたんでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:13:57",
+      "utterance": "はい、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:14:17",
+      "utterance": "我が家も障害を持つ子供二人を抱えているので、生活自体大変だったんですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:14:47",
+      "utterance": "葬儀の時は、多めにお金を出したつもりです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:15:11",
+      "utterance": "その葬儀の時、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:15:23",
+      "utterance": "お金があまりにもないので、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:15:43",
+      "utterance": "お坊さんを呼ぶことすら、できなかったんですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:15:55",
+      "utterance": "なるほど、ご自身の家族のことと、お兄様やご両親のことを想う気持ちの間で、苦しい想いをしたんでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:16:10",
+      "utterance": "兄が呼ばなくていいと、言いましてね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:16:17",
+      "utterance": "はい、そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:16:50",
+      "utterance": "両親には、申し訳なかったな、と今でも思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:17:06",
+      "utterance": "なるほど、ご両親の葬儀でもそのようなことがあったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:17:32",
+      "utterance": "そうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:17:42",
+      "utterance": "喪主は、兄でしたのね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:18:22",
+      "utterance": "親戚の叔父さん、おばさんたちからは、怒られました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:18:38",
+      "utterance": "ご兄弟揃って、喪に服して死を悼んでもらえて、ご両親は喜んでいるような気がします。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:18:46",
+      "utterance": "もっと、しっかりしなさいとね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:19:16",
+      "utterance": "そうですかね。そう言ってもらえたら嬉しいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:19:29",
+      "utterance": "親戚の目というのは、避けられないこともありますし、辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:19:55",
+      "utterance": "そうですね。最近は、家族葬が多いとはいえ、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:20:28",
+      "utterance": "ちょっと、いやいや、かなり貧相な感じがしましたね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:21:25",
+      "utterance": "義姉も宗教に入っているため、昔から関係性が悪いんですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:22:07",
+      "utterance": "25年前に、うちのマンションができたのですが、一回も来たことがありません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:22:28",
+      "utterance": "私も了解がいなくなってしまったので、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:22:29",
+      "utterance": "家族や親戚が揃って、お見送りをして、残された人たちが心を整理することが大切だと思いますし、十分に意味があったように思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:23:08",
+      "utterance": "実家に行く機会が無くなってしまいました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:23:14",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:23:18",
+      "utterance": "お兄様は音信不通とのことですが、連絡先やお住まいはご存知なのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:23:18",
+      "utterance": "兄は、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:23:57",
+      "utterance": "介護のために、お金をたくさん使ってしまったのだと思っています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:24:04",
+      "utterance": "ええ、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:24:40",
+      "utterance": "徒歩20分くらいのところに、実家があり、そこに住んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:24:51",
+      "utterance": "最寄り駅も同じです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:24:59",
+      "utterance": "お兄様だけに、特に金銭面でご負担をかけてしまったことを、少し後悔しているのでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:25:19",
+      "utterance": "なるほど、物理的な距離は近いのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:25:47",
+      "utterance": "そうですね。金銭的な負担もですが、介護自体何もしませんでしたからね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:25:57",
+      "utterance": "オムツを変えるとか。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:26:05",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:26:27",
+      "utterance": "家の距離は近いです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:26:43",
+      "utterance": "なるほど、実動的な手伝いもなかなか出来なかったと、お兄様に申し訳なく思っているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:27:54",
+      "utterance": "ご両親のお葬式の様子から、お兄様に苦労も余計に伝わったのかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:28:21",
+      "utterance": "そうですね。それは、そうなのですが、兄は、実家の土地と家を、父親から受け取っているので、ズルいな、という気持ちもあります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:29:00",
+      "utterance": "それに、両親の年金も、自分たちの生活費にしていましたから。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:29:10",
+      "utterance": "そのことについては、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:29:30",
+      "utterance": "なるほど、お兄様もそれなりにやり口できていた面もあったんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:29:40",
+      "utterance": "私にて会う度に、「ごめんな」と話していました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:29:50",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:30:17",
+      "utterance": "後半は、施設の費用にするとなってしまったとは思いますけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:30:51",
+      "utterance": "お兄様にも、あなたに対して申し訳ない気持ちがあったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:31:00",
+      "utterance": "両親が元気なうちは、余裕があったと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:31:07",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:31:12",
+      "utterance": "お互いにですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:31:22",
+      "utterance": "それに、兄は、若い頃、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:32:02",
+      "utterance": "私が家を購入するときには、支援するからな、と話してくれていたんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:32:33",
+      "utterance": "結果的には、そういう余裕は、なかったみたいですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:33:12",
+      "utterance": "そうだったんですか、心強いお言葉をかけてくださって、嬉しかったのではないでしょうか。結果はともかく。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:33:12",
+      "utterance": "そういう、行き違いが、お互いに重なっていったのかもしれませんね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:33:40",
+      "utterance": "そうですね。その時は、あまり実感はなかったんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:34:11",
+      "utterance": "家を購入するイメージが、まだ湧かなかったので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:34:19",
+      "utterance": "そうですよね、ご自身の家族と、ご両親のこととをお互いに考えて、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:34:26",
+      "utterance": "ええ、",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:35:14",
+      "utterance": "なかなか言い出せないこともあれば、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:35:52",
+      "utterance": "葬儀が終わって、しばらくしてから、兄から土地と家の相続を放棄してくれと、言われた時からかもしれませんね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:36:03",
+      "utterance": "ギクシャクしだしたのは。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:36:24",
+      "utterance": "今、思い出しました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:36:50",
+      "utterance": "約束とは言い難くても、何か前向きな言葉をかけてあげたいという気持ちが先行してしまったりすることが重なったんでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:36:50",
+      "utterance": "なんで？と思った記憶があります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:37:08",
+      "utterance": "そうですね～",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:37:27",
+      "utterance": "相続のことですか、難しい話ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:37:41",
+      "utterance": "そうですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:38:02",
+      "utterance": "感情的になりますのでね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:38:18",
+      "utterance": "関係性が近いと。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:38:29",
+      "utterance": "お互い気を遣った分だけ、期待させてしまった分だけ、結果に対する不満も大きくなってしまったのかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:38:49",
+      "utterance": "今お兄様に会ったら、まず何を話したいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:38:57",
+      "utterance": "お墓や仏壇もまだないのが、悲しいですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:39:04",
+      "utterance": "ええ、そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:39:31",
+      "utterance": "それは悲しい気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:39:44",
+      "utterance": "今すぐには、なかなか思いつきづらいのてすが、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:40:09",
+      "utterance": "まずは、お墓と仏壇の用意のことですかね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:40:16",
+      "utterance": "本当は、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:40:31",
+      "utterance": "介護のことを謝るというか、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:40:51",
+      "utterance": "感謝の気持ちを伝えないといけないのかもしれませんね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:41:01",
+      "utterance": "そうですよね、6年間整理が付いていないんでもんね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:41:18",
+      "utterance": "そうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:41:21",
+      "utterance": "きっと、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:41:42",
+      "utterance": "感謝の気持ちを伝えるのは、とても素晴らしいことだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:41:46",
+      "utterance": "アにも兄ですが、私に言いたいことが、言いたいことが、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:41:58",
+      "utterance": "あると思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:42:20",
+      "utterance": "感謝の気持ち、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:42:49",
+      "utterance": "たしかに、お互いに想いをうまく伝えられなかったようですもんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:43:00",
+      "utterance": "何と言っていいのかな？今は、思いつかない感じですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:43:09",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:43:59",
+      "utterance": "今日ここで私にお話しくださったことを整理して、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:44:05",
+      "utterance": "一度、兄から、うちはお金がないから、親戚付き合いをやめよう、と言われたことがあります。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:44:10",
+      "utterance": "ええ、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:44:36",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:45:00",
+      "utterance": "今どう思っているかよりも、当時こう想っていたんだということを伝えて、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:45:14",
+      "utterance": "ええ、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:46:03",
+      "utterance": "介護への感謝の気持ちとか、ですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:46:49",
+      "utterance": "お兄様はどう想っていたのかを聴いて、行き違いから生まれたお互いの思い込みを解くことから始めてみるのはどうでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:47:38",
+      "utterance": "ええ、そうですね。お互いに、行き違いがあったんだと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:47:43",
+      "utterance": "妻からは、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:48:26",
+      "utterance": "たった一人のお兄さんなんだから、もっとも仲良くしなよ、といつも言われています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:49:10",
+      "utterance": "お互いに同じ想いを抱えながらも、目の前のことをこなすのに精一杯で、はっきりと言葉にして伝え合えなかったことが、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:49:17",
+      "utterance": "仲が悪い訳ではないんですけど、そのように感じるんでしょうね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:49:24",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:49:58",
+      "utterance": "確かに、目の前の自分の生活に、必死でしたね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:50:09",
+      "utterance": "なんとなく、距離を作ってしまったような気がします。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:50:21",
+      "utterance": "今も余裕がある訳ではないですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:50:35",
+      "utterance": "そうかもしれないですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:51:37",
+      "utterance": "同じ最寄り駅なはずなのに、全く会わないことも、ひとつの原因かもしれませんね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:52:06",
+      "utterance": "兄のほうが、避けているのかもしれません。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:52:21",
+      "utterance": "ご両親のお墓など、先のことを考えるうえでも、当時言えなかった想いを伝え合って、行き違いや思い違いを解くのが大切なような気がします。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:53:38",
+      "utterance": "うんうん、そうかもしれないですね。なかなか、会って話し合うのは、当面難しいかもしれませんが。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:53:53",
+      "utterance": "次に会う機会を",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:54:03",
+      "utterance": "探らないといけませんね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:54:21",
+      "utterance": "お互いに、口にしたくないことや、顔を見たら辛くなってしまうような想いが沢山あると思いますが、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:55:14",
+      "utterance": "それは、お互いに今も家族としての愛情があるが故のことだと思いますし、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:55:38",
+      "utterance": "そうかもしれないですね。兄は、アイドルが好きなので、そういう話ならば、きっかけとして、乗ってくると思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:56:08",
+      "utterance": "LINEならば、まずはキャッチボールができるかもしれません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:57:06",
+      "utterance": "いまだに、AKB48のファンなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:57:30",
+      "utterance": "62歳なんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:57:39",
+      "utterance": "それこそ、なんとなく、ふらりとでも、話してみれば、わだかまりを解くのも、そう難しくないような気がしますが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:57:51",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:57:56",
+      "utterance": "いきなり、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:58:18",
+      "utterance": "核心の話しをする必要もないですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:58:38",
+      "utterance": "接触する機会を増やさないと。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:59:06",
+      "utterance": "やっぱり家族ですから、会うのに遠慮せず、気軽に実家に帰るように、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:59:36",
+      "utterance": "10歳腫れているから、兄弟げんかもしたことないですからね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T21:59:42",
+      "utterance": "ええ、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T21:59:45",
+      "utterance": "あなたから少し歩み寄ってみるのがいいかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:00:07",
+      "utterance": "遠慮することないと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:00:31",
+      "utterance": "はい、頑張ってみたいと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:01:09",
+      "utterance": "すみません、お兄様のこと沢山お話しくださったのに、あまりお返事できず、お時間が来てしまいました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:01:16",
+      "utterance": "（なんとか、60分持ちましたね。ありがとうございました。）",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:01:29",
+      "utterance": "いえいえ、とんでもないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:01:33",
+      "utterance": "ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:01:53",
+      "utterance": "またお気軽にご相談にお越しください。本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:02:03",
+      "utterance": "はい、またよろしくお願いします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:02:06",
+      "utterance": "ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:02:19",
+      "utterance": "(相続者役ありがとうございました。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:02:29",
+      "utterance": "こちらこそ、ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:02:47",
+      "utterance": "(貴重なお話しありがとうございました。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:03:01",
+      "utterance": "（此れもリアルです）",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:03:35",
+      "utterance": "(本当に感謝しています。勉強になりました。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-20T22:04:00",
+      "utterance": "(では終了します。)",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-20T22:04:05",
+      "utterance": "（こちらこそ、ベンガルになりました。整理券されました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "兄とのコミュニケーションの不足とその背景"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3400,
+    "評価作成日時": "2022-04-20T22:34:00",
+    "クライアント役ID": 270,
+    "カウンセラー役ID": 228,
+    "点数": 84,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3400,
+    "evaluation_created_at": "2022-04-20T22:34:00",
+    "client_id": 270,
+    "counselor_id": 228,
+    "score": 84,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

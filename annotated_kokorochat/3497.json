@@ -1,0 +1,492 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:03:12",
+      "utterance": "おはようございます、相談員です。宜しくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:03:29",
+      "utterance": "お願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:03:55",
+      "utterance": "では最初に、年齢と性別を教えて下さい",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:04:08",
+      "utterance": "３０代、女性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:04:38",
+      "utterance": "ありがとうございます本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:06:02",
+      "utterance": "仕事がなくなり、生きていけるか不安で仕方ありません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:06:53",
+      "utterance": "そうなんですねそれは不安になりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:07:10",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:07:38",
+      "utterance": "もう少し状況を具体的に教えて頂けますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:10:07",
+      "utterance": "コロナの影響もあって、３月に退職となりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:11:01",
+      "utterance": "なるほど今年の３月に退職されたのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:11:42",
+      "utterance": "退職はご自身からでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:12:12",
+      "utterance": "会社全体の雰囲気もあって、私からの退職です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:12:54",
+      "utterance": "そうでしたかお辛い中での決断だったのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:13:12",
+      "utterance": "仕事を探さなければとは思うのですが、やる気もおきません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:13:14",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:14:06",
+      "utterance": "今は不安ではありながらも、仕事を探すやる気が起きないのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:14:56",
+      "utterance": "生きている意味を見つけれません。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:14:56",
+      "utterance": "今はご家族と住まわれているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:15:07",
+      "utterance": "ひとりです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:16:32",
+      "utterance": "そうなのですね前職は、相談者さんにとってどのような価値のものでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:17:58",
+      "utterance": "どのような価値って、どういう意味ですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:19:21",
+      "utterance": "わかりづらくてすみません相談者さんにとって、仕事はどのような存在だったか、という感じですね",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:20:36",
+      "utterance": "生活費をもらえる、人の役に立つ場所、という感じです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:21:40",
+      "utterance": "なるほど人の役に立つ場所だったのですねもしよろしければ、どのようなお仕事だったか伺えますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:22:02",
+      "utterance": "事務職です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:23:03",
+      "utterance": "そうだったんですねお仕事仲間との関係はいかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:23:25",
+      "utterance": "仲良くできていました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:24:10",
+      "utterance": "そうでしたかそれでは尚更、退職されるのは淋しかったですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:24:37",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:25:16",
+      "utterance": "３月にお仕事を辞められてから、今はバイトやパートなどはされていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:26:42",
+      "utterance": "していません。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:27:56",
+      "utterance": "そうなのですね一人暮らしとのことですが、生活費などはこれまでの貯金などでまかなわれているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:28:28",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:30:01",
+      "utterance": "そうでしたかここまでのお話しを整理させて頂くと、今年３月に仕事を退職して、今は一人暮らしで、生活費などは貯金でまかなっている",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:31:08",
+      "utterance": "これから先が不安だし、仕事を見つけなければいけないと思っているが、やる気が起きない、ということでよろしいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:32:58",
+      "utterance": "仕事を見つけなければいけないんでしょうけど、やる気がおきないし生きる意味もないと思っています。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:34:49",
+      "utterance": "そのように思われているのですねやる気が起きないし、生きる意味がないと感じられるようになったのは、仕事を辞めた直後からですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:35:27",
+      "utterance": "仕事を辞めて、しばらくしてからです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:36:48",
+      "utterance": "そうなんですねなぜそのように気持ちが変化していったのだと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:40:20",
+      "utterance": "仕事を辞めてしばらくは、バタバタ用事がありましたが、今は息しているだけで何もないからだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:41:15",
+      "utterance": "そうだったのですねこのことで、どなたかとお話しはされましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:41:35",
+      "utterance": "いえ、話していません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:43:00",
+      "utterance": "そうなんですねお一人で悩んでいるのは余計に辛いことですよね仕事を探す気持ちが起こらないのは、どうしてだと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:44:48",
+      "utterance": "３月まで勤めていた会社で、私だけ退職することになったのは、私に能力や価値がないと分かったからです。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:46:11",
+      "utterance": "仕事探しても、採用してくれる所なんてないと思うし、価値がないと思われるのは嫌です。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:46:51",
+      "utterance": "そうでしたかそのように感じていらっしゃるのですねなぜ価値がないと思われるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:48:04",
+      "utterance": "私だけ退職する流れになったから、会社からすると私が邪魔な存在だったと分かったからです。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:50:07",
+      "utterance": "そうだったんですねそのように思われたのですねそれは悔しかったり、悲しかったと感じられたと思いますが、どうでしたか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:50:58",
+      "utterance": "はい。でも仕方ないなと思います。評価されるのは当然と思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:52:44",
+      "utterance": "今はそう思われているのですねただ、相談者さんを必要としている会社もあるかもしれない、と思われたことはありませんか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:53:30",
+      "utterance": "思ったことありません。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:53:53",
+      "utterance": "そうなのですねそれはなぜでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:55:11",
+      "utterance": "特に特技もなく誰でも出来る事務職だったから、退職にまでなったのだと思います。だれでも出来ることなので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:57:44",
+      "utterance": "そうなんですねそのように思われているのですねコロナ禍で、多くの方々が職を失う経験をされていますが、中にはそれがきっかけで、前職までとは全く違ったお仕事に就かれて、思ってもみなかった喜びを発見されている方々もいます",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T10:58:40",
+      "utterance": "そうなんですか。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T10:59:20",
+      "utterance": "そうなんですまずは、特技があるなしなどは気にせず、職種にこだわらず、色々なお仕事にトライしてみるのはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T11:00:12",
+      "utterance": "前職にこだわらずのトライですか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T11:00:31",
+      "utterance": "なんかやってみようと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T11:01:04",
+      "utterance": "そうですねまずは「一歩踏み出す」からですねそしていつか、「あの時、あの仕事を辞めたことは間違ってなかったんだ」と思える日が来るかもしれません。いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T11:01:52",
+      "utterance": "そうですね、なんか動いてみようと思えてきました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T11:02:54",
+      "utterance": "良かったです！では終了時刻となりましたので、ご相談はここで終了とさせて頂きます応援しておりますありがとうございました",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T11:03:10",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-19T11:03:26",
+      "utterance": "(相談者役、お疲れ様でした)",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-19T11:03:45",
+      "utterance": "（勉強になりました。ありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "生活費の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3497,
+    "評価作成日時": "2022-05-19T11:08:00",
+    "クライアント役ID": 240,
+    "カウンセラー役ID": 277,
+    "点数": 73,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3497,
+    "evaluation_created_at": "2022-05-19T11:08:00",
+    "client_id": 240,
+    "counselor_id": 277,
+    "score": 73,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

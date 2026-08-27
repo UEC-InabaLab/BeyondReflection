@@ -1,0 +1,813 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-07-20T15:51:29",
+      "utterance": "（こんにちは。お時間になりましたら始めさせていただきます。本日は、どうぞよろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T15:52:48",
+      "utterance": "(こんにちは。よろしくお願い致します。クライエント役にリクエストはございますか？)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T15:54:53",
+      "utterance": "（ありがとうございます。可能であれば中高生の年代でお願いします。）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T15:55:13",
+      "utterance": "(かしこまりました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:00:06",
+      "utterance": "こんにちは、相談員です。本日はご相談に来て下さり、ありがとうございます。 はじめに、年齢、性別、相談内容を教えて下さい。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:01:04",
+      "utterance": "14 女先輩のこと",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:01:45",
+      "utterance": "教えてくださりありがとうございます。１４歳ということですがよかったら学年を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:02:00",
+      "utterance": "2年",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:02:51",
+      "utterance": "中学２年生なんですね。その先輩とはどんな関係なんでしょうか？あなたがお話しやすいところからでいいので、どんなことでもお話してくださいね",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:03:15",
+      "utterance": "どんな？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:03:58",
+      "utterance": "部活の先輩とか、家が近い先輩とか、その先輩とどんな時にかかわりがあるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:04:20",
+      "utterance": "部活の先輩",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:04:36",
+      "utterance": "そうなんですね。部活は何の部活でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:05:08",
+      "utterance": "バスケ",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:05:54",
+      "utterance": "バスケット、かっこいいですね。部活動のどんなときに困っていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:06:45",
+      "utterance": "遊ぶ時",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:07:58",
+      "utterance": "そうなんですね。遊ぶとき、とは具体的にどんなときなのでしょうか？部活動の最後に自由なじかんがあるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:08:48",
+      "utterance": "部活の後とか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:08:56",
+      "utterance": "部活ないときとか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:09:40",
+      "utterance": "なるほど、部活の帰りや部活のない日にも遊んだりするんですね。遊ぶのはその先輩と２人？それとも他にも誰かいるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:10:12",
+      "utterance": "2人",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:11:23",
+      "utterance": "２人で遊ぶのはかなり親密なんですね。遊んでるときのどんなことがあなたを悩ませているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:12:14",
+      "utterance": "パパ活しようと言われて、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:13:00",
+      "utterance": "パパ活、、具体的にはどんなことをするのかな？あなたがお話しやすいところからでいいので、もう少し詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:13:15",
+      "utterance": "知らないの？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:14:26",
+      "utterance": "あ、ごめんなさいね。大人の男の人と一緒に過ごすことかな、・・・それをその先輩が誘ってくるのはかなり苦痛ですよね・・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:15:30",
+      "utterance": "やってもいいのか迷ってる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:15:46",
+      "utterance": "どう思いますか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:16:37",
+      "utterance": "迷っているんですね。あなたが気が進まないのならしない方が相談員は安心です。あなた自身は誘われたとき、どう思ったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:16:56",
+      "utterance": "お金は欲しい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:17:22",
+      "utterance": "そうなんですね。今までその先輩に誘われたときは、どう答えたんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:18:01",
+      "utterance": "迷ってるって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:19:00",
+      "utterance": "ええ、正直にあなたの気持ちを伝えたんですね。パパ活に誘ってくる以外にその先輩のことでイヤだなと思うことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:19:38",
+      "utterance": "ないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:21:00",
+      "utterance": "教えてくれてありがとうございます。お金はほしい、と教えてくれたけど、お金をもらったらどんなことに使いたいと思っているのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:21:31",
+      "utterance": "服とかコスメ買いたい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:22:14",
+      "utterance": "ええ、おしゃれをしたいんですね。きれいな服とかコスメが買いたいんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:22:32",
+      "utterance": "迷っていると伝えたとき、先輩はどんな反応でしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:22:48",
+      "utterance": "全然大丈夫って",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:23:11",
+      "utterance": "ええ、そうなんですね。怒ってくるとかではなくて安心しました",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:23:39",
+      "utterance": "怒ってはこないけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:23:57",
+      "utterance": "そんなのもできないのって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:24:37",
+      "utterance": "ええ、そんなことを言われたんですね。それはイヤな気持ちになりますよね。その先輩はすでにパパ活をしているのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:25:01",
+      "utterance": "してるみたい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:25:16",
+      "utterance": "だからこわくないよって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:25:58",
+      "utterance": "ええ、そうなんですね。こわくないよって言われても、あなたは不安やこわい、という気持ちがあるのかなと思ったのですがいかがですか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:26:22",
+      "utterance": "こわいのもあるけど、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:26:44",
+      "utterance": "うんうん、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:26:50",
+      "utterance": "1時間しゃべって5000円もらえるって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:27:13",
+      "utterance": "そうなんですね。それを聞いてあなたはどう思いましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:27:14",
+      "utterance": "すごくいいバイトみたいだし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:27:31",
+      "utterance": "みんなやってるって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:28:00",
+      "utterance": "黙ってれば親にバレないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:28:44",
+      "utterance": "変なおじさんとかなら逃げちゃえばいいって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:29:13",
+      "utterance": "そうなんですね。たしかに１時間おしゃべりして５０００円は、いいバイトだって思いますよね。変なおじさんなら逃げればいい、なるほどです。でもあなたは迷っている・・・具体的にはもしそのバイトをするとしたらどんなことがこわかったり不安だったりしますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:29:54",
+      "utterance": "誰が来るかわからないし、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:30:03",
+      "utterance": "ほんとに逃げれるのかなって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:30:29",
+      "utterance": "ええ、本当にそうですよね。そのように考えるのは当然ですし、健全な感覚だと思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:30:48",
+      "utterance": "知らない人と会うのは、それだけでリスクがともないますよね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:31:07",
+      "utterance": "でもみんなやってるみたい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:31:25",
+      "utterance": "みんなが大丈夫なら、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:31:33",
+      "utterance": "私も大丈夫かなって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:32:05",
+      "utterance": "あなたもやってみても大丈夫かな、とも思っているんですね。迷いますよね。みんな、ってあなたが知っているだけで何人くらいやっているのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:32:53",
+      "utterance": "何人かわからないけど、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:32:59",
+      "utterance": "先輩の友達とか、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:33:25",
+      "utterance": "インスタで繋がってる別の学校の子とかもやってるみたい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:34:08",
+      "utterance": "なるほど、そうなんですね。たしかに知っている人が何人かしていると自分も大丈夫かな、とも思ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:34:25",
+      "utterance": "かわいいバッグとか買ってるし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:34:48",
+      "utterance": "ええ、かわいいバッグ持っているのみるとうらやましくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:35:25",
+      "utterance": "やっても大丈夫かな？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:36:16",
+      "utterance": "パパ活をすることでもし逃げたくても逃げられないようなことが起きたら、どのように対処しようと思っているのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:37:12",
+      "utterance": "カフェとかしか行かないし、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:37:37",
+      "utterance": "他の人もいるから大丈夫じゃない？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:38:24",
+      "utterance": "あなたがきいたお話だとそうなんですね。たしかにカフェとかなら大丈夫そう、と思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:38:59",
+      "utterance": "ただ、その先輩やインスタのお友達も今まではたまたま大丈夫だっただけかもしれません",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:39:40",
+      "utterance": "でも、条件も最初に書いておくし、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:40:17",
+      "utterance": "なるほど、そういったことも最初にするんですね。教えてくれてありがとう。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:40:43",
+      "utterance": "お金は最初に貰うし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:41:12",
+      "utterance": "イヤだったら逃げられない？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:41:30",
+      "utterance": "最初にお金をもらえるんですね。相談員はくわしく知らないからもう少しおしえてほしいのだけど、その書いた条件がもし相手の人が守らなかった場合はどうなるのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:42:05",
+      "utterance": "守らなかったら帰ります、って最初に書いておけば大丈夫って",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:42:24",
+      "utterance": "先輩とかインスタの友達が言ってた",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:42:48",
+      "utterance": "そうなんですね。イヤだったら逃げられることもあるかもしれないけれど、もし車に力づくで連れ込まれたりしたら逃げられないこともあるかもしれない・・・もしそうなったとき、あなたはどうしますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:43:47",
+      "utterance": "うーん、、そんなのドラマとかじゃないの？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:43:53",
+      "utterance": "みんな大丈夫だよって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:44:26",
+      "utterance": "こんなおいしいバイトやらないのバカだって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:45:02",
+      "utterance": "そのように言われたんですね。そう言われて、あなたは「やってみたい」と思ったんですね？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:46:09",
+      "utterance": "ほんとに大丈夫なら、やってみても良いかなって思う",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:46:49",
+      "utterance": "そうなんですね。でもあなたは迷っていて今日ここに相談にきてくださった・・・、やはり健全にリスクを理解する力があるのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:47:16",
+      "utterance": "ここぐらいしか相談できないから",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:47:40",
+      "utterance": "ええ、勇気をだして相談にきてくれてありがとうございます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:47:56",
+      "utterance": "あなたのおしゃれを楽しみたい、という気持ちはとてもすてきだな、と思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:48:32",
+      "utterance": "ただ、そのためにあなた自身を危険にさらすような方法でお金を得るのは、相談員としては心配です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:49:22",
+      "utterance": "でも、やらなかったら先輩と遊べなくなりそう",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:49:49",
+      "utterance": "そうなんですね。その先輩と親しいから、遊べなくなるのはさみしいんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:50:02",
+      "utterance": "それは迷うしなやみますよね・・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:50:04",
+      "utterance": "先輩かわいいし、おしゃれだし、楽しいから、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:50:34",
+      "utterance": "ええ、ええ、あなたはその先輩のことが好きだし、あこがれてもいるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:51:33",
+      "utterance": "そんな先輩から誘われて、おいしいバイトだって言われたら、やってみようかな、という気持ちにもなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:53:26",
+      "utterance": "先輩といい関係をつづけながら、あなたは他のバイトとかでお金をかせいでおしゃれをたのしむ、というのも１つかなと思うのだけど、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:54:06",
+      "utterance": "中学生だからバイトできない",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:54:23",
+      "utterance": "そうでしたか、しつれいしました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:55:06",
+      "utterance": "ご両親のお手伝いをがんばっておこづかいアップを交渉してみる、とかはできないかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:55:51",
+      "utterance": "あんまりアップしなさそう、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:56:44",
+      "utterance": "そうなんですね。・・・なかなかお金をいまふやすのは難しいからパパ活が魅力にかんじてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:58:05",
+      "utterance": "先輩やお友達がいうように「大丈夫」なことの方がおおいのかもしれないけど、もしも１％の「危険」なケースにあなたがあたってしまった場合のことを、すこしでいいので考えてもらえるとうれしいです",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:58:45",
+      "utterance": "ここまで色々お話を聴いてきましたが、申し訳ございません。そろそろお時間が近づいてきました。ここまで、お話をしてみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T16:59:09",
+      "utterance": "まだ迷ってる",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T16:59:57",
+      "utterance": "うんうんそうですよね。次回は今日お話しいただいたことの続きからお話ができるので明日以降またいつでも相談に来てください。一緒にかんがえていきましょう",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T17:00:15",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T17:00:36",
+      "utterance": "本日はお越しいただきありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T17:00:47",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-20T17:00:49",
+      "utterance": "（本日はありがとうございました。このあと終了の合図をいたします。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-20T17:00:58",
+      "utterance": "(ありがとうございました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "先輩との関係に悩みを抱える"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7111,
+    "評価作成日時": "2024-07-20T17:40:00",
+    "クライアント役ID": 420,
+    "カウンセラー役ID": 500,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7111,
+    "evaluation_created_at": "2024-07-20T17:40:00",
+    "client_id": 420,
+    "counselor_id": 500,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

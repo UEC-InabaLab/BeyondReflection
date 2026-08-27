@@ -1,0 +1,456 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:23:17",
+      "utterance": "(こんばんは。本日はよろしくお願いいたします。時間になりましたら、始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:28:42",
+      "utterance": "はい、こちらこそよろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:31:19",
+      "utterance": "こんばんは、相談員です。今日はお越しいただいてありがとうございます。はじめに、年齢、性別と今日のご相談内容を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:32:08",
+      "utterance": "はい、よろしくお願い致します。40代、女性。子どもが勉強しなくて悩んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:32:56",
+      "utterance": "そうなのですね。それは悩んでしまいますね。お子さんはおいくつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:33:21",
+      "utterance": "中1です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:34:45",
+      "utterance": "そうなのですね。相談者様はいつからお子さんの勉強のことでお悩みですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:35:16",
+      "utterance": "今年の7月位からです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:36:33",
+      "utterance": "そのころから、お子さんが勉強をされなくなったということでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:38:11",
+      "utterance": "そうですね、学校に入りたての時はまだやっていたのですが、途中からだんだんやらなくなってきたんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:39:34",
+      "utterance": "学校に入られた時は頑張っていらっしゃったんですね。だんだん勉強されなくなる様子を見ていると、心配になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:41:18",
+      "utterance": "はい、最初は喜んで学校へ行っていたので、まさか勉強しなくなるとは思いませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:42:54",
+      "utterance": "そうだったのですね。喜んでた様子だったのであれば、余計に戸惑ってしまいますね。勉強はまったくされないのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:44:28",
+      "utterance": "生意気盛りなので、部屋に入るとやっているかは分かりません。ただ学校の先生から宿題が出ていないと、連絡が入るのであまりやっていないと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:46:48",
+      "utterance": "そうなのですね。様子がわからないと困ってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:47:21",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:48:46",
+      "utterance": "ええ。そう思われるのは当然ですよね。入学当初は喜んでいらっしゃったようですが、今は学校について何かお話はされますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:51:19",
+      "utterance": "もともと口数が少ないところに、反抗期が重なってあまりコミュニケーションが取れていません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:53:14",
+      "utterance": "そうなのですね。それは寂しくなってしまいますね。コミュニケーションが取れないとは、具体的にどのような様子でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:54:21",
+      "utterance": "うるさい、とか言って話したくても話させてくれないんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:55:32",
+      "utterance": "そんなことを言われると悲しくなってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T20:56:30",
+      "utterance": "はい、どうしたらいいか…。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:58:44",
+      "utterance": "そうですよね。お子さんの入学時と現在の変化への心配やお子さんとゆっくりお話しできないことでの寂しさ、どうにかしないといけないという焦り。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T20:59:20",
+      "utterance": "お子さんのことをしっかり考えられている相談者様の母親としての思いを感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:00:28",
+      "utterance": "そう言ってくださってありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:01:24",
+      "utterance": "いえ、ここまでお話をきいてとてもそのように感じましたよ。すごく悩んでこられたと思いますが、このような状況をどなたかに相談できているでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:03:34",
+      "utterance": "実は7月に面談があって学校の先生とお話ししました。その時におはなしをしました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:05:05",
+      "utterance": "そうだったのですね。相談するのも勇気がいることですよね。先生とお話されてどうでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:06:49",
+      "utterance": "学校では普通に友達と過ごしているそうですが、授業はあまり集中して聞いていないようです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:07:34",
+      "utterance": "そうだったのですね。先生のお話を聴かれて、相談者様はどう思われましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:08:27",
+      "utterance": "やはりそうなんだな、と思いました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:10:21",
+      "utterance": "そうなんだな・・・と思われたということは、学校ではどういう様子だろうと相談者様は想像されていたのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:12:02",
+      "utterance": "家に帰ってきてからの様子から、ずーっとボーっとしているので、そう思いました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:13:54",
+      "utterance": "そうなのですね。お子さんの変化や様子をしっかり見ていらっしゃるからこそ、想像がつかれたのでしょうね。そのお話を聞かれた時はどういうお気持ちでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:15:32",
+      "utterance": "この子はこれからどうなるか、心配になりました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:16:17",
+      "utterance": "お子さんの将来を心配されたのですね、母親であれば当然ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:17:37",
+      "utterance": "はい、本当に困ります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:18:10",
+      "utterance": "ええ。そうですよね。ここまで、お話を聞かせていただいて相談者様がお子さんの変化に気づかれ、お子さんとのコミュニケーションに寂しさを感じながらも、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:19:27",
+      "utterance": "どうにか良い方向にもって行こうと学校に相談するなど努力されている状況だと感じました。どうでしょうか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:21:16",
+      "utterance": "そう言ってくださり、嬉しいです。状況が変わらず不安な日々が続いているので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:23:32",
+      "utterance": "変わらない、方向性がみえないことを不安に思うのは当然ですよ。私もお子さんの様子がわからず、家でも学校でもボーっとしている様子は心配になりましたが、お友達とのコミュニケーションは取れているようで少し安心しました。相談者様はどうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:24:57",
+      "utterance": "私は居ない間、出来るだけリラックスするようにしています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:26:51",
+      "utterance": "よかったです。相談者様が抱え込みすぎて体調を崩されると大変です。リラックスを心掛けられていて安心しました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:27:34",
+      "utterance": "優しいお言葉、ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:30:22",
+      "utterance": "これは、私の思ったことです。お子さんはお友達関係は良いのではないかと感じました。中学校という環境の変化と友達の変化、勉強もレベルアップ。もしかしたら、いろいろなことに気を使って少し疲れている可能性もあるかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:31:03",
+      "utterance": "相談者様のようにがんばりやなのかもしれないなとも感じました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:31:14",
+      "utterance": "確かに勉強が難しいので、ついていくのが大変なのかもしれません。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:32:32",
+      "utterance": "中学校になると科目も増えて大変ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:33:23",
+      "utterance": "そうですね、小学校とは違いますから。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:33:41",
+      "utterance": "もう終了でしょうか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:34:10",
+      "utterance": "お時間が遅くなってしまい申し訳ありません。まだまだ、悩みは解決しないと思いますが、今、気づかれた視点でお子さんを見守ったり、先生に相談するのも一つの方法かもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:34:43",
+      "utterance": "相談者様でしたら、もっと様々な視点に気づいていかれると感じています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:35:45",
+      "utterance": "リラックスしながら、少しずつ本人と話していきたいと思います。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:36:33",
+      "utterance": "とても素敵なことだと思いますよ。お時間になりましたので、また困った時はお話きかせていただけるとうれしいです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:36:46",
+      "utterance": "はい、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:37:10",
+      "utterance": "今日はお話をしてくださりありがとうございました。それでは終了させていただきます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:37:54",
+      "utterance": "（本日はありがとうございました。時間が遅くなってしまい申し訳ありません。勉強になりました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:38:45",
+      "utterance": "（それでは終了させていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-16T21:38:45",
+      "utterance": "こちらこそ、勉強させていただきました。フカフカの布団みたいなお言葉、とても染み入りました。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-16T21:39:37",
+      "utterance": "（うれしいです。ありがとうございます！それでは終了させていただきます。）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "中学校での勉強の取り組み問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5962,
+    "評価作成日時": "2023-11-18T22:27:00",
+    "クライアント役ID": 439,
+    "カウンセラー役ID": 398,
+    "点数": 81,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5962,
+    "evaluation_created_at": "2023-11-18T22:27:00",
+    "client_id": 439,
+    "counselor_id": 398,
+    "score": 81,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

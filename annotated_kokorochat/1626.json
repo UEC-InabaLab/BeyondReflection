@@ -1,0 +1,647 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-10T09:52:44",
+      "utterance": "(おはようございます。本日はよろしくお願いいたします。時間が来たら始めさせていただきます。)",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T09:56:17",
+      "utterance": "おはようございます。本日はよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:00:07",
+      "utterance": "おはようございます。相談員です。本日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:00:46",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:01:10",
+      "utterance": "今日はどのようなご相談でしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:02:45",
+      "utterance": "すぐ諦めたり、逃げたりしてしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:03:01",
+      "utterance": "どうすれば改善できますか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:04:00",
+      "utterance": "なるほど。お悩みになられているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:04:05",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:04:14",
+      "utterance": "具体的にお聴きしてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:04:34",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:05:19",
+      "utterance": "何事も挑戦を恐れたり、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:05:51",
+      "utterance": "自分にはどうせ無理だなと思ってすぐ諦めたりしてしまいます。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:06:41",
+      "utterance": "あとは自分にはできない、という思い込みや口癖があります。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:07:19",
+      "utterance": "そうなんですね、、それはモヤモヤしますし、悩ましいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:07:28",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:07:57",
+      "utterance": "お話の途中ですが本日はどのように及お呼びすればよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:09:08",
+      "utterance": "斉藤とお呼びください",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:09:33",
+      "utterance": "斉藤さんですね。ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:09:39",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:10:12",
+      "utterance": "斉藤さんはどのような時に先ほどおっしゃって頂いたような気持ちになりますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:11:10",
+      "utterance": "そうですね、",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:11:34",
+      "utterance": "主に仕事のときですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:12:33",
+      "utterance": "なるほど。斉藤さんがそう感じるようになったきっかけなどはございますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:13:24",
+      "utterance": "きっかけは特にないと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:13:41",
+      "utterance": "小さい頃からそんな人間だった気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:15:00",
+      "utterance": "そうなんですね。斉藤さんがそのように今悩まれている事にたいしてご自身ではどのように感じておられますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:15:48",
+      "utterance": "情けないと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:16:21",
+      "utterance": "楽に感じますが、成長は感じないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:17:08",
+      "utterance": "そうなんですね。モヤモヤしてらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:17:14",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:18:33",
+      "utterance": "お仕事では最近どのような事で悩まれたかお聴きしてもよろしいですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:20:44",
+      "utterance": "消極的で、成長を感じない自分にモヤモヤします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:22:10",
+      "utterance": "そうなんですね、、、改善して成長したいという気持ちが伝わってきます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:22:41",
+      "utterance": "そう思います",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:25:10",
+      "utterance": "斉藤さん自身はどうなったらいいなという風にお考えですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:26:42",
+      "utterance": "もっと挑戦することに前向きな人になりたいです。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:27:18",
+      "utterance": "なるほど。素敵なことですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:27:37",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:28:32",
+      "utterance": "お悩みに対してお聴きしてきましたが、他にはなにか悩んでいることはございませんか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:29:37",
+      "utterance": "まずは挑戦することに前向きになれれば嬉しいです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:30:51",
+      "utterance": "そうなんですね。斉藤さんにとって挑戦とはどのような事なのでしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:33:07",
+      "utterance": "もっと仕事を自分から進んでやったり、もっと仕事を任せてもらえるようにな人になりたいです。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:35:19",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:35:31",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:36:07",
+      "utterance": "少し話しをまとめさせて頂いてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:36:15",
+      "utterance": "お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:37:40",
+      "utterance": "斉藤さんは挑戦を恐れてしまって消極的になってしまったり、どうせ自分には無理だという思い込みや口癖があると感じていいらっしゃる",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:39:12",
+      "utterance": "そのままでは情けなく感じるし、成長していないとかんじるのでもっと挑戦に対して前向きになっていきたいと感じておられる。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:39:47",
+      "utterance": "このような感じでよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:40:13",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:40:21",
+      "utterance": "仰せの通りです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:41:23",
+      "utterance": "ありがとうございます。では斉藤自身では前向きになるにはどのようにしていったらいいと思いますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:43:37",
+      "utterance": "まずは失敗が付き物であることを理解したり、",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:44:21",
+      "utterance": "失敗から何を学ぶか考えた上で、前向きな自分をイメージする",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:44:31",
+      "utterance": "ことかなと思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:45:16",
+      "utterance": "うんうん。失敗から学べることもたくさんあると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:45:45",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:45:57",
+      "utterance": "それでも恐くて不安に感じることもまた自然なことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:46:29",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:47:05",
+      "utterance": "斉藤さんの中で不安や恐れていると感じることがダメだというように考えておられませんか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:48:18",
+      "utterance": "ダメだと思ったり、失敗したくない、失敗が怖い",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:48:25",
+      "utterance": "と考えていました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:48:42",
+      "utterance": "うんうん。不安な気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:48:56",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:49:19",
+      "utterance": "でもそれは挑戦している人たちも同じように感じていると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:49:44",
+      "utterance": "そうなんですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:50:27",
+      "utterance": "なので斉藤さんだけが感じている訳ではなくて皆が感じている事で全然悪いことではないし、自分を情けなく感じる必要もないと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:51:19",
+      "utterance": "そうだったんですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:51:36",
+      "utterance": "勝手に悪いことだと思ってました",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:52:10",
+      "utterance": "うんうん。そう感じている自分をまず自分がしっかりと認めてあげる事が大事なのではないかなと感じます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:52:39",
+      "utterance": "分かりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:53:51",
+      "utterance": "斉藤さんが成長したいという気持ちはとても伝わってくるのできっと失敗からも学ぶことが出来る人だと感じています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:54:26",
+      "utterance": "そう言っていただけて嬉しいです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:54:30",
+      "utterance": "！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:55:24",
+      "utterance": "ありがとうございます。今少し感じた事をお話しましたがどうでしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:56:09",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:57:07",
+      "utterance": "必要以上に恐れてたり、「失敗=悪いこと」という勝手な思い込みがあったと",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:57:10",
+      "utterance": "分かりました。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:58:38",
+      "utterance": "そうなんですね。良かったです。他になにかございますでしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:59:17",
+      "utterance": "はい、大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T10:59:45",
+      "utterance": "それではこれで今日のご相談を終了してよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T10:59:59",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T11:00:42",
+      "utterance": "分かりました。それでは本日の相談を終了いたします。ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T11:00:59",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T11:01:48",
+      "utterance": "(本日はありがとうございました。何か感じたことがありましたら評価の方にお願いいたします。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-10T11:02:24",
+      "utterance": "はい、かしこまりました。本日はありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-10T11:02:37",
+      "utterance": "(ありがとうございました。失礼いたします。)",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "挑戦への恐れと自己否定感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1626,
+    "評価作成日時": "2021-04-12T20:48:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 166,
+    "点数": 95,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1626,
+    "evaluation_created_at": "2021-04-12T20:48:00",
+    "client_id": 136,
+    "counselor_id": 166,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

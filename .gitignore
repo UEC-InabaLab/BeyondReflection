@@ -1,0 +1,22 @@
+# Python environments and caches
+/.venv/
+/.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated analysis data and results
+/data/turn_level_analysis.csv
+/data/session_level_analysis.csv
+/outputs/*
+!/outputs/.gitkeep
+
+# Local files
+.DS_Store
+Thumbs.db
+*.log
+~$*.xlsx
+.idea/
+.vscode/

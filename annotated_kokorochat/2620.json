@@ -1,0 +1,698 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:00:26",
+      "utterance": "あか　と申します。今日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:00:35",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:01:17",
+      "utterance": "はにわさんとお呼びしてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:01:24",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:01:54",
+      "utterance": "今日は　どんなご相談ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:02:08",
+      "utterance": "学校に行けないんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:02:25",
+      "utterance": "そうなんですか",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:02:36",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:02:43",
+      "utterance": "いつごろからですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:02:58",
+      "utterance": "半年前くらいです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:04:01",
+      "utterance": "はにわさんは半年前までは登校してたのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:04:11",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:05:30",
+      "utterance": "今はどうして学校をやすんでいるのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:05:58",
+      "utterance": "行くのが怖くて行けないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:06:18",
+      "utterance": "怖いんですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:06:35",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:07:05",
+      "utterance": "怖い所って例えばどんなことですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:07:17",
+      "utterance": "周りの目ですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:07:33",
+      "utterance": "お友達とかですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:08:09",
+      "utterance": "友達はいないので、先生とか他の学生です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:09:37",
+      "utterance": "先生と他の学生は何か　はにわさんに　嫌なこととかするのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:10:14",
+      "utterance": "直接何かされるとかはないです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:11:11",
+      "utterance": "怖い気持ちは　はにわさんの中で思っているんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:12:11",
+      "utterance": "かもしれません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:13:21",
+      "utterance": "休む前は周りの目はこわくなかったのかな?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:13:46",
+      "utterance": "多少は怖かったですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:14:45",
+      "utterance": "怖くなる気持ちも一人で抱え込むから　つらいですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:15:05",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:15:53",
+      "utterance": "今はお家で　休んでいるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:16:04",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:16:27",
+      "utterance": "きぶんはどんな感じです？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:16:41",
+      "utterance": "悪いです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:17:44",
+      "utterance": "お家でも先生とか学生いないのに　悪いのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:18:01",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:18:47",
+      "utterance": "いまも怖い気持ちなのかな",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:19:11",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:20:31",
+      "utterance": "普段のなかで　何か怖い忘れるようなことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:21:23",
+      "utterance": "どういうことでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:22:33",
+      "utterance": "怖いという気持ちが　楽になるような事かな？たとえば　ゲームとか",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:22:58",
+      "utterance": "動画を見たりとかですかね。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:23:26",
+      "utterance": "動画をみるんですね。何をにてるんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:24:14",
+      "utterance": "ごめんなさい　何を見てるんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:24:48",
+      "utterance": "ゲームの動画とか旅行の動画とかですね。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:25:20",
+      "utterance": "おもしろそうですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:26:02",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:26:24",
+      "utterance": "動画を見てるときは　先生の事　他の学生の事は　少しはこわくないのかな",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:26:47",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:28:40",
+      "utterance": "周りの人とかに　怖い気持ち相談したりとかはありますか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:28:52",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:29:32",
+      "utterance": "どうでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:29:57",
+      "utterance": "あんまり聞いてくれなかったです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:30:53",
+      "utterance": "そうなんですね。それは　はにわさんもすっきりしませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:31:00",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:31:56",
+      "utterance": "少しでも　怖いという気持ちが消えるといいのですが",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:32:23",
+      "utterance": "そうすればいいんでしょう",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:32:37",
+      "utterance": "失礼しました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:32:43",
+      "utterance": "どうすればいいんでしょう　です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:34:02",
+      "utterance": "動画をみてる時は気分が少しは楽にんるのであればそこを　ためしてみるのは？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:35:24",
+      "utterance": "具体的にどうしたらいいんでしょうか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:35:51",
+      "utterance": "はにわさんが　動画をみてたら　もしかしたら怖い気持ち段々なくなるかもよ",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:37:23",
+      "utterance": "でもここ半年ずっとそういう生活なんですがなにも変わっているような気がしないんですよね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:37:34",
+      "utterance": "先ほど　ゲームや旅行の動画を見てるみたですので自分の好きな動画を見てみるのはいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:37:55",
+      "utterance": "かわってないんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:38:02",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:39:22",
+      "utterance": "気持ちが　自分の中で　すっきりするときは　どんなときなのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:40:13",
+      "utterance": "怖くないと思える時でしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:40:51",
+      "utterance": "スッキリするときはないですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:41:04",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:41:45",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:42:42",
+      "utterance": "はにわさんは　怖いというお気持ちをなくせたらうれしいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:42:55",
+      "utterance": "なくせたら嬉しいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:44:22",
+      "utterance": "少しづつでも　怖い気持ちがなくなるとよいですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:44:29",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:45:37",
+      "utterance": "動画はお好きな感じでしたが　他にはないのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:46:50",
+      "utterance": "特に思いつかないですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:47:27",
+      "utterance": "そうですか",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:48:04",
+      "utterance": "今はほぼ楽しいことないですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:48:35",
+      "utterance": "楽しいことがないんですか",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:48:56",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:49:33",
+      "utterance": "はにわさんの楽しいことって何でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:50:36",
+      "utterance": "やはり動画を見ることかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:50:50",
+      "utterance": "そのくらいしか思いつかないですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:51:24",
+      "utterance": "それだけでも思いつくのは　すごいですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:51:56",
+      "utterance": "そうですかね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:53:20",
+      "utterance": "私はおもいます　自分で考えて答えをだせてるでしょうから",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:54:25",
+      "utterance": "まずは　動画を見て　少しでも気持ちが楽になるようになるとよいですね",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:54:31",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:55:37",
+      "utterance": "はにわさんの中で　動画を見て　新しい発見や勇気がわくかもしれませんよ",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:56:25",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:58:08",
+      "utterance": "ちょっとでも怖い気持ちがなくなると良いですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:58:33",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T13:58:40",
+      "utterance": "今日は　お話されてみて　いかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T13:59:22",
+      "utterance": "動画を見てどう変わるのかよくわからないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T14:00:20",
+      "utterance": "そろそろお時間なので　終わりにしたいと思いますまたの機会にご相談くださいね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T14:00:41",
+      "utterance": "わかりました。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-27T14:01:26",
+      "utterance": "少しづつ　すすんでいきましょうね。ありがとうございました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-27T14:02:04",
+      "utterance": "ありがとうございました",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "不登校の恐怖感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2620,
+    "評価作成日時": "2021-10-27T20:22:00",
+    "クライアント役ID": 226,
+    "カウンセラー役ID": 241,
+    "点数": 36,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2620,
+    "evaluation_created_at": "2021-10-27T20:22:00",
+    "client_id": 226,
+    "counselor_id": 241,
+    "score": 36,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

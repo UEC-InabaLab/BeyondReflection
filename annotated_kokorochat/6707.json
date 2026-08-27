@@ -1,0 +1,1023 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:23:28",
+      "utterance": "(こんにちは。よろしくお願いいたします。時間になりましたら、始めさせていただきます。)",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:24:17",
+      "utterance": "(承知いたしました。本日はどうぞよろしくお願いいたします。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:25:14",
+      "utterance": "(お互いの勉強になるようなクライアント役をさせて頂くことを心がけます。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:25:59",
+      "utterance": "(ありがとうございます！よろしくお願いいたします。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:26:25",
+      "utterance": "(よろしくお願いいたします)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:30:03",
+      "utterance": "こんにちは。相談員です。はじめに、年齢と性別を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:30:24",
+      "utterance": "17歳女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:30:35",
+      "utterance": "相談にきてくださって、ありがとうございます。どんなご相談ですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:30:57",
+      "utterance": "母親との関係で悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:31:41",
+      "utterance": "そうでしたか。お悩みなのですね。お母さんとの関係の、どんなことですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:32:31",
+      "utterance": "私のすることに、いちいち口を出したり、否定しかしないのが嫌で、すぐに喧嘩になります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:33:16",
+      "utterance": "それは、腹が立ちますね。嫌になってしまう…のも、無理ないことですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:33:34",
+      "utterance": "はい。なんでって思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:33:35",
+      "utterance": "否定されると、悲しくもなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:33:50",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:34:26",
+      "utterance": "なんで…って、ね。そんなふうにも思いますよね。たとえば、どんなことがありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:35:24",
+      "utterance": "私がやりたいっていうことは、だいたい否定します。自分の考えと違うと、顔をしかめたり",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:35:39",
+      "utterance": "ええ。(聴いていますね。)",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:35:58",
+      "utterance": "多分、私のことが好きではないんだと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:36:29",
+      "utterance": "そんなふうにも考えているのですね。そんなふうにかんがえると、寂しくなってしまうでしょうか。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:37:09",
+      "utterance": "ちなみに、お母さんとの関係がそんなふうなのは、いつ頃からのことでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:37:10",
+      "utterance": "さみしい‥のかな‥なんか、母親に嫌われてるのって、絶望てきだなーって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:37:21",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:37:41",
+      "utterance": "絶望的…とまで、思ってしまうのですね。つらいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:38:11",
+      "utterance": "いつ頃からかな‥小学生の低学年くらいからだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:38:38",
+      "utterance": "教えてくれて、ありがとうございます。そうでしたか。そんなに以前からなのですね…。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:38:45",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:39:07",
+      "utterance": "ずっとそんな感じで‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:39:07",
+      "utterance": "ちなみに、あなたとお母さんの他に、ご家族はいますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:39:17",
+      "utterance": "父親と妹がいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:39:55",
+      "utterance": "そうなのですね。お母さんといもうとさん、お母さんとお父さんの関係などは、どんなご様子でしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:40:12",
+      "utterance": "話せる範囲でいいので、教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:40:17",
+      "utterance": "みんな仲良いです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:40:55",
+      "utterance": "そうなのですね。それを見ているあなたの気持ちは、複雑かもしれないですね。では、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:41:18",
+      "utterance": "あなたと妹さん、あなたとお父さんの関係は、いかがですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:41:23",
+      "utterance": "私も、仲が悪いわけじゃないんですが‥",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:41:51",
+      "utterance": "ええ。悪いわけじゃないけれど…、なにか思いがありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:42:03",
+      "utterance": "妹は4つ下なので、あまり接点なくて、たまに話すくらい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:42:27",
+      "utterance": "父親は無口でいつもニコニコしてるかな",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:43:25",
+      "utterance": "そうなのですね。妹さんやお父さんとのことでは、悩んでいるご様子ではないのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:43:47",
+      "utterance": "そうですね。特に悩みはないかな",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:44:09",
+      "utterance": "そうでしたか。少し安堵いたしました。が、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:44:33",
+      "utterance": "お母さんとの関係、負担になりますね…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:44:48",
+      "utterance": "私のことが好きじゃないんだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:45:21",
+      "utterance": "自分の理想の子じゃないから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:45:50",
+      "utterance": "ああ、そんなふうに考えているのですね。苦しくなってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:46:28",
+      "utterance": "理想の子じゃない…って思うのは、どんなところからなんでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:46:35",
+      "utterance": "他の子がお母さんと仲良く手を繋いだりしてると、昔からうらやましいなーって思って、涙が出てきました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:47:25",
+      "utterance": "私が、やりたいっていうことは、全部否定する感じ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:47:28",
+      "utterance": "そうでしたか…。そんなにまで、あなたはお母さんを求めていた、求めている…ということでもありますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:48:24",
+      "utterance": "求めてるのかな‥でも、もう好きじゃない子どもと一緒にいたくないかなーとも思う",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:48:36",
+      "utterance": "やりたいっていうことは、全部否定される…そのようなとこから、好きじゃないのかな…って、かんじてしまうのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:49:11",
+      "utterance": "否定されるのは、母親の理想と違うからかな‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:49:50",
+      "utterance": "とにかく、いい大学行きなさいしか言わない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:49:56",
+      "utterance": "そうなのですね。あきらめにも近い気持ちのような思いもあるのでしょうか。ちなみに、お母さんの理想って、どんなふうなものなのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:50:03",
+      "utterance": "行き違いました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:50:31",
+      "utterance": "そうでしたか。お母さんの理想のひとつに、大学のことがあるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:50:52",
+      "utterance": "母の理想は、いい大学入って、いい会社に入ることみたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:51:21",
+      "utterance": "母親に好かれてない子供って、どうしたら良いんですかね‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:51:42",
+      "utterance": "そうなのですね。そう感じてしまうと、圧迫感もありますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:51:58",
+      "utterance": "良い子のふりも、私はできないし、甘えることも無理",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:52:31",
+      "utterance": "そうなのですね。それは精一杯のあなたなりの自分の思いの表現であるのかもです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:52:50",
+      "utterance": "受けとめてほしいですよね。お母さんにね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:53:05",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:53:33",
+      "utterance": "あなたは、本当はどんなふうに生きていきたい…と望んでいますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:54:00",
+      "utterance": "自分がやりたいことをする‥かな",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:54:21",
+      "utterance": "そうなのですね。たとえば、どんなことですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:54:47",
+      "utterance": "今は、美術系の大学に行きたい。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:55:10",
+      "utterance": "そうなのですね。行きたい大学があるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:55:13",
+      "utterance": "でも、母親はだめと",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:55:33",
+      "utterance": "美術は潰しがきかないから",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:55:54",
+      "utterance": "ええ。お母さんは、そういうのですね。いい会社につながらない、考えているのですかね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:56:06",
+      "utterance": "だと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:56:28",
+      "utterance": "あなたが美術系に行きたいのは、どんな思いがあってですか。ここは、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:56:52",
+      "utterance": "安全な場です。どうぞあなたの正直な思いを、しっかりお話しくださいね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:57:02",
+      "utterance": "まずは、しっかり受けとめたいです。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:57:29",
+      "utterance": "絵を描くのが好きだからです。でも、母親に許されのは無理だと思います。聞く耳持たないですよ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:58:19",
+      "utterance": "そんなふうにお考えなのですね。お母さんに好かれてないんじゃないか…って、もうずいぶん長いこと不安な悲しい思いをされてきた。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:58:36",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:58:48",
+      "utterance": "それでも、あなたは、自分なりの願いをもっている。それは、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:59:06",
+      "utterance": "ステキなことだと思いました。あなたの強さでもあるし、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:59:23",
+      "utterance": "しなやかさでもあると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T13:59:51",
+      "utterance": "あなたご自身では、どう感じますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T13:59:51",
+      "utterance": "そうなのかな‥でもありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:00:26",
+      "utterance": "ただ、母親とのこと、どうしたらいいかわからなくて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:00:30",
+      "utterance": "はい、本当によくがんばってきたと思いますよ。自分を見失わないでね。よくここまで、進んでこられた。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:00:58",
+      "utterance": "家出したこともありました。その時は、探してくれましたが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:01:15",
+      "utterance": "そう思って、ご相談にきてくださったのですよね。ええ。(聴いていますね。)",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:02:01",
+      "utterance": "私が学校でいじめられた時も、いじめた子の保護者に文句言ってくれた",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:02:29",
+      "utterance": "そうでしたか。そんな思い出もあるのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:03:01",
+      "utterance": "そのことを思い出すと、あなたはどんな気持ちになるのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:03:34",
+      "utterance": "でも、それって、結局、私のためなのかな‥って、母親のプライドのためかなとも思ってしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:03:59",
+      "utterance": "なるほどです。そんなふうにも思うのですね。つらいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:04:19",
+      "utterance": "私のこと、好きじゃないから‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:04:26",
+      "utterance": "ただ、本当はどうなのかな…って、迷いもあるようにも感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:05:08",
+      "utterance": "自分の子供だから、少しは好きなところはあるかもしれないけど、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:05:29",
+      "utterance": "自分の理想に合えばだと思う",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:06:06",
+      "utterance": "多分、妹のことは無条件で好き",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:06:31",
+      "utterance": "そう思うのですね。条件付き…と感じてしまう。悲しいですね。ただ…、家出をしたとき、探してくれた、いじめっ子から守ろうとしてくれた…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:06:47",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:07:09",
+      "utterance": "一応、自分の子供だから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:07:42",
+      "utterance": "それは、まぎれもなくあなたを大切に思っている娘として大事にしてくれている…ということでもあるのかなって、相談員は感じたのですが、どうでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:08:39",
+      "utterance": "うーん、プライド高いから、自分の子供に家出されるとか、いじめられるとか、我慢ならないんだと思う",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:09:10",
+      "utterance": "なるほどです。そんなふうにお考えなのですね。ここで、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:09:15",
+      "utterance": "私が好きだから‥とかじゃない気がするんだけど",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:09:50",
+      "utterance": "そう思うと、つらいよね。いろんな思い、いっぱいいっぱい抱えながら、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:10:12",
+      "utterance": "ここまでやってきたのですね。本当に、よくがんばってきた…そう思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:10:26",
+      "utterance": "そんなあなたに、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:10:49",
+      "utterance": "ひとつの視点ではあるのですが、提案させてもらってもいいでしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:11:02",
+      "utterance": "はい。お願いします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:11:50",
+      "utterance": "あなたには、すすみたい道がある。もちろん、親に認めてもらってすすめたら、それにこしたことはないでしょう。でも、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:12:37",
+      "utterance": "もうひとつの選択肢として、認められないままでも、あなたは進んでいい…そんな視点もあるのかな…とは、思うのです。妹さんが",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:13:15",
+      "utterance": "お母さんに受け入れられていると、あなたが感じるのは、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:14:01",
+      "utterance": "たまたま、お母さんと妹さんの大切にするもの(価値観)のようなものが、一致していたからなのかもしれない。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:14:28",
+      "utterance": "あなたとお母さんのたいせつにするものは、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:14:36",
+      "utterance": "母親は妹を無条件に可愛いと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:14:57",
+      "utterance": "小さな頃からです、妹の方が好き",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:15:34",
+      "utterance": "それは確実だから‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:15:58",
+      "utterance": "そう思うと、苦しいね。お母さんに受け入れられる自分になりたいですか。それとも、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:16:15",
+      "utterance": "受け入れられなくても、自分が自分を受け入れて、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:16:46",
+      "utterance": "自分の信じる道を進んでいきたいですか。厳しいけれど、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:17:09",
+      "utterance": "母親に好かれてなくても大丈夫って思えるようになればいいってことですかね‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:17:43",
+      "utterance": "それもひとつの選択肢…ということなのだと思います。どうでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:18:05",
+      "utterance": "でも未成年だし、親がいないと、色々難しいから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:19:02",
+      "utterance": "まだちょっと、母親とのことどうしていいかわからないけど、話を聞いていただきありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:19:02",
+      "utterance": "今、大きく2つの方向の選択肢を示してみました。もちろん、ほかの選択肢もありますよね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:19:17",
+      "utterance": "あなたは、どうしていきたいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:19:39",
+      "utterance": "本当は、普通に母親に好かれたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:20:30",
+      "utterance": "ご存じかもしれないけれど、心理学ではよく、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:20:54",
+      "utterance": "妹の方が好きなんだ‥って思って、母親と接するのが辛いです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:21:31",
+      "utterance": "心理学のことは、良くわからないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:21:57",
+      "utterance": "承知しました。では、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:22:34",
+      "utterance": "いったん、今日のご相談のまとめをさせてもらってから、次回につなげていかせてもらったら…と、思います。今日は",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:23:27",
+      "utterance": "あなたのたくさんの大切なお気持ち、お話を聴かせてもらいました。今まで、ご自分で抱えてきて、どんなに不安だったり心細かったりしたかな…と、心が痛くなりました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:23:43",
+      "utterance": "ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:24:09",
+      "utterance": "どんな気持ちも、あなたの大切な気持ちです。だから、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:24:49",
+      "utterance": "これからも、あなたの気持ち、もっともっときかせてほしい。うけとめながら、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:25:22",
+      "utterance": "一緒に考えていきたいです。また、どうぞきてくださいね。お話ししきる中から、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:26:04",
+      "utterance": "もしかしたら、なにか見えてくるのもって、あるのかもしれません。あなたが、思いを吐き出して、自分と向き合っていけるよう、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:26:05",
+      "utterance": "ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:26:18",
+      "utterance": "応援していきたいです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:26:41",
+      "utterance": "お時間きてしまいました。そろそろ終わりにいたしますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:26:44",
+      "utterance": "ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:27:11",
+      "utterance": "ことらこそ、きょうは、きてくれて、ありがとうございました。また、お待ちしています。それでは、",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:27:30",
+      "utterance": "終了と点せて頂きますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:27:50",
+      "utterance": "話を聞いていただき、ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-08T14:28:16",
+      "utterance": "(ありがとうございました！いいテーマでした。うまく着地できませんでしたが…。お疲れ様でした！)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-08T14:29:24",
+      "utterance": "(こちらこそ、お疲れ様でした。ありがとうございました。こちらの設定してたことなど、評価レポートの備考欄でお伝えさせて頂きますね)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母親とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6707,
+    "評価作成日時": "2024-04-08T15:20:00",
+    "クライアント役ID": 498,
+    "カウンセラー役ID": 316,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6707,
+    "evaluation_created_at": "2024-04-08T15:20:00",
+    "client_id": 498,
+    "counselor_id": 316,
+    "score": 53,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

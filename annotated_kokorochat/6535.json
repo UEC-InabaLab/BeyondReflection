@@ -1,0 +1,1000 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-03-04T19:50:56",
+      "utterance": "（こんばんは。本日は、よろしくお願い致します。お時間になりましたら始めさせていただきますね。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T19:51:26",
+      "utterance": "はい宜しくお願い致します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:00:00",
+      "utterance": "こんばんは。相談員です。本日は、ご相談に来てくださりありがとうございます。はじめに、年齢、性別、ご相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:00:49",
+      "utterance": "はい40代女性です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:01:13",
+      "utterance": "職場の人間関係で悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:01:37",
+      "utterance": "教えて下さりありがとうございます。職場の人間関係のご相談ですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:01:47",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:02:12",
+      "utterance": "職場の人間関係でどのような事でお悩みですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:02:47",
+      "utterance": "自分より年下の人上司なのですが、とても偉そうにしてくるのが嫌なのです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:03:43",
+      "utterance": "そうなのですね。あなたの上司は年下なのですね。そう感じるようになったのはいつ頃からでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:04:43",
+      "utterance": "1年前に入った時からずっと、他の人には笑顔なのに私にだけきついのでちょっと嫌になってきて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:05:35",
+      "utterance": "何をしてもやり方が…とか言ってきます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:05:51",
+      "utterance": "そうなのですね。あなただけにきついのですね。１年前からずっとなのですね。それは、切ないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:06:19",
+      "utterance": "切ないというか、苛立ちの方が大きいです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:06:50",
+      "utterance": "そうなのですね。何をしても、違うようなことを言われてしまうのですね。あなたは、その時どのように対応しているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:07:21",
+      "utterance": "黙って聞いています",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:08:11",
+      "utterance": "そうなのですね。苛立っても我慢をして、黙って聞いているのですね。それは、とてもつらいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "utterance": "そして、自分だけにそのような態度を取られるのもつらいですね。",
+      "tag": "Reflection",
+      "time": "2024-03-04T20:08:37"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:08:44",
+      "utterance": "つらい？より悔しいです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:09:14",
+      "utterance": "つらいより悔しいのですね。年下と言いますが、どのくらい下なのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:09:48",
+      "utterance": "たぶん6歳くらい下だと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:10:27",
+      "utterance": "６歳下なのですね。それは、悔しく思って当然だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:10:56",
+      "utterance": "そのようなお悩みを誰かに相談したことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:11:35",
+      "utterance": "そうなんです周りの人に言ったことはあります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:11:54",
+      "utterance": "周りの反応は、どのような感じでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:12:30",
+      "utterance": "あの人は言い方がきついから…って言ってくれてました",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:13:04",
+      "utterance": "そうなのですね。周りも年下の上司のことは、あなたと同じような印象を持っているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:13:21",
+      "utterance": "そうだと思います",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:14:16",
+      "utterance": "でも、あなたにだけきつく、あなたはとても嫌なきもちですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:14:45",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:14:52",
+      "utterance": "１年前からずっととのことですが、何かきっかけなど思い当たることはございますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:15:12",
+      "utterance": "他の人とは笑顔で話している感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:15:58",
+      "utterance": "例えばですが年下の上司があなたのことが羨ましいと思っているとか・・・。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:16:45",
+      "utterance": "何か、感じるようなことはございませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:17:37",
+      "utterance": "それはないですきっかけは私がお店に出す商品にメモを書いてなくて、どの場所に出すのかわからない。ちゃんとメモを書いてと言うところからいつも注意されるようになりました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:18:32",
+      "utterance": "そうなのですね。そのようなことをきっかけに何に対しても指摘をするようになったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:19:26",
+      "utterance": "そうなんですでも、その人もいつもメモを書いてないのでこっちも困ることが多いんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:20:19",
+      "utterance": "ちょっと我慢の限界が来てて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:20:22",
+      "utterance": "そうなのですね。自分がメモをしていないのに、あなたには厳しいのですね。それは困りますね。でも、その後、あなたとしてはしっかりお仕事をこなしているのではないでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:21:01",
+      "utterance": "はい、仕事のみに集中しています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:21:13",
+      "utterance": "メモも書いています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:21:18",
+      "utterance": "そんなことが一年も続いてしまうと我慢の限界がきて当然だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:21:30",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:21:53",
+      "utterance": "仕事に対して真面目に頑張っているあなたの気持ちが伝わってきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:22:23",
+      "utterance": "そして、同僚とも上手く付き合ってお仕事されているのも伝わってきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:22:52",
+      "utterance": "ありがとうございます。仕事は続けたいし、でもなんかモヤモヤするしどうしたら良いかなと…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:23:29",
+      "utterance": "そうですよね。仕事をしっかりしているあなたが辞めるのは違いますよね。その上司は、同僚とはどのようなお付き合いをされているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:23:54",
+      "utterance": "とても仲が良いです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:24:14",
+      "utterance": "そうなのですね。それは不思議な感じがしますね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:24:31",
+      "utterance": "人によって態度を変える感じなのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:24:32",
+      "utterance": "一緒にランチとか行ってるみたいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:24:57",
+      "utterance": "人によって変えてるように見えます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:25:48",
+      "utterance": "そうなのですね。ランチなどに行っているのですね。そして、人によって態度を変えられると本当に困りますよね。それはモヤモヤして当然ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:26:49",
+      "utterance": "みんなも、きつい人だからと言いながら、その人と普通に付き合っているので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:27:17",
+      "utterance": "自分だけ上手く出来ないのかなと思ったりもしています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:28:06",
+      "utterance": "苛立ちと、悔しさと、モヤモヤと。限界まで今来ているということですもんね。周りもキツいと言いながらもそれなりに上手く付き合っているのでしたら、自分だけが出来てないと落ち込むのも当然ですが、あなたは何も悪いことをしていませんよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:28:42",
+      "utterance": "はいそう思ってます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:29:00",
+      "utterance": "真面目に働いて、悔しい気持ちも我慢して耐えてます。社会人としてとても立派な対応をとってますよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:29:36",
+      "utterance": "立派なのでしょうか…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:30:00",
+      "utterance": "人によって態度を変える上司と比べたら、あなたの方がよほど立派ですよ。私はそう思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:30:15",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:31:09",
+      "utterance": "でも、周囲と上司の付き合い方とは見ていたら辛くなりますよね。自分は正しい対応をしていても、周囲の様子を見て辛くなることもあると思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:32:01",
+      "utterance": "そうてすね自分がかわいそうに思えます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:32:56",
+      "utterance": "そうですよね。でも、本当によく頑張ってらっしゃいますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:33:15",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:33:28",
+      "utterance": "働かないといけないので…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:33:31",
+      "utterance": "職場の人数は、どのくらいなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:33:54",
+      "utterance": "女性は18人くらいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:34:24",
+      "utterance": "男性20人くらいでしょうか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:34:41",
+      "utterance": "それなりの人数なのですね。あなたは、そこにお勤めになって何年くらいになりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:34:53",
+      "utterance": "3年です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:35:55",
+      "utterance": "そうなのですね。上司よりもあなたの方が数年先に居たことになりますよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:36:21",
+      "utterance": "あなたの方がお仕事も慣れていたのではないでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:38:27",
+      "utterance": "移動してきたのでその人は6年です表現がややこしくてすみません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:39:34",
+      "utterance": "こちらこそ、すみません。移動してきて上司は６年なのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:39:35",
+      "utterance": "慣れてはいますが、気が会わなかったのかなと",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:40:25",
+      "utterance": "確かに、波長などはありますよね。そのように思えるあなたは、やはり大人の対応ですよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:41:04",
+      "utterance": "あちらの方が大人の対応ではないので、あなたは困っているのかも知れませんよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:41:22",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:42:06",
+      "utterance": "あなたの謙虚さや、大人の対応から、上司の子供っぽい対応に困っているようにとても感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:42:27",
+      "utterance": "でも、相手があることですので本当に大変だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:42:35",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:43:02",
+      "utterance": "上司でなければここまで悩まない問題でもありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:43:30",
+      "utterance": "そうかもしれませんね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:43:43",
+      "utterance": "ただキツいだけなれば、流すこともできますが、上司だとそうもいかないのではないでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:44:04",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:44:21",
+      "utterance": "一番は、仕事上、支障をきたすので困っているといった感じでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:45:24",
+      "utterance": "支障をきたす…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:45:40",
+      "utterance": "どうでしょう…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:45:57",
+      "utterance": "支障とは、指摘をされて仕事がスムーズにいかないとか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:46:27",
+      "utterance": "仕事はスムーズに出来ています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:47:23",
+      "utterance": "そうなのですね。仕事は、スムーズにできているけれど、いちいち指摘してくるので気持ち的に嫌が一番ってことでしたね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:47:40",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:48:23",
+      "utterance": "とにかく、気持ちですね。どのように対応していったら、その気持ちから解放されるか？ってことですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:48:46",
+      "utterance": "今まで、何か試みたことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:48:49",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:49:50",
+      "utterance": "何を試しみるのですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:50:27",
+      "utterance": "はい、黙って聞いて我慢していた他に、何かやってみたことはないでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:50:46",
+      "utterance": "特にないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:50:57",
+      "utterance": "どのような上司なのか？もう少し知れたらと思いますが。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:51:33",
+      "utterance": "そうなのですね。ずっと我慢して聞いていたのですね。何度も嫌な思いを思い出させてしまい、すみません。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:51:57",
+      "utterance": "とにかく、言い方がきついし、自分はミスが多くて迷惑しています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:52:09",
+      "utterance": "どのように対応していったら、良いのか一緒に考えていけたらと思っています。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:52:14",
+      "utterance": "その人はで",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:52:16",
+      "utterance": "す",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:52:45",
+      "utterance": "はい。お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:52:51",
+      "utterance": "なるほど、そうなのですね。自分がミスが多いから、人を注意するのもあるのかも知れませんね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:53:11",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:53:26",
+      "utterance": "自分のミスを認めたくない。だから誰かに指摘する。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:53:46",
+      "utterance": "それはあるかも知れないですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:54:19",
+      "utterance": "その人、仕事も遅いですから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:54:24",
+      "utterance": "その上司は自分のことを実はよくわかっているのかも知れませんね。でも上司だから謝れない。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:54:45",
+      "utterance": "仕事が遅くミスも多いのは致命的ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:54:59",
+      "utterance": "てすよね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:55:13",
+      "utterance": "ですよねです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:55:47",
+      "utterance": "人は、自分の弱さを隠したいものだと思います。実は、その上司の方が可哀想な人なのかも知れません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:56:11",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:56:15",
+      "utterance": "あなたは、可哀想ではなく、とても素敵な人だと私は思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:56:27",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:56:59",
+      "utterance": "なんか元気でました",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:57:03",
+      "utterance": "仕事もキチンと出来て、上司の酷い態度にもキレずに、同僚のことも責めずに過ごしてます。私は、とても立派な方だと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:57:59",
+      "utterance": "そう言っていただけると嬉しいですね",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:58:08",
+      "utterance": "あなたがイラついている時間がもったいないくらいに感じてきました。あなたは、何も悪くないし。むしろ、とても良いことをしてますよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:58:33",
+      "utterance": "良いことですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:58:57",
+      "utterance": "会社にとっても、あなたは必要な人材です。そして、人として、社会人として、必要な人材だと私は感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T20:59:37",
+      "utterance": "そうだといいですが…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T20:59:57",
+      "utterance": "あなたの振る舞いからそう感じました。なので、とても良いことをしていると思いました。そういう社会人がたくさんいたら社会は平和ですよね。みんなが幸せになりますよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:00:36",
+      "utterance": "そうだといいですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:00:44",
+      "utterance": "よく頑張って、限界を感じながらもお仕事されてきましたよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:00:54",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:01:11",
+      "utterance": "今日、ここに相談に来てくださって私はとても嬉しく思っています。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:01:31",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:01:42",
+      "utterance": "そろそろお時間となりましたが、今日はお話されてみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:02:12",
+      "utterance": "そうですねなんかモヤモヤが少し取れた気がします",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:03:50",
+      "utterance": "それは、良かったです。私もとても嬉しく思います。本日は、とても大切なお話を聴かせていただきありがとうございました。元気を取り戻していくあなたとお話が出来てとても私も元気をいただきました。また、モヤモヤしたり、限界がきそうな時は、お早めにお話しできたら良いのかなと思います。またのお越しをお待ちしております。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:04:13",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:04:34",
+      "utterance": "では、本日はここまでとさせていただきます。ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:04:49",
+      "utterance": "はいありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:05:07",
+      "utterance": "（本日は、ありがとうございました。とても有意義な時間を過ごさせていただきました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:05:12",
+      "utterance": "（カウンセラー役ありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:05:56",
+      "utterance": "（こちらこそ、ありがとうございました。これで終了してもよろしいでしょうか？）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T21:06:15",
+      "utterance": "（はい。大丈夫です）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T21:06:31",
+      "utterance": "（では、失礼致します。）",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "年下上司とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6535,
+    "評価作成日時": "2024-03-04T21:32:00",
+    "クライアント役ID": 237,
+    "カウンセラー役ID": 448,
+    "点数": 45,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 0,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6535,
+    "evaluation_created_at": "2024-03-04T21:32:00",
+    "client_id": 237,
+    "counselor_id": 448,
+    "score": 45,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 0,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

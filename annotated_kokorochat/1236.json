@@ -1,0 +1,962 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-01-23T19:56:03",
+      "utterance": "すいません。今日相談役でエントリーしていますが、入られていますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T19:56:54",
+      "utterance": "今日はよろしくお願いいたします😃",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T19:58:20",
+      "utterance": "こんばんは。こちらこそ今日はよろしくお願いいたします☆",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:00:04",
+      "utterance": "お時間となりましたので、始めさせてもらってもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:00:11",
+      "utterance": "お願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:01:41",
+      "utterance": "ご相談ありがとうございます。私は、相談員のあっきーと申します。まず、お呼びするお名前、ご年代と性別、相談内容を教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:02:25",
+      "utterance": "まゆです。女性:27歳です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:03:09",
+      "utterance": "相談内容は、最近何もやる気がなくて、鬱っぽい感じなんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:04:22",
+      "utterance": "まゆさん、本日はよろしくお願いします。何もやる気がない状態はお辛いですね。どんな時にそう感じられるか教えてもらえますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:05:25",
+      "utterance": "コロナでテレワークが始まって、在宅勤務が増えて。仕事が終わった時とか、ちょっと時間に間が空いた時などかな。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:06:36",
+      "utterance": "夜になって、ボーッとし始めると、後は何も動けません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:07:04",
+      "utterance": "在宅勤務が増えたのですね。環境が変わると心身ともに疲れやすくなりますよね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:07:34",
+      "utterance": "お風呂に入らず、寝てしまう事も時々あるし、食べるのもめんどくさい時があります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:08:11",
+      "utterance": "一人暮らしだし、誰も家に来ないから、ズルズルと。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:08:39",
+      "utterance": "メリハリがないというか。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:08:40",
+      "utterance": "毎日とても疲れていらっしゃいますね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:09:35",
+      "utterance": "仕事の量はそんなにないし、打ち合わせ等はメールとかオンラインなんだけど。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:10:21",
+      "utterance": "そうなんですね・・・テレワークになり、お仕事での悩まれていることはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:10:56",
+      "utterance": "内容の行き違いが時々あります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:11:49",
+      "utterance": "こちらはそれでいいと思っていても、向こうはそうじゃなかったり",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:12:24",
+      "utterance": "意思疎通がうまくいかないのは、はがゆいですね。それはストレスに感じられますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:12:31",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:13:35",
+      "utterance": "そのお気持ちを、職場の方か、どなたかには話せない状況でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:13:35",
+      "utterance": "会えばすぐ終わる仕事が、なかなか終わらなかったりします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:14:26",
+      "utterance": "言っても通じないというか…段々いうのがめんどくさい感じなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:15:00",
+      "utterance": "テレワークのコミュニケーションはむずかしいですよね。言ってもわかってもらえないと思われますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:15:53",
+      "utterance": "上司は、なかなか自分の意見を曲げない人なので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:16:20",
+      "utterance": "こじれる方がめんどくさいんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:16:58",
+      "utterance": "そういうお気持ちになりますよね・・・オンラインになってからよけい感じられますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:17:56",
+      "utterance": "zoomとかメールとかあまり慣れてない人なので、正直段取り悪いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:18:07",
+      "utterance": "上司が",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:18:26",
+      "utterance": "それはイライラしてしまいますね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:18:32",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:19:11",
+      "utterance": "私もテレワークが増えましたので、まゆさんのお気持ちとてもよくわかりますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:19:21",
+      "utterance": "そうなんですか",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:19:29",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:20:26",
+      "utterance": "一人仕事ならいいけど、連携しないといけないから、余計にめんどくさいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:21:16",
+      "utterance": "そう思い始めると、人と会うのも億劫になって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:21:31",
+      "utterance": "そうですよね。連携するのはいろんな気も使いますしね。まゆさんは、上司のことで誰かに相談されたりしますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:21:48",
+      "utterance": "あまり…してないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:22:05",
+      "utterance": "皆“仕方ないよねー”みたいな感じなので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:23:09",
+      "utterance": "そうだったのですね。ひとりで抱えこんでいたのですね・・・話してくれてありがとうございます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:23:18",
+      "utterance": "今回のコロナで、テレワークが進んでいるから、職場があるビルが移転しそうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:24:12",
+      "utterance": "移転されるのですか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:24:14",
+      "utterance": "前より通勤が遠くなるし。それを考えると、出社もめんどくさくなって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:24:44",
+      "utterance": "何か、何もかもがめんどくさくなって来ているんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:25:22",
+      "utterance": "気もめいってしまいますよね。ときには出社されることもあるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:25:35",
+      "utterance": "今はないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:25:48",
+      "utterance": "緊急事態宣言中だから",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:26:01",
+      "utterance": "担当者以外は出ないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:26:18",
+      "utterance": "そうですか。当面テレワークが続くのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:26:24",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:27:06",
+      "utterance": "人と会うのも億劫。会社の事もめんどくさい。将来の事も何も考えたくない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:27:36",
+      "utterance": "これってひょっとしたら、鬱かなと思って。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:28:11",
+      "utterance": "何かしたいという気持がわかないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:28:19",
+      "utterance": "そういう時は、ありますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:28:50",
+      "utterance": "病院受診も、コロナの事を考えると怖いし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:29:02",
+      "utterance": "そうですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:29:36",
+      "utterance": "宣言が始まってから、割とそんな感じがずっと続いてて。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:30:04",
+      "utterance": "どうしたらいいんでしょう？",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:30:15",
+      "utterance": "テレワークが、始まる前はおっくうになることはありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:30:29",
+      "utterance": "あまりなかったです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:30:54",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:31:34",
+      "utterance": "前回の宣言の時は、会社自体が繁忙期だったから、逆に出てたんです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:32:09",
+      "utterance": "出社されていたのですね。まゆさんは、どうなったらいいな～と思われていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:32:28",
+      "utterance": "これからですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:32:41",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:33:09",
+      "utterance": "3日間位寝たいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:33:37",
+      "utterance": "寝れてなかったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:34:25",
+      "utterance": "仕事は平日は毎日あるから、しんどくても起きなきゃいけないじゃないですか。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:34:41",
+      "utterance": "何も考えずに、寝たいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:35:08",
+      "utterance": "そしたら、割とスッキリするかなとも思ったりします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:35:39",
+      "utterance": "そうですね。何も考えない時間も必要ですよね。まゆさんは、上司や仕事に対してこうなったらいいな～ということはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:36:07",
+      "utterance": "上司が理解ある人に代わってほしい(笑)",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:36:39",
+      "utterance": "わかります（笑）私もそういう上司がいますので。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:37:14",
+      "utterance": "逆に私は、抱えずに思ってることを言ってしまう方なので・・・",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:37:22",
+      "utterance": "そうなんですか",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:37:54",
+      "utterance": "はい。オンラインになって、コミュニケーションの取りずらさや連携のしずらさで、私も悩んでいました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:38:29",
+      "utterance": "どう解決されたのですか？",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:39:19",
+      "utterance": "解決出来てない(?_?)",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:39:27",
+      "utterance": "自分が何かを変えないと、何も変わらないと思ったので、自分からZOOM上でも声かけしたり、上司にも、思っていること言うようにしました！",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:40:43",
+      "utterance": "…誰かそういう人がいれば、そうなんでしょうけど、自分がそれをしようとは思わないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:41:17",
+      "utterance": "そこまでのパワーがなくて。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:41:33",
+      "utterance": "気力というか。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:42:04",
+      "utterance": "すみません、私の個人的意見です・・・まゆさんの、今のモヤモヤや、気力が戻れる方法を一緒に考えましょう。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:42:48",
+      "utterance": "何かありますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:43:30",
+      "utterance": "仕事以外で、気持ちを切り替えたり、何をしているときが楽しいって思えますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:43:49",
+      "utterance": "最近それがないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:44:03",
+      "utterance": "前はなにかありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:44:07",
+      "utterance": "楽しいっていう感じが。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:45:07",
+      "utterance": "前はお笑い番組とか、ドラマとか観たりしてたけど、最近TVも何か興味なくなってしまって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:46:07",
+      "utterance": "興味なくなってしまったのですね。お休みの日はなにをされていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:47:10",
+      "utterance": "メリハリがないから、ダラーッてお菓子食べてたり、ニュース観たり。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:47:39",
+      "utterance": "コロナの事は気になるから、一応観るんです。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:47:55",
+      "utterance": "はい。外出もしずらいですしね。おうちにいる時間が長くなると、メリハリなくなりますしね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:48:03",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:49:03",
+      "utterance": "オンライン飲み会も一度参加したけど、画面越しだと、何かむなしくなって、１回で止めました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:49:41",
+      "utterance": "逆に寂しくなっちゃって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:49:50",
+      "utterance": "オンライン飲み会私も苦手です・・・まゆさんは、とてもがんばり屋さんの印象です。毎日、環境が変わったテレワークも一生懸命されていますよね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:49:57",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:50:26",
+      "utterance": "毎日のがんばりを、ご自身でもっとほめてあげてもいいと思いますよ！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:50:26",
+      "utterance": "仕事はしないと、生活出来ないから。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:50:41",
+      "utterance": "ほめるんですか。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:51:04",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:51:28",
+      "utterance": "少し贅沢な物食べるとか?",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:51:40",
+      "utterance": "それもありですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:52:06",
+      "utterance": "良く、TVで最近やってますよね。巣籠もりして、楽しみないから。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:52:45",
+      "utterance": "気分変わりますかね…。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:53:21",
+      "utterance": "テレワークになって、誰かからほめられたり認められたり、話す機会が減ってしまうと少なくなっていると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:53:28",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:54:53",
+      "utterance": "気分変わると思いますよ！がんばられているご自身を、いっぱいほめて、いっぱいねぎらってあげると、やる気がでてきたり、生活にもはりが出てくると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:55:37",
+      "utterance": "そんな物でしょうか。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:57:09",
+      "utterance": "まゆさんは、こういうふうにしてみよう～と考えてみることはできそうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:57:29",
+      "utterance": "今はあまり…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:57:55",
+      "utterance": "とりあえず何とかしたいとは思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:58:31",
+      "utterance": "本当に鬱になったら、困るし。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:58:42",
+      "utterance": "そうですよ・・・巣ごもりでも、楽しみを見つけられるのも方法のひとつかもしれないですね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T20:59:23",
+      "utterance": "まずは楽しみを見つける事からかなー。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T20:59:46",
+      "utterance": "ぜひ楽しみを見つけてみてくださいね♪",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:00:02",
+      "utterance": "とりあえずやってみます",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:00:24",
+      "utterance": "応援しています。今日は、お話したいこと話せましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:00:42",
+      "utterance": "どうだろう…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:01:24",
+      "utterance": "また、どうしたらいいかわからなくなったら、来てもいいですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:01:55",
+      "utterance": "また、困ったときは、いつでもきてくださいね。お待ちしています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:02:00",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:02:29",
+      "utterance": "今日は、ご相談ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:02:46",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:03:10",
+      "utterance": "週末ゆっくり休んでくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:03:19",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:03:46",
+      "utterance": "これで終了させていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:04:24",
+      "utterance": "お疲れ様でした。詳細な感想はレポートで書きます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:04:44",
+      "utterance": "よろしくお願いします。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:05:29",
+      "utterance": "終了🆗です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-23T21:05:58",
+      "utterance": "終了させてもらいますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-23T21:06:04",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "テレワークによる気力の低下と鬱の兆候"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1236,
+    "評価作成日時": "2021-01-24T00:02:00",
+    "クライアント役ID": 112,
+    "カウンセラー役ID": 152,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1236,
+    "evaluation_created_at": "2021-01-24T00:02:00",
+    "client_id": 112,
+    "counselor_id": 152,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

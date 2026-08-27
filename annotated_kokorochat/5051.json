@@ -1,0 +1,497 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-15T09:50:51",
+      "utterance": "（本日はよろしくお願いします！）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T09:53:16",
+      "utterance": "おはようございます。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T09:53:59",
+      "utterance": "（時間になりましたら改めて始めさせていただきますね）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:00:18",
+      "utterance": "こんにちは。本日はご相談ありがとうございます。はじめに、性別、年齢、相談内容を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:01:23",
+      "utterance": "こんにちは。35歳、女性、子どもが宿題をなかなかせずゲームばかりしています",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:02:27",
+      "utterance": "教えてくださりありがとうございます。お子さんのことでお悩みなんですね。もう少し、お子さんのことを教えてくださいますか？お子さんはおいくつですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:02:46",
+      "utterance": "8歳です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:03:42",
+      "utterance": "そうなんですね。お子さんがゲームばかりしていると、どのようなお気持ちになりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:04:18",
+      "utterance": "いつになったら宿題、学校の準備をするのかとイライラします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:05:14",
+      "utterance": "そうですよね。イライラしますよね。そんな時はどのように声をかけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:05:52",
+      "utterance": "いつになったらやるの？と言っています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:08:08",
+      "utterance": "なるほど。お母様が注意してもなかなかやめられないので、困っているんですね。それは心配ですね・・・他に困っていることはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:10:10",
+      "utterance": "他に困っているというか、今言った事が毎日繰り返されていて疲れてしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:11:20",
+      "utterance": "そうなんですね。お子さんがなかなかゲームをやめず宿題をしないことが今、１番のお悩みということですね。では、今日はその解決策を一緒に探っていくということでよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:11:37",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:12:39",
+      "utterance": "それでは、お子さんが学校から帰ってからの生活の様子をもう少し詳しく教えてくださいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:14:18",
+      "utterance": "すぐに遊びに行ってしまったり、友達とゲームの約束をしていてゲームをしたりしています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:14:50",
+      "utterance": "なるほど、そうなんですね。何か、お家で約束事などはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:15:48",
+      "utterance": "ゲームは1回30分で平日は合計1時間と決めています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:16:40",
+      "utterance": "そうなんですね。お家の方でお子さんとルールを決めているのですね。その約束は、お子さんはどんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:17:26",
+      "utterance": "最初からの約束なので特に何も言われないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:18:17",
+      "utterance": "そうなんですね。でもなかなか守ることが難しい感じですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:19:17",
+      "utterance": "時間は多少過ぎる事がありますが、ほぼ守っています。そこから宿題等に取り掛かるまでがスムーズにいかなくて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:20:43",
+      "utterance": "なるほど、そうだったんですね。お子さんは約束を守ることができる、つまり自分をコントロールができていて素晴らしいですね。あとは、宿題をスムーズにやってくれるといいですね。何か方法を試したことや、上手くいったことなどはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:22:08",
+      "utterance": "何も上手くいかず、どうしたらいいかがわからなくて困っています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:23:26",
+      "utterance": "そうだったんですね。いろいろ試すけど、上手くいかずに困っているということですね。悩みますね。ゲームをする時間と宿題などをする時間を逆にするというのはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:25:14",
+      "utterance": "最初はそれでした。でも上手く行かずゲームを先にしていいよと言ったのですがそれでも上手く行かず。今はどちらが先でもとくに気にしていません。とりあえず宿題をしてくれたらいいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:25:51",
+      "utterance": "ゲームを取り上げるのもあまり効果がありませんでした。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:26:22",
+      "utterance": "そうだったんですね。今はどちらが先でも、ということは、宿題を先でもいいということでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:26:37",
+      "utterance": "そうです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:27:09",
+      "utterance": "つまり、その方法だと、宿題はやることが出来ますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:28:42",
+      "utterance": "どちらが先でも宿題はなんだかんだでやるのですが、文句が多いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:29:21",
+      "utterance": "なるほど。文句とはどのような文句でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:30:03",
+      "utterance": "学校無くなれ、宿題うざい、何で勉強しなきゃいけないんだ等",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:31:02",
+      "utterance": "そうなんですね。そんなお子さんを見られて、どのような気持ちになりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:31:17",
+      "utterance": "理解できません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:32:08",
+      "utterance": "なるほど。理解できない、という気持ちなんですね。そんな時、お子さんに何か言われたりしますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:33:31",
+      "utterance": "小声でボソボソ何か文句言っていてよく聞き取れませんが、うざいとか言ってると思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:34:25",
+      "utterance": "「うざい」というのはお子さんが言うのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:34:59",
+      "utterance": "そうですただ聞き返すと言ってないと言われます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:36:29",
+      "utterance": "そうなんですね。あなたとしては、文句など言わずにスムーズに宿題や学校の準備をして欲しい。ゲームばかりしないで欲しいと言うことが、理想的だ思う。そのような解釈であっていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:36:53",
+      "utterance": "その通りです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:37:27",
+      "utterance": "ありがとうございます。それでは、ここまでの内容を少し整理してもう一度考えてみたいと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:37:35",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:39:18",
+      "utterance": "お子さんが帰宅して、まず宿題や準備をする。そしてそのあとゲームを約束の時間を守ってする。それができたら、ご相談者様としては安心できますか？ただ、宿題をするときにお子さんが文句を言いながら、と言うのが気になりますね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:40:05",
+      "utterance": "そうですね、それが理想です。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:40:35",
+      "utterance": "一つ提案なんですが、もしよかったら、お子さんとじっくりお話をする時間をとってみるというのはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:41:10",
+      "utterance": "どのような話をしたらいいんですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:41:58",
+      "utterance": "そうですね。お子さんとはゆっくりお話しすることはできそうですか？今はどんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:42:50",
+      "utterance": "できます。今はどんな感じとはどういう事でしょうか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:43:46",
+      "utterance": "わかりにくくてごめんなさい。今は、お子さんとゆっくり話すことはありますか？と言う意味でしたが、ご理解できましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:44:47",
+      "utterance": "寝る時等にゆっくり話せています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:46:37",
+      "utterance": "なるほど、そうだったんですね。では、その時間を利用してでも大丈夫なんですが、宿題をする時、どんな気持ちなのかを聞いてあげることや、ゲームの約束をしっかり守っているのはすごいと褒めてあげることなどを話してみると言うのはいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:48:08",
+      "utterance": "そして、まず、宿題や準備ができたら、ゲームをしっかり楽しんでやっていいよ。というふうに、お子さんが納得して一緒にルールを決めるというのが良いのではないかなと思いますが、こちらもいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:48:13",
+      "utterance": "はい、やってみます。ただなんで宿題やらなきゃいけないの？と言われたら何と答えたらいいのでしょう。私自身が疑問を持った事がないので答え方がわかりません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:48:47",
+      "utterance": "その取り組みはやりましたが失敗しています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:50:04",
+      "utterance": "なるほど、そうだったんですね。宿題は、学校で勉強したことを、しっかり頭の中にインプット（覚える）ためにやるんだよ、とか、将来もっとお家で勉強する時間が増えた時のための今は練習だよとかいかがでしょうか？",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:51:05",
+      "utterance": "そうですね、伝えてみます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:51:37",
+      "utterance": "そうたっだんですね・・・失敗していたのですね。少しではやり方を変えてみないと・・・ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T10:54:44",
+      "utterance": "今日は、お子さんがゲームをやめられず、宿題などをスムーズにしてくれないことに悩んで、こちらにお越しいただきました。こちらの提案も今まで試したけど上手くいかなかったとのことで、良い解決策が見つからず、大変恐縮です。一つ、お子さんとゆっくりお話をされてみて、何か変化が出てくるか、試してみて、また続きをご相談いただくことは可能ですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T10:55:33",
+      "utterance": "はい、お願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T11:00:30",
+      "utterance": "お返事がないようですが、お時間が来てしまいました。最後に。ご相談者様は、とても日々、子育てや家事を頑張る中でお子さんのことを真剣に考えているからこそ悩まれるのだと思います。本当に毎日大変なことと思います。お子さんが自分のためにお母さんが一生懸命考えてくれているということが伝わると信じています。またご相談に来てくださることをお待ちしています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T11:01:04",
+      "utterance": "またよろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T11:01:55",
+      "utterance": "最後に、ご相談者様は、毎日お子さんに真剣に向き合っておられて、本当によく頑張っておられると思います。きっと上手くいくと信じています。またご相談に来られることをお待ちしています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-15T11:02:16",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-15T11:02:53",
+      "utterance": "（１０：５５からしばらく通信ができなくなり、返事が遅くなってしまいました。大変申し訳ありませんでした。時間になりましたので、これで終了させていただきます。ありがとうございました）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子育てにおける親子のコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5051,
+    "評価作成日時": "2023-05-15T11:22:00",
+    "クライアント役ID": 385,
+    "カウンセラー役ID": 376,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5051,
+    "evaluation_created_at": "2023-05-15T11:22:00",
+    "client_id": 385,
+    "counselor_id": 376,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-09-19T12:56:23",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T12:56:31",
+      "utterance": "システム上のエラーで遅くなりました。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:00:52",
+      "utterance": "こんにちは。相談員です。ご年齢と性別、本日相談したいことを教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:02:12",
+      "utterance": "17歳、女です学校にずっと行っていなくて、やばいのかなと思ってここに来ました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:03:15",
+      "utterance": "教えてくれてありがとうございます。やばいと思っているのですね。もう少し詳しく教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:03:37",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:04:21",
+      "utterance": "何から話したらいいですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:04:54",
+      "utterance": "話したいことなんでも大丈夫ですよ",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:05:26",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:06:17",
+      "utterance": "学校行っていないのは、やばいですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:07:27",
+      "utterance": "質問を質問で返してしまってすみません。ご相談者様はどう思いますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:08:30",
+      "utterance": "やっぱり他の人は通っているし、やばいのかもと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:09:13",
+      "utterance": "そう感じていらっしゃるのですね。何か学校に行けない理由がもしあったらお話できる範囲で大丈夫ですので、お話していただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:11:00",
+      "utterance": "今から学校に行っても自分のいるとこがない気がして、行きたくないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:12:14",
+      "utterance": "それは、不安にもなりますよね。学校には、一日でも行きましたか。もし行ったのであれば、クラスの雰囲気はどうでしたか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:12:54",
+      "utterance": "行きました。クラスは普通です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:13:28",
+      "utterance": "そうなのですね。でも行きづらい、タイミングを失くしてしまったという感じですか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:13:59",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:14:58",
+      "utterance": "タイミングはズレてしまうと行きづらくなってしまいますよね。よくわかります。いくつか聞かせてくださいね。学校に行けなくなったのは、いつからですか。何かきっかけはありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:16:14",
+      "utterance": "去年の夏休みからです。特に理由はなかったんですけど、そのままずるずる休んでいました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:17:52",
+      "utterance": "そうなのですね。休んでしまうことに対して不安は大きくなっていった感じですか。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:18:16",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:19:07",
+      "utterance": "先ほど、ヤバいという表現をされていましたが、どんなことが一番、不安に感じていますか。学習ですか、友達関係ですか、それとも他に何かありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:19:32",
+      "utterance": "何かあれば何でも大丈夫ですよ",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:19:44",
+      "utterance": "勉強もですし、友達もです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:21:25",
+      "utterance": "両方のですね。つらい気持ち、不安な気持ち両方ありますよね。では、もしもの話ですが、今の学校に戻りたい気持ちと、他の学校に行きたい気持ちはどちらが強いですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:22:28",
+      "utterance": "あー他の学校…考えていなかったです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:23:22",
+      "utterance": "そうですね。そのような選択肢もありますよね。あらためてどちらがよさそうですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:23:56",
+      "utterance": "大丈夫ですよ。じっくりと考えてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:24:47",
+      "utterance": "他の学校に行ければいきたいけど、私がいるとこ田舎なんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:24:50",
+      "utterance": "それに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:25:33",
+      "utterance": "今の学校自体がたぶん嫌なわけではないんですよね、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:27:39",
+      "utterance": "それは大変ですね。転校はなかなか難しい。でも、今の学校が嫌な訳ではない。ただ、タイミングやきっかけがないとい感じですか",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:28:56",
+      "utterance": "たぶんそうなんですかね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:29:12",
+      "utterance": "そうなのですね。では、きっかけさえあれば、学校に通えるようになる。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:29:49",
+      "utterance": "たぶん",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:30:07",
+      "utterance": "それは、どんなきっかけがあれば、学校に行けそうですか。直感で大丈夫ですよ。また、誰かの助けがあるとよいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:31:02",
+      "utterance": "できれば友達がいたらいいですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:31:57",
+      "utterance": "そうなのですね。友達の存在は大きいですよね。誰かつながっている同じ学校の友達はいますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:33:13",
+      "utterance": "学年変わるまでは前のクラスの友達と連絡取ってたんですけど、今は全然です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:33:40",
+      "utterance": "久しぶりに連絡をとってみるのはいかがですか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:34:18",
+      "utterance": "そうですね…",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:35:53",
+      "utterance": "少しずついろいろなところの選択肢が拡がってきましたね。あくまで、提案になってしまいますが、もし、ご相談者様が連絡しようと決めたのであれば、電話とかメールとかどちらがよさそうとかありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:37:10",
+      "utterance": "LINEです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:39:15",
+      "utterance": "そうですよね。今どきはlineですよね。では、lineで連絡するとしたら、どんなことを話したいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:40:17",
+      "utterance": "うーん",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:40:29",
+      "utterance": "特に思いつかないです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:40:49",
+      "utterance": "げんき？とか？",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:40:58",
+      "utterance": "迷ってしまいますよね。当然だと思います。考えてくれただけでも素晴らしいです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:41:21",
+      "utterance": "では、最近、学年どんな感じとかは、いかがですか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:41:43",
+      "utterance": "あーそうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:41:56",
+      "utterance": "そして、他愛のない会話をしてみるのは、いかがですか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:42:21",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:42:38",
+      "utterance": "では、他愛のない話ってどんなこと話しましょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:43:22",
+      "utterance": "うーんまず連絡するとこからが勇気出ないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:43:54",
+      "utterance": "そうなのですね。でも、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:44:26",
+      "utterance": "まずそのことを思いついただけでもすごいですよ",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:45:14",
+      "utterance": "では、ここで振り返りをさせてください。はじめは、学校に行かないといけないという危機感をもち、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:47:00",
+      "utterance": "転校という選択肢もありながら、今の学校に戻ることに決めて、友達がいることに気づき、友達に連絡をしようと考えてくれてなかなか勇気がでないが、選択肢の一つということがわかったという感じで大丈夫ですか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:48:20",
+      "utterance": "学校に戻るとは決めてないかな…",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:49:21",
+      "utterance": "そうなのですね。まだ学校に戻ることは決めていないのですね。迷うことはたくさんあると思います。では、今日一番お話したいことは何ですか。このままでも、いや実は他にお話がとか、これだけはいいたいとかなんでもいいですよ。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:51:12",
+      "utterance": "そうですね友達にどうやったら連絡できるようになるか知りたいです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:51:48",
+      "utterance": "じっくり考えてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:52:19",
+      "utterance": "ご相談者様は何か直感でもいいので、何かアイデアはありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:53:33",
+      "utterance": "わからないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:53:51",
+      "utterance": "そうですよね。では、提案になってしまうのですが、挨拶だけでもいいのかなと思うのですが、いかがですか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:55:04",
+      "utterance": "挨拶ってどこでするんですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:55:56",
+      "utterance": "友達にラインでまずは、挨拶だけでもいいのかなと思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:56:32",
+      "utterance": "どんな挨拶するんですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:57:04",
+      "utterance": "久しぶりなど何でもよいと思いますがいかがですか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:58:01",
+      "utterance": "なんか急に用もなく連絡って変かなって思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:58:45",
+      "utterance": "そうですね。なかなか難しいですよね。何かきっかけ探しをするのもよいですね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:58:54",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:59:18",
+      "utterance": "では。お時間が近づいてきました。ご相談者様が、自分を見つめて学校に行かなくては、学習も友達とも大切にしなければという考えは、素晴らしいと思います。また、でもなかなかできないという辛さもよくわかります。友達と連絡するということが頭に浮かんだだけでもすごいです。また、もし、家族で協力してもらえる人がいたらいいですね。また、カウンセラーにご相談くださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T13:59:40",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T13:59:58",
+      "utterance": "では、終わらせていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T14:00:06",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-19T14:00:25",
+      "utterance": "（ありがとうございました。勉強になりました。失礼いたします。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-19T14:00:46",
+      "utterance": "(お疲れさまでした。ありがとうございました。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "登校しない理由と友達関係の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4002,
+    "評価作成日時": "2022-09-19T14:46:00",
+    "クライアント役ID": 155,
+    "カウンセラー役ID": 293,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4002,
+    "evaluation_created_at": "2022-09-19T14:46:00",
+    "client_id": 155,
+    "counselor_id": 293,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

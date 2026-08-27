@@ -1,0 +1,751 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-14T20:50:42",
+      "utterance": "こんばんわ。本日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T20:52:13",
+      "utterance": "こんばんは、よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T20:52:51",
+      "utterance": "お時間になりましたら始めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T20:55:14",
+      "utterance": "承知しました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:00:25",
+      "utterance": "こんばんわ。相談員です。今日はご相談頂きありがとうございます。ご年齢と性別、どんなご相談か、お聞かせ願えますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:01:06",
+      "utterance": "15、男、親がゲームを買ってくれない",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:01:49",
+      "utterance": "ありがとうございます。なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:02:28",
+      "utterance": "欲しいと伝えているのに、買ってくれないんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:02:40",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:02:56",
+      "utterance": "そうですか。それは悲しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:03:14",
+      "utterance": "ムカつく。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:03:28",
+      "utterance": "どんなゲームですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:03:52",
+      "utterance": "マイクラとか色々。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:04:22",
+      "utterance": "そうなんですね。。前からほしいって言ってるのに買ってくれないのはムカつきますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:04:42",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:04:54",
+      "utterance": "いつ頃からほしいって言ってるんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:05:55",
+      "utterance": "ずっと前から。中学生の時も我慢してた。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:06:19",
+      "utterance": "そうなんですね。。ずっと我慢してるんですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:06:48",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:07:06",
+      "utterance": "親御さんは、なんて言っているんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:08:21",
+      "utterance": "高校生になったら買ってくれるって言ってたのに、勉強ができなくなったらダメだから、やっぱり無理って。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:09:41",
+      "utterance": "そうなんですね。。ちゃんと約束したのに、おかしいって思うのも当然だと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:10:14",
+      "utterance": "だよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:11:05",
+      "utterance": "それをおかしいって伝えても、駄目の一点張りなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:11:15",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:11:33",
+      "utterance": "なるほど。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:12:49",
+      "utterance": "いくら言っても絶対に買ってくれないと思う。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:13:28",
+      "utterance": "そうなんですね。なかなか厳しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:14:24",
+      "utterance": "友達はみんなゲームの話しして盛り上がってるのに、俺だけついてけない。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:15:02",
+      "utterance": "うんうん。そうですよね。話に入れないのは面白くないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:15:13",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:15:35",
+      "utterance": "ちゃんと高校に入ったのに、って思っちゃいますしね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:16:01",
+      "utterance": "うん、そうそう。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:16:35",
+      "utterance": "今は高校一年生ですよね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:16:42",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:17:15",
+      "utterance": "なら、新しい友だちもできて、ゲームの話で盛り上がったりしたいですもんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:17:32",
+      "utterance": "うん。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:18:31",
+      "utterance": "どうしたら、親御さんが納得して買ってくれるでしょうかね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:19:30",
+      "utterance": "わからない。だから相談しにきた。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:19:44",
+      "utterance": "そうですよね。しつれいしました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:21:02",
+      "utterance": "中間テストがあったと思うんですけど、結果はどんな感じでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:22:23",
+      "utterance": "まぁまぁ、だった。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:22:38",
+      "utterance": "答えにくいかもしれない質問、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:22:48",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:23:29",
+      "utterance": "先程、勉強ができなくなったら困るからって言うのが、理由になってたので",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:24:41",
+      "utterance": "その点を納得させてあげれば、OKがでるかもしれないな。と相談員は思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:24:56",
+      "utterance": "いかかですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:25:16",
+      "utterance": "たしかに。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:26:57",
+      "utterance": "私には相談者様の「まぁまぁ」が把握できないのですが、親御さんに見せて、大丈夫な感じであれば、ご相談してみるのも手かもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:27:45",
+      "utterance": "あとは・・・学校で友人と共通の話題で話せなくって困ってる。というのも、伝えてみたら考えてくれるかもしれませんよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:28:36",
+      "utterance": "まぁまぁ、は、平均ぐらいってこと。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:29:18",
+      "utterance": "友達とのことは言ってみたけど、動じなかった。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:29:58",
+      "utterance": "ちなみに親には見せたよ。テスト。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:30:05",
+      "utterance": "なるほど。。そうなんですか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:30:18",
+      "utterance": "親御さんは、なんて言ってましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:31:23",
+      "utterance": "これじゃあゲームは無理に決まってるだって。求めてくる点数が絶対無理な感じ。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:32:49",
+      "utterance": "そうなんですか・・・。そんな絶対ムリな点数求められても、って、思いますね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:33:19",
+      "utterance": "うん。マジ凹むわー。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:33:51",
+      "utterance": "凹みますね。。どうしていいのかわからなくなりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:34:11",
+      "utterance": "マジで。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:36:19",
+      "utterance": "中学生の時から我慢しているって言っていましたが、それもずっと成績が理由なんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:37:49",
+      "utterance": "うん、まぁ、高校受験するからって。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:38:04",
+      "utterance": "ああ、なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:40:39",
+      "utterance": "やっぱ無理よなー、こんなこと相談しても解決できないのはわかってた。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:41:35",
+      "utterance": "親御さんからは、ちょっと難しいかもしれませんね",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:42:34",
+      "utterance": "あー、おばあちゃんにねだるとかか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:42:37",
+      "utterance": "おこずかいとか、お年玉とかで、自分でなんとかする方法は",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:43:05",
+      "utterance": "そうですね。おばあちゃんにねだるのもいいのかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:44:19",
+      "utterance": "ただ、親に黙ってゲームを買ったことが、親に知られたらどうなるのかなというのは、相談員は心配です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:45:01",
+      "utterance": "うん、そうだね。それはヤバそう。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:45:21",
+      "utterance": "隠れてやればって言うのは難しいんでしょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:46:07",
+      "utterance": "お小遣いもお年玉も、少なすぎで学校帰りのコンビニで使うから、ゲームまで残せとけない。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:46:30",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:47:32",
+      "utterance": "おばあちゃんから、相談者様の親御さんに、伝えてもらうのも手かもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:48:08",
+      "utterance": "なるほど。それならできそうかも。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:48:27",
+      "utterance": "高校に入ったらOKって約束したのに買ってくれないことや、仲間と共通の話題で話せなくて困ってることを",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:48:58",
+      "utterance": "おばあちゃんを通じて伝えてもらえば、自分でいうよりも違うかなと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:49:15",
+      "utterance": "たしかに！",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:50:14",
+      "utterance": "おばあちゃんも、孫の頼みなら買ってあげたいと思うでしょうが",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:50:54",
+      "utterance": "相談者様の両親の手前、勝手に買い与えるのも・・・って気を使っていることもあると思うので",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:51:11",
+      "utterance": "効果はあるかなって思いますよ",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:51:31",
+      "utterance": "なるほど。やってみる！おばあちゃんには、オレから言われたって言わないように口止めしといた方がいいかなぁ？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:53:44",
+      "utterance": "おばあちゃんには「孫からゲームが欲しいって相談されたんだけど」っていう形で言ってもらったほうがいいかもしれませんね",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:54:00",
+      "utterance": "そう？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:54:07",
+      "utterance": "なんで？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:54:38",
+      "utterance": "おばあちゃんも、そのあたりは気を回してくれるかなと思いますよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:55:17",
+      "utterance": "そうかぁ。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:55:19",
+      "utterance": "私が買い与えても良いなら、買ってあげたいんだけど、とか、親御さんに言ってくれるのではないかなと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:56:02",
+      "utterance": "それで、おばあちゃんから買ってもらえるならそれでもOKですし",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:56:24",
+      "utterance": "そうかなぁ。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:56:27",
+      "utterance": "親御さんが考え直して、親御さんが買ってくれるならそれでもOKですよね",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:56:55",
+      "utterance": "そんな上手くいくかわからないけど。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:57:19",
+      "utterance": "でも、あくまでも提案なので、親御さんとおばあちゃんの関係性とかも、私には分かりませんので",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:58:01",
+      "utterance": "相談者様の、良いなって思う方法でアプローチしてみると良いと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:58:16",
+      "utterance": "うん、わかった！ありがとう！",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:58:27",
+      "utterance": "他に話し足りないことはございますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:58:38",
+      "utterance": "大丈夫！",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:59:07",
+      "utterance": "では、これで終了させていただきますね。少しは気持ちが楽になられたなら嬉しいです。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:59:32",
+      "utterance": "うん、なったなった。ありがとう。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:59:47",
+      "utterance": "メリハリをつけて、勉強にゲームに、友達と楽しんで、学校生活を満喫してくださいね。応援しています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:00:02",
+      "utterance": "サンキュー",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:00:13",
+      "utterance": "また何か相談したいことがございましたら、お待ちしています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:00:25",
+      "utterance": "ラジャー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:00:33",
+      "utterance": "ご利用ありがとうございました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:00:49",
+      "utterance": "（ありがとうございました）",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:00:50",
+      "utterance": "（ロールプレイ終了します。本日はありがとうございました。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親とのゲーム購入に関する対立"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5280,
+    "評価作成日時": "2023-06-14T22:51:00",
+    "クライアント役ID": 371,
+    "カウンセラー役ID": 400,
+    "点数": 100,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5280,
+    "evaluation_created_at": "2023-06-14T22:51:00",
+    "client_id": 371,
+    "counselor_id": 400,
+    "score": 100,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

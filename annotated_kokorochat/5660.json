@@ -1,0 +1,795 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:22:10",
+      "utterance": "（こんばんわ。時間になりましたら始めさせていただきます。よろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:22:44",
+      "utterance": "こちらこそ宜しくお願いします。何かリクエストはありますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:24:15",
+      "utterance": "できたら若年層の相談をお願いします。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:26:35",
+      "utterance": "了解です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:28:22",
+      "utterance": "ありがとうございます。よろしくお願いいたします。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:30:25",
+      "utterance": "こんばんわ。相談員です。まず初めに年齢と性別、今日お話ししたいことを教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:30:47",
+      "utterance": "こんばんは！よろしくです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:31:07",
+      "utterance": "よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:31:15",
+      "utterance": "ここの相談は誰にも言わないで秘密にしてくれるんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:31:53",
+      "utterance": "はい。誰にもいいません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:32:15",
+      "utterance": "バレたくないんで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:33:11",
+      "utterance": "そうなのですね。安心してお話していただいて大丈夫ですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:33:33",
+      "utterance": "じゃ，これからどうすればいいですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:34:33",
+      "utterance": "このまま書けばいいですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:35:12",
+      "utterance": "そうですね。まずお話したいことを教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:36:13",
+      "utterance": "彼氏のことです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:36:55",
+      "utterance": "パートナーさんのことについてですね。具体的に教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:37:10",
+      "utterance": "パートナー？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:37:30",
+      "utterance": "なんですか，それ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:37:57",
+      "utterance": "彼氏さんとお呼びした方が良かったですね。失礼しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:38:09",
+      "utterance": "？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:38:39",
+      "utterance": "答えになってないですけど？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:39:22",
+      "utterance": "彼氏さんをパートナーさんとお呼びした方が話しやすいかと思いました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:39:35",
+      "utterance": "なんでですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:41:15",
+      "utterance": "そうですね。彼氏さんという呼び方を嫌う方もいるのでそう書かせていただいたのですが。。。。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:41:43",
+      "utterance": "え！そうなんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:41:48",
+      "utterance": "意味わかんない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:42:11",
+      "utterance": "彼氏ってみんな言ってるし、どんな問題があるんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:43:44",
+      "utterance": "そうお感じになるのですね。感じ方は人それぞれなのでそれを不愉快と捉えるかたもいらっしゃるかと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:43:59",
+      "utterance": "へー",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:44:12",
+      "utterance": "初耳",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:45:03",
+      "utterance": "だってみんな使ってるよ？",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:45:54",
+      "utterance": "ご主人様とか旦那様はいけないって聞いたけど",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:46:00",
+      "utterance": "そうですよね。色んな考えの方がいらっしゃるので理解できないこともあるかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:46:29",
+      "utterance": "男女差別に繋がるからって、学校で言ってた",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:47:08",
+      "utterance": "彼とか、彼女とかも使わないのは言ってなかったなー。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:47:48",
+      "utterance": "男尊女卑とかの話だった。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:48:18",
+      "utterance": "そうなんですね。授業で色んな話を聞いておられるのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:48:37",
+      "utterance": "また聞いてみよー！",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:49:32",
+      "utterance": "そうですね。いろんな視点から人の話を聞くことは大事なことと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:49:44",
+      "utterance": "彼氏の話なんですけど、束縛が激しいというか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:50:00",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:50:22",
+      "utterance": "他の男子と話すのもヤキモチ妬くんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:51:26",
+      "utterance": "もしかしてあなたは男性ですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:52:12",
+      "utterance": "男性だと問題がありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:52:56",
+      "utterance": "上のレス読んでます？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:53:39",
+      "utterance": "他の男子とと話すちやきもちやくから、男子とはLINEもしてないんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:54:11",
+      "utterance": "そうなんですね。束縛が強いとしんどくなることもありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:54:32",
+      "utterance": "しんどいというか、めんどくさい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:55:25",
+      "utterance": "しんどいという気持ちよりもめんどくさいという気持ちが強いんですね。今の彼氏さんとは付き合ってどれくらいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:55:45",
+      "utterance": "えっと3ヶ月くらいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:56:20",
+      "utterance": "そうなんですね。付き合った当初から束縛はあったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:57:04",
+      "utterance": "初めは嬉しかったけど、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:57:18",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:57:49",
+      "utterance": "ちょっとHな写真も送ってあげたら喜んでたから、かわいいなとも思うけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T19:58:13",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T19:58:24",
+      "utterance": "自分のオナってる動画を送られてちょっと引いた。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:00:15",
+      "utterance": "そうなんですね。相談者さんはそのように感じられているのですね。束縛やそのような動画に関して彼氏さんと話したことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:00:43",
+      "utterance": "話してない。けど夏休み前に、児童ポルノの話も学校で聞いてるし、送ってくるなよと思った",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:02:31",
+      "utterance": "そうだったんですね。それは困ることもありますよね。彼氏さんとは夏休みの間も連絡を取ったり、会ったりしていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:03:37",
+      "utterance": "会ってますよ。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:03:46",
+      "utterance": "昨日も一緒だったし",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:04:00",
+      "utterance": "夜中はいつも携帯繋いでるし",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:05:05",
+      "utterance": "困ることってどんなことを想定していますか？",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:05:45",
+      "utterance": "頻繁に連絡を取ったりしているのですね。相談者さんは彼氏さんにどうなってほしいと思っていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:06:15",
+      "utterance": "私は困るというより、ウザ、キモって思う",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:06:59",
+      "utterance": "付き合ってるんだから頻繁に連絡取るの当たり前じゃないの？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:07:34",
+      "utterance": "困ることの想定としては反応に困ったり他に人に見られたらどうしようとか思うんではないかと考えたのですが、うざいやきもいと感じられているのですね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:07:52",
+      "utterance": "朝おはよう！から💤おやすみmade、何度も連絡取りますよ。普通",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:10:14",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:10:18",
+      "utterance": "彼氏はかっこいいし、今のまま優しくいてほしい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:10:54",
+      "utterance": "ただ、私の行動を監視しないでほしい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:11:36",
+      "utterance": "彼については優しくいてほしいけど束縛をあまりしないでほしいという考えをお持ちなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:12:23",
+      "utterance": "連絡取らないで，付き合ってるってあり得るの？連絡とってないなら、それは，終わったってことなんじゃないの？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:12:59",
+      "utterance": "先ほど、他の男性と話すのもやきもちを焼くということでしたが、他にはどんなことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:13:35",
+      "utterance": "そうですね。そういう考えも一つかもしれないですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:13:42",
+      "utterance": "聞いてどうするのですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:14:01",
+      "utterance": "わたしも彼には女の子と話して欲しくない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:15:00",
+      "utterance": "一つの考え？他にはどんな考えがあるのでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:15:12",
+      "utterance": "いろんな話を聞かせていただいて今悩まれている問題を一緒に考えて解決していけたらと思ったのですが。。。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:15:27",
+      "utterance": "無理そうな気がする…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:15:53",
+      "utterance": "相談者さんも他の女の子と話してほしくないとお感じなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:17:08",
+      "utterance": "私は彼が女の子と話していると、嫌だなとは思うけど、クラスで他の女子と全く話さないってのも変だと思うから、我慢する",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:17:55",
+      "utterance": "2人で出かけるのは、なしかな。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:17:56",
+      "utterance": "1つの考えの他には毎日ではなくても連絡を取り合っていれば大丈夫な人たちもいるでしょうしいろいろな考えの方がいるので相談者さんの考えも一つの考えだなと思いました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:18:43",
+      "utterance": "彼は、隣の席の男子の消しゴム拾うだけでもヤキモチ妬くんですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:19:28",
+      "utterance": "彼氏さんがクラスの子と会話しているのは我慢しているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:19:51",
+      "utterance": "あ、話してるとは思う",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:20:43",
+      "utterance": "けどさ、みんな普通に男女関係なく話していいんじゃないのかな？",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:21:18",
+      "utterance": "そうなのですね。消しゴムを拾うだけでもヤキモチ焼かれると確かに鬱陶しく感じられますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:22:23",
+      "utterance": "それだけ彼は私のことが好きってことなんだよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:23:28",
+      "utterance": "そのようにお考えになられているのですね。男女関係なく会話していも相談者さんは彼氏さんに嫉妬とかヤキモチは焼かないのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:23:49",
+      "utterance": "動画のこと、うざ、キモって言わなかったのは、彼が気にして余計イジイジするから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:24:26",
+      "utterance": "あなたは結婚しているんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:24:40",
+      "utterance": "そうですね。彼氏さんは相談者さんのことを大切に思ってらっしゃるからこその行動かもしれませんね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:24:59",
+      "utterance": "奥さんが他の人，宅配便の男の人と話すと，ヤキモチ妬きますか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:25:41",
+      "utterance": "彼のオナってる写真削除してもいいかなー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:26:55",
+      "utterance": "ごめんなさい。相談員のプライべートのことはお話しできないのですが、異性と話していたらヤキモチは焼かないにしろ気になるかもしれないですね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:28:16",
+      "utterance": "相談員のプライベートなこと？よく意味がわからないけど、奥さんが宅配受け取るのもダメなんですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:29:27",
+      "utterance": "ごめんなさい。そろそろ相談時間終了の時間がきてしましました。また相談時間にメッセージを送っていただけたらお話の続きができますのでお話したくなったらいつでも来てください。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:29:57",
+      "utterance": "お話の途中でしたが、今日はいかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:30:06",
+      "utterance": "18歳未満の性的写真所持も違反行為と聞いています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:31:07",
+      "utterance": "そうですね。写真は削除してもいいかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:31:15",
+      "utterance": "ごめんなさい。なぜ私の話よりも、どうだったかを優先するのでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:31:30",
+      "utterance": "削除していいんですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:31:49",
+      "utterance": "分かりました。時間です。終わりです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:31:53",
+      "utterance": "さようなら",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-30T20:32:23",
+      "utterance": "(カウンセラー役さんお疲れ様でした)",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:32:29",
+      "utterance": "本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-30T20:32:50",
+      "utterance": "（お疲れさまでした。ありがとうございました。）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼氏の束縛とコミュニケーションの問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5660,
+    "評価作成日時": "2023-08-30T21:28:00",
+    "クライアント役ID": 2,
+    "カウンセラー役ID": 410,
+    "点数": 20,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5660,
+    "evaluation_created_at": "2023-08-30T21:28:00",
+    "client_id": 2,
+    "counselor_id": 410,
+    "score": 20,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

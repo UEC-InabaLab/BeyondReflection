@@ -1,0 +1,527 @@
+{
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "職場でのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 720,
+    "評価作成日時": "2020-11-16T15:41:00",
+    "クライアント役ID": 69,
+    "カウンセラー役ID": 114,
+    "点数": 73,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 720,
+    "evaluation_created_at": "2020-11-16T15:41:00",
+    "client_id": 69,
+    "counselor_id": 114,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  },
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-15T12:57:00",
+      "utterance": "本日はよろしくお願いします。13時になりましたら開始させていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T12:57:21",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:00:30",
+      "utterance": "こんにちは、相談員です。本日はよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:00:49",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:00:59",
+      "utterance": "初めに、年代と性別、ご相談されたいことをお教えいただけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:02:09",
+      "utterance": "30代 男性人間関係で悩んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:03:20",
+      "utterance": "人間関係ですね。それは悩んでしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:03:39",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:03:49",
+      "utterance": "具体的に、人間関係のどのようなことでお悩みか、詳しくお伺いしてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:05:54",
+      "utterance": "仕事に就いても、すぐ辞めてしまいます。人とうまくコミュニケーションがとれません。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:08:10",
+      "utterance": "なるほど。。それはお辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:08:18",
+      "utterance": "お仕事に就いても、うまくコミュニケーションが取れないことが原因でやめてしまうことが多いという事でしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:09:07",
+      "utterance": "そうなります。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:09:30",
+      "utterance": "そうだったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:09:50",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:10:34",
+      "utterance": "ここですみません、どのようにお呼びかけしたらよいかお教えいただけますでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:11:51",
+      "utterance": "ナカイと呼んでください。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:12:05",
+      "utterance": "ナカイさんですね、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:12:41",
+      "utterance": "ナカイさんは、どのようなときにうまくコミュニケーションが取れていないな、と感じられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:15:15",
+      "utterance": "相手に話が伝わってないときです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:15:51",
+      "utterance": "相手に話が伝わらない・・・それは確かに悲しくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:16:53",
+      "utterance": "悲しくなります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:17:08",
+      "utterance": "ちなみにナカイさんは今はお勤めでいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:17:59",
+      "utterance": "仕事辞めました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:18:18",
+      "utterance": "なんか、情けなくなります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:18:32",
+      "utterance": "教えてくださりありがとうございます。そうなんですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:19:10",
+      "utterance": "情けなく感じられるお気持ち、わかります。けれど、ご自身を責めないでくださいね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:20:05",
+      "utterance": "どうしたらいいのか分かりません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:20:51",
+      "utterance": "ええ・・苦しいですよね。どうしていったらいいか、よかったら一緒に考えていきましょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:21:12",
+      "utterance": "お話戻りますが、相手に話が伝わらないというのは、例えば言いたいことが100％相手に伝わっていないなという感じですか？それとも、誤解されて受け取られてしまうなど・・・",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:23:57",
+      "utterance": "誤解はないです。100%相手に伝わっています。ただ、相手が耳を傾けていなくて話を聞いてないことがあります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:24:28",
+      "utterance": "それで、いつも責められます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:25:28",
+      "utterance": "なるほど、伝えたいことを伝えているのに、相手が話を聞いていなくて、「聞いていない」などと後から責められる、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:26:06",
+      "utterance": "なんだか理不尽な感じがしますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:26:38",
+      "utterance": "理不尽すぎて、嫌になります。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:28:47",
+      "utterance": "ええ、嫌になるもの無理ないです。相手の方とお話になられるのは、業務上のお話がメインでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:29:43",
+      "utterance": "ほとんど、仕事の内容です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:30:32",
+      "utterance": "そうなんですね。ちなみに、お話の相手になるのは上司や部下、どのような方が多いでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:31:09",
+      "utterance": "上司がメインです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:32:00",
+      "utterance": "上司に話すのにはただでさえ気を遣う部分があるのに、それでは疲弊してしまいますね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:32:27",
+      "utterance": "上司の方は、どのような方が多かったですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:32:45",
+      "utterance": "そうですね。気を遣います。しかも、このような状況になると心が疲れます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:35:50",
+      "utterance": "心が疲れてうんざりしてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:37:15",
+      "utterance": "ここまできたら、自分がダメなんだと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:38:41",
+      "utterance": "そう思ってしまうほど、悩んでらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:39:37",
+      "utterance": "すみません、繰り返しになってしまいますが、上司の方はどのようなタイプの方が多かったですか？気分屋とか、いつも忙しそうとか、、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:40:13",
+      "utterance": "いつも忙しいです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:41:07",
+      "utterance": "なるほど、いつも忙しい・・・話しかけるタイミングを見つけるのも、難しかったりしますよね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:42:12",
+      "utterance": "ちなみに上司の方以外で、例えばご友人やご家族とのコミュニケーションではどうでしょうか？話が伝わっていないように感じられることはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:43:04",
+      "utterance": "普通にコミュニケーションをとっています。伝わっています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:46:30",
+      "utterance": "そうなんですね。それでは少し整理させていただくと、職場で、いつも忙しそうな上司に対して伝えたいことを伝えているのに耳を傾けていないがために伝わっておらず、後から責められるのがつらい、どうにかしたいな、という感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:47:13",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:47:51",
+      "utterance": "ありがとうございます。ちなみに、いつも話しかけるときには、どのような感じで話しかけてらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:49:56",
+      "utterance": "どのような感じですか。どんな感じか、例を挙げてもらえますか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:51:23",
+      "utterance": "イメージしづらかったですよね、失礼しました。たとえばお話に入る前に「今お時間よろしいでしょうか」とワンクッション入れているかや、お話のはじめはどんな様子かなと思いまして・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:52:37",
+      "utterance": "なるほど。そういうことですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:53:04",
+      "utterance": "必ずお時間よろしいでしょうかは、聞きます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:53:55",
+      "utterance": "そうですよね、そこの配慮はしっかりされてらっしゃいますよね。それなのに耳を傾けないなんでひどいな、と感じてしまいますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:54:29",
+      "utterance": "後から自分が少しでも責められないためのアドバイスとしては、これは私も過去に行っていたことがあるのですが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:54:41",
+      "utterance": "もし可能であれば口頭で伝えたあとにメモやメールを残したりして、「私から相手に伝えた」という「ログ」を残すという方法です・・・",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:55:41",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:56:01",
+      "utterance": "それは、やったことなかったです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:57:27",
+      "utterance": "口頭で伝えるのが楽ですし、対面なので相手にしっかり伝えた、と感じられるのでいい部分もあります。忙しい方相手だと、この方法も有効だったりします。「聞いていない」と言わせないために自分を守るというか・・・",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:58:08",
+      "utterance": "なるほど。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:58:37",
+      "utterance": "環境的に、口頭以外でログを残すのが難しい場合もあるかもしれません・・・が、可能であれば試してみていただきたいです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T13:59:26",
+      "utterance": "そうですよね。いまは、仕事を辞めましたが次の仕事で試してみます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T13:59:31",
+      "utterance": "ナカイさんの上司とのコミュニケーションの悩みが少しでも軽減され、安定してお仕事が続けられるようになること、心より応援しています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T14:00:02",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T14:00:20",
+      "utterance": "次のいいお仕事先が見つかるといいですね、しかし、焦らずです！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T14:00:42",
+      "utterance": "時間になったので終了とさせていただきます。ありがとうございました！",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T14:01:03",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ]
+}

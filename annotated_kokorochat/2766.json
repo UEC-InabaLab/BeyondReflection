@@ -1,0 +1,923 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:00:10",
+      "utterance": "こんばんは相談員です。よろしお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:00:18",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:00:40",
+      "utterance": "最初に年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:00:57",
+      "utterance": "28 女です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:01:08",
+      "utterance": "お返事ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:01:19",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:01:40",
+      "utterance": "恋愛が長続きしないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:02:09",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:03:31",
+      "utterance": "それはとっても気になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:03:53",
+      "utterance": "最近の恋愛はどのようだったか教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:04:46",
+      "utterance": "一年くらい付き合ったんですけど、気持ちが冷めてしまって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:05:29",
+      "utterance": "あなたの方が気持ちが冷めてしまったということですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:05:34",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:06:09",
+      "utterance": "どんなことでお気持ちが冷めてきたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:06:24",
+      "utterance": "特にこれといって理由はないんです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:06:54",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:08:07",
+      "utterance": "1年のお付き合いとなると、お互いにかなり相手のことが分かり合う仲になっていたのでしょうね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:08:17",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:08:56",
+      "utterance": "相手に対する不満とかは特にないけれど、ご自身が冷めてきてしまったということなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:09:06",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:09:59",
+      "utterance": "お付き合いを始めてからどのくらい経って、冷めたというお気持ちになってきたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:10:06",
+      "utterance": "最近です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:11:07",
+      "utterance": "そうなんですね。それまでは、彼といることはどんな気持ちだったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:11:40",
+      "utterance": "幸せで、この人とずっと一緒にいられたらなと",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:12:01",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:12:41",
+      "utterance": "それなのに、なぜかご自身が最近冷めてきてしまったのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:13:10",
+      "utterance": "はい、なぜか飽きがきてしまうんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:13:28",
+      "utterance": "なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:13:52",
+      "utterance": "昔の恋愛もそうでした",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:14:17",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:14:51",
+      "utterance": "恋愛の都度、同じパターンで飽きが来てしまうということのようですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:15:14",
+      "utterance": "そんな感じです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:15:51",
+      "utterance": "いつも、だいたいお付き合いして1年ぐらいしたところで飽きが来てしまうというパターンでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:16:06",
+      "utterance": "そうかもしれません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:16:36",
+      "utterance": "あ、でも6年くらい付き合った人もいましたね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:16:58",
+      "utterance": "そうだったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:17:42",
+      "utterance": "その6年付き合った人とも、やっぱりある時飽きが来てしまったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:17:48",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:18:02",
+      "utterance": "冷めるというか",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:18:45",
+      "utterance": "いるも、どんな所に飽きが来てしまうのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:18:57",
+      "utterance": "うーん、それはわからないんです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:19:30",
+      "utterance": "なるほど",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:19:58",
+      "utterance": "もう恋人は作らない方が良いんじゃないかとおもってます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:20:29",
+      "utterance": "なるほど。そういうお考えもあるのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:21:10",
+      "utterance": "もう恋人は作らないと思ってみると、どんなお気持ちになりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:21:53",
+      "utterance": "なんともない、かもしれません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:22:11",
+      "utterance": "結局別れを告げる、とおもうと申し訳なくて",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:23:08",
+      "utterance": "いつもこちらから、別れを作ってきたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:23:15",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:23:37",
+      "utterance": "それで、少し悪かったかなというお気持ちにもなっていらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:23:57",
+      "utterance": "時間を奪ってしまったのかなって。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:24:24",
+      "utterance": "そう思われるんですね。やさしいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:24:42",
+      "utterance": "そうなんでしょうか",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:24:57",
+      "utterance": "私はそう思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:25:28",
+      "utterance": "どうしたら良いでしょう？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:25:44",
+      "utterance": "もしかして、しばしお付き合いした後、別れを作ったことで、ご自分を責めていらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:26:15",
+      "utterance": "少しそんな気持ちはあるかもしれません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:26:33",
+      "utterance": "なるほど。そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:26:47",
+      "utterance": "ちょっとだけ、私の意見を言ってもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:26:52",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:28:38",
+      "utterance": "どちらが別れを言い出したとしても、お互いに大人のお付き合いをしてきたのだから、お別れするのもお付き合いするのも、リスクはお互いに覚悟のことだと思います。わたしのごく個人的な意見ですけど",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:29:16",
+      "utterance": "もう一つ、大事な事は、どちらも、自由が大切だと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:29:42",
+      "utterance": "お付き合いを続けるのも、自由。別れるのも自由だと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:30:11",
+      "utterance": "お互いの気持ちを率直に言えることが、自由だとおもいます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:30:25",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:30:40",
+      "utterance": "その自由を尊重し合うのが大人だと思うのですが。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:31:02",
+      "utterance": "では、あんまり気にしなくて良いのでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:31:58",
+      "utterance": "基本的にはそうだと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:32:06",
+      "utterance": "もちろん、相手に別れを切り出されると、辛い気持ちになるのは、こころの自然な反応なので、そこには配慮して差し上げるといいかとは思いますが。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:32:22",
+      "utterance": "いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:33:27",
+      "utterance": "無理に続けようとしたり、だからといって恋人を作らない、とまでおもわなくても良いのかなとおもいました",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:33:46",
+      "utterance": "全く賛成です。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:34:42",
+      "utterance": "ご自分を自由にしてあげることが最も大切なことのような気がするのですが。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:36:25",
+      "utterance": "しばしお付き合いすると大抵飽きが来てしまうという点については、１つ、もしかしてと思うところがあるのですが、お話してもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:36:33",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:37:39",
+      "utterance": "もしかして、あなたはまだ「この人だ」と思う人に出会っていないのかもしれないという気がするのですが。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:38:10",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:38:50",
+      "utterance": "それが多分誰だか、どんな人かも、自分でもわからない。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:39:31",
+      "utterance": "でも、その人に会ったとき、「あ、この人だ」と思ってしまう人。体中が震えが来てしまう人。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:40:00",
+      "utterance": "そんな出会いを、無意識にお待ちになっているのかもしれませんね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:40:16",
+      "utterance": "私のとっても個人的な仮説ですけれど。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:40:23",
+      "utterance": "実は、、私バツ1でこの人だ、って人との間に子どもがいるんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:40:43",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:40:53",
+      "utterance": "でも結局相性が合わず、もう会いたいともおもいません",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:41:18",
+      "utterance": "そうでしたか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:41:35",
+      "utterance": "そのお子さんとは今ご一緒に暮らしているんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:41:43",
+      "utterance": "はい。私ひとりで育てていて、",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:41:55",
+      "utterance": "とっても大好きです",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:42:24",
+      "utterance": "それは限りなくステキなことですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:42:40",
+      "utterance": "男の子？女の子？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:42:45",
+      "utterance": "女の子です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:42:57",
+      "utterance": "おいくつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:43:03",
+      "utterance": "2歳です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:43:19",
+      "utterance": "かわいい盛りですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:43:51",
+      "utterance": "そうですね。大変だけどかわいいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:44:13",
+      "utterance": "あなたの生きがいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:44:22",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:45:56",
+      "utterance": "そこで、教えていただきたいのは、恋人を作ろうかなというお気持ちもなくはないようですけれど、それはどんなお気持ちからですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:45:56",
+      "utterance": "子どもが授かれて幸せですが、この人だって思った人ともうまくいかなかったので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:46:30",
+      "utterance": "なるほど",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:46:42",
+      "utterance": "なぜかわからないんですが、そんな相手に出会ってしまうんです、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:47:20",
+      "utterance": "なるほど",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:47:27",
+      "utterance": "恋人を作ろうとおもったことはなく、本当はひとりでもいいのですが、、",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:47:37",
+      "utterance": "好奇心ですかね。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:47:50",
+      "utterance": "そうかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:48:29",
+      "utterance": "そう考えると、好奇心で近づいて(近づかれて)、結局冷めてしまう",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:48:47",
+      "utterance": "ってどうなんですかね。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:49:28",
+      "utterance": "たしかに。好奇心と考えると、やがて冷めてしまうというのも分かりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:49:49",
+      "utterance": "あるいは、もう一人の「この人だ」と思える人との出会いを探しているのかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:50:15",
+      "utterance": "なるほど、そういうこともあるかもしれません",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:51:49",
+      "utterance": "あなたはしっかり人を見抜く方のようなので、いつかきっと「この人だ」と思える人との出会いが、再度ありそうな気がしますよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:52:21",
+      "utterance": "そう言ってもらえるととても希望が持てます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:53:28",
+      "utterance": "そんな人と出会ったときに、どうやって、その人とのつながりを作っていくのか、もしかしたら、そこは研究しておくのも一つかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:53:48",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:53:55",
+      "utterance": "どんな方法がありそうですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:55:35",
+      "utterance": "一つは、相手があなたとのつながりを大切に感じてもらうようになることかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:56:30",
+      "utterance": "これはとても個人的意見ですけど。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:56:47",
+      "utterance": "あなたはどう思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T17:57:50",
+      "utterance": "別れたくない、ということですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:58:19",
+      "utterance": "そこに来るかもしれませんが。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T17:59:21",
+      "utterance": "あるいは、別れたくなくなるのは、彼はあなたと分かり合えているという実感が持てているということかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T18:00:07",
+      "utterance": "そうやって懇願されたこともありますが、私が一度決断すると絶対に変わらないので、私自身の問題なのかなと思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T18:00:27",
+      "utterance": "でも、努力してみます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:00:43",
+      "utterance": "なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:01:59",
+      "utterance": "あなたの抱えている問題も含めて分かり合える相手こそ、あなたが出会うとよい人かもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T18:02:32",
+      "utterance": "はい。そうですね！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:02:50",
+      "utterance": "あなたの幸せ作りを応援しています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:03:15",
+      "utterance": "何か更に発見したら、是非また話に来てください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T18:03:20",
+      "utterance": "はい、今日はありがとうこざいました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:03:36",
+      "utterance": "こちらこそ、ご相談に来てくださりありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:03:56",
+      "utterance": "それでは、今日はここで失礼させていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T18:04:19",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T18:04:29",
+      "utterance": "（ロールプレイありがとうございました。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "長続きしない恋愛の原因"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2766,
+    "評価作成日時": "2021-11-25T18:11:00",
+    "クライアント役ID": 244,
+    "カウンセラー役ID": 5,
+    "点数": 84,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2766,
+    "evaluation_created_at": "2021-11-25T18:11:00",
+    "client_id": 244,
+    "counselor_id": 5,
+    "score": 84,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

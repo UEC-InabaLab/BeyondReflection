@@ -1,0 +1,678 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-30T20:51:41",
+      "utterance": "（こんばんは。お時間になりましたら始めさせていただきます。本日は、どうぞよろしくお願いいたします。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T20:59:21",
+      "utterance": "(よろしくお願いいたします)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:00:12",
+      "utterance": "こんばんは、相談員です。本日はご相談に来て下さり、ありがとうございます。  はじめに、年齢、性別、本日の相談内容を教えて下さい。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:01:30",
+      "utterance": "こんばんは16才女です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:01:39",
+      "utterance": "彼氏ができません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:02:06",
+      "utterance": "彼氏ができなくて悩んでいるのですね。今高校１年生でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:02:51",
+      "utterance": "にねんせいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:03:28",
+      "utterance": "そうなんですね、いつ頃から悩むようになったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:03:59",
+      "utterance": "最近です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:04:50",
+      "utterance": "高校２年生ですと、彼氏がいるお友達もいるでしょうし、気になってしまいますよね。最近、とのことですが気にするようになったのはどんなきっかけがあったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:05:51",
+      "utterance": "まわりがみんなできてるから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:06:25",
+      "utterance": "そう、周りがみんなできている、と思うと自分だけいないのはさみしくなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:06:42",
+      "utterance": "今好きな人はいるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:06:50",
+      "utterance": "そう",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:06:57",
+      "utterance": "いません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:07:47",
+      "utterance": "そうなんですね、「まわりがみんな」とは、具体的には何人くらい、何パーセントくらい、でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:08:26",
+      "utterance": "え、パーセントとかわからない",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:09:04",
+      "utterance": "そうですよね、あなたが思う「彼氏がいる」という人は何人くらいですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:09:35",
+      "utterance": "みんな",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:10:05",
+      "utterance": "みんな、なんですね。自分だけいない、という疎外感を感じているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:10:23",
+      "utterance": "そう",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:11:06",
+      "utterance": "もし彼氏ができたら、今とはどんな風に変わると思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:11:27",
+      "utterance": "楽しくなると思う",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:11:59",
+      "utterance": "そう思っているんですね。どうして楽しくなると思うのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:12:23",
+      "utterance": "みんなが楽しそうだから",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:13:18",
+      "utterance": "なるほど、そう見えるんですね。みんなは彼氏がいることで何が楽しいのだと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:14:55",
+      "utterance": "一緒に遊んだり、帰ったりしてる",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:15:47",
+      "utterance": "そう、一緒に遊んだり帰ったりしているのをみるとうらやましい気持ち、自分が取り残されたような気持になるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:16:12",
+      "utterance": "「彼氏がいない」ことで、あなたは自分に対してどのような思いを抱いていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:17:23",
+      "utterance": "友だちがいなくなっちゃったと思う",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:18:12",
+      "utterance": "なるほと、友達が彼氏の方にいってしまって、友達がいなくなっちゃった、と孤独感を感じているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:19:12",
+      "utterance": "そう…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:19:44",
+      "utterance": "孤独感で苦しんでいるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:20:36",
+      "utterance": "あなたは、「彼氏がほしい」というより、お友達との関係が希薄になったことで寂しさを感じているように思ったのですが、いかがですか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:21:32",
+      "utterance": "どうなんだろ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:22:29",
+      "utterance": "きっと、寂しさ、孤独感、疎外感、取り残された感じ、焦り、いろいろなお気持ちがあるのかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:22:45",
+      "utterance": "また、今まであなたがそれだけお友達を大切にしてこられたのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:24:39",
+      "utterance": "あなたにとって彼氏がいることは、どれくらい重要なことだと感じていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:25:03",
+      "utterance": "どれくらいって？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:26:33",
+      "utterance": "例えば、「彼氏がいないと自分には価値がない」と感じてしまうのか、それとも「彼氏がいなくたって、私にはいいところたくさんあるし、恋愛以外のことでも自分は楽しめる」と思うのか・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:28:29",
+      "utterance": "彼氏がいれば、ダブルデートもできるよね？　そういうこと？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:30:28",
+      "utterance": "「彼氏がいるかいないか」ということで、あなたが自分の価値を低く評価してしまっているということはないか、確認したくて聴いてみました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:32:27",
+      "utterance": "「彼氏がいればダブルデートもできる」と考えるくらい、やはりお友達と一緒に遊びたいと思っているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:33:00",
+      "utterance": "一緒がいいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:33:43",
+      "utterance": "そうなんですね。それだけお友達のことが大好きなんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:34:01",
+      "utterance": "ほかにいないし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:34:53",
+      "utterance": "「ほかにいない」とはお友達のことですか？あなたの大好きなお友達で彼氏がいる人は何人いるのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:35:22",
+      "utterance": "3人",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:36:26",
+      "utterance": "３人、たしかに「みんな」って思いますよね。「みんな」彼氏の方にいってしまってあまり遊べなくなってしまったのは本当に心細いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:36:56",
+      "utterance": "あなたは、お友達と遊ぶ以外の時間で、「楽しい」と思えることってどんなことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:37:23",
+      "utterance": "ゲーム",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:38:11",
+      "utterance": "ゲーム、いいですね。どんなゲームが好きなんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:38:44",
+      "utterance": "おちげーとか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:39:18",
+      "utterance": "おちげー、面白そう。相談員はあまりゲームに詳しくないんだけれど、どんなゲームなのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:39:39",
+      "utterance": "今はスイカゲームが好き",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:40:09",
+      "utterance": "あ、スイカゲームやったことあります。スカっとしますよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:40:35",
+      "utterance": "大きくなっていくのがおもしろい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:41:22",
+      "utterance": "うんうん、どんどんはまってしまいますよね。今お友達と遊ぶ時間がへって、学校の後はゲームをして過ごしているんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:42:16",
+      "utterance": "そう　塾に行かされそうになってる",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:42:47",
+      "utterance": "そう、あなたは塾に行くことについてはどう思っていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:42:57",
+      "utterance": "いや",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:43:38",
+      "utterance": "そう、嫌だと思っているのに塾に行かされるのは苦痛ですよね。お父さんやお母さんにはあなたの気持ちを伝えていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:43:58",
+      "utterance": "言った",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:44:08",
+      "utterance": "どんな反応でしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:44:32",
+      "utterance": "ふーん、みたいな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:45:17",
+      "utterance": "ふーん、といって、でも「塾には行ってね」と強制してくるような感じなんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:46:07",
+      "utterance": "今より成績が落ちたら行くのよって",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:46:44",
+      "utterance": "そう、それは気が重くなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:47:19",
+      "utterance": "あなたは勉強することについてはどう感じていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:47:49",
+      "utterance": "いやだけど、仕方ないんだと思う",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:48:04",
+      "utterance": "そう、そのように考えているんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:48:43",
+      "utterance": "お友達とあまり遊べなくなり寂しかったり、ご両親に勉強のプレッシャーかけられたり、とてもしんどいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:49:02",
+      "utterance": "ゲームがあなたにとって大切なリラックス手段になっているのは素敵だと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:49:44",
+      "utterance": "ゲームの魅力を他の人とも共有できると、新しい友達ができるかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:50:56",
+      "utterance": "そうかなぁ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:51:30",
+      "utterance": "好きなゲームに関するオンラインコミュニティやフォーラムに参加してみるのも良いかもしれません。同じ趣味を持つ人たちと繋がることで、新しい友達ができるかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:52:02",
+      "utterance": "新しい友だちってなんで？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:52:40",
+      "utterance": "お友達と以前より疎遠になって寂しいのかと思ったのですが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:53:06",
+      "utterance": "あなたは仲良くしていた３人のお友達とまたたくさん一緒に遊びたいのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:53:27",
+      "utterance": "新しい友達は求めていないですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:53:37",
+      "utterance": "うん",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:53:56",
+      "utterance": "なるほど、その３人でないとダメなんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:54:56",
+      "utterance": "彼氏ができたばかりの頃って、彼氏に夢中になったりするけれど、少し落ち着いてくると、またお友達との居心地の良さに戻ったりすることもあると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T21:55:31",
+      "utterance": "そうかな",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:56:01",
+      "utterance": "うん、人間関係に「永遠」も「ずっと」も「絶対」もないから・・・。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:57:01",
+      "utterance": "だからあなたはあなたでゲームとか好きなことして楽しみながら、その３人のお友達がいつでもまたあなたと遊びたくなったら受け入れる感じで待ってみたり、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:57:56",
+      "utterance": "今は新しい友達を求めていないみたいだけれど、ときどきあなたの世界を広げることにチャレンジしてみたり、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T21:59:29",
+      "utterance": "あなた自身がどうすれば充実した楽しい生活が送れるか考えていろいろ試してみたらどうかな、と思ったのですがいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T22:00:00",
+      "utterance": "好きなアイドルとかマンガとかの推し活でもいいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T22:00:54",
+      "utterance": "好きなアイドルも漫画もないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T22:01:14",
+      "utterance": "そうなんですね。一生懸命お友達との関係について考えているあなただからこそ今日は相談に来てくれたのだと思います。今日はお時間が来てしまったので申し訳ないのですがよろしければまだご相談に来ていただけますか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T22:01:25",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T22:02:31",
+      "utterance": "アイドル・マンガ以外でもなんでもOKだと思います。スイカゲームのようにあなたが楽しめることを探してみてくださいね。ぜひまたお待ちしています。今日はありがとうございました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-30T22:03:03",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-30T22:03:17",
+      "utterance": "（お時間過ぎてしまい申し訳ありません。本日はありがとうございました。このあと終了の合図をいたします。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼氏ができないことへの悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6948,
+    "評価作成日時": "2024-05-31T15:04:00",
+    "クライアント役ID": 478,
+    "カウンセラー役ID": 500,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6948,
+    "evaluation_created_at": "2024-05-31T15:04:00",
+    "client_id": 478,
+    "counselor_id": 500,
+    "score": 69,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

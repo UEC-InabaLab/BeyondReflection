@@ -1,0 +1,762 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-01-09T19:52:31",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:53:51",
+      "utterance": "私はいつ始められても大丈夫です。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:55:02",
+      "utterance": "こんばんは。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:55:16",
+      "utterance": "よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:55:24",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:56:02",
+      "utterance": "もう始めてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:56:10",
+      "utterance": "はいお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:56:31",
+      "utterance": "ではお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:56:43",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:56:45",
+      "utterance": "こんばんは。相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:56:57",
+      "utterance": "こんばんは。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:57:00",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:57:15",
+      "utterance": "私は自分に自信が持てなくて",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:57:38",
+      "utterance": "はい、そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:58:11",
+      "utterance": "はじめに性別と年齢をお聞きしてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:58:33",
+      "utterance": "頑張らなきゃいけないといつも思ってしまいます。30代女性です。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:58:59",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T19:59:23",
+      "utterance": "頑張らなきゃいけないと思うときは具体的にどんな時でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T19:59:40",
+      "utterance": "仕事も家庭も",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:00:03",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:00:37",
+      "utterance": "お仕事でもご家庭でも、いつも頑張っていらっしゃるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:00:55",
+      "utterance": "役に立つ職員で痛いとか、おお母さんでいようとか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:01:26",
+      "utterance": "無理して躓いてしまうことが多いです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:01:35",
+      "utterance": "いたいですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:01:46",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:01:59",
+      "utterance": "そうなのですね。いつもフルパワーで頑張っていらっしゃる感じなのですなね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:04:03",
+      "utterance": "疲れるのですが、やらなきゃいけないと思うのです。特に特技もないし",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:06:13",
+      "utterance": "gomennnasai,hennkanndekinakunarimasita.soreha,tukaretesimaimasuyone.",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:06:38",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:07:55",
+      "utterance": "gokateideha,donnnakotoga komatteimasuka?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:08:52",
+      "utterance": "外食もなく、パンなども手作りです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:10:18",
+      "utterance": "sounanodesune,tezukuriha,ategakakatteimasuyone",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:11:13",
+      "utterance": "はい。手がかかります。時間も",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:11:52",
+      "utterance": "soudesuyone.gokazokuha ,nannninn irassyaimasuka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:12:19",
+      "utterance": "私含めて4人です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:13:03",
+      "utterance": "soudesitaka.kazokukouseiwo ,osiete itdakemasuka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:13:45",
+      "utterance": "夫と娘と息子と私です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:14:28",
+      "utterance": "sounanodesumne.okosannha ,oikutudesyouka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:15:06",
+      "utterance": "小学生です。高学年です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:16:47",
+      "utterance": "sounanodesune.gokateideha,gokateideha,donnnakotogakomatteirassyaimasuka?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:18:01",
+      "utterance": "頑張ろうと思うので疲れます。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:18:50",
+      "utterance": "gnnbaroutoomouto,sugokutukaretesimaimasuyone.",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:19:24",
+      "utterance": "本当は私はずぼらですし、作りたいときにしか作りたくないし、時には外食で楽したい気持ちもありますが…つい頑張ってしまいます。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:20:29",
+      "utterance": "sorekurai,tedukuride,gannbatteirassyarunodesune.",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:21:14",
+      "utterance": "kyuujitunadoha,odekadesitatokihaikagadesuka?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:21:17",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:23:18",
+      "utterance": "dannnasannha,fudannha,osyokujinokotonitaisite,nanikaiwaeteimasuka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:24:14",
+      "utterance": "わりと時間が一定で出かけるのも、アスレチックやサイクリングなどが多いので夕方には帰り、家庭で食事します。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:25:15",
+      "utterance": "kyuujituha,karadawougokasite,iede osyokujinasarunodesune.",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:25:35",
+      "utterance": "何も言いません。仕事自体は好きな仕事なので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:26:07",
+      "utterance": "誰かに",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:26:20",
+      "utterance": "hai",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:27:00",
+      "utterance": "何か言われるというのではなく、自分が頑張りすぎているのです。家族は好きでやっていると思っていると思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:27:32",
+      "utterance": "soudesitaka.",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:28:29",
+      "utterance": "ottosannto,gaisyokunokotonituiite,hanasitakotohaarimasuka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:30:32",
+      "utterance": "子どもも、夫も家庭の食事で満足しているので何も言いません。外で食べる？と聞くと、庭に椅子を持っていこうとするくらい、外食という習慣はないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:31:48",
+      "utterance": "soreha,asa,ihiru,banntohitoride,gannbatteirassyaimasune.",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:32:22",
+      "utterance": "dzennzujibunndeyaranakerebaikenainoha",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:32:33",
+      "utterance": "sinndoidesuyone",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:33:42",
+      "utterance": "そうですね。特別手の込んだものは作りませんが、自分でもよく作るなあと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:34:44",
+      "utterance": "家族に共感してほしいとかではなく、がんばる自分を解放したいのです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:34:52",
+      "utterance": "syufuha,oyasumiganaidesukara,tukaretesimaukotomoarimasuyone",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:35:34",
+      "utterance": "疲れますね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:36:22",
+      "utterance": "gohannwotukuritudeketeirukotoha,taihennnakotodatoomimasu",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:37:11",
+      "utterance": "gokateiigaideha,otohadonnnakotodeganbatteirassyaimasuka?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:38:37",
+      "utterance": "仕事も他の人が動こうとすると、私がやるよと言ってしまったり・・・です。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:39:40",
+      "utterance": "sorehakakaekomisugirutotukaretesimaimasuyone",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:40:17",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:40:59",
+      "utterance": "imamadenoohanasiwo okikisite,ohanasiwomatomesaseteitadaitemoyorosiidesyouka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:41:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:42:09",
+      "utterance": "anataha,gokatei,syokubadeitumogannbaranakerebaikenaitoomotteirassyaimasu",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:43:08",
+      "utterance": "oosigotomosinagara,mainiti,tedukurinosyokujiwotukuttari,",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:43:53",
+      "utterance": "syokubademo,hokanokatanosigotowotetudattarisiteimasu",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:45:05",
+      "utterance": "soredemo,gojibunnhazuboradeari,gaisyokuwositerakusitaina,toomotteirassyaimasune.",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:46:03",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:46:28",
+      "utterance": "sositegannbarisugirugojibunnwokaihousitaitoomottairrasyaimasu",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:47:28",
+      "utterance": "はいでも自分に自信が持てないのでつい頑張ろうとします。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:49:01",
+      "utterance": "gojibunnnijisinngamotenaitoomowareteirunodesune",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:49:36",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:50:12",
+      "utterance": "imamadenoohanasiwookikisitewatasinoomottakotowootutaesitemoyososiidesyouka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:50:28",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:51:30",
+      "utterance": "anataha,osigoto,gokateidetotemoyokuganbatteirassyarutoomoimasu",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:53:12",
+      "utterance": "gokazokunosyokujiwomainititukurunomotedukurideaijyoukomottaoryouriwotukurareteimasune",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:54:27",
+      "utterance": "syokubadeha,hokanokatawokidukaiokoekakedekirunomokigakiku,yasasiikatananodatoomoimasu",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:56:39",
+      "utterance": "gokazokuniaijyouwososoidmainiti,oryouriwotukurunomohahaoyatositegokazokuwoomottanokotodatoomoimasita",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:58:33",
+      "utterance": "ippoudeosigoto,syokujidukuritoisogasiinaka,tukarenagaramomainitigannbatteirassyarukotohasugoikotodatoomoimasu",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T20:59:17",
+      "utterance": "はい。頑張っています。それにつかれています。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:59:30",
+      "utterance": "soudesuyone",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:00:03",
+      "utterance": "anataha,sugokugannbatteitemoujyuubunngannbatteirutoomoimasu",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:01:44",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:02:03",
+      "utterance": "syokuba,katei,demobannbariyasannnoanataha,jyuubunn gannbatteirunode,sukosigojibunnnimewomuketemirunohaikakadesyouka?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:03:20",
+      "utterance": "tatodba,tamaniha,osouzaiwokattari,kanntannni tyouridekirujitannryouriwositemitarisite,",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:04:16",
+      "utterance": "sonoaitajikannwogojibunnnotameni,sukinakotowositemitari,",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:05:22",
+      "utterance": "oryourinoaitajikannde,yukkuritoofuronihaittarisitemirunomoiikamosiremasen",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:06:59",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:08:30",
+      "utterance": "anataha,gannbariyasanndetotemoaijyougaarukatadatoomoimasu",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:09:37",
+      "utterance": "eigodesitureiitasimasita",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:10:25",
+      "utterance": "kyouhasoudannnikorareteikagadesitaka?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:10:34",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:11:07",
+      "utterance": "kotirakosoarigatougozaimasita",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:11:39",
+      "utterance": "soredehakyouhakokomadedeyorosiidesyouka?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:11:57",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:12:27",
+      "utterance": "soredehakokodesyuuryousaseteitadakimasu",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:12:32",
+      "utterance": "失礼します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:12:43",
+      "utterance": "arigatougozaimasita",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:12:50",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:12:57",
+      "utterance": "situreiitasimasu",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:13:53",
+      "utterance": "moppetsaneigodesitureiitasimasita",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自信の欠如と過度の頑張り"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1146,
+    "評価作成日時": "2021-01-09T21:26:00",
+    "クライアント役ID": 109,
+    "カウンセラー役ID": 17,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1146,
+    "evaluation_created_at": "2021-01-09T21:26:00",
+    "client_id": 109,
+    "counselor_id": 17,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

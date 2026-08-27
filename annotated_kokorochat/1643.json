@@ -1,0 +1,1113 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:02:31",
+      "utterance": "こんばんは。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:02:37",
+      "utterance": "こんばんは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:03:15",
+      "utterance": "すみません。二人お名前があり、違う方に繋いでいました。今から始めますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:03:27",
+      "utterance": "承知しました。よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:04:09",
+      "utterance": "こんばんは。相談員です。今日は相談に来てくださり、ありがとうございます。最初に年齢と性別を教えていただけますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:04:39",
+      "utterance": "44歳、女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:05:12",
+      "utterance": "ありがとうございます。この相談であなたを何とお呼びすれば宜しいですか?ニックネームでもかまいませんよ。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:05:24",
+      "utterance": "アキと呼んでください",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:05:49",
+      "utterance": "アキさんですね。宜しくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:05:57",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:06:01",
+      "utterance": "今日はどのようなご相談ですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:06:28",
+      "utterance": "子どもがいじめにあっているみたいなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:06:47",
+      "utterance": "そうなんですね。それは心配ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:06:51",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:07:11",
+      "utterance": "どのような状況か詳しくお話いただけますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:08:00",
+      "utterance": "陰口を言われたり、仲間に入れてもらえなかったりするみたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:08:41",
+      "utterance": "そうなんですね。お辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:08:45",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:08:53",
+      "utterance": "お子さんは何年生ですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:09:00",
+      "utterance": "5年生です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:09:39",
+      "utterance": "その状態はいつ頃からなのですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:11:03",
+      "utterance": "2〜3ヶ月くらい前からみたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:11:53",
+      "utterance": "そうだったんですね。長い期間、そのような状態で、アキさんも心を痛めてこられましたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:11:58",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:12:40",
+      "utterance": "陰口はどんなことを言われるのですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:13:25",
+      "utterance": "臭いとか…持ち物を笑われたりとかするようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:13:48",
+      "utterance": "それは傷つきますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:13:53",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:14:33",
+      "utterance": "お子さんは、言われてどのような様子ですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:14:44",
+      "utterance": "元気がないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:15:39",
+      "utterance": "そうでしたか。アキさんとしては、何とかしてあげたい気持ちになりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:15:47",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:16:22",
+      "utterance": "どのような人から言われるのですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:16:59",
+      "utterance": "同じ学年の子です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:17:50",
+      "utterance": "なるほど。同級生だと接することも多いし、苦痛ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:18:05",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:18:57",
+      "utterance": "アキさんは、そのことをどなたかに相談されましたか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:19:07",
+      "utterance": "夫に話しました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:19:26",
+      "utterance": "夫さんはどのように言われていますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:20:18",
+      "utterance": "先生に聞いてみるのがいいんじゃないか、と言っていました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:20:55",
+      "utterance": "そんな風に言われたんですね。アキさんはどのように思われましたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:21:43",
+      "utterance": "私も学校での様子を知りたいと思いました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:22:05",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:22:32",
+      "utterance": "で、その後、学校にはお尋ねになったのですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:22:47",
+      "utterance": "いいえ。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:23:45",
+      "utterance": "それは、どのようなお考えからですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:24:58",
+      "utterance": "新年度になり、先日クラス替えもあったので、確認のタイミングがわかりませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:26:20",
+      "utterance": "なるほど。そうですね。今度のクラスについてお子さんはどのように言われてますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:27:55",
+      "utterance": "いじめをしてくる子は4人いたのですが、そのうち2人と同じクラスです。まだ気を抜けない状態のようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:28:41",
+      "utterance": "数は減ったけれど、そのメンバーとも一緒なんですね。気が重いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:29:00",
+      "utterance": "そのようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:29:28",
+      "utterance": "お子さんとは、どのようなお話をされていますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:30:38",
+      "utterance": "子どもの方から学校の話をしてくれるので、それを聞いています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:31:21",
+      "utterance": "お子さんから、学校のお話をしてくれるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:31:24",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:31:59",
+      "utterance": "お話を聴かれて、どのように思われていますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:32:42",
+      "utterance": "これ以上いじめが酷くなる前に、対処したいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:33:11",
+      "utterance": "うんうん。そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:33:21",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:33:34",
+      "utterance": "これ以上傷ついてほしくないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:33:39",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:34:13",
+      "utterance": "仲の良いお友達のお話とかはされますか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:34:33",
+      "utterance": "最近はいじめの話ばかりです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:35:04",
+      "utterance": "そうでしたか。アキさんとしても、お辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:35:10",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:36:26",
+      "utterance": "先ほど、新年度になって確認のタイミングがわからなかった、とおっしゃっていましたが、これからどのようにしようとお考えですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:36:59",
+      "utterance": "娘の学校での様子を知りたいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:38:04",
+      "utterance": "そうですね。どのようにすれば、お子さんの様子を知れると思われますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:38:21",
+      "utterance": "先生に確認するしかないとは思うのですが…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:38:28",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:39:05",
+      "utterance": "何かお迷いですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:39:30",
+      "utterance": "馴染みのない学校なので、どんな対応をされるのかわかりません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:40:02",
+      "utterance": "そうなんですね。不安に思われてるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:40:08",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:40:23",
+      "utterance": "馴染みのない学校というのは?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:40:51",
+      "utterance": "昨年の秋に夫の仕事の都合で引っ越してきたんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:41:21",
+      "utterance": "そんな事情がおありだったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:41:43",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:42:03",
+      "utterance": "慣れない土地で、慣れない学校で、大変な日々を送って来られていたんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:42:09",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:42:57",
+      "utterance": "秋から今日までの学校との関りは、どのように感じておられますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:43:38",
+      "utterance": "どのように…事務的な関わりのみなので、よくわかりません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:44:48",
+      "utterance": "そうなんですね。アキさんが、話を聴いたりできる保護者の方はおられますか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:45:29",
+      "utterance": "いません。馴染みのない土地で、親しいママ友もいないので。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:46:14",
+      "utterance": "そうですか。心細いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:46:18",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:46:56",
+      "utterance": "今までおられたところではどうでしたか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:47:34",
+      "utterance": "いじめはなかったです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:48:27",
+      "utterance": "そうだったんですね。新しい土地に来て、急にそんなことになると、戸惑いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:48:36",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:49:21",
+      "utterance": "学校に対して不安な気持ちになるのも自然なことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:51:07",
+      "utterance": "今までのお話を少しまとめてみても宜しいですか?",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:51:41",
+      "utterance": "私が学校に話をすることで、いじめが悪化しないかとか、新しいクラスになったんだから、様子を見たほうがいいのか、なども心配です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:52:23",
+      "utterance": "そんな風にお考えだったんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:52:30",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:52:43",
+      "utterance": "とても葛藤されてきましたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:52:49",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:53:23",
+      "utterance": "お子さんの事を案じるお気持ちが痛いほど伝わってきています。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:53:32",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:54:24",
+      "utterance": "新年度になって、子どもたちのクラスでの関係性も変化があるかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:54:31",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:56:23",
+      "utterance": "また、昨年は、途中からクラスに入ったことで、他の人とは違って見えたかもしれませんが、今回は春から一緒なので、違和感がないかもしれませんね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:57:16",
+      "utterance": "とはいえ、アキさんとしては、そんな確証のないことで安心はできませんよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:57:27",
+      "utterance": "そうですね。娘はまだ気を張っているようで元気がないので…心配です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:58:04",
+      "utterance": "うんうん。娘さんの様子、心配ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:58:08",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:58:40",
+      "utterance": "アキさんとしては、何ができそうですか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:01:19",
+      "utterance": "娘の話を聞くことと、先生に話を聞くことだとは思いますが…先生に話を聞くのは、学校の反応がわからないし、いじめの悪化を招いたらと思うと不安です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:02:43",
+      "utterance": "アキさんは、お子さんとのコミュニケーションもとてもよくとられていると思いますよ。学校での状況を、きちんとお話会い出来ていて、素晴らしいと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:03:01",
+      "utterance": "ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:03:14",
+      "utterance": "お子さんが安心してお話できるお母さんなんだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:03:34",
+      "utterance": "そうでしょうか…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:04:11",
+      "utterance": "ご不安ですか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:04:49",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:05:12",
+      "utterance": "どのようなところに不安を感じておられますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:05:53",
+      "utterance": "話を聞くだけで、他には具体的に何もできていません。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:06:21",
+      "utterance": "そんな風に思われるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:06:40",
+      "utterance": "もどかしい思いでいらっしゃいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:06:46",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:07:36",
+      "utterance": "でも、学校であった嫌なことを家に帰って吐き出すことができない子どもたち、というのは、多いんですよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:08:10",
+      "utterance": "そうなんですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:08:52",
+      "utterance": "ええ。私には、安心して話すことができるお母さんだからこそ、娘さんがお話になっているように感じます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:09:17",
+      "utterance": "今日、お話をお聴きして",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:09:26",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:10:43",
+      "utterance": "アキさんの中にも馴染みのない土地で、まだ不安がある中で起こった出来事なので、学校に尋ねにくいのかな、と思いましたが、いかがですか?",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:11:02",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:11:52",
+      "utterance": "学校の雰囲気や先生のこともわからないですし…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:12:31",
+      "utterance": "いじめなんて初めてなので、親としてどう動くのが正解なのかもわからず、不安でした…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:13:13",
+      "utterance": "そうですよね。もっともだと思います。まずは、アキさんが、半年たって、お子さんが学校に馴染めてきているかどうか、というような内容で学校にコミュニケーションをとって見られるのはどうかな、と思いますが、いかがですか?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:14:24",
+      "utterance": "なるほど…もし、大丈夫ですよと言われたら、その先はどうしたらよいのでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:15:55",
+      "utterance": "まずは、先生との関係をつくっておかれると、次相談する時に相談しやすいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:17:09",
+      "utterance": "娘さんの様子を見ながら、それでもいじめが続いているようでしたら、お話されてみてはいかがでしょうか?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:17:46",
+      "utterance": "そうですね…ちなみに、関係をつくる…というのは、具体的にどんなかんじなのでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:18:10",
+      "utterance": "モンスターペアレントとか、過保護とか思われないか心配です。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:18:55",
+      "utterance": "そんな風に心配されているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:19:38",
+      "utterance": "はい。私のせいで娘の立場が悪くなるようなことは避けたいのです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:19:47",
+      "utterance": "関係と言ったのは、まだ話したこともない人なので、まずは、お互いに知ってみる、というようなニュアンスです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:20:37",
+      "utterance": "話をする前に躊躇すると、ずっと不安を抱えたままで終わってしまうかな、と思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:21:06",
+      "utterance": "なるほど…まずは顔見知りになるところからですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:21:28",
+      "utterance": "確かに、不安がずっと続いてしまいますね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:21:51",
+      "utterance": "はい。そんなイメージです。そして、いじめは、その本人が、いじめと感じだ時点で、いじめです。学校として対応していく責任があるんですよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:22:15",
+      "utterance": "そうなんですね…知りませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:22:56",
+      "utterance": "担任の先生だけでなく、校長や教頭なども対応してくれるはずです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:23:25",
+      "utterance": "まずは、学校と知り合いになられるところから始めてみてはどうでしようか?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:23:43",
+      "utterance": "そうなんですね…何らかの対応をしてくれるなら、少し安心しました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:24:02",
+      "utterance": "はい、まずは学校を知るところから始めてみます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:24:53",
+      "utterance": "そうですね。初めての環境で連絡を取るのは勇気のいる事かもしれませんが",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:24:58",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:25:18",
+      "utterance": "行動に移していっていただければと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:25:40",
+      "utterance": "では、本日の相談はこれで終了して宜しいですか?",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:25:41",
+      "utterance": "はい。ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:25:48",
+      "utterance": "はい、大丈夫です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:25:54",
+      "utterance": "ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:26:01",
+      "utterance": "本日はご相談ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:26:11",
+      "utterance": "ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:26:17",
+      "utterance": "（時間超過してすみませんでした）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:26:28",
+      "utterance": "（ありがとうございました）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:26:38",
+      "utterance": "（大丈夫ですよ。とても勉強になりました。ありがとうございました！）",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:26:57",
+      "utterance": "（では、ロールプレイを終了しますね）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:27:05",
+      "utterance": "（はい、お願いします）",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:27:08",
+      "utterance": "（ありがとうございました）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "子どもがいじめにあっている問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1643,
+    "評価作成日時": "2021-04-14T21:47:00",
+    "クライアント役ID": 132,
+    "カウンセラー役ID": 91,
+    "点数": 96,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1643,
+    "evaluation_created_at": "2021-04-14T21:47:00",
+    "client_id": 132,
+    "counselor_id": 91,
+    "score": 96,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-31T12:58:36",
+      "utterance": "本日はよろしくお願い致します。またお時間になりましたらご連絡させていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T12:59:02",
+      "utterance": "よろしくおねがいします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:00:17",
+      "utterance": "こんにちは。相談員です。 本日はお越しくださりありがとうございます。よろしければ、はじめに年齢、性別を教えていただけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:00:46",
+      "utterance": "33才　女です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:01:14",
+      "utterance": "教えていただきありがとうございます。本日はどのようなご相談内容でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:01:33",
+      "utterance": "仕事の事なのですが",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:02:40",
+      "utterance": "はい。お仕事の事でお悩みですね。お仕事で何がありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:04:12",
+      "utterance": "今の役から次は主任なる感じなんです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:04:28",
+      "utterance": "やりたくないんです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:05:08",
+      "utterance": "上司は無理やりにでもさせたいみたいで",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:05:39",
+      "utterance": "そうだったのですね。無理やり、、それは嫌な気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:05:47",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:05:58",
+      "utterance": "やりたくないお気持ちは上司には伝えたということでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:06:42",
+      "utterance": "伝えましたが　だめでした",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:07:06",
+      "utterance": "そうなんですね。上司はどのような反応だったのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:07:58",
+      "utterance": "あまり　良い反応ではなきったですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:08:33",
+      "utterance": "上司は私に主任をしてもらいたいようなので",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:09:38",
+      "utterance": "そうなんですね。信頼されているのですね。でもやりたくないお気持ちは受け入れてもらえなくて歯がゆいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:09:56",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:10:32",
+      "utterance": "主任になりたくないお気持ちは何か理由がおありでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:11:12",
+      "utterance": "主任になれば　責任が多くなりますし　何もメリットがないので",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:11:53",
+      "utterance": "後は自分の経験も少なく主任をする自信もないですし",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:12:23",
+      "utterance": "そうなんですね。責任多くなるのはﾌﾟﾚｯｼｬｰにもなりますものね。今の職場は経験はどのくらいなのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:12:56",
+      "utterance": "10年程です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:13:55",
+      "utterance": "そうでしたか。長くご経験されているのですね。他には主任の候補はいらっしゃらない感じなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:14:17",
+      "utterance": "いないと思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:15:51",
+      "utterance": "そうなんですね。ということは、今の職場ではあなたは一番ご経験がおありなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:16:23",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:17:57",
+      "utterance": "そうなんですね。でも主任になりたくないお気持ちがあるのに無理にやらせたい上司の方がいる。とてももどかしいお気持ちですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:18:27",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:19:07",
+      "utterance": "そのことばかり考えて夜もあまり寝れないですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:20:41",
+      "utterance": "そうなんですね。夜もねむれないくら主任になるのがしんどいお気持ちなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:21:13",
+      "utterance": "もし主任は他の人になってもらうことになればお気持ちは落ち着きそうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:21:37",
+      "utterance": "そうですね主任の仕事は別にやってもよいのですが　私みたいなものがなっていいのかと",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:23:10",
+      "utterance": "そうなんですね。そういうお気持ちがあるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:23:22",
+      "utterance": "最初にお伝えした通り責任やメリットデメリットの関係で出た答えが　主任をやりたくないという感じになりました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:24:31",
+      "utterance": "そうでしたか、、ちなみにメリットには何があったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:25:22",
+      "utterance": "お給料や残業時間ですね",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:26:13",
+      "utterance": "そうなんですね、、メリットがそこだけだと中々続けていくのは難しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:26:30",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:27:06",
+      "utterance": "デメリットは責任が重くなりﾌﾟﾚｯｼｬｰがある他に何かありまあしたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:27:42",
+      "utterance": "ないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:28:49",
+      "utterance": "先の事は　わからないですしたぶん主任になってからの事が不安なんだと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:29:13",
+      "utterance": "そうでしたか、、ではお仕事自体はやっても良いと思っているけど、責任が重くなるのがデメリットと思っていることと、自分がやっていいのかという考えがおありなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:29:31",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:30:09",
+      "utterance": "そうですよね。やったことないし、責任が重くなるとなると不安になるのも無理はないとおもいます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:30:30",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:31:39",
+      "utterance": "今までお仕事で責任とﾌﾟﾚｯｼｬｰで不安になった経験等ありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:32:29",
+      "utterance": "あまり無かったように思います",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:32:57",
+      "utterance": "そうなんですね。未知だからこそ不安になられてしまうのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:33:05",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:33:15",
+      "utterance": "今まで主任をやっていた方はどんな感じだったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:33:32",
+      "utterance": "色々です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:33:54",
+      "utterance": "人間十人十色ですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:34:06",
+      "utterance": "色々感じる部分があったのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:34:14",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:34:20",
+      "utterance": "あまりいいイメージではなかったのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:35:15",
+      "utterance": "そうかもしれませんね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:35:52",
+      "utterance": "そうなんですね。そのイメージもあって主任に良いイメージがないのかもしれないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:36:14",
+      "utterance": "今の上司の方とはどのようなご関係ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:36:37",
+      "utterance": "例えば良く話す等・・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:37:04",
+      "utterance": "上司です。会社だけの…",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:37:36",
+      "utterance": "たまに飲みにはいきますが親身な話はしません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:37:47",
+      "utterance": "そうなんですね。ではもしあなたが主任を引き受けたとしても、随時相談には乗ってくれなさそうな感じでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:39:36",
+      "utterance": "上司は来月転勤で新しい上司が来ます。相談できるきは　それからだと",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:40:00",
+      "utterance": "なかなか複雑ですよねw",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:41:04",
+      "utterance": "色々複雑ですね。人が入れ替わる時期なのでしょうか。来月来る新しい上司の方はお知り合いの方ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:41:31",
+      "utterance": "初めてです。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:42:17",
+      "utterance": "そうなんですね。どういう上司かも分からなくて、相談等に乗ってくれればいいですが、主任になって分からないことだらけで相談に乗ってくれない方だとさらにお辛いですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:42:37",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:44:06",
+      "utterance": "今の会社で続けていきたいか、主任になるなら辞めてもいいと考えたりもしているか、今のお気持ちはどんな感じでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:45:10",
+      "utterance": "どちらもです辞めるというのが言えなくて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:46:07",
+      "utterance": "そうなんですね。辞めるのも迷われているのですね。長く続けた会社だし、色々思い入れがあると思うので中々いいづらいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:46:26",
+      "utterance": "ええ",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:47:34",
+      "utterance": "でも真面目な方で責任感が強いからこそ主任をやることに対して慎重に考えているのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:47:48",
+      "utterance": "ありがとうございます",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:49:48",
+      "utterance": "もう少し時間かけて考えてみますね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:50:29",
+      "utterance": "すぐには答えは　でませんでしょうし…",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:50:40",
+      "utterance": "そうですね。一緒に考えていけたらと思います。いつまでに返事をしなきゃ等あるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:51:12",
+      "utterance": "年内くらいです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:52:09",
+      "utterance": "またお仕事を続けていく中で答えもでるでしょうし、少し転職を視野に入れて探してみて、やっぱりここが良いと思うかもしれないので、今はモヤモヤして辛いでしょうが、後悔しない選択をして欲しいと思っております。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:52:47",
+      "utterance": "あと２か月くらいですね。それまでに自身が納得いく答えが出せるようお手伝いできたらと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:53:06",
+      "utterance": "ありがとうございます",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:53:36",
+      "utterance": "気持ちを話すだけでも整理できることもあると思うもでいつでもお待ちしておりますね。本日はお話してみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:53:49",
+      "utterance": "今日の事１つ頭に入れて明日から仕事しますね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:54:42",
+      "utterance": "今日は少し前向きになれたような気がします",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:55:19",
+      "utterance": "そう言っていただき私も嬉しいです。ありがとうございます。他に話し足りなかったことはなかったでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:55:54",
+      "utterance": "ありません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:56:19",
+      "utterance": "今の所気分も楽になりましたから",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:57:09",
+      "utterance": "また何かありましたらいつでもいらして下さいね。あなたの気持ち軽くするお手伝いできたらと思います。本日はご相談に来ていただきありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:57:37",
+      "utterance": "ありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-31T13:58:33",
+      "utterance": "（ロールプレイありがとうございます。少し事案メモをまとめてから終了させていただきます。本日は貴重なお時間ありがとうございました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-31T13:59:14",
+      "utterance": "こちらこそありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "主任への昇進に対する不安とプレッシャー"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2642,
+    "評価作成日時": "2021-10-31T14:18:00",
+    "クライアント役ID": 241,
+    "カウンセラー役ID": 207,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2642,
+    "evaluation_created_at": "2021-10-31T14:18:00",
+    "client_id": 241,
+    "counselor_id": 207,
+    "score": 71,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

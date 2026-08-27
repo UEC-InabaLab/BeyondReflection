@@ -1,0 +1,1127 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:23:58",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:24:17",
+      "utterance": "こんにちは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:24:35",
+      "utterance": "準備がよろしければ、お時間早いですが初めてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:24:50",
+      "utterance": "はい、お願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:25:09",
+      "utterance": "よろしくお願いします。では、はじめさせていただきます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:25:19",
+      "utterance": "こんにちは。相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:25:34",
+      "utterance": "こんにちは。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:25:39",
+      "utterance": "本日はご相談いただきありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:25:50",
+      "utterance": "本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:26:16",
+      "utterance": "はい、子供の受験のことで悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:26:31",
+      "utterance": "それは心配ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:26:48",
+      "utterance": "お子さんは何歳になりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:27:11",
+      "utterance": "9歳です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:27:42",
+      "utterance": "小学５年生くらいでしょうか？中学受験を控えているということでよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:28:12",
+      "utterance": "4年生です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:28:29",
+      "utterance": "失礼いたしました。４年生ですね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:28:39",
+      "utterance": "中学受験です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:29:08",
+      "utterance": "なるほど。今から受験の準備をされていて、この先が不安になりますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:29:17",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:29:38",
+      "utterance": "どのようなことで悩んでいらっしゃるのか詳しく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:30:21",
+      "utterance": "はい、あまり勉強が好きじゃないのか塾にも行きたがらないんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:30:51",
+      "utterance": "なるほど。勉強が苦手なんですね。塾にも行ってくれないとなると困ってしまいますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:31:09",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:31:12",
+      "utterance": "塾にはもう入っているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:31:38",
+      "utterance": "4月から入っています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:32:01",
+      "utterance": "まだ始めたばかりなんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:32:15",
+      "utterance": "塾はどのくらいのペースでかよわれているのでしょう？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:32:50",
+      "utterance": "夏期講習で週5で通っています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:33:21",
+      "utterance": "１週間のうち5日通っていらっしゃるのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:33:28",
+      "utterance": "夏期講習が終わると週四になります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:33:37",
+      "utterance": "なかなかのハードスケジュールですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:33:55",
+      "utterance": "お子さんはこのスケジュールについて何かおっしゃていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:34:03",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:34:24",
+      "utterance": "どんなことをおっしゃているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:34:50",
+      "utterance": "暑いし、行きたくないと言ってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:35:28",
+      "utterance": "外は暑いですからね、外に出るのも嫌になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:35:48",
+      "utterance": "そうですよね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:35:51",
+      "utterance": "お話の途中になりますが、本日何と呼びしたらいいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:36:16",
+      "utterance": "夏みかんでお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:36:36",
+      "utterance": "ありがとうございます。夏みかんさんは、お母さまでいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:36:49",
+      "utterance": "そうです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:37:19",
+      "utterance": "暑いから以外に何か言っていることありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:37:51",
+      "utterance": "勉強が面白くないそうです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:38:15",
+      "utterance": "そうなんですね。それは行きたくないと思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:38:33",
+      "utterance": "そうだからか遅刻も多いんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:39:15",
+      "utterance": "遅刻もしてしまっているのですね。それは困ってしまいますね夏みかんさんは、お子さんがそう言っていたのを聞いてお子さんと話されましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:40:11",
+      "utterance": "受験のイメージがないのか、地元の中学でいい、と言ってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:40:35",
+      "utterance": "お子さんは受験をしなくてもいいと言っているのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:40:45",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:41:03",
+      "utterance": "受験をするきっかけはなんだったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:41:55",
+      "utterance": "やりたい部活が地元の中学にないので、受験を考えました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:42:22",
+      "utterance": "そうだったのですね。入りたい部活がないとつまらないですもんね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:42:46",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:43:10",
+      "utterance": "部活のことを考えて受験を考えたということですが、今はお子さんは受験しなくてもいいと言っている理由などはあるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:44:30",
+      "utterance": "受験しない子の方が多いのに、なんで自分は勉強しなければいけないのか、と言ってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:45:22",
+      "utterance": "周りの受験しないお友達と自分を比較してしまっているのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:45:41",
+      "utterance": "そうみたいです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:45:44",
+      "utterance": "受験するということはお子さんは部活がないからということで納得されて決められたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:47:16",
+      "utterance": "その部活がないから越境してる子も多いんですけど、その子達は受験ではないからですよね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:47:49",
+      "utterance": "部活のために越境までされている人もいらっしゃるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:48:02",
+      "utterance": "そうなんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:48:05",
+      "utterance": "受験をそのしないという理由は何かあるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:48:23",
+      "utterance": "↑越境した人が、です",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:49:09",
+      "utterance": "越境した人が、その学校に集まっているからだと思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:49:35",
+      "utterance": "そうなんですね。いろいろと受験するとかしないとかあるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:49:57",
+      "utterance": "ちなみにお子さんは何の部活に入りたいといっているのでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:50:25",
+      "utterance": "柔道です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:51:19",
+      "utterance": "そうなんですね。中学に行ってお子さんは柔道をやろうと考えていらっしゃるのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:51:36",
+      "utterance": "今はそうだと思います",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:51:40",
+      "utterance": "目指している学校は柔道が強いとか何か魅力を感じるものがあるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:52:11",
+      "utterance": "いえ、また目標は決まっていません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:52:57",
+      "utterance": "そうなんですね。これからですもんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:53:10",
+      "utterance": "柔道は今はやっていらっしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:53:31",
+      "utterance": "続けています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:54:05",
+      "utterance": "今もやっているから柔道を続けていきたいと考えているのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:54:26",
+      "utterance": "今は学校とは関係なく習い事かなにかで柔道をされているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:54:26",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:55:01",
+      "utterance": "柔道のスクールに入っています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:55:19",
+      "utterance": "通われて習っているのですね。すごいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:55:38",
+      "utterance": "ここで少しお話まとめさせていただいてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:55:55",
+      "utterance": "近所にたまたまスクールがあったんです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:56:10",
+      "utterance": "はいお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:56:21",
+      "utterance": "そうだったんですね。近くにあると通いやすいですよね。ありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:56:40",
+      "utterance": "夏みかんさんは、お子さんの中学受験のことで悩んでいらっしゃいます",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:57:05",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:57:20",
+      "utterance": "地元の中学では今習っている柔道の部活がないということで、受験をし柔道の部活があるところを目指そうと思っています",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:57:47",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:57:59",
+      "utterance": "しかしながら、お子さん自身が今は地元の中学でもいいといい始めていて、塾に行きたくないと行ったり、遅刻をしてしまい困っていらっしゃいます",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:58:15",
+      "utterance": "こんな感じでよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:58:18",
+      "utterance": "ええ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:58:57",
+      "utterance": "中学のこととはいえ、この先のことは将来にもつながるので、夏みかんさんとしても不安になると思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:59:11",
+      "utterance": "お子さんのこととても心配なのが伝わってきます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T14:59:29",
+      "utterance": "難しく繊細なお悩みなので一緒に考えていけたらいいと思っています",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T14:59:35",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:00:18",
+      "utterance": "お子さんは地元の中学でもいいといわれてるということでしたが、どうしてそういったのか聞いたことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:01:00",
+      "utterance": "勉強が嫌なのと、もっと遊びたいのだと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:01:30",
+      "utterance": "なるほど。お友達と遊びたいというのも考えられるのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:02:06",
+      "utterance": "通われている柔道のスクールは中学に行ってからも通うことはできるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:02:10",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:02:44",
+      "utterance": "通えると思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:03:17",
+      "utterance": "そうなんですね。場所も近いとさきほどおっしゃていましたから、通いやすいところにあるのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:03:39",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:03:59",
+      "utterance": "お子さんが地元の中学に行きたいことは夏みかんさんの夫さんには相談とかされているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:04:37",
+      "utterance": "いえ、まだです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:05:26",
+      "utterance": "そうなんですね。今はお一人でお子さんの受験のこと悩んでいらっしゃたのですね。それはとても心配で不安だったでしょう",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:05:59",
+      "utterance": "主人は単身赴任で家にいないんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:06:44",
+      "utterance": "そうだったんですね。心配かけてはいけないと思ってしまったり、なかなかいいタイミングで相談できないですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:07:04",
+      "utterance": "お一人でお子さんの面倒みられていて大変ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:07:22",
+      "utterance": "そうかもしれませんね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:08:05",
+      "utterance": "学校の先生など誰かに相談しているとかありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:08:23",
+      "utterance": "いいえ、いません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:08:55",
+      "utterance": "お子さんとお二人で話されていて、どうしようか悩んでいるかんじなんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:09:25",
+      "utterance": "夏みかんさんは、今一番お子さんにどうしてほしいと思っていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:09:35",
+      "utterance": "そうですね、2人で悩んでますね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:10:18",
+      "utterance": "勉強を頑張って受験して欲しいですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:11:07",
+      "utterance": "なるほど。夏みかんさんは受験してほしいと願っているのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:12:08",
+      "utterance": "その通りです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:13:14",
+      "utterance": "夏みかんさんは、お一人で夫さんの留守の間、お子さんの面倒をみて、そして受験のことも考えていらっしゃいます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:13:25",
+      "utterance": "お一人でとても頑張っていらっしゃると思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:13:35",
+      "utterance": "「お時間過ぎていますが いかがなさいますか？」",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:14:29",
+      "utterance": "（14：30からでしたが、15：30までではないですか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:14:48",
+      "utterance": "失礼いたしました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:14:58",
+      "utterance": "続けます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:15:05",
+      "utterance": "（続けても大丈夫ですか？）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:15:12",
+      "utterance": "はいもちろんです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:15:36",
+      "utterance": "私の思ったことお伝えしてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:15:43",
+      "utterance": "はいお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:16:16",
+      "utterance": "お母さまとしてお子さんの将来のこととてもよく考えていらっしゃって、とても素晴らしいと思いました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:16:27",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:17:14",
+      "utterance": "お子さんもきっと夏みかんさんのこととても頼りにされているのではないかと感じます",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:17:47",
+      "utterance": "そうなら嬉しいです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:17:56",
+      "utterance": "しかし、地元の中学を考えてもいいとお子さんが言っているということでしたので、お子さん的にちょっと何か悩むところがあるのかな、と思いました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:18:05",
+      "utterance": "例えばなんですが、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:18:45",
+      "utterance": "まだ小学４年生なので、遊びたいお年頃でもありますし、塾のいかれる回数を減らしてみるとかはどうでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:19:40",
+      "utterance": "回数を減らして遊びたい気持ちを優先させる、というかんじですかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:19:52",
+      "utterance": "少し遊べる時間を作ってあげて、勉強と遊びをバランスよくできるようにしたら、お子さんも頑張れるのではないかと思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:20:17",
+      "utterance": "なるほど。そう",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:20:36",
+      "utterance": "遊びたい気持ちを優先というのではなく、メリハリをつけて、勉強と遊びを両立していくというか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:20:43",
+      "utterance": "失礼しましたそういう考えもあるのでしょうかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:21:22",
+      "utterance": "週に５日塾に行っているということでしたので、少しだけ減らしてみるのはどうかな、と思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:22:07",
+      "utterance": "遊ぶなら遊ぶ、塾なら塾、とメリハリをつけるということですかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:22:35",
+      "utterance": "話が分かりづらくてすいません。おっしゃるとおりです。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:23:13",
+      "utterance": "なるほど。子供もそれなら受け入れてくれますかね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:24:07",
+      "utterance": "勉強が苦手ということでしたので、回数を少しでも減らせたり、遊ぶ時間を作れるようにしたら少しはわかってれるのかな？と思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:25:09",
+      "utterance": "そうですかねそれなら助かります",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:25:48",
+      "utterance": "お子さんの意見も聞いてみないとわかりませんが・・・",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:26:18",
+      "utterance": "お子さんにもやってみてはいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:26:38",
+      "utterance": "確かに週5の塾は多いのかもしれないですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:27:54",
+      "utterance": "お子さんがおつらくなければいいですが、お子さんと相談してみてはいかでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:28:38",
+      "utterance": "そうですね話して見ようと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:28:46",
+      "utterance": "一生懸命夏みかんさんはお子さんのことを考えていらっしゃると思います。きっとお子さんも夏みかんさんのお気持ちわかってくれると思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:28:47",
+      "utterance": "みようと、です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:29:14",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:29:54",
+      "utterance": "お子さんがいろいろとうまくいくように願っております。本日、ご相談されてみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:30:50",
+      "utterance": "はい、ありがとうございました私も少し気が焦りすぎていたのかも、知れませんね",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:31:46",
+      "utterance": "不安なお気持ちになりますよね。進路は安易に決められないものですから、慎重になりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:32:02",
+      "utterance": "はいそうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:32:12",
+      "utterance": "本日、はこれでご相談終了させていただきますが、大丈夫でしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:32:50",
+      "utterance": "はい、私も今日のことを踏まえて、子供と向き合ってみますありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:33:12",
+      "utterance": "こちらこそお話聴かせていただきありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:33:24",
+      "utterance": "こちらこそありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:33:40",
+      "utterance": "夏みかんさんも無理なさらずにしてくださいね。それでは、失礼いたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-14T15:34:45",
+      "utterance": "（ありがとうございました。これで、ロールプレイ終了します）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-14T15:34:47",
+      "utterance": "今日はありがとうございました！大変勉強になりましたそれでは失礼致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "子供の中学受験に対する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 339,
+    "評価作成日時": "2020-08-14T15:54:00",
+    "クライアント役ID": 17,
+    "カウンセラー役ID": 18,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 339,
+    "evaluation_created_at": "2020-08-14T15:54:00",
+    "client_id": 17,
+    "counselor_id": 18,
+    "score": 69,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

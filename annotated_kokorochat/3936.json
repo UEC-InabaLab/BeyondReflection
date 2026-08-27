@@ -1,0 +1,548 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-09T10:52:06",
+      "utterance": "(こんにちは。よろしくお願いいたします。時間になりましたら、始めさせていただきます。)",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T10:55:08",
+      "utterance": "(こんにちは。よろしくお願いいたします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:00:05",
+      "utterance": "こんにちは。相談員です。はじめに、年齢と性別を教えていただけますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:01:20",
+      "utterance": "こんにちは。44歳　女性",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:01:43",
+      "utterance": "相談に来てくださって、ありがとうございます。今日、お話になりたいのは、どのようなことでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:02:04",
+      "utterance": "義理の妹のことです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:02:42",
+      "utterance": "そうなのですね。詳しくお話いただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:03:20",
+      "utterance": "はい、１年前に突然意識を失い、少ししてから亡くなりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:04:59",
+      "utterance": "そんなことがあったのですね。突然のこと、ショックだったことでしょう。その妹さんのことで、どんなことがお話になりたいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:06:47",
+      "utterance": "はい。脳の病気でした。意識不明の状態が続き、これ以上改善は見込めない、意識はほぼ戻らないだろうと医師から言われました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:07:38",
+      "utterance": "そして、延命治療を続けるか、やめるかどうするかを家族で決めることになりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:08:20",
+      "utterance": "ええ。そうだったのですね。本当につらい決断でしたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:08:43",
+      "utterance": "どのような決断になったのか、おききしてもよろしいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:09:11",
+      "utterance": "はい。妹のはっきりとした意志は分からなかったので、母と夫と私で話し合いました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:09:59",
+      "utterance": "意識が戻る可能性はほぼないということで、延命治療をやめる決断をしました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:10:43",
+      "utterance": "ええ。ええ。そうでしたか。たまらない気持ちでしたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:11:17",
+      "utterance": "あなたは、どのような気持ちをもたれたのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:13:05",
+      "utterance": "はい。妹にとっていいのはどちらか悩みました。そして、ずっとベッドの上で寝ているだけなら生きているのはとてもつらいだろうと思いました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:14:18",
+      "utterance": "そうだったのですね。そんなふうに悩み、お考えになったのですね。お義母さまや夫さんは、どのように考えておられたのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:15:31",
+      "utterance": "はい。義理の母も夫も同じように考えていました。何もできないでただ寝ているだけというのは苦しいのではと。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:15:49",
+      "utterance": "それで決断に至りました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:16:18",
+      "utterance": "ええ。ええ。そうでしたか。みなさん、妹さんの立場に立って、苦しい決断をされたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:16:45",
+      "utterance": "はい。ただ、時々思うのです。これでよかったのかと。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:17:33",
+      "utterance": "そうでしたか。一年がたった今、そう思われるのですね。それも、苦しいことですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:18:24",
+      "utterance": "はい。何年も意識不明の状態から回復した人の話を聞くと、もしかしたら、妹もと思うのです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:19:13",
+      "utterance": "苦しいし罪悪感も感じています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:19:59",
+      "utterance": "ああ。そのようにお考えになるのですね。そうでしたか。罪悪感もですね。たまらないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:20:34",
+      "utterance": "他にも考えられることは、ありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:20:49",
+      "utterance": "どのような思いが浮かんでくるのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:22:38",
+      "utterance": "はい、妹の人生を本人でない人たちが決めてしまったことに対する申し訳なさだったり、仕方がなかったと言えばそうなんですが、数年待っても良かったのではないかと思ったりすることもあります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:23:41",
+      "utterance": "そうなのですね。どうしようもないことだった。でも…と、やはり考えてしまうのですね。そのようなお気持ち、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:24:17",
+      "utterance": "おひとりで、かかえておいでですか。夫さんとは、お話になることなど、おありですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:25:25",
+      "utterance": "はい、どうしようもなかった。でもこれでよかったのかと。夫に話しましたが、意外とあっさりしていてこうするしかなかったよ、と言っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:26:06",
+      "utterance": "そうでしたか。あなたとしては、ある意味、救われるようでもあり、でも、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:26:24",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:26:34",
+      "utterance": "あなたの気持ちの持って行き場が、なかったり…ということにも、なりますか。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:27:55",
+      "utterance": "そうです。後悔のような気持ちは自分の中にとどまっている感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:29:07",
+      "utterance": "ええ。ええ。妹さんが亡くなった時点で、ある意味、時が止まってしまったふうにも、感じられるのかもしれないですね。妹さんは、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:30:10",
+      "utterance": "どのような方でしたか。あなたが、あまり辛くならない範囲で、お話しできることがあったら、教えていただけませんか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:31:14",
+      "utterance": "とても明るい周りに気を遣うお姉さんのような存在でした。私より年上でしたので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:31:53",
+      "utterance": "夫の実家に行った時も私に気を遣ってくれる人でした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:32:21",
+      "utterance": "そうでしたか。すてきな方だったのですね。それだけに、お辛くもなりますね。何か、いい思い出など、おありですか。よかったら、教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:33:32",
+      "utterance": "よくプレゼントしあったりしていたんです。私が寒がりなので冬に実家に行った時は温かいパジャマをプレゼントしてくれました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:34:16",
+      "utterance": "こちらに来てくれた時は世界遺産など見て回ったりして楽しかったです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:34:19",
+      "utterance": "まあ。素敵な思い出ですね。そして、大切な思い出でもありますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:34:51",
+      "utterance": "そうですね。大切な思い出です。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:35:13",
+      "utterance": "そうでしたか。一緒に出かけられたりもして、楽しめる間柄でもあったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:35:34",
+      "utterance": "いいご関係だったこと、伝わってきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:36:29",
+      "utterance": "はい、私には姉や妹はいないので、そんな姉妹のような存在でもありました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:38:05",
+      "utterance": "ああ。そうなのですね。実の姉妹のようなご感覚でもあった。だから、なおさら想いが交錯しますね。本当に素敵な大切な出会いをいただいたのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:39:05",
+      "utterance": "ありがとうございます。そうですね、大切な出会いだったと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:40:29",
+      "utterance": "妹さんのこと、話すことにまだ痛みはおありかな…とお察しします。ご無理のない範囲で、大切な思い出について、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:41:24",
+      "utterance": "話していかれることは、ある意味で、ご供養になるのかもしれないですね。あの…。これは、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:41:31",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:43:12",
+      "utterance": "ひとつのご提案にすぎないのですが…。あなたが、まだ大きく痛みを感じるようなら、今はやめておきましょう。もしも、もう少し時がたって、その時期がきたら…くらいで、受けとめてくださいね。あの、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:43:47",
+      "utterance": "はい、続けてお話していただけますか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:44:56",
+      "utterance": "もしも、そんな妹さんと、生前に、お互いのリヴィング・ウィルのようなこと、雑談交じりにお話することがあったとして、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:45:11",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:46:23",
+      "utterance": "あなたは、自分の意志を、妹さんにどう伝えたのかなって。そして、妹さんは、あなたにどう伝えたのかなって。時期がきたら、想像してみられること、あってもいいのかなって、思いました。あくまで、ひとつのご提案です。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:46:55",
+      "utterance": "いかがですか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:48:36",
+      "utterance": "ええ、ありがとうございます。妹は何もできないで寝ているだけなのは嫌だというと思います。私もそう思う、と言っていたと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:49:18",
+      "utterance": "そうでしたか。そんなふうにお感じになられたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:50:21",
+      "utterance": "はい、そう感じました。やっぱり生きていたら自分の気持ちを伝えたいと思うので。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:51:06",
+      "utterance": "少しずつ、少しずつ、整理していけたらいいっですね。もしかしたら、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:51:27",
+      "utterance": "ええ。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:52:07",
+      "utterance": "時間が解決してくれることが、ある程度はあるのかもしれませんね。それは、ときがたってみてはじめて、そう感じる事なんでしょうけど。よかったら、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:52:24",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:52:31",
+      "utterance": "こちらへも、ときどきお話にきてくださればと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:52:45",
+      "utterance": "ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:53:18",
+      "utterance": "こちらこそ、とてもとてもたいせつなお話をきかせてくださって、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:53:51",
+      "utterance": "どうもありがとうございました。心が楽になった気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:54:38",
+      "utterance": "そうなのですね。では、今日のお話は、そろそろ終わりにさせていただきたいと思いますが、いかがですか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T11:55:27",
+      "utterance": "はい、今日はありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T11:55:50",
+      "utterance": "(お疲れ様でした。ありがとうございました。)(終了のメッセージをおくります。)",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義理の妹の死とその決断に対する罪悪感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3936,
+    "評価作成日時": "2022-09-09T12:22:00",
+    "クライアント役ID": 313,
+    "カウンセラー役ID": 316,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3936,
+    "evaluation_created_at": "2022-09-09T12:22:00",
+    "client_id": 313,
+    "counselor_id": 316,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

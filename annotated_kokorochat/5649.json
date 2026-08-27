@@ -1,0 +1,600 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-11T20:56:48",
+      "utterance": "こんばんは。本日よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T20:59:38",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:00:37",
+      "utterance": "（始めますね）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:00:58",
+      "utterance": "こんばんは相談員です。相談に来てくださってありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:01:32",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:02:03",
+      "utterance": "こちらこそよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:02:27",
+      "utterance": "良かったら、詳しくお話をお聴きしたいので、あなたの年齢や性別・相談内容を教えてもらっていいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:04:13",
+      "utterance": "18さい女ゲームがやってしまう",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:04:32",
+      "utterance": "ゲームを…です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:04:36",
+      "utterance": "すみません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:05:30",
+      "utterance": "謝らなくても大丈夫ですよ。ゲームをやってしまうことについて、お話されたいのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:05:51",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:05:57",
+      "utterance": "ちなみに、ゲームは1日どれ位していますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:07:04",
+      "utterance": "3〜5時間…かな",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:08:04",
+      "utterance": "割と長い時間、ゲームをするのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:08:23",
+      "utterance": "やっぱり、そうですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:08:40",
+      "utterance": "でも、辞めれなくて…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:09:19",
+      "utterance": "辞めたいけど、辞められないという感じでしょうか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:09:31",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:10:57",
+      "utterance": "ちなみに、ゲームを長くしている事で、何か困っていることが出てきていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:11:46",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:12:37",
+      "utterance": "受験があるので勉強しないといけないのですが、ゲームをしてしまうんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:13:23",
+      "utterance": "なるほど…受験勉強を控えているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:14:31",
+      "utterance": "確かに、勉強とゲームだったら、ゲームの方が面白く感じるかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:15:41",
+      "utterance": "ちなみに、受験勉強は、１日どれ位されていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:16:47",
+      "utterance": "週末に少しするぐらい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:18:07",
+      "utterance": "お話をお聴きしていると、確かに、受験勉強より、ゲームをされている時間が多いようですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:19:01",
+      "utterance": "はい…",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:19:39",
+      "utterance": "ちなみにあなたは、ゲームを止めたら、その分　受験勉強に取り組むことができると、思われていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:19:50",
+      "utterance": "分かりません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:20:12",
+      "utterance": "取り組みたいとは思いますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:20:59",
+      "utterance": "そういう風に考えていらっしゃるのですね。良かったら、どうしたらいいか、一緒に考えてみたいと思いますが、どうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:21:08",
+      "utterance": "よろしくお願いします",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:21:40",
+      "utterance": "こちらこそよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:24:26",
+      "utterance": "受験勉強をしているとお話されていますが、例えば将来の夢や目標について、あなたはどのようなイメージを持っていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:25:45",
+      "utterance": "親とか先生とか聴かれたりするけど、あまりピンときていないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:26:32",
+      "utterance": "とりあえずどこか大学行けばいいかな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:27:28",
+      "utterance": "なるほど…そういう感じなのですね。それは、もやもやする事もありますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:28:53",
+      "utterance": "うーん…よく分からないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:29:35",
+      "utterance": "ちなみに、ゲームをしている時って、どのような気持になることが多いですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:30:04",
+      "utterance": "楽しいです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:31:44",
+      "utterance": "例えば、相手との対戦や勝ったときなど、ゲームをしている時に、色々な事があると思いますが、どういった事が楽しいと感じますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:32:25",
+      "utterance": "そうですね・・・いろいろあるけど、",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:33:18",
+      "utterance": "はい（お聴きしていますね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:34:55",
+      "utterance": "パtズルゲームだとクリアしていくこと、自分の好きな世界を作れることだったり、あとは仲間と一緒に協力してストーリーが進んでいく…こととかかな",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:36:27",
+      "utterance": "なるほど…そういうことが楽しく感じられているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:36:58",
+      "utterance": "確かにクリアしていくと、達成感を味わえるし、仲間と一緒に何か作り上げると、嬉しく感じますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:37:48",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:40:00",
+      "utterance": "お話をお聴きしていると、受験勉強も、例えばある部分の所までするという区切りをつけて、クリアしていく感覚で取り組んでみたり、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:40:54",
+      "utterance": "友達を同じ問題集や勉強アプリを共有しながら、勉強をしてみてもいいのではないかと思ったのですが、どう思いますか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:43:28",
+      "utterance": "たしかにそうかもしれませんが、やる気出ないんですよね…そんな友達もいないし…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:45:23",
+      "utterance": "確かにそのように思いながら、勉強していると、進みにくく感じるかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:46:01",
+      "utterance": "…どうしたらいいのですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:48:02",
+      "utterance": "そうですね…。受験勉強のやる気を出すためにどうしたらいいかという事ですが、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:49:11",
+      "utterance": "まず、少しづつ目標を立ててみて。それを達成した際には、自分自身をほめてみたり、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:50:19",
+      "utterance": "取り組む時間について、タイマーをセットするなどして、出来るだけ集中して、勉強に取り組むようにすることも１つの方法だと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:51:26",
+      "utterance": "目標…あんまりないなぁ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:53:17",
+      "utterance": "例えば＜毎日英単語を15個覚える＞とか、目に見えたり、簡単に出来そうなことを始めて、それができる事を1つの目標設定にしてもいいと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:54:03",
+      "utterance": "とりあえず行けばいいかぐらいしか考えてないから…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:54:46",
+      "utterance": "やっぱりやる気が出ないかもね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:57:11",
+      "utterance": "やる気を出す方法ですが、少しつづ自分が出来る事から取り組み始めて、それを続けていく事が大切だと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T21:58:18",
+      "utterance": "そうなんですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:58:25",
+      "utterance": "習慣化していくと、その行動が当たり前になってきますし、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T21:59:33",
+      "utterance": "取り組みやすい事から始めて、出来たという気持が何回も続くと、自信につながることもありますから、徐々に取り組む時間も長くなってくると思いますが、あなたはどう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:01:48",
+      "utterance": "正直なところ、自分自身が取り組めるかどうか…難しく感じます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:02:24",
+      "utterance": "ついついやっぱりゲームしそう",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:04:06",
+      "utterance": "どうしてもゲームが気になって、勉強が取り組めないと思うのであれば、ゲーム自体をアンインストールしたり、あなたの手の届かないところに機械を預けるなど、色々方法はあると思いますが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:04:06",
+      "utterance": "自分に負けちゃうんでしょうね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:05:30",
+      "utterance": "まずは、先に勉強をしてから、ゲームをするなど、時間やルーティーンをしっかり決めてから、行うのも1つの方法だと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:05:34",
+      "utterance": "ゲームないと生きている意味ないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:05:56",
+      "utterance": "ゲームはやめたくはないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:06:22",
+      "utterance": "勉強→ゲームをするというのを、セットにしてみるのはどうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:07:40",
+      "utterance": "それぞれ取り組む時間を決めて、バランスを取りながら、進めてみてもいいと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:08:09",
+      "utterance": "できるかどうか分かりませんが、やってみます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:08:32",
+      "utterance": "良かったら、試してみてくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:08:46",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:09:24",
+      "utterance": "今日は、大事なお話を聞かせてくれてありがとうございました。また、何かあれば、相談に来てくださいね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:09:33",
+      "utterance": "ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:09:49",
+      "utterance": "こちらこそ、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:10:23",
+      "utterance": "（ロールプレイお疲れさまでした。時間が押してしまって、申し訳ありませんでした）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-11T22:11:01",
+      "utterance": "（いえいえ、大丈夫です。お疲れ様でした。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-11T22:11:15",
+      "utterance": "（では、ここで終了しますね。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "大学進学への意欲と目標設定の不明確さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5649,
+    "評価作成日時": "2023-08-26T16:44:00",
+    "クライアント役ID": 156,
+    "カウンセラー役ID": 112,
+    "点数": 47,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5649,
+    "evaluation_created_at": "2023-08-26T16:44:00",
+    "client_id": 156,
+    "counselor_id": 112,
+    "score": 47,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

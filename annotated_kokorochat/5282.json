@@ -1,0 +1,666 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:21:53",
+      "utterance": "（本日はよろしくお願いいたします。時間になりましたら、始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:26:23",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:30:16",
+      "utterance": "ご相談にお越しいただきありがとうございます。まず初めに、・ご年齢と性別・ご相談したいことについて、教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:30:54",
+      "utterance": "35歳女性姑が嫌で相談に来ました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:31:46",
+      "utterance": "ありがとうございます。お姑さんが嫌とのこと、もう少しお話いただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:32:19",
+      "utterance": "1月から同居しているのですが、いちいち干渉がひどくて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:32:46",
+      "utterance": "最ほんとに嫌になります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:33:16",
+      "utterance": "そうですか…同居が始まり半年ですね。干渉とは、例えばどんなことでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:34:21",
+      "utterance": "前は、時間も違うので食事とか別だったんですが、最近は食事にも来てぐちぐち言われます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:35:33",
+      "utterance": "食事も一緒にされるようになってきたのですね。ぐちぐちですか…せっかくのお食事が台無しですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:36:21",
+      "utterance": "はい。自分の息子は、この味付けはちょっととか、この食材は嫌いとか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:36:55",
+      "utterance": "その「ぐちぐち」は、相談者様に対して、が多いのですね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:37:28",
+      "utterance": "はい。夫がいる時にはいってこないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:38:22",
+      "utterance": "なるほど…自分の息子さんが一緒の時は、言わない。それはそれで不快になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:38:53",
+      "utterance": "はい。かなりイラつきます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:40:11",
+      "utterance": "毎日の毎回の食事ですからね。イラつく、それは自然な当たり前な感情ですよね…。ご主人にはお伝えしてみたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:41:45",
+      "utterance": "伝えました。夫も姑に、食事は別の約束だっただろって言ってくれたのですが、寂しいからとか理由をつけて一緒に食べようとしてくるです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:43:29",
+      "utterance": "そうですか。始めに、約束事をされてからの始まりだったのですね。ご主人が対応は一応してくださった。。。寂しい、ですか。そもそも、同居のきっかけは何だったのでしょう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:43:56",
+      "utterance": "姑の借金です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:45:15",
+      "utterance": "そうでしたか。。。では、生活費のために始められた同居ですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:45:25",
+      "utterance": "そうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:46:18",
+      "utterance": "その借金についてはひと段落はついて生活はできている、ということで大丈夫なのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:46:44",
+      "utterance": "まだなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:47:02",
+      "utterance": "今も借金返済しています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:47:40",
+      "utterance": "そうでしたか。その問題を抱えながらの、同居。返済目途はたたれている？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:47:59",
+      "utterance": "あと、数年はかかる予定です。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:48:56",
+      "utterance": "数年ですね。借金の理由としては、ご相談者さまは把握されているのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:49:11",
+      "utterance": "わからないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:50:07",
+      "utterance": "そうですか。そうなると、また知らない間に借金が増えたら…など不安にはなりませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:50:31",
+      "utterance": "ご主人も知らないのでしょうか…。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:51:18",
+      "utterance": "夫は、知っていると思います。夫が、通帳とか管理しているので、借金が増えることはないと信じています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:52:24",
+      "utterance": "金銭面の管理はご主人なのですね。なかなか、借金を返しながらの生活、ストレスはたまりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:52:47",
+      "utterance": "借金は、年金で返してもらってます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:53:14",
+      "utterance": "なのでそれ以外の生活の面倒を見ています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:54:07",
+      "utterance": "そうでしたか。面倒を見ているのに、食事時にぐちぐち、相談者さまからしたら愚痴を聞かされ、、、ストレスですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:54:31",
+      "utterance": "かなりストレスです。早く出てって欲しいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:55:28",
+      "utterance": "そうですよね。お話聞いていると、かなり　いっぱいいっぱいのような印象もうけます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:55:49",
+      "utterance": "イライラ感が半端ないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:56:30",
+      "utterance": "ええ。干渉とは、食事中以外でもありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:56:49",
+      "utterance": "あげたらキリがないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:57:43",
+      "utterance": "なるほど…出しても吐いてもイライラ感が止まらない感じですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:57:54",
+      "utterance": "はい。、",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:58:15",
+      "utterance": "ストレス発散は何かされていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:58:40",
+      "utterance": "家の中で24時間一緒に過ごされているのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:58:49",
+      "utterance": "とりあえず、仕事帰りにジム行ったりして、動いてます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:59:11",
+      "utterance": "いいえ、仕事をしているのでずっと一緒ではないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T21:59:46",
+      "utterance": "それはとても良い発散方法ですよね。帰っても…と思うとなおさらのような。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T21:59:58",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:00:35",
+      "utterance": "食事は相談者様が担当でしょうか。姑さんが作ることも？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:01:14",
+      "utterance": "基本、私です。姑は、作らないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:02:23",
+      "utterance": "そうなんですね。作ってもらって、ケチ付けはアウトですよね…この半端ないストレス、イライラをご主人はどう把握されているのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:03:12",
+      "utterance": "夫は、理解してくれてます。姑にもいってくれるんですが、その時だけって感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:04:15",
+      "utterance": "お姑さんは、息子さんに言われた瞬間だけ、理解されたような対応をされる、ということですかね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:04:58",
+      "utterance": "そうです。〇〇ちゃん、ごめんなさいとは、言いますが、そのうちもとに戻ります。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:06:00",
+      "utterance": "言葉で謝ってはくれるのですね。でも戻る…最初は良くても、、、ですかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:06:26",
+      "utterance": "夫の前だけですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:07:21",
+      "utterance": "ご主人の手前、といった感じですね。では誠意のようなものは感じられないということですね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:08:03",
+      "utterance": "全く感じないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:09:25",
+      "utterance": "そうですか…そうですよね。。。お姑さんに、ご相談者さまから直接、不快であることをお伝えしたことはあるのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:09:59",
+      "utterance": "それも言ったのですが、私の声には、耳を傾けません。、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:11:13",
+      "utterance": "お伝えしてみたのですね。始めは勇気がいりますよね。ですが、耳を傾けない　と。それは、聞こえないふり？をするとかでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:12:27",
+      "utterance": "言ってもそうねとは言うんですが、夫の前だけですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:14:05",
+      "utterance": "そうね　と一応は反応されているのですね。何か、本音というか言葉の裏に想いをもたれているのかも…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:14:38",
+      "utterance": "お姑さん自身にも姑との関係は以前にあったのでしょうかね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:14:39",
+      "utterance": "どう言う事でしょうか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:15:05",
+      "utterance": "かぶってしまいましたね。すみません。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:15:16",
+      "utterance": "ごめんなさい。私にはわからないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:16:00",
+      "utterance": "お聞きしていると、お姑さんは何かその時だけのその場しのぎのお言葉だけで、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:16:35",
+      "utterance": "食事も最初は別々…のはずが寂しいと息子さんには言って、愚痴を言いにくる",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:17:07",
+      "utterance": "何か、お姑さんにも思いのようなものがあるのかなと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:17:55",
+      "utterance": "私には、姑の思いはわからないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:19:12",
+      "utterance": "そうですね。ご相談者様のストレスが限界になる前に何か対策、というか改善できることが見つかるといいのですが。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:20:20",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:21:44",
+      "utterance": "イライラが半端ないと、おっしゃられていたので、とりあえずできる限り距離を置く　あえて置くはしたほうが良いかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:22:44",
+      "utterance": "なるだけ接触しないようにしてはいるのですの、なかなか難しくて",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:23:19",
+      "utterance": "同居となると…ですね。ご相談者様にはまずは自分の心を守る、大事にする　をしていただきたいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:23:52",
+      "utterance": "はい。どうすればいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:25:54",
+      "utterance": "そうですね。怒りの感情が出やすくなっていると思うので、・その場を離れる（トイレへ行くなど）・深呼吸をしてみる・６秒待ってからなどがあります。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:26:53",
+      "utterance": "あとは食事は一緒にはしないを、もう一度行動に移してみるとか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:27:04",
+      "utterance": "よくネットで見るやつですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:27:22",
+      "utterance": "食事は、一緒にしたくないですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:28:41",
+      "utterance": "ええ。見られたことがおありなのですね。ストレスであることをきちんと提示しても良いのではと思います。同居、本当に大変なストレスだと伝わってきます。。相談者様は何も悪くないのですから。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:29:01",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:29:51",
+      "utterance": "ノーであることを行動にするこれも自分を守る術だと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:30:12",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:30:48",
+      "utterance": "きっとお優しいからストレスをためて過ごされてきたのだと思います。まずは自身をほめて自分に優しい時間を過ごしていただきたいです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:31:20",
+      "utterance": "ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:32:04",
+      "utterance": "そろそろお時間になってしまいました。また続きでもよろしければ来ていただければと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:32:35",
+      "utterance": "はい。今日は、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:32:46",
+      "utterance": "ありがとうございます。それでは、終了メッセージを送らせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-14T22:33:02",
+      "utterance": "（勉強になりました　ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-14T22:33:16",
+      "utterance": "お願いします。こちらこそ勉強になりました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "姑との同居による干渉問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5282,
+    "評価作成日時": "2023-06-14T23:00:00",
+    "クライアント役ID": 341,
+    "カウンセラー役ID": 399,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5282,
+    "evaluation_created_at": "2023-06-14T23:00:00",
+    "client_id": 341,
+    "counselor_id": 399,
+    "score": 58,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-04-03T20:53:09",
+      "utterance": "よろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T20:58:21",
+      "utterance": "（こんばんは、遅くなり申し訳ございません。本日は宜しくお願いいたします。時間ちょうどに開始させていただきますね。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T20:59:06",
+      "utterance": "大丈夫ですはい。お願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:00:07",
+      "utterance": "こんばんは、相談員です。はじめに年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:02:49",
+      "utterance": "42さい女です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:03:08",
+      "utterance": "ありがとうございます。ここではお話したいことだけで大丈夫ですのでお気軽にお話しくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:03:14",
+      "utterance": "義理の親とうまくいかず悩んでます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:03:28",
+      "utterance": "ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:03:56",
+      "utterance": "そうだったんですね。どんなことがおありだったんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:05:02",
+      "utterance": "色々ありすぎて絞れないですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:05:25",
+      "utterance": "ええ、話しやすいところからで大丈夫ですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:05:42",
+      "utterance": "第一子を妊娠したときに、報告してもスルーされました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:06:07",
+      "utterance": "そうだったんですね。。それは悲しいお気持ちになりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:06:58",
+      "utterance": "びっくりして二回伝えたのですが、良かったねくらいで、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:07:53",
+      "utterance": "そのようなことがあったんですね。言われた時どのようなお気持ちになりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:08:39",
+      "utterance": "私より赤ちゃんが望まれていないのかもと不安になり、実家に帰りたくなりました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:10:25",
+      "utterance": "苦しい思いをされましたね。。それはご不安にもなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:10:46",
+      "utterance": "はい。旦那に泣きついたのですが、旦那が私に謝って終わりでした",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:12:22",
+      "utterance": "そうだったんですね。あなた的にはどのようにしてほしかったですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:13:42",
+      "utterance": "義理実家にとって初孫だったので、喜んでくれると期待していました。普通に喜んでほしかったです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:15:37",
+      "utterance": "ええ、一緒に喜んでほしいと思っていたんですね。初めての妊娠でとてもうれしい事なのにお辛い思いをされましたね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:16:06",
+      "utterance": "はい。一生忘れられません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:16:47",
+      "utterance": "一生忘れられないほど傷づかれたんですね。。義理の親とはお父さん、お母さんどちらでしょうか。また、同居されているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:17:25",
+      "utterance": "二人ともにです。同居はしてないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:19:10",
+      "utterance": "お二人ともだったんですね。妊娠を伝える前の関係はどのような感じでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:20:01",
+      "utterance": "その前にもえ⁉と思うようなことは、色々ありました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:20:27",
+      "utterance": "そうだったんですね、例えばどのようなことがありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:21:00",
+      "utterance": "デリカシーがないというか、相手の気持ちを考えないというか、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:21:46",
+      "utterance": "ええ、そのように感じる事があったんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:22:07",
+      "utterance": "赤ちゃんが生まれてからも、遊びに来て、『震度4だよー』などベビーベッドを揺らしたりしてました....",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:22:51",
+      "utterance": "赤ちゃん、ビクッとなったりして、、、",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:23:31",
+      "utterance": "そのようなことがおありだったんですね。それはびっくりしてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:23:48",
+      "utterance": "ですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:24:41",
+      "utterance": "ちょっと理解できないことがありすぎてイヤになります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:25:26",
+      "utterance": "ええ、不愉快にも感じて当然の事と思います。義理のご両親との関係に悩まれるようになったのはどのくらい前からですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:26:37",
+      "utterance": "結婚して半年で妊娠したので、その辺りからです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:26:59",
+      "utterance": "あ、今は結婚10年になりました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:27:18",
+      "utterance": "そうだったんですね、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:27:44",
+      "utterance": "約10年間もそのように感じることが続いているんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:27:51",
+      "utterance": "長いですね❗自分でも、書いててびっくりしてます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:28:03",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:28:41",
+      "utterance": "とても長い間悩まれてきたんですね。これまでたくさん我慢されてきましたよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:29:17",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:30:26",
+      "utterance": "自分勝手なことが多いので振り回されますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:30:47",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:31:34",
+      "utterance": "伝えても直らず懲りずです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:32:37",
+      "utterance": "そうでしたか。。振り回されるのは疲れてしまいますね。本人たちには伝えているんですね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:33:00",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:33:15",
+      "utterance": "伝えた時どのような感じでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:33:42",
+      "utterance": "一応、謝ったりはしますが",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:33:49",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:34:25",
+      "utterance": "次回から気をつけようとは思ってないし、深く考えてない感じがします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:35:30",
+      "utterance": "何度も同じ繰り返しです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:35:59",
+      "utterance": "そうだったんですね、何度も伝えてもそのような感じではやりきれないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:36:48",
+      "utterance": "相談者さんとしては義理の両親との関係が今後どのようになったらいいなというお気持ちですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:37:04",
+      "utterance": "私が電話をかけても、向こうの用事を伝えられて切られたりしますから",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:37:19",
+      "utterance": "行き違いすみません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:37:34",
+      "utterance": "こちらこそ、申し訳ございません。そんなこともあるんですね。。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:37:50",
+      "utterance": "私には理解できないんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:38:25",
+      "utterance": "んー、今後どのような関係性、、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:38:53",
+      "utterance": "理想の関係を考えたことなかったです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:39:20",
+      "utterance": "そうですね、例えば、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:40:32",
+      "utterance": "こちらの気持ちをもっと聞いてもらえるように旦那さんに一緒に向き合ってもらう、義理の両親とはもう縁を切りたい等、様々だとは思いますがいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:40:50",
+      "utterance": "なるほど",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:41:30",
+      "utterance": "ゆっくりで大丈夫ですので考えてみてくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:42:16",
+      "utterance": "今思うのは、もらえるお金は頂いて、あとは会わずに暮らしていきたい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:42:43",
+      "utterance": "ラインや電話くらいで、ちょうどいいかもしれないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:43:20",
+      "utterance": "そのように考えておられるんですね。ええ、いい距離感でいる方が良さそうですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:43:30",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:43:58",
+      "utterance": "生活や時間や気持ちを乱されるのはいやですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:44:42",
+      "utterance": "そうですね、気持ちを乱されて嫌な思いをするのは避けたいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:44:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:45:10",
+      "utterance": "ここまでお話しいただいたこと、少しまとめさせてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:45:18",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:46:22",
+      "utterance": "約10年前、第一子を妊娠したときくらいから義理の両親に対して理解できない事が多くあり、長い間悩んでおられる、（続く）",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:47:44",
+      "utterance": "これからは直接会わずにラインや電話をするくらいの距離感を保ってかかわっていきたいと思われているというところでよろしかったでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:47:54",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:48:57",
+      "utterance": "ありがとうございます。実際にそのようにしていく事はできそうでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:49:33",
+      "utterance": "今はできてます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:50:07",
+      "utterance": "ただ、介護などになったら近づかないとならなくなりそうです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:51:31",
+      "utterance": "なるほど、介護が必要になると会わざるを得ない状況ですもんね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:51:46",
+      "utterance": "避けたいですが",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:51:56",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:52:06",
+      "utterance": "たぶん。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:53:23",
+      "utterance": "このことについて旦那さんにはお話されたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:53:38",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:54:04",
+      "utterance": "どのようにおっしゃっていましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:54:12",
+      "utterance": "旦那は、他の兄弟に頼もうとしていました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:54:59",
+      "utterance": "他の兄弟がいらっしゃるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:55:10",
+      "utterance": "まあ、義理姉もいるので嫁が行かなくても良さそうですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:55:21",
+      "utterance": "はい。います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:56:08",
+      "utterance": "ええ、全く行かないというわけにもいかない様な感じでしょうか＞",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:56:57",
+      "utterance": "んー私次第ではありますが、、、旦那だけ行けばいいような気もします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:57:55",
+      "utterance": "そのように思われているですね。無理してしまって苦しい思いをされるのは嫌ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:58:03",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T21:58:22",
+      "utterance": "今日はお話の途中でお時間が来てしまい申し訳ありません。今日はお話してみていかがでしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:59:13",
+      "utterance": "自分の中でも整理ができた気がします",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T21:59:27",
+      "utterance": "明確に確認できたような",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T22:00:00",
+      "utterance": "ありがとうございます。長い間悩まれてきたと思いますので少しでもお力になれていたらうれしく思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T22:00:24",
+      "utterance": "聞いてくださりありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T22:00:41",
+      "utterance": "こちらこそ、本日はありがとうございました。今後もお気軽にこちらに来ていただきお話の続きをお聞かせくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T22:01:00",
+      "utterance": "では終了のメッセージをお送りいたします。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T22:01:05",
+      "utterance": "はい。ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T22:01:44",
+      "utterance": "（クライエント役をしていただきありがとうございました。クライエントの設定等、コメントいただけると大変助かります。何卒宜しくお願い致します。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-03T22:02:43",
+      "utterance": "はい書かせて頂きます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-03T22:03:17",
+      "utterance": "（ありがとうございます。では失礼いたします。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義理の親とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4854,
+    "評価作成日時": "2023-04-03T22:09:00",
+    "クライアント役ID": 370,
+    "カウンセラー役ID": 274,
+    "点数": 76,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4854,
+    "evaluation_created_at": "2023-04-03T22:09:00",
+    "client_id": 370,
+    "counselor_id": 274,
+    "score": 76,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

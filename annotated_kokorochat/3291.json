@@ -1,0 +1,592 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:52:03",
+      "utterance": "ロールプレイを始めますよろしくお願いします",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:52:19",
+      "utterance": "よろしくお願い致します！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:52:52",
+      "utterance": "こんにちは今日はご相談に来てくださってありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:53:00",
+      "utterance": "こんにちは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:53:14",
+      "utterance": "まず最初に年齢、性別、相談内容を教えてください",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:54:15",
+      "utterance": "35歳、女性、恋愛について相談したいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:54:49",
+      "utterance": "恋愛についてですね。具体的にどんなことでお悩みでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:55:18",
+      "utterance": "恋愛がうまくできません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:55:23",
+      "utterance": "どうしたらいいでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:56:20",
+      "utterance": "そうなんですね。どんなふうにうまくできないのでしょうか…？例えば、恋人ができないとか、できても、続かない、など",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:56:46",
+      "utterance": "もう少し具体的に教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:56:58",
+      "utterance": "恋人が出来ません。出会いがないんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:57:13",
+      "utterance": "そうなんですね。出会いがないんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:57:18",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:58:39",
+      "utterance": "職場には男性はいないのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:59:06",
+      "utterance": "いるけど、みんな既婚者だったり、既婚者じゃない人は・・・な感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:59:21",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:59:40",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T14:59:49",
+      "utterance": "恋人がいらっしゃったこともありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T14:59:59",
+      "utterance": "あります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:00:18",
+      "utterance": "それはいつ頃でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:00:28",
+      "utterance": "5年ぐらい前です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:02:05",
+      "utterance": "そうなんですねお仕事のほかには何か趣味の活動などされていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:02:29",
+      "utterance": "前は習い事をしていましたが、コロナで途切れてしまいました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:03:16",
+      "utterance": "そうなんですねお一人暮らしですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:03:21",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:03:50",
+      "utterance": "この状況でお一人暮らしだと寂しいですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:04:09",
+      "utterance": "趣味の習い事は何をされていたですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:04:21",
+      "utterance": "料理です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:04:34",
+      "utterance": "あと、貼り絵です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:05:32",
+      "utterance": "そうなんですねふたつも習われていたんですね。活動的なんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:05:53",
+      "utterance": "そうでもないです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:06:37",
+      "utterance": "そうですか。でも趣味の活動が二つもできなくなったということは、寂しいですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:06:45",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:07:26",
+      "utterance": "お仕事は職場に通われているのですか？リモートですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:07:52",
+      "utterance": "週一で通勤しています。後はリモートです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:08:23",
+      "utterance": "通勤は週に１回なんですね。では、なおさら出会いなどない気がしますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:08:31",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:08:44",
+      "utterance": "（オウム返しはしなくてもいいですよ）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:11:02",
+      "utterance": "どなたかに相談されたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:11:19",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:11:33",
+      "utterance": "どなたに相談されましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:11:49",
+      "utterance": "友達です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:12:08",
+      "utterance": "そうなんですねお友達はなんとおっしゃっていましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:12:51",
+      "utterance": "うーん、一人は、出会い系のアプリとか、婚活アプリとかしてみたら？って",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:13:05",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:13:15",
+      "utterance": "他の人は、コロナが落ち着いたらまたチャンスがあるんじゃないって言い",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:13:44",
+      "utterance": "でも、コロナとかなんとか待っていたら、子どもも産めなくなっちゃうかもしれないので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:13:48",
+      "utterance": "焦っているんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:13:54",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:14:09",
+      "utterance": "やっぱり、婚活アプリとか、結婚相談所とかに行った方がいいんでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:14:47",
+      "utterance": "そういう方法もありますよねあなたはどう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:15:32",
+      "utterance": "うーん、やっぱりじっとしていも出会いはないから、何かした方がいいと思うんですけど、結婚相談所って高いんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:15:45",
+      "utterance": "婚活アプリは、ちょっと怖い気がしますし・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:16:38",
+      "utterance": "そうなんですね婚活アプリが怖い気がするというのはどんなところでですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:17:11",
+      "utterance": "ものが違うのかもしれないけど、出会い系アプリは事件も起こるっていうじゃないですか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:18:08",
+      "utterance": "アナログな人間かもしれないけど、婚活アプリって、なんかすごい「結婚！結婚！」ってなっているみたいで、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:18:19",
+      "utterance": "うんうん",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:18:42",
+      "utterance": "もちろん結婚もしたいけど、だから焦るんですけど、やっぱり恋愛で結婚したいから・・なんか、35歳のおばさんなのに、恥ずかしいですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:19:15",
+      "utterance": "そんなことはないですよ",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:20:14",
+      "utterance": "なんか、恥ずかしいんです。そういうアプリとか、結婚相談所とか・・",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:20:46",
+      "utterance": "うんうん、アプリや相談所の出会いだと恋愛結婚ではないのではないかと思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:21:10",
+      "utterance": "はい、なんとなく・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:21:49",
+      "utterance": "では、お友達やお知り合いからのご紹介ではどうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:22:13",
+      "utterance": "それは別に気にしません",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:23:06",
+      "utterance": "そうなんですねお知り合いにご紹介いただくことはできそうでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:23:47",
+      "utterance": "もう紹介してもらったけど、恋愛には至りませんでした",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:24:53",
+      "utterance": "そうなんですねご自身で努力をされているんですねほかの方をご紹介していただくのは難しそうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:25:18",
+      "utterance": "そんなにいないですよ笑",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:25:55",
+      "utterance": "そうですよねなかなか難しいから悩んでいらっしゃるんですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:26:02",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:27:41",
+      "utterance": "アプリや結婚相談所も紹介という形は同じなのかなと思いますが、いかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:27:59",
+      "utterance": "やっぱり、そういう方法しかないと思いますか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:28:18",
+      "utterance": "私は何で恋愛できないんでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:29:06",
+      "utterance": "出会いがないからとおっしゃっていましたが、ほかにも理由があると思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:29:31",
+      "utterance": "んー、自分に魅力がないからかな",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:30:32",
+      "utterance": "そんな風に思われるんですねどうして魅力がないと思っているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:30:58",
+      "utterance": "こちらが好きになっても、向こうが好きになってくれない事が多いから",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-03-20T15:31:56",
+      "utterance": "ありがとうございました！",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-20T15:32:05",
+      "utterance": "ありがとうございました！！",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "恋人ができない理由と出会いの不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3291,
+    "評価作成日時": "2022-03-20T15:43:00",
+    "クライアント役ID": 97,
+    "カウンセラー役ID": 283,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3291,
+    "evaluation_created_at": "2022-03-20T15:43:00",
+    "client_id": 97,
+    "counselor_id": 283,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

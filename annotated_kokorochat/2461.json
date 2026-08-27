@@ -1,0 +1,886 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-16T09:50:43",
+      "utterance": "こんにちは。どうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T09:51:14",
+      "utterance": "こんにちは。こちらこそ、どうぞよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T09:52:03",
+      "utterance": "ありがとうございます。お時間になりましたら、始めさせていただきますね。よろしいでしょうか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T09:52:20",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T09:52:49",
+      "utterance": "どうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:00:07",
+      "utterance": "こんにちは。相談員です。相談にお越しいただいて、どうもありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:00:40",
+      "utterance": "こちらこそありがとうございます。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:01:03",
+      "utterance": "相談にあたって、まず最初によろしかったら、年齢性別をお聴きしてもよろしいでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:01:31",
+      "utterance": "32歳の主婦です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:01:44",
+      "utterance": "どうもありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:02:09",
+      "utterance": "今日は、どのようなご相談でしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:03:24",
+      "utterance": "はい。職場でコロナ感染者がでまして",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:03:40",
+      "utterance": "あ、夫の職場です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:04:08",
+      "utterance": "夫も感染したらどうしようと不安で仕方ありません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:04:29",
+      "utterance": "それは、心配になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:04:52",
+      "utterance": "はい子どももいますし、家庭内感染でもしたらと思うと",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:05:27",
+      "utterance": "不安になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:06:34",
+      "utterance": "はい私は感染対策は万全にしていますが、夫のが帰宅後手洗いしないときがあったりして、すごく嫌なんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:07:15",
+      "utterance": "そうなのですね。それは、気になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:07:28",
+      "utterance": "マスクしていたから夫は濃厚接触者にあたらないそうなんですけど、同じフロアの人が感染してますしね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:07:45",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:08:10",
+      "utterance": "子どもを守るためにも手洗いや基本的な感染対策をもう少しきっちりやってほしいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:10:08",
+      "utterance": "なるほど、ご主人の職場の状況を考えると、そう思われますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:10:37",
+      "utterance": "ええとにかく不安で怖いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:11:19",
+      "utterance": "状況が見えないので、怖くなりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:11:51",
+      "utterance": "この件があってから、夫婦喧嘩も増えました私だっていちいち手を洗って！とか言いたくないのに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:12:21",
+      "utterance": "そうなのですね。それは苦しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:12:28",
+      "utterance": "ご主人には、あなたのお気持ちをどんなふうにお話しされていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:13:31",
+      "utterance": "神経質とか細かすぎるとか言って、不安な気持ちは聞いてくれませんコロナにかかるときはどれだけ手洗いしても外出しなくてもかかるんだからって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:13:54",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:14:16",
+      "utterance": "不安な気持ちをわかってもらえないと、悲しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:14:32",
+      "utterance": "はい、ちっともどうして私が手洗いだのなんだのうるさく言ってしまうのか分かってくれません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:15:26",
+      "utterance": "でも、私がおかしいのか？神経質なのか？って思うようにもなってきました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:15:58",
+      "utterance": "そう思われるほど、苦しい状況になられているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:16:50",
+      "utterance": "はい、なにが正しいのか分からなくなってきました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:17:51",
+      "utterance": "今日はなにもなくても、明日熱が出たらどうしようとか、ちょっと咳が出たらもしかしたらコロナかもってそう思いながら過ごすのにも疲れました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:18:35",
+      "utterance": "そう思われるのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:19:02",
+      "utterance": "いつまでビクビクしながら過ごさなくてはいけないんだろうって思うと、嫌になります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:19:21",
+      "utterance": "色々な見えない不安に向き合うことは、とっても苦しいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:20:11",
+      "utterance": "はいこの長引く自粛生活にもしんどさを感じます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:20:41",
+      "utterance": "夫の危機感のなさにも腹が立ちます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:21:09",
+      "utterance": "長い間、苦しい時間を過ごしてきましたよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:21:38",
+      "utterance": "苦しい中でも、せめてそばにいてくれるご主人に、気持ちをわかってもらいたい気持ちになりますよね・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:21:42",
+      "utterance": "はい、いつ終わるんだろうって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:22:17",
+      "utterance": "そうですね別に反論とか正論を求めてないんですよ、話だけでも聞いてほしいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:23:17",
+      "utterance": "家族にコロナ移してもいいの？って、こんなに自分勝手な人だと思いませんでした",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:23:39",
+      "utterance": "そうですね。解決できない事でも、気持ちを聴いてもらえたら、少しはらくになるかもしれないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:24:25",
+      "utterance": "そうなんですよ端から話を聞かない態度で、なんなんだろうってムカつきます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:25:27",
+      "utterance": "そりゃ、仕事から疲れて帰ってくるから、私の話は鬱陶しいかもしれないですげど‥",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:26:52",
+      "utterance": "もし私や子どもがコロナに感染したら夫を絶対許さないって、思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:27:19",
+      "utterance": "ご主人のお気持ちも考えながら、家族を守ることも考えているのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:28:03",
+      "utterance": "悲しみが、腹立ちさに変わってしうほど、苦しさを感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:28:10",
+      "utterance": "いかがでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:28:33",
+      "utterance": "そうですね夫だって頑張って仕事してくれてますから、そこは感謝してますでも、手洗いとかそういうことは別だと思うんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:28:58",
+      "utterance": "もう少し自覚してほしいっていうのか、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:29:08",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:29:28",
+      "utterance": "（お聴きしていますね。）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:30:08",
+      "utterance": "会社でコロナ感染者が出たんだから、もう少し気をつけてくれないかなって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:30:31",
+      "utterance": "ただそれだけのことなのに、なんか喧嘩までになってるのが悲しいんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:30:32",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:31:14",
+      "utterance": "そう思われるのは、苦しい気持ちがやり切れませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:31:32",
+      "utterance": "ご主人の職場では、いつごろ感染者がでたのでしょう",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:32:26",
+      "utterance": "3日前に判明しました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:32:41",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:32:58",
+      "utterance": "不安な気持ちが積もりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:33:15",
+      "utterance": "はい夫はワクチン接種してないですし",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:33:28",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:34:21",
+      "utterance": "ワクチン接種は、日常よく聞かれることなので、気になりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:34:21",
+      "utterance": "もし感染していて症状が出るならもうそろそろだと思うんですけど‥",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:35:07",
+      "utterance": "なるほど・・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:35:24",
+      "utterance": "どうしたらいいのやら",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:35:30",
+      "utterance": "毎日、落ち着かないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:35:39",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:36:39",
+      "utterance": "ご主人は、濃厚接触者ではないとのことですが、会社の対応とかはどんな感じでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:38:02",
+      "utterance": "自費でPCR検査受ける人もいるそうで、会社自体がなにかするってことはないみたいですねクラスター発生してないからですかね？分からないですが",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:38:31",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:39:24",
+      "utterance": "なんかコロナが流行りだした最初の頃とは対応が軽くなりましたよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:39:51",
+      "utterance": "最初の頃とは違って、の打ち間違いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:40:24",
+      "utterance": "そうなのですね。今の状況を考えると、不安になりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:41:09",
+      "utterance": "はい少し体調おかしいかも？って思い始めるとおかしくなりそうです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:41:57",
+      "utterance": "少しのことでも、神経が気になる方へ行きますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:42:03",
+      "utterance": "あなたは、ご主人にどのように検査、接種等についてお話しされていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:42:03",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:43:07",
+      "utterance": "検査を勧めてみても、俺は大丈夫で終わりワクチン接種も、接種したってかかるだろ、で終わりです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:43:23",
+      "utterance": "するつもりは夫にないみたいですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:43:32",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:43:58",
+      "utterance": "こういう温度差は仕方ないんでしょうか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:44:31",
+      "utterance": "悲しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:44:56",
+      "utterance": "悲しみや、苦しさから、不安が積もりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:45:08",
+      "utterance": "そうですねコロナきっかけで価値観の違いから離婚が増えるのも分かる気がします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:45:46",
+      "utterance": "そんなふうにも思われているのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:45:58",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:46:40",
+      "utterance": "毎日喧嘩も、もう嫌ですし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:48:01",
+      "utterance": "毎日、ストレスになりますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:48:47",
+      "utterance": "あなたは、感染対策として、接種、検査はどのように考えていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:49:16",
+      "utterance": "必要なことだと思っていますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:49:27",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:50:23",
+      "utterance": "受けられていますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:50:46",
+      "utterance": "ワクチン接種はしました検査はまだです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:51:04",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:51:41",
+      "utterance": "防止にたいして、積極的に行動されているのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:51:58",
+      "utterance": "はい子どももいますしね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:52:47",
+      "utterance": "そうですね。お子さんのことも大切に守りたいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:52:52",
+      "utterance": "おこさんとは、どのように過ごされていますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:54:04",
+      "utterance": "どのようにって…恐らく普通だと思うんですが、学校から帰ってきたら一緒に夕ご飯食べて、その日あった出来事を話したり…ですかね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:55:17",
+      "utterance": "そうなのですね。おこさんと一緒に過ごす時間大切ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:55:26",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:55:46",
+      "utterance": "コロナ対策としては、どうでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:56:08",
+      "utterance": "ん？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:56:23",
+      "utterance": "子どものですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:57:02",
+      "utterance": "はい、お子さんとどのようなことを注意されていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T10:58:09",
+      "utterance": "マスク手洗い大事だよってことですねまだ小1なのでワクチン接種できないですしね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T10:59:32",
+      "utterance": "そうなのですね。防止の基本は大切ですね。ワクチンできない年齢ですと、気を使いますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T11:00:06",
+      "utterance": "はいだから余計に怖いです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:01:34",
+      "utterance": "そうでうね。今の状況は、不安ですよね。ご主人とは、お子さんの防止などにたいして、どんなお話をされていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:02:35",
+      "utterance": "（申し訳ございません。お時間すぎてしまいました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T11:02:40",
+      "utterance": "話はできてないです子どものことに関しては私に丸投げなので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:02:55",
+      "utterance": "（いかがしましょうか）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T11:03:59",
+      "utterance": "（大丈夫ですよ。恐れ入りますが、終了していただけますと助かります。こちらの都合ですみません）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:04:47",
+      "utterance": "（いえいえ、とんんでもないです。お時間すぎてしまい、申し訳ございませんでした）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T11:05:17",
+      "utterance": "（勉強させていただきました。ありがとうございました。お疲れさまでした。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:05:46",
+      "utterance": "（貴重なお時間をいただいて、どうもありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T11:06:08",
+      "utterance": "（ありがとうございました。またよろしくお願いします）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:06:27",
+      "utterance": "こちらこそ、今後もどうぞよろしくおねがいいたします。終了させていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-16T11:06:37",
+      "utterance": "失礼します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-16T11:06:43",
+      "utterance": "失礼します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "夫の感染対策に対する無理解と不安の累積"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2461,
+    "評価作成日時": "2021-09-16T11:34:00",
+    "クライアント役ID": 213,
+    "カウンセラー役ID": 191,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2461,
+    "evaluation_created_at": "2021-09-16T11:34:00",
+    "client_id": 213,
+    "counselor_id": 191,
+    "score": 55,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-11T13:51:58",
+      "utterance": "こんにちは。本日はロールプレイをよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T13:52:36",
+      "utterance": "(こんにちは。こちらこそよろしくお願いします）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T13:53:29",
+      "utterance": "お時間になりましたら始めさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T13:54:44",
+      "utterance": "（わかりました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T13:59:53",
+      "utterance": "こんにちは、相談員です。最初に年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:00:26",
+      "utterance": "こんにちは。４０歳、女です。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:01:02",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:01:25",
+      "utterance": "職場の人間関係のことで。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:01:54",
+      "utterance": "そうなんですね。少し詳しくお話を伺えますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:03:33",
+      "utterance": "職場の人とちょっとしたトラブルがあったのですが、そのことで相手がかなり立腹されて、無視されていて仕事がやりにくい状況なんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:03:59",
+      "utterance": "そうなんですね。それは困ってしまいますね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:04:29",
+      "utterance": "周りのスタッフも気を使わせてしまっているので、申しわけなくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:04:41",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:05:04",
+      "utterance": "トラブルはいつ頃起ったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:05:25",
+      "utterance": "三週間ほど前になります。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:06:20",
+      "utterance": "そうなんですね。３週間もそんな状態が続いているのですね。お辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:07:11",
+      "utterance": "つらいというよりは、とにかく仕事がやりにくいし、あからさまに無視されているので、正直気分はよくないです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:08:13",
+      "utterance": "そうですよね、無視されてしまうとお仕事はやりにくいですよね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:08:25",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:09:16",
+      "utterance": "このトラブルの当事者は何人くらいだったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:10:05",
+      "utterance": "トラブル自体は、個人的なことなので、わたしと相手の方だけですが。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:11:15",
+      "utterance": "そうだったのですね。トラブルは仕事の関係ではなく、個人的なことだったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:11:41",
+      "utterance": "仕事時間帯ですが、トラブル自体はそうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:12:51",
+      "utterance": "トラブルに対してはどのように対応をされたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:14:08",
+      "utterance": "トラブルは、相手に非があるのですが、起こったった当時",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:14:48",
+      "utterance": "起こった当時は、その方がかなり機嫌が悪かったようで、かなりぶちぎれた感じだったんです、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "utterance": "でも、わたしがきっかけなのならと、わたしが折れる形は謝罪したのですが、納得いってないんでしょうかね。",
+      "time": "2022-11-11T14:15:41",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:16:13",
+      "utterance": "そうだったのですね。。それは困ってしまいますね…周りの方にも気を使ってしまいますね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:16:30",
+      "utterance": "仕事を円滑に進むための、やさしさからの行動だったのですが、相手からしてみたら、余計な事だったようです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:17:00",
+      "utterance": "とにかく仕事がやりづらい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:17:18",
+      "utterance": "ええ、そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:17:47",
+      "utterance": "その人、かなり気分屋なんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:18:19",
+      "utterance": "前に同じことしたときは「ありがとう」って言ってたんですよ。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:18:43",
+      "utterance": "だから意味がわからなくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:18:45",
+      "utterance": "そうなんですね。相手に非があるのに、機嫌が悪いからとそのような態度をとられてしまっては納得できませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:19:15",
+      "utterance": "できません。でも、三週間もこんな状態だし、どうしたいいか。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:20:09",
+      "utterance": "困ってしまいますね…",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:20:49",
+      "utterance": "仕事場の周りの方にはご相談されたのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:21:09",
+      "utterance": "しました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:21:33",
+      "utterance": "話しをすると、みんな私は間違ってないって言ってくれます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:21:54",
+      "utterance": "だって、ほんと、間違った行動してませんからね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:21:55",
+      "utterance": "そうだったのですね、少し安心しました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:22:19",
+      "utterance": "安心とは？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:22:58",
+      "utterance": "周りの方に理解をしてもらえると少し安心しますね",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:23:31",
+      "utterance": "他のスタッフも、その方の気分屋で、嫌な思いをしているので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:24:00",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:24:21",
+      "utterance": "仕事は出来る人なんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:25:44",
+      "utterance": "周りの方の理解はあってもそのような状態が長く続いてしまうと疲れてしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:26:03",
+      "utterance": "「いい加減にしてほしい」って言ってます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:27:41",
+      "utterance": "そうなんですね。その言葉をきいて、どのような気持ちになりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:28:30",
+      "utterance": "周りは自分のことを分かってくれている。そしてその言葉通り、いい加減にしてほしいという気持ちですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:29:47",
+      "utterance": "そのように感じなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:30:20",
+      "utterance": "毎日、こちらから挨拶しても、ガン無視ですからね。そう思ってしまいますよ！",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:30:44",
+      "utterance": "朝から気分悪いですもん。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:30:53",
+      "utterance": "やりにくいですよ。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:30:55",
+      "utterance": "そんですよね、、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:31:13",
+      "utterance": "今までのご相談をまとめてもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:31:30",
+      "utterance": "はい、お願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:34:11",
+      "utterance": "相談者さんは職場の方と個人的なことでトラブルになり、相手に非があるが、こちらから謝罪をしたが、それ以降無視をされており困っておられます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:34:42",
+      "utterance": "はい、そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:36:11",
+      "utterance": "相手の方は気分屋で、周りの方も相談者さんのことをわかってくれているが、とにかく挨拶をしても無視をされるし、気分が悪い。この状態が３週間も続いている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:36:23",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:38:36",
+      "utterance": "周りの方にも気を使って大変な状況だとおもいますが、このご相談では何が一番お話になりたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:39:12",
+      "utterance": "え？それ今聴かれます？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:39:41",
+      "utterance": "ここまで状況を気持ちを話したから、分かってくれていると思っていました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:40:49",
+      "utterance": "どうしたらこの状況を打開できるか？ということでいいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:41:23",
+      "utterance": "まあ、、そうですね。どうしたらいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:42:08",
+      "utterance": "相談員さんは、ここまで話しを聴いて、どのように感じられているんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:42:42",
+      "utterance": "今の職場の状況に気を使い、理不尽な相手の行動に気分を悪くされているのが伝わってきます",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:43:30",
+      "utterance": "じゃあ、どうしたらいいんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:44:18",
+      "utterance": "少しでも楽になるように一緒に考えていけたらと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:45:14",
+      "utterance": "その方との関係はどのような関係ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:45:26",
+      "utterance": "職場の仲間です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:46:14",
+      "utterance": "似たような立場ということですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:46:19",
+      "utterance": "上下関係はありませんが、わたしより１０歳くらい上のかたです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:47:01",
+      "utterance": "わたしが年下なので、先に折れるべきかなと思って謝ったんです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:47:18",
+      "utterance": "納得してない中で、頭を下げたんです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:47:18",
+      "utterance": "そうだったのですね以前にはこのようなことはありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:47:44",
+      "utterance": "そういう人なので、小さいトラブルはありますよ。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:48:01",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:48:27",
+      "utterance": "上司の前では、そんな態度見せませんけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:49:21",
+      "utterance": "そうなんですね。とても理不尽に思えますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:50:09",
+      "utterance": "だからどうしましょう？ってことで、ここに来たんですけど。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:52:52",
+      "utterance": "相手の方はその時の感情に振り回される方のようですので、一緒に振り回されてしまっていたらすごく疲れてしまうし、顔色を見ていなければならないことにもなってしまいますので、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:53:54",
+      "utterance": "できるだけ同じような態度で接するようにしてみてはいかがかな　と思ったのですがいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:54:22",
+      "utterance": "同じような態度とはどういうことでしょうか。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:55:49",
+      "utterance": "例えば挨拶を無視されたらすごく気分も悪いし、腹もたつけれど、毎朝あったら同じように挨拶をするなどですが",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:55:58",
+      "utterance": "いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:56:24",
+      "utterance": "それと思い出していただきたいのですが、",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:56:41",
+      "utterance": "前にも話しましたが、毎日挨拶はしています。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:57:02",
+      "utterance": "仕事は仕事として、毅然な態度でやってます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:57:27",
+      "utterance": "でも、相手の態度がそういう感じだから、困っているといっているじゃないですか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:58:17",
+      "utterance": "一緒のフロアで、ひとつのチームとしてやらないといけないんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:58:55",
+      "utterance": "ええ、そうですね。大変気も使い重いと思います。いらっしゃる方は相談者さんの気持ちをわかってくれている方たちです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:59:18",
+      "utterance": "だからなんですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:00:18",
+      "utterance": "それを思うと少し勇気に感じられないかなと思いました。今後とも毅然として相手の方に接してください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:00:45",
+      "utterance": "どういうことですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:00:55",
+      "utterance": "勇気が感じられないとか。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:01:28",
+      "utterance": "どういう意味でしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:02:02",
+      "utterance": "周りの方の理解が少しでもあると勇気になりませんかということをお伝えしたかったのですが。すみません、本日はお時間がきてしまいました、",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:02:48",
+      "utterance": "相談者さんの求めている解決には至りませんでしたが、",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:02:54",
+      "utterance": "（おつかれさまでした）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:04:12",
+      "utterance": "少しでも職場の雰囲気と相手の方との関係が良い方向に向かうことを願っています。本日はご相談ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:04:32",
+      "utterance": "（ありがとうございました）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:04:40",
+      "utterance": "（お疲れさまでした。時間超過すみません）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:04:49",
+      "utterance": "（ありがとうございまた。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:05:00",
+      "utterance": "（ロープレ終了お願いします。おつかれさまでした）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の人間関係トラブル"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4218,
+    "評価作成日時": "2022-11-11T15:19:00",
+    "クライアント役ID": 284,
+    "カウンセラー役ID": 161,
+    "点数": 37,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4218,
+    "evaluation_created_at": "2022-11-11T15:19:00",
+    "client_id": 284,
+    "counselor_id": 161,
+    "score": 37,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

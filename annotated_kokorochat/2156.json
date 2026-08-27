@@ -1,0 +1,807 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-08T09:51:04",
+      "utterance": "こんにちは、本日はよろしくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T09:51:32",
+      "utterance": "こんにちは、こちらこそ、よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T09:54:34",
+      "utterance": "お時間になりましたら、始めさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T09:55:01",
+      "utterance": "はい。承知しました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:00:03",
+      "utterance": "こんにちは、相談員です。本日はお越しいただき、ありがとうございます。はじめに年齢と性別を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:00:36",
+      "utterance": "15歳　女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:01:00",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:01:59",
+      "utterance": "校則がウザくてたまらないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:02:56",
+      "utterance": "そうなんですね、例えば、どんな校則ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:03:36",
+      "utterance": "髪の毛は黒くないとだめってことです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:04:23",
+      "utterance": "なるほど、真っ黒でないとダメということなんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:04:46",
+      "utterance": "元々地毛が茶色いのに、黒く染めろっていうんですよ！",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:05:03",
+      "utterance": "変だと思いませんか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:05:18",
+      "utterance": "生まれつきの色がそれぞれあるのに、それは認めてもらえないなんて",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:05:32",
+      "utterance": "納得いかないですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:05:55",
+      "utterance": "しかもそれって、お金だってかかるでしょ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:06:03",
+      "utterance": "先生が染めろというのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:06:04",
+      "utterance": "ばかみたい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:06:26",
+      "utterance": "はい、生活指導の先生がうるさいんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:06:38",
+      "utterance": "ホントですね、馬鹿にしてます",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:07:05",
+      "utterance": "そうですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:07:09",
+      "utterance": "因みに、何と呼んで良いですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:07:30",
+      "utterance": "のん　です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:08:06",
+      "utterance": "のんさん、その時先生には何か伝えたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:08:35",
+      "utterance": "染めていて茶色いんじゃないって言いました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:09:00",
+      "utterance": "先生は何と？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:09:40",
+      "utterance": "黒が決まりだからって。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:10:07",
+      "utterance": "それは理不尽に感じますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:10:17",
+      "utterance": "はい。だからって、わざわざくろくするなんで、馬鹿げてると思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:10:46",
+      "utterance": "茶色く染めるのと色が違うだけで",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:11:04",
+      "utterance": "黒く染めるのも、同じ行為ですよね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:11:30",
+      "utterance": "そうですよね。でも言っても聞いてくれないんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:11:46",
+      "utterance": "入学した時からなんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:12:08",
+      "utterance": "はい、毎月検査があります",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:12:56",
+      "utterance": "生まれつきなのを言っても聞いてもらえないなんて、悲しくなりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:13:12",
+      "utterance": "はい、どうしたらいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:14:24",
+      "utterance": "先生に言って聞き入れたもらえないとき、のんさんは今までどうしてました？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:15:25",
+      "utterance": "時間が過ぎるのをやり過ごしてました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:17:00",
+      "utterance": "そうですよね、すぎるのを待つしかなくなりますよね。毎月の検査はどうされているんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:18:03",
+      "utterance": "また時間が過ぎるのをこらえているしかない感じです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:18:31",
+      "utterance": "実際に染めることは？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:19:01",
+      "utterance": "納得いかないし、染めたくありません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:19:33",
+      "utterance": "そうですよね、納得いかないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:20:06",
+      "utterance": "それでも先生は、毎月染めろというのですね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:20:41",
+      "utterance": "はい。内申書にも響くかもしれないって聞くんですけど、染める気になれません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:21:12",
+      "utterance": "来週また検査があるんですけど、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:21:14",
+      "utterance": "そうですよね、そんな気にはなれないですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:21:27",
+      "utterance": "はい、検査ですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:22:09",
+      "utterance": "自分は間違っていないと思うんですけど、どうしたらいいでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:22:42",
+      "utterance": "このことを、誰かに相談したことはあります？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:23:35",
+      "utterance": "先輩に言っても、ずっと前からの規則だし、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:23:45",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:24:20",
+      "utterance": "でも、今の生活指導の先生になってからは特に厳しくなったって言ってました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:25:02",
+      "utterance": "そうなんですね。ご両親は、このこと知ってますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:25:16",
+      "utterance": "言えません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:25:55",
+      "utterance": "言えないんですね。それは、何か言われと思って？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:27:13",
+      "utterance": "うち、お母さん居ないんですけど、こんなこと、お父さんに言うのはどうかと思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:27:30",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:28:10",
+      "utterance": "おとうさんからは、もし伝えたら何て言われると思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:29:31",
+      "utterance": "わかりません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:29:55",
+      "utterance": "想像がつかないのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:30:22",
+      "utterance": "はい・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:31:18",
+      "utterance": "誰にも聞き入れてもらえないなんて、何も悪いことしていないのに何だかもやもやしますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:31:55",
+      "utterance": "ここまでのお話を、まとめさせてくださいね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:32:02",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:35:39",
+      "utterance": "のんさんは、生まれつき茶色の髪を、校則で黒く染めろと先生から言われて、のんさんの染めたくない思いを、受け入れてもらえない。先輩に相談しても、規則だからと言われて、気持ちを分かってもらえない。お父さんには、何ていわれるかわからなくて、相談しずらい。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:36:01",
+      "utterance": "このように感じたのですが、いかがです？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:36:38",
+      "utterance": "はい。やっぱりおかしいと思うんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:37:02",
+      "utterance": "おかしいと思いますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:37:22",
+      "utterance": "生活指導の先生は",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:37:36",
+      "utterance": "担任の先生？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:37:56",
+      "utterance": "いいえ、違います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:38:23",
+      "utterance": "担任の先生に相談したことはあるのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:39:18",
+      "utterance": "担任の先生も他の先生もみんな全体的に、そんな考えです。だから、話しても無駄です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:39:32",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:41:15",
+      "utterance": "どの先生もそんな考えなんて、わかってもらえなくて、悲しいよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:41:48",
+      "utterance": "何とかわかってもらいたいよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:42:07",
+      "utterance": "ちゃんと話も聞いてほしいよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:42:45",
+      "utterance": "はい。検査もあるし、嫌になってしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:42:56",
+      "utterance": "だって、生まれつきののんさんの体の一部なんだから",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:43:57",
+      "utterance": "生まれつきのものを直せと言われたら、すごく悲しいよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:44:37",
+      "utterance": "のんさん、どうなったら一番嬉しいと思う？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:44:40",
+      "utterance": "これって、人権侵害ですよね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:44:50",
+      "utterance": "そうそう",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:45:18",
+      "utterance": "先生たち、気が付かないのかなあ？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:45:20",
+      "utterance": "教育委員会に言ってもらえませんか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:46:12",
+      "utterance": "教育委員会に伝われば、どうなっていくと思う？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:46:54",
+      "utterance": "それは、のんさんが一番嬉しい？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:47:25",
+      "utterance": "やっぱり、内申書に響くってことですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:47:59",
+      "utterance": "内申書については、分からないけど",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:48:44",
+      "utterance": "のんさんは、教育委員会に伝えたい？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:50:08",
+      "utterance": "相談員さんから伝えてもらえるんですよね・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:51:14",
+      "utterance": "のんさんの近くで、そういう人はいそう？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:51:50",
+      "utterance": "伝えてくれる人のことですか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:53:05",
+      "utterance": "そうですね、教育委員会でも先生でも、こんなのんさんのモヤモヤした気持ち",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:53:34",
+      "utterance": "聞いてくれたり、分かってくれる人",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:55:10",
+      "utterance": "友達同士では変だって話してるけど、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:55:50",
+      "utterance": "来週の検査が来るから、どうしたらいいかわかりません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:55:58",
+      "utterance": "友達同士では、おかしいってみんな思っているんだね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T10:57:48",
+      "utterance": "でも、実際に染めなくちゃならないって言われてるのはクラスでは自分だけです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T10:58:52",
+      "utterance": "例えば、お友達のお父さん、お母さんでそんな関わりのある方もどこかにいるかもしれません、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:00:00",
+      "utterance": "それに小さいころからの写真とか、本当に生まれつきだという証明があったりしたら",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:00:26",
+      "utterance": "どうでしょう？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T11:01:34",
+      "utterance": "はい、写真探してみます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:02:41",
+      "utterance": "生まれつきの、のんさんの大事な体ですので、ずっと大切に思う、のんさんの気持ち",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:03:39",
+      "utterance": "とても伝わってきましたよ。親孝行なのんさん、堂々と胸を張って良いと思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:04:13",
+      "utterance": "先生もわかってもらえると良いですね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:04:57",
+      "utterance": "他に、何か話したいことはありませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T11:06:27",
+      "utterance": "大丈夫です。ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:07:27",
+      "utterance": "また何かありましたら、いつでも遠慮なく来てくださいね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T11:07:45",
+      "utterance": "はい。今日はありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:08:04",
+      "utterance": "それでは、終了させていただきますね。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T11:08:17",
+      "utterance": "失礼します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-08T11:08:49",
+      "utterance": "（ありがとうございました。勉強になりました。お疲れさまでした。｝",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-08T11:09:33",
+      "utterance": "(お疲れさまでした。こちらこそ、良い勉強になりました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "校則に関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2156,
+    "評価作成日時": "2021-07-08T12:02:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 159,
+    "点数": 70,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2156,
+    "evaluation_created_at": "2021-07-08T12:02:00",
+    "client_id": 108,
+    "counselor_id": 159,
+    "score": 70,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-11-09T09:52:17",
+      "utterance": "本日相談者役をさせて頂きます。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T09:55:28",
+      "utterance": "(よろしくお願い致します）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T09:55:48",
+      "utterance": "（よろしくお願いいたします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:00:17",
+      "utterance": "相談ありがとうございます。まず初めに、年齢と性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:00:41",
+      "utterance": "14歳　女性",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:01:11",
+      "utterance": "ありがとうございます。本日はどういったご相談ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:01:31",
+      "utterance": "学校に行くと気持ち悪くなる",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:02:47",
+      "utterance": "そうなんですね。それはしんどいですね。体調面で不安があるのか、それとも学校にいくと憂鬱なことがあるのか、何か心当たりはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:02:56",
+      "utterance": "わからないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:03:36",
+      "utterance": "そうなんですね・・気持ち悪くなるという症状をもう少し詳しくお聞かせいただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:04:47",
+      "utterance": "授業中気持ち悪くて、我慢しているうちに眠くなって、",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:04:59",
+      "utterance": "うんうん。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:05:27",
+      "utterance": "机で寝たりしてしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:06:19",
+      "utterance": "そうだったんですね。おうちに帰るとその症状は出ないですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:06:29",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:07:24",
+      "utterance": "じゃあ毎日しんどい思いをしながら頑張って学校へ行ってるんですね。いつから始まったか覚えていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:08:11",
+      "utterance": "夏休み前ぐらいからです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:09:32",
+      "utterance": "夏休み前から始まったんですね。その頃、学校で変わったことはなかったですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:10:07",
+      "utterance": "特にはないです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:11:27",
+      "utterance": "そうなんですね。学校に行くと気持ち悪くなるいっていましたが、体調面以外では学校生活は楽しいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:12:15",
+      "utterance": "普通です。でも給食があまり食べられない。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:12:56",
+      "utterance": "そうなんですね。給食のある学校へ通われているんですね。給食・・美味しくないですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:13:46",
+      "utterance": "おいしくないというか、、胃に入らなくて、",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:14:21",
+      "utterance": "残すと先生から怒られるから、食べれそうな量を盛り付けてます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:15:32",
+      "utterance": "そうなんですね。何か悩み事がある時、胃が食べ物を受け付けなくて食べられないものです。食べられそうな量を盛り付けるのはナイスアイデアですね＾＾",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:16:03",
+      "utterance": "食べられないから仕方ない",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:16:44",
+      "utterance": "そうですよね。以前、夏休み前までは給食も食べれていたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:16:53",
+      "utterance": "まあ、はい。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:18:38",
+      "utterance": "そうなんですね。先ほど、先生の話が出てきましたが、先生は怖いですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:19:00",
+      "utterance": "そんなに怖くはないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:21:05",
+      "utterance": "そうなんですね。それはよかったです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:21:20",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:22:03",
+      "utterance": "学校で気持ち悪くなるということでしたが、眠ってしまう意外に、何か困っていることはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:22:49",
+      "utterance": "ここでは、何を話してもいいので、あなたの心の中にある気持ちを話してみてください＾＾",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:23:26",
+      "utterance": "恥ずかしい話ですが、夜布団に入ると涙が出てきて、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:23:58",
+      "utterance": "うんうん。そうなんだね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:24:03",
+      "utterance": "でも聞こえないように布団をかぶって泣いてます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:24:36",
+      "utterance": "そうかそうか。隠れて泣いてるんだね。辛かったね・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:24:45",
+      "utterance": "はい、、",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:25:22",
+      "utterance": "涙の理由、きっと心にはあると思うんだけど、ゆっくりでいいから、お話できるかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:25:45",
+      "utterance": "わからない。でも泣けてくる。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:26:16",
+      "utterance": "わからないんだね。。どうして涙が出ちゃうんだろうね。。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:26:50",
+      "utterance": "泣いてる時、あなたはどんなことを考えてるのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:27:14",
+      "utterance": "わからないです。ただ泣いてる。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:28:05",
+      "utterance": "そうなんだね・・辛かったね・・ほんとによくここに相談してくれたね。ありがとう。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:28:21",
+      "utterance": "はい、、、",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:29:02",
+      "utterance": "おうちの人には、泣いてること気付かれたくないと思っているのかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:29:11",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:29:49",
+      "utterance": "そうなんだね。涙の理由を一緒に探したいと思うんだけど、どうかな？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:30:25",
+      "utterance": "あんまり、よくわからない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:30:55",
+      "utterance": "お母さんやお姉ちゃんに迷惑かけたくないから。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:31:59",
+      "utterance": "そうなんだね。あなたが泣いてることを家族は迷惑に感じるかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:32:25",
+      "utterance": "わからない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:32:35",
+      "utterance": "みんな忙しいし。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:34:23",
+      "utterance": "そうなんだね。家族は夜、おうちに揃いますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:34:52",
+      "utterance": "はい、夜遅いけど。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:35:44",
+      "utterance": "そうなんだね。お母さんも夜遅いの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:35:54",
+      "utterance": "働いているから",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:36:46",
+      "utterance": "そうかそうか・・お母さんも働いているんだね〜。晩御飯はちゃんと食べてる？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:37:03",
+      "utterance": "まあ、普通に。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:37:22",
+      "utterance": "あなたが自分で作るの？？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:38:15",
+      "utterance": "お母さんが朝仕事に行く前に作って置いてくれていて、それを食べます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:39:17",
+      "utterance": "そうなんですね。お母さんすごいね〜！朝作っておいて行ってくれるんだね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:39:46",
+      "utterance": "そうですね、はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:40:18",
+      "utterance": "晩御飯を食べる時、どんなことが頭をよぎるかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:40:29",
+      "utterance": "いや、特には、、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:41:23",
+      "utterance": "そうなんだね。お昼給食は少ししか食べないと思うんだけど、夜ご飯やおやつは食べれているかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:41:30",
+      "utterance": "お母さん遅いし、お姉ちゃんも疲れて帰ってくる。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:41:46",
+      "utterance": "まあ、普通に。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:41:53",
+      "utterance": "お姉ちゃんは今いくつか聞いてもいいかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:42:07",
+      "utterance": "17歳です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:42:21",
+      "utterance": "お姉ちゃんは高校生？？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:42:48",
+      "utterance": "高校2年です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:43:32",
+      "utterance": "高校２年生だけど疲れて夜帰ってくるってことは、アルバイトとか頑張っているのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:43:44",
+      "utterance": "バイトしてます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:44:13",
+      "utterance": "そうなんだね。お母さんもお姉ちゃんも忙しそうなんだね。お父さんは家にいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:44:37",
+      "utterance": "お父さんはいない",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:44:41",
+      "utterance": "離婚したから",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:45:41",
+      "utterance": "そうなんだね。じゃあ３人家族なんだね。お母さんもお姉ちゃんも、頑張って働いてるから、あなたは心配かけたくないんだね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:46:22",
+      "utterance": "忙しそうだから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:46:47",
+      "utterance": "お母さん、頑張ってるから",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:47:49",
+      "utterance": "そうだよね。。お母さん頑張ってるから、あなたは自分の悩みを聞いてもらうの悪いなって思ってる？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:48:24",
+      "utterance": "でもこの間、お母さんに話しました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:48:33",
+      "utterance": "気持ち悪くなる話",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:49:22",
+      "utterance": "そうなんだね！その時お母さんなんて？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:50:00",
+      "utterance": "そういう時もあるよ。無理しなくていいよ、また話そうねと言われました",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:50:38",
+      "utterance": "その時あなたはどんなふうに感じたかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:50:47",
+      "utterance": "ホッとしました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:51:43",
+      "utterance": "そうなんだね。お母さん、わかってくれたんだね〜それで、あなたは少し心が安らいだんだね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:52:01",
+      "utterance": "そうですね、はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:52:14",
+      "utterance": "いいお母さんですね＾＾",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:52:23",
+      "utterance": "はい、、",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:53:42",
+      "utterance": "その話し合いの後も、やっぱり学校へ行くと気持ち悪くなる？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:54:11",
+      "utterance": "気持ち悪くなります",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:54:47",
+      "utterance": "そうなんだね。スッキリした気持ちで学校へ行きたいよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:55:13",
+      "utterance": "そうですね、、",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:57:52",
+      "utterance": "お友達や先生にこのことを相談したことはあるかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T10:59:11",
+      "utterance": "先生は忙しいから話せない。友達ではないけど、隣の席の子は心配してくれてる。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T10:59:59",
+      "utterance": "そうなんだね。心配してくれる子がいるんだね。優しい子だね＾＾",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T11:00:05",
+      "utterance": "はい、、",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T11:01:49",
+      "utterance": "学校へ行くということは色んなエネルギーを使います。人間関係も様々です。だけど、そうやってあなたを心配してくれる子がいるということが、きっと支えになってくれると思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T11:02:22",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T11:03:25",
+      "utterance": "そろそろ1時間となります。まだまだあなたのお話伺いたいと思っているので、またいつでも話に来てくださいね。私はいつでもここにいますから。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T11:03:44",
+      "utterance": "はい、、",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T11:04:45",
+      "utterance": "今日はありがとうございました。またお待ちしていますね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T11:05:06",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-09T11:06:12",
+      "utterance": "（これでロープレ終了とさせていただきます。是非、どんな感情だったかなど、評価の際にコメントください。大変勉強になりました。ありがとうございました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-09T11:07:20",
+      "utterance": "（こちらこそありがとうございました。後から振り返りあげさせて頂きます。自分も勉強になりました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "学校に行くことによる不安感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2681,
+    "評価作成日時": "2021-11-09T12:00:00",
+    "クライアント役ID": 211,
+    "カウンセラー役ID": 239,
+    "点数": 36,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 1,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2681,
+    "evaluation_created_at": "2021-11-09T12:00:00",
+    "client_id": 211,
+    "counselor_id": 239,
+    "score": 36,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 1,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-08T19:55:44",
+      "utterance": "こんばんわ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T19:56:20",
+      "utterance": "こんばんは。よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T19:56:33",
+      "utterance": "よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T19:58:51",
+      "utterance": "お時間になりましたら、始めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T19:59:13",
+      "utterance": "承知致しました。宜しくお願い申し上げます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:00:53",
+      "utterance": "こんばんは。相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:01:03",
+      "utterance": "こんばんは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:01:16",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:02:42",
+      "utterance": "私は、人前で話したりすることがあるんですが、時々頭が真っ白になって、言葉が出てこなくなるんです。これってなんなんだろうって思って…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:03:22",
+      "utterance": "そうだったのですね。それは気になってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:03:30",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:04:23",
+      "utterance": "始めにお年と性別を教えてもらえますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:04:56",
+      "utterance": "30代後半で、女です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:05:20",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:05:27",
+      "utterance": "いえ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:06:10",
+      "utterance": "人前で話すとき頭が真っ白になると困ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:06:36",
+      "utterance": "はい。時が止まったように",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:06:43",
+      "utterance": "感じます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:07:04",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:07:09",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:07:39",
+      "utterance": "最近ではそのようなことはありましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:08:43",
+      "utterance": "はい。会社の社長含むミーティングの際に同じようなことがあり、もうトラウマになりそうでした。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:09:27",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:09:41",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:10:09",
+      "utterance": "それは自分では驚いてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:11:32",
+      "utterance": "前からそんなことがあったんです。その時はなんとか切り抜けてきたんですが、やっぱりなんとかしたいと思って相談しに来ました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:12:13",
+      "utterance": "それはどうにかしたいと思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:12:50",
+      "utterance": "はい、なんでこんなふうになるのか。どうにかしたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:13:38",
+      "utterance": "ちなににその仕ミーティングのときは、頭が真っ白でも切り抜けられたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:14:09",
+      "utterance": "↑ちなみに、です。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:15:20",
+      "utterance": "どうにか…。でも、まったく話がまとまらない終わり方で話してしまい、すごく後味が悪い感じでした。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:15:48",
+      "utterance": "それは、落ち込んでしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:16:03",
+      "utterance": "はい、もうすっごく落ち込みました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:16:54",
+      "utterance": "そうですよね。どうして出来ないんだろうと思ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:17:29",
+      "utterance": "はい。そうなんです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:17:59",
+      "utterance": "言葉が出なくなるのは、ミーティングの時だけでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:20:56",
+      "utterance": "いえ、ミーティング以外でもあります。あとで「こんなふうに言えば良かった」とか考えてしまって、もうダメな自分が嫌になりそうで。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:22:12",
+      "utterance": "そうなんですね。それは、辛かったですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:22:45",
+      "utterance": "はい、毎日苦しいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:23:26",
+      "utterance": "それは悩んでしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:23:35",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:24:35",
+      "utterance": "頭が真白になるように感じたのは、いつごろからですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:25:27",
+      "utterance": "仕事をいろいろと任せられるようになってから、余計に感じます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:26:07",
+      "utterance": "任せてもらえるようになってからですね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:26:56",
+      "utterance": "そうだったのですね。それはしんどいお気持ちでしょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:27:21",
+      "utterance": "そうですね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:28:10",
+      "utterance": "仕事は任されると、責任感やプレッシャーを感じてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:29:19",
+      "utterance": "ちなみにどのようなお仕事でいらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:29:56",
+      "utterance": "そうですね。責任感もプレッシャーも感じます。仕事は営業の補佐をしています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:30:19",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:30:33",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:31:22",
+      "utterance": "いずれは私も営業の立場になるのですが、先輩のように上手くできる自信は全くないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:33:07",
+      "utterance": "それは、先輩を見ると余計考えてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:33:36",
+      "utterance": "はい、そうなんです。完璧な方だと思うので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:34:00",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:34:23",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:34:43",
+      "utterance": "それは比べてしまうと辛くなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:35:56",
+      "utterance": "あんな風になりたい！って思うんですが、今の私を客観的にみると道のりは程遠い感じがします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:37:08",
+      "utterance": "そう思うほど先輩を尊敬なさっているのですね。その先輩とは、いつも一緒にお仕事なさっているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:38:35",
+      "utterance": "そうです。毎日顔を合わせるわけではないのですが、週2日くらいはミーティングをしています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:39:26",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:39:32",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:40:20",
+      "utterance": "その先輩とのミーティングの時に、頭が真っ白になってしまう感じでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:42:51",
+      "utterance": "先輩と2人の時はそういうことはあまりないのですが、他の部署の方や社長が入るミーティングのときにそうなりやすいです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:44:49",
+      "utterance": "そうなのですね。先輩だけの時より、ミーティングの時は緊張してしまうのかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:45:13",
+      "utterance": "そうですね。緊張してます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:46:01",
+      "utterance": "そうですよね。人前で話すのは緊張しますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:46:13",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:47:03",
+      "utterance": "これまでのお話を少しまとめさせていただいてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:47:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:48:24",
+      "utterance": "人前で話すと時々頭が真っ白になっ言葉が出てこなかったり、気が止まったように感じていらっしゃいます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:49:43",
+      "utterance": "会社のミーティングの際に同じようなことがことが起こり、トラウマになりそうな気分の中でも、何とか切り抜けられました。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:50:52",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:51:26",
+      "utterance": "あとで「こんな風に言えばよかった」と考えてしまうこともあり、自分を嫌になりそうな苦しいお気持ちでいらっしゃいます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:51:47",
+      "utterance": "はい、そうです。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:52:55",
+      "utterance": "お仕事は営業補佐で、先輩を見るとあんなふうになりたい、と思いながらご自分はそんな先輩のようになるには程遠いと感じていらっしゃいます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:53:17",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:54:36",
+      "utterance": "その先輩とは二人の時より、会社の社長が入るミーティングの方が、頭が真っ白になりやすい感じでいらっしゃいます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:54:53",
+      "utterance": "いかがでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:54:58",
+      "utterance": "そうです。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:55:33",
+      "utterance": "毎日苦しいお気持ちでいらっしゃるのが伝わってきます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:56:03",
+      "utterance": "はい。こんな自分をなんとかしたいんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:57:00",
+      "utterance": "そうですよね。何とかしたいと思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:57:15",
+      "utterance": "はい。どうすればいいのでしょう？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:57:55",
+      "utterance": "ちなみにその先輩は、何歳年上でいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:58:24",
+      "utterance": "年齢は聞いたことがないです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:58:36",
+      "utterance": "私よりは上だと思います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T20:59:02",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T20:59:10",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T21:00:07",
+      "utterance": "会社以外では、どんな時に頭が真っ白になりますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T21:00:44",
+      "utterance": "突然話を振られた時とかですかね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T21:01:33",
+      "utterance": "そうなのですね。それはびっくりしてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T21:01:45",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T21:04:33",
+      "utterance": "お時間になりました。本日お越しいただきましてありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T21:05:09",
+      "utterance": "わかりました。ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T21:05:36",
+      "utterance": "なおさん、ありがとうございました。また機会がありましたら、よろしくお願いいたします。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T21:06:01",
+      "utterance": "こちらこそありがとうございました。またよろしくお願い申し上げます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T21:06:08",
+      "utterance": "お疲れ様でした！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-08T21:06:26",
+      "utterance": "それでは失礼いたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-08T21:06:35",
+      "utterance": "はい、失礼致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "人前でのパフォーマンスに対する不安や緊張感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 864,
+    "評価作成日時": "2020-12-08T21:48:00",
+    "クライアント役ID": 73,
+    "カウンセラー役ID": 17,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 864,
+    "evaluation_created_at": "2020-12-08T21:48:00",
+    "client_id": 73,
+    "counselor_id": 17,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

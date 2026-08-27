@@ -1,0 +1,761 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-30T16:51:27",
+      "utterance": "こんにちは、ロープレよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T16:51:40",
+      "utterance": "お時間になりましたら開始いたしますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T16:52:04",
+      "utterance": "こんにちは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T16:52:20",
+      "utterance": "了解いたしました。お時間になりましたら、どうぞよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:00:05",
+      "utterance": "こんにちは、相談ありがとうございます。初めに年齢、性別をお伺いしてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:01:03",
+      "utterance": "こんにちは。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:01:15",
+      "utterance": "42歳、男です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:01:28",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:01:36",
+      "utterance": "本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:02:10",
+      "utterance": "ちょっとこの間兄弟喧嘩をして、誰かに話を聞いて欲しくて、ここに来てみました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:03:17",
+      "utterance": "そうだったんですね、ありがとうございます。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:03:59",
+      "utterance": "差し支えなければもう少し詳しく喧嘩についてお伺いしてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:04:40",
+      "utterance": "はい。兄とは同居していて、二人とも独身なのですが、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:04:51",
+      "utterance": "ええ。（聴いてますね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:05:34",
+      "utterance": "先日、うちで生まれた猫を勝手によそ様にあげる約束をしてしまったんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:06:05",
+      "utterance": "自分が一生懸命育ててきた猫を、相談もせずにそんなことをするなんて信じられなくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:07:11",
+      "utterance": "今までだって兄の面倒も、猫の面倒も全部自分がみてきたのに、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:07:22",
+      "utterance": "なんか腹が立って仕方なくなったので、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:07:35",
+      "utterance": "うんうんそのようなことがあったんですね、、勝手に決められるとイライラしちゃいますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:07:55",
+      "utterance": "はい。腹が立ちました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:09:03",
+      "utterance": "そうですよね、兄も猫も面倒見てきたのにそのようなことが起こると腹が立ってしまうのも無理もなりと思います。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:10:35",
+      "utterance": "はい。もう本当に腹が立ったんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:10:49",
+      "utterance": "うんうんそうですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:11:16",
+      "utterance": "お兄さんとはどのようなお話しましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:11:37",
+      "utterance": "もちろんお話できる範囲で構いません",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:11:53",
+      "utterance": "その後、あまり話していません。顔見るだけで腹が立ってくるので。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:12:39",
+      "utterance": "そうなんですね、確かにそのようなことが起きると見たくもないと思うのも自然だと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:13:15",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:14:46",
+      "utterance": "喧嘩する以前の普段のお兄さんとの関わりはどんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:15:38",
+      "utterance": "兄は、自由な人なんです。仕事も転々としていて、今は給付金をもらいながら家にずっといる感じで。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:15:54",
+      "utterance": "お互い家賃も安くなるし、ってことで同居してるんですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:16:01",
+      "utterance": "うんうん。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:16:32",
+      "utterance": "その猫も、兄が家に野良猫を招き入れて、その子が産んじゃったんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:16:42",
+      "utterance": "結局自分が世話して、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:16:50",
+      "utterance": "ええ。ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:17:16",
+      "utterance": "挙げ句の果てに、勝手にあげちゃうなんて、自由にも程があると思いませんか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:18:42",
+      "utterance": "そうだったんですね、、勝手すぎて振り回されてる感じがしちゃいますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:19:32",
+      "utterance": "本当にその通りなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:20:13",
+      "utterance": "ええ。頑張ってきたのに、、という気持ちが痛いほど伝わってきます。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:20:59",
+      "utterance": "そうなんです。わかっていただいてありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:22:14",
+      "utterance": "ええ。ええ。それと今更ではありますがお名前をなんとお呼びしましょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:22:58",
+      "utterance": "マナブ、といいます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:23:16",
+      "utterance": "まなぶさんですね、教えていただきありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:24:30",
+      "utterance": "もし今まなぶさんがお兄さんに言えることがあったとしたら何を言いたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:25:10",
+      "utterance": "何か伝えたい、というのはもうないですね。言っても無駄なんで。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:25:43",
+      "utterance": "そのように考えてたんですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:25:43",
+      "utterance": "本当に自由なので、どうせ聞いてもすぐ忘れちゃうと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:26:17",
+      "utterance": "そのくせ、自由な自分を申し訳なく時々思ってたりもするんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:26:53",
+      "utterance": "そう感じていたんですね、お兄さん自身が申し訳ないと思っているということでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:27:29",
+      "utterance": "そうです。やりすぎちゃったかな、みたいな感じで、勝手に凹んでます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:28:06",
+      "utterance": "そうなんですね、、それを見ちゃうともやもやしちゃいますよね、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:29:00",
+      "utterance": "もやもや、というか、やっぱり腹が立ちます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:29:51",
+      "utterance": "そう感じていたんですね、お話してくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:30:15",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:30:50",
+      "utterance": "ちなみに「言っても無駄」と先程お話しましたが直接お話したことはありましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:31:55",
+      "utterance": "昔はありました。同じことの繰り返しなので、最近は言っても無駄だと思うようになりました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:32:47",
+      "utterance": "そうだったんですね。同じことの繰り返しというのはどういったことでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:33:41",
+      "utterance": "兄の自由さに振り回されて、自分が文句を言って、みたいな感じですね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:34:33",
+      "utterance": "兄の性格もわかるので、なるべく気にしないようにはしてるんですが、やはり猫のことみたいなのがあると、我慢できなくなったりして、、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:35:47",
+      "utterance": "そうだったんですね。。まなぶさんが一生懸命育てたからこそそう感じるのも当然だと思います。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:36:22",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:36:55",
+      "utterance": "今日お話ししてくれたことは他の誰かにお話しはしましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:37:22",
+      "utterance": "はい、一人友達に話しました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:37:43",
+      "utterance": "そうなんですね、お話ししてみてどんな反応が来ましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:38:24",
+      "utterance": "やっぱり、あの猫育てたかったんだね、みたいな感じでした。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:39:05",
+      "utterance": "そのようにお話しされてたんですね。聞いてみてどんな気持ちになりましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:39:53",
+      "utterance": "それもあるけど、ちょっと違うかも、って思いました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:41:42",
+      "utterance": "そのように感じていたんですね。違うかもって感じるとなんとも言えない気持ちになりますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:41:47",
+      "utterance": "どの部分が違うかもと思いましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:42:54",
+      "utterance": "猫育てたかった気もするけど、その事に怒ってるんじゃなくて、兄の勝手な行動に怒ってたんだよな、って思って。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:43:31",
+      "utterance": "まなぶさんご自身でそのように気づいていたんですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:44:00",
+      "utterance": "勝手な行動に怒るのも自然なことだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:44:27",
+      "utterance": "そう言っていただいて、ありがとうございます。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:44:58",
+      "utterance": "こちらこそ腹が立っている気持ちの中お話ししてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:45:13",
+      "utterance": "ここまで少しお話しを整理してもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:45:18",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:46:31",
+      "utterance": "まなぶさんは兄の面倒見ながら拾ってきた猫の面倒も見てきたのに兄が勝手によそ様にあげる約束をしてしまったことに腹が立ってしまった。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:48:49",
+      "utterance": "昔は兄の勝手な行動に振り回されることに文句を言っていたが同じことの繰り返しということもあって文句を言わないようにしているが猫のことを考えると我慢ができなくなってしまうこともある。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:49:31",
+      "utterance": "友達に相談してみた時に猫を育てたかった気もするけど兄の勝手な行動に怒っていたことに気づいた。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:49:41",
+      "utterance": "このような感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:50:01",
+      "utterance": "そうですね、そんな感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:50:12",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:51:30",
+      "utterance": "本日のこのご相談で特に困っていることは何でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:52:50",
+      "utterance": "兄の勝手な行動ですね。この先どうしていこうかな、とも思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:54:22",
+      "utterance": "そう感じていたんですね。まなぶさん自身では今何ができると考えていますか？（無くても想像でも構いません）",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:55:15",
+      "utterance": "どうでしょう、よくわからないですね、でも、こうやって誰かに相談しながらやっていくんだろうな、って思いました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:55:40",
+      "utterance": "お話を聞いていただいて、理解していただいて、気持ちが楽になった気がします",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:55:57",
+      "utterance": "そのように考えていたんですね。いきなり言われてもわからなくなるのも無理もないと思います。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:56:30",
+      "utterance": "そうですね。もう兄に変わってくれ、って言ってもどうしようもないですし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:56:39",
+      "utterance": "お話を聞いていただけて、嬉しかったです、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:56:42",
+      "utterance": "。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:56:45",
+      "utterance": "うんうんそうですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:57:00",
+      "utterance": "こちらこそお話ししてくれてありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:57:31",
+      "utterance": "実はそろそろお時間なのですが最後に私が感じたことをお話ししてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T17:57:44",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T17:59:07",
+      "utterance": "まなぶさんは兄のことも猫のこともまなぶさん自身で一生懸命世話をされていたのかなと感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:00:23",
+      "utterance": "しかしそれと同時に昔から兄の自由さに振り回されることで相当ストレスが溜まっているのかなと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:01:43",
+      "utterance": "時には自分を大事にするためにまなぶさん一人の時間（あったかいお茶や音楽などのリラックスする時間）を設けてみるのも一つかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:02:54",
+      "utterance": "今回は時間が来てしまいましたがまなぶさんがこの先どうしていこうかということを引き続き一緒に考えていきたいのでまたお話しを聴かせていただきたいと思うのですがいかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T18:03:28",
+      "utterance": "はい。色々ありがとうございました。一人の時間も必要ですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T18:03:51",
+      "utterance": "また相談したい時は、ぜひこちらに伺わせてください。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:04:20",
+      "utterance": "こちらこそありがとうございました。ぜひ一人の時間考えてみたりお話しお聞かせ下さい。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:04:41",
+      "utterance": "もし何もなければこのまま終了してもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T18:04:59",
+      "utterance": "はい。大丈夫です。今日はありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:05:56",
+      "utterance": "こちらこそありがとうございました。まなぶさんにとって少しでも一歩を進められるように心から応援しています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-30T18:06:27",
+      "utterance": "（ロープレありがとうございました。もしなければ終了ボタンを押しますね）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-30T18:06:45",
+      "utterance": "（はい。こちらこそありがとうございました。）",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "兄とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1957,
+    "評価作成日時": "2021-05-30T18:25:00",
+    "クライアント役ID": 157,
+    "カウンセラー役ID": 125,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1957,
+    "evaluation_created_at": "2021-05-30T18:25:00",
+    "client_id": 157,
+    "counselor_id": 125,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

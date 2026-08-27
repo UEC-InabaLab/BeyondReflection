@@ -1,0 +1,542 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-03-29T20:53:10",
+      "utterance": "（宜しくお願い致します。遅い時間にありがとうございます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T20:53:23",
+      "utterance": "こちらこそ宜しくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:00:20",
+      "utterance": "こんばんは。相談員です。来ていただきありがとうございます。最初に、年齢・性別・ご相談内容を教えて頂けますか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:00:44",
+      "utterance": "50歳女買い物がやめられません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:01:48",
+      "utterance": "教えて頂き、ありがとうございます。そうなのですね。買い物をしたくなるのですね。それはお困りですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:02:18",
+      "utterance": "はいやめないとダメだとはわかっているんですが、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:02:47",
+      "utterance": "はい。そのようにご自身でも考えていらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:02:52",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:03:41",
+      "utterance": "買い物をやめられない、とは、どのような時に、そのようになるのでしょう?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:04:24",
+      "utterance": "街を歩いていると欲しいものだらけで",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:05:11",
+      "utterance": "カードで買ってしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:05:23",
+      "utterance": "そうでしたか。世の中はいろいろな物であふれていますものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:05:40",
+      "utterance": "カードを作られたのですね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:06:08",
+      "utterance": "元々何枚かもっています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:06:09",
+      "utterance": "支払いが簡単ですものね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:06:16",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:06:54",
+      "utterance": "そうでしたか。何枚も、とは、何かきっかけがあったのでしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:07:51",
+      "utterance": "いえ、生活するためのものです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:09:17",
+      "utterance": "そうでしたか。欲しいものがいっぱいあって、とのことですが、いつ頃からそのように思われるようになったのでしょう?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:11:14",
+      "utterance": "ここ1年くらいです。おしゃれなママ友がいて追いつきたいなぁと思いました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:12:10",
+      "utterance": "そうだったのですね。おしゃれなママ友と同じような感じになりたいと思われたのでしょうか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:13:12",
+      "utterance": "そうですね私も素敵な洋服やバッグを持ちたいと、、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:14:41",
+      "utterance": "そうでしたか。そのようにあこがれを持っていらしたのですね。今日のご相談は、買い物をしたくなるお気持ちをどうにかしたい、とのことでよろしいですか?",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:15:22",
+      "utterance": "はいお金が限界です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:16:45",
+      "utterance": "ママ友に追いつきたい、とのお気持ちからのようでしたが、何かいついていないと思われるものがおありだったのでしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:17:21",
+      "utterance": "ついていない→追いついていない、でした。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:18:51",
+      "utterance": "私、安いバックとかしか持っていなくて一つくらい欲しいなぁとかそれに合わせてアクセサリーも欲しいなぁとかそうするとママ友と話も盛り上がったりします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:20:19",
+      "utterance": "そうでしたか。ママ友と話が盛り上がるのは楽しいですね。でも金銭的なこともご心配で…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:21:15",
+      "utterance": "はい貯金が底をついていて主人にいつバレるのかという状態です借金も少し、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:22:20",
+      "utterance": "そうだったのですね。借金も持っていらして…。それでは気持ちも落ち着かない感じでしょうか?",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:23:08",
+      "utterance": "はいでもママ友に見栄をはってしまっています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:23:48",
+      "utterance": "そうなのですね。見栄をはってしまう、とはどのようなお気持ちからでしょう?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:25:09",
+      "utterance": "なぜでしょうか貧乏だと思うと情けなくなります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:26:39",
+      "utterance": "そうでしたか…。ご相談者様は旦那様と共働きなのでしょうか?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:26:48",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:27:28",
+      "utterance": "そうなのですね。大変ですよね。お子様は何人いらっしやるのでしょう?",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:27:52",
+      "utterance": "一人です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:29:02",
+      "utterance": "そうでしたか。ご相談者様も頑張って働いていらして…。貧乏だと思われるのはどうしてでしょう?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:30:18",
+      "utterance": "周りはいいものをもって、旅行とかもたくさんいかれてて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:31:11",
+      "utterance": "そうなのですね…。相談者様もそのようになりたいと思われているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:31:48",
+      "utterance": "そうですね羨ましかったんだと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:32:55",
+      "utterance": "そのように思われるのですね。そのために頑張ってためていたお金を使ってしまわれた…。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:33:31",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:35:44",
+      "utterance": "相談者様もご主人様も、お子様やご家族のために一生懸命働いてらして。ご家族を一番大切にされているようにうかがわれます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:36:58",
+      "utterance": "もちろん、自分のことは二の次に頑張ってきました。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:37:35",
+      "utterance": "そうなのですね。貯金をされていたのも、何か目的があってのことでしょうか?",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:38:07",
+      "utterance": "子供の大学の費用です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:38:45",
+      "utterance": "そうだったんですね。お子様を大切に思っていらっしゃるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:38:57",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:39:49",
+      "utterance": "お子様の将来のことを案じていらして…。素晴らしいお母様ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:40:17",
+      "utterance": "でも、お金を使ってしまいました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:41:26",
+      "utterance": "お金は、また働いて、少しずつためていけば良いと思います。ママ友とは、少し距離をおいてはいかがでしょう?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:42:05",
+      "utterance": "インスタなども気になって見てしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:43:26",
+      "utterance": "そうですね。誘惑が多い社会ですが、それを続けていると、大切な家族からの信頼を失ってしまわないか、心配です。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:44:26",
+      "utterance": "そうですよね頭ではわかっているんですがブランド物とかを見ると欲しくなってしまうんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:45:42",
+      "utterance": "そうですよね…。見れば全て欲しくなる、女性の持つ本能なのでしょうか。高価な物等、何も持たなくても、相談者様にはかけがえのないご家族がいらっしゃるのでは、と思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:46:27",
+      "utterance": "いろいろな物を見る機会を減らすために、外出を少なくする、というのはどうでしょう?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:49:24",
+      "utterance": "そうですよねでも今まで仕事と育児の往復で、またそんな毎日に戻るんですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:51:51",
+      "utterance": "そのように思われるのももっともです。お辛い思いをされていらしたのですね。相談者様の物欲が少しでも減って、ご自身を二の次にされてでも頑張っていらっしゃるお姿は、自慢できると思われますが、いかがでしょうか?",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:52:45",
+      "utterance": "そうですね頑張ってみます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:53:33",
+      "utterance": "子育てと仕事と家事と…。今はとても大変な時期だと想像されます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:54:16",
+      "utterance": "もう子供はてを離れましたこの春から大学生です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:55:46",
+      "utterance": "そうなのですね。大学費用が心配ですが、少しず借金を返しながら、学費をためることが出来たら、と思います。大丈夫でしょうか?",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:56:03",
+      "utterance": "はい頑張ってみます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:57:24",
+      "utterance": "そのようにお考えなのですね。相談者様は元来、頑張り屋さんのなのですね。お身体を大切にして過ごされることを願います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:57:45",
+      "utterance": "はいありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:58:39",
+      "utterance": "こちらこそありがとうございました。相談者様から力を頂きました。お時間になりましたが、また何かありましたらいつでもいらして下さい。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:58:50",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:58:55",
+      "utterance": "これで終了させて頂いてよろしいですか?",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T21:59:05",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:59:25",
+      "utterance": "終了のメッセージを送らせて頂きます。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-29T21:59:43",
+      "utterance": "（お付き合い下さり、ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-29T22:00:10",
+      "utterance": "（こちらこそありがとうございまし）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "買い物依存による借金問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6659,
+    "評価作成日時": "2024-03-29T22:46:00",
+    "クライアント役ID": 494,
+    "カウンセラー役ID": 261,
+    "点数": 63,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 1,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6659,
+    "evaluation_created_at": "2024-03-29T22:46:00",
+    "client_id": 494,
+    "counselor_id": 261,
+    "score": 63,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

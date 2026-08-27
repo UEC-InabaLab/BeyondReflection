@@ -1,0 +1,547 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-01T12:51:56",
+      "utterance": "(こんにちは。よろしくお願いいたします。時間になりましたら、はじめさせていただきます。)",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T12:52:42",
+      "utterance": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T12:53:20",
+      "utterance": "(おまかせしても、よろしいですか。)",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T12:53:32",
+      "utterance": "(かしこまりました)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:00:05",
+      "utterance": "こんにちは。相談員です。はじめに、ご年齢・ご性別を教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:00:27",
+      "utterance": "39 男",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:00:43",
+      "utterance": "相談にお越しくださって、ありがとうございます。今日、お話しになりたいのは、どのようなことでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:00:59",
+      "utterance": "何もかも頑張れません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:01:35",
+      "utterance": "そうなのですね。もどかしいですね。体調などは、だいじょうぶですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:01:53",
+      "utterance": "まあ、はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:02:37",
+      "utterance": "睡眠はとれていますか。食欲はおありでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:03:16",
+      "utterance": "体調のことは大丈夫です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:04:14",
+      "utterance": "わかりました。頑張れないとのこと…いつくらいから、そのようなご様子なのでしょう。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:05:20",
+      "utterance": "覚えてません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:06:44",
+      "utterance": "そうなのですね。がんばりたいのに、がんばれない…そのようなご様子ですか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:07:05",
+      "utterance": "多分",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:07:47",
+      "utterance": "もどかしいですね。たとえば、どんなことががんばれないな…とお感じですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:08:45",
+      "utterance": "全部",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:10:08",
+      "utterance": "そうでしたか。お辛い状況ですね。ちなみに、お仕事では、どのようなご様子なのですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:10:44",
+      "utterance": "仕事してません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:11:56",
+      "utterance": "そうなのですね。仕事をするのが、お辛い状況でもあるのですね。お一人でお住まいですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:12:14",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:12:54",
+      "utterance": "そうでしたか。お家では、どのようにお過ごしなのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:13:12",
+      "utterance": "特に何も",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:14:23",
+      "utterance": "寝ていることが多いような感じですか。趣味や楽しみなど、おありですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:14:38",
+      "utterance": "いいえ",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:15:22",
+      "utterance": "そうなのですね。食事など、ご不便ではありませんか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:15:42",
+      "utterance": "特にないです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:16:45",
+      "utterance": "そうなのですね。お一人でお家で、すごされながら、どのようなことを考えたりされるのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:17:25",
+      "utterance": "もう頑張れないことです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:18:39",
+      "utterance": "そうでしたか。苦しいですね。ご家族やお友達など、連絡をとったりされますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:18:50",
+      "utterance": "してません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:19:47",
+      "utterance": "そうでしたか。ほぼ、だれとも会話がない状況におられるのですね。おひとりで、考えがぐるぐる回るような感じなのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:20:03",
+      "utterance": "わかりません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:21:13",
+      "utterance": "そうなのですね。おひとりでいて、どのようなお気持ちになるのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:21:45",
+      "utterance": "苦しいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:23:05",
+      "utterance": "そうでしたか。苦しい…、どうしたらいいのか、わからない…という感じなのでしょうか。そのようなご様子、お気持ち、どなたかに、ご相談したことは、おありですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:23:19",
+      "utterance": "いいえ",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:24:57",
+      "utterance": "お一人で、かかえておられるのですね。苦しいですね。相談する気力がわかない…。相談して、よけいに傷つきたくない…など、どのようなお気持ちから、相談をためらっておられるのでしょう。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:25:57",
+      "utterance": "あまり言いたくありません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:27:32",
+      "utterance": "そうなのですね。ここでは、どんなことでもお話しくださいね。あなたの、お気持ち、お考え、聞かせて頂きたいです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:31:54",
+      "utterance": "(おまちしていますね。お話ししやすいところから、ゆっくりで、だいじょうぶです。)",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:33:46",
+      "utterance": "何を話せばいいのかわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:35:20",
+      "utterance": "そうでしたか。先ほど、がんばりたいのにがんばれない…というお話もあったかと思います。がんばりたいな…と思っておられるのは、どんなことがありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:36:25",
+      "utterance": "色々です",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:38:23",
+      "utterance": "がんばりたいことは、いろいろある。でも気持ちはついていかない…のでしょうか。そのような、お気持ちになるようなきっかけ、何か思い当たることがおありだったりしますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:39:50",
+      "utterance": "気持ちはわかりませんが、自分が鬱病持ちだったからだと思います",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:41:19",
+      "utterance": "そうでしたか。大切なことをお話くださって、ありがとうございます。「だった」というのは、治療はされて、今は落ち着いておられるということですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:41:47",
+      "utterance": "治療は終えてます",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:42:35",
+      "utterance": "そうなのですね。では、今は定期的な通院などは、されているのですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:42:50",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:43:52",
+      "utterance": "そうでしたか。お医者様とつながっておられるのですね。通院時には、お話しできたり、アドバイスをいただけたりしますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:44:16",
+      "utterance": "できる時とできない時があります",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:45:10",
+      "utterance": "そうなのですね。お話しできたときの方が、落ち着ける感じなのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:45:35",
+      "utterance": "一概には言えません",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:46:20",
+      "utterance": "そのときによる…のかもですね。お話しできるときには、アドバイス等もらえますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:47:05",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:48:21",
+      "utterance": "たとえば、アドバイスの内容、教えて頂けたりしますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:49:06",
+      "utterance": "かなり前なので覚えてません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:50:37",
+      "utterance": "そうでしたか。それくらい通院の感覚はあいているということなのですね。治療が終わられているということ、お薬の処方もないのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:50:46",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:51:58",
+      "utterance": "そうでしたか。快方に向かっておられるということなのかもしれませんね。ちなみに、どのくらいの期間、治療されていたのでしょう。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:52:14",
+      "utterance": "数年くらいでしょうか",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:53:49",
+      "utterance": "そうでしたか。よくふんばられましたね。治療が終了して、もうどれくらいですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:54:11",
+      "utterance": "半年以上ですかね",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:55:32",
+      "utterance": "そうでしたか。決してむりはず、まずは現状維持を…のところかもしれないですね。そのあたり、お医者様は、どのとうに言っておられますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:55:58",
+      "utterance": "また何かあれば来てくださいくらいです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:57:14",
+      "utterance": "そうでしたか。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:57:50",
+      "utterance": "(最後までいかず、申し訳ありません。終了に向かわせて頂きます。)",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-01T13:58:32",
+      "utterance": "はい、ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T13:58:56",
+      "utterance": "今日は大切なお話をきかせてくださって、ありがとうございました。治療を終えて半年…大切な時期かと感じました。どうぞ、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T14:00:14",
+      "utterance": "あせらず、ここまでがんばってこられた自分を、まずは感じながら、ゆっくりとお過ごしくださいませ。また、いつでも、お話に来てください。違う相談員になっても、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T14:01:15",
+      "utterance": "今日のないようを踏まえて、お話きかせていただきくことは可能です。いつでも、お待ちしています。きょうは、ありがとうございました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-01T14:01:53",
+      "utterance": "(お疲れ様でした。ありがとうございました！　終了のメッセージを送ります。)",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "うつ病による気力の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3895,
+    "評価作成日時": "2022-09-02T16:04:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 316,
+    "点数": 45,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3895,
+    "evaluation_created_at": "2022-09-02T16:04:00",
+    "client_id": 125,
+    "counselor_id": 316,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

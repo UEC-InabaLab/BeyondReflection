@@ -1,0 +1,557 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-31T11:31:08",
+      "utterance": "こちらこそありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:00:56",
+      "utterance": "こんにちは。カウンセラーです。=== 今回のテーマはカウンセラー「いじめ」です。===よろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:01:02",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:01:34",
+      "utterance": "こんにちは。小5の娘のことで相談です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:02:08",
+      "utterance": "娘さんのことですね。どうぞ、お話しやすいところから、聞かせていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:02:08",
+      "utterance": "イジメほど深刻ではないのですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:02:16",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:02:33",
+      "utterance": "苗字でからかわれて悩んでいまふ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:02:57",
+      "utterance": "そうなんですね。親御さんとしてはそれは悩みますよね・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:03:38",
+      "utterance": "ウチの苗字が「海野」と書いて「うんの」と読みます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:03:51",
+      "utterance": "教えてくださり、ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:04:19",
+      "utterance": "うんのを、「うんこ」とからかわれると。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:04:42",
+      "utterance": "そうですか・・いかにも子供が考えそうなことですよね・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:05:05",
+      "utterance": "主人に相談してみると、自分も昔はよくあったと",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:05:13",
+      "utterance": "そうだったんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:05:31",
+      "utterance": "でも中学生くらいになればだんだんなくなるからと",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:05:38",
+      "utterance": "そうですよね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:06:08",
+      "utterance": "ただ娘は結構しんどいみたいで…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:06:15",
+      "utterance": "そうなんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:06:25",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:06:57",
+      "utterance": "どうやって娘に前向きになってもらうかを相談したいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:07:23",
+      "utterance": "分かりました。ご一緒に考えていけたらと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:07:43",
+      "utterance": "悩まれている娘さんを見ていると、お母さまであるあなたもつらいですよね・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:08:36",
+      "utterance": "そうですね。気にしないで良いんじゃない？と言うんですけど、本人はそうもいかないみたいで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:09:06",
+      "utterance": "大人からすると、そう思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:09:41",
+      "utterance": "娘さんは、からかわれていることの何が嫌なのか、娘さんにお聞きになったことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:10:52",
+      "utterance": "「うんこ」と言われるのがイヤだと。主人も言い返せと言うんですが、内気な子なのでなかなかそれが出来ないみたいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:12:26",
+      "utterance": "そうですか・・お父さんにそう言われても、娘さんにしてみたらなかなかどうしていいのか・・といったところなんでしょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:12:42",
+      "utterance": "はい…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:14:00",
+      "utterance": "どうすることもできないので…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:14:41",
+      "utterance": "そう思われるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:14:46",
+      "utterance": "ちなみに、お母さまの分かる範囲で構わないのですが、それ以外にひどいいたずらや、暴言のような言葉を浴びせられる、といったことはあるのでしょうか・・？（答えにくかったら、もちろんお答えできる範囲で大丈夫です）",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:15:45",
+      "utterance": "たぶん、からかわれているだけだと思うんですけど。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:16:11",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:16:22",
+      "utterance": "開き直って、「違うもん！」って言えば良いんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:16:55",
+      "utterance": "言われっぱなしみたいで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:17:08",
+      "utterance": "なるほど、そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:17:29",
+      "utterance": "あと、聞き間違いを訂正するのもイヤみたいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:17:55",
+      "utterance": "そういうことも、あるんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:18:10",
+      "utterance": "「うんこ」を「うんの」ですと。何回言っても「うんこ」と聞き間違いが起きると。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:18:26",
+      "utterance": "まあ私にもそういうのはあります",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:18:42",
+      "utterance": "だから娘の気持ちもわかるんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:18:47",
+      "utterance": "お母さまも、同じ思いをされているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:18:51",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:19:09",
+      "utterance": "ここまでのお話をお聞きしていて、感じたことをお話させていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:19:13",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:20:07",
+      "utterance": "小学５年生頃って、思春期に入ってすぐくらいの年齢の子たちだと思うのですが、",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:20:13",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:20:52",
+      "utterance": "その頃の子供たちは、グループとか連帯感というものがとても大事な年齢だと心理学では言われています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:21:16",
+      "utterance": "そうなんですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:22:08",
+      "utterance": "だから、からかってくる子たちがいたとしても、友達がいなくなって一人ぼっちになるよりは・・と思って、嫌なことも我慢して付き合っている、という子はとても多いです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:22:42",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:23:11",
+      "utterance": "もしかしたら、からかわれても、言い返したりすることで、友達を失ってしまう方が、つらいということもあるかもしれません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:23:44",
+      "utterance": "けれど、たとえ子供同士であっても、人を傷つけたり、からかったりすることが許されるわけではありません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:23:54",
+      "utterance": "仲の良い子からではなくて主に男子からからかわれているみたいです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:24:12",
+      "utterance": "そうなんですね。仲の良い子ではないのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:24:25",
+      "utterance": "そうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:25:05",
+      "utterance": "そうしたら、からかってくる男子たちと仲良くする必要はないということになるように思いますが、どう思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:25:29",
+      "utterance": "今だけでなく、これからもこの名前でやっていくのがイヤみたいです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:27:10",
+      "utterance": "そういう風に思っている様子なのですね。けれど、名字を変えるのは、簡単なことではないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:28:44",
+      "utterance": "男子たちとも特に仲良くしていると言うより、相手にはしていないけどからかわれているのがツラいと",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:29:59",
+      "utterance": "そっか・・そう言われている娘さんを見ているのも、心が痛みますね。娘さんからそう言われたとき、あなたはどんな風に答えているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:31:16",
+      "utterance": "男子は女子が気になるからからかってくるだけだよ、と言っています…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:31:44",
+      "utterance": "気になる女子をからかいたいだけだと",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:31:56",
+      "utterance": "そうですよね。それももっともだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:32:32",
+      "utterance": "ただ苗字は変えられないのでツライと。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:34:04",
+      "utterance": "そうですよね、、、なかなか変えられるものではないと思います。ですので、嫌なことを言われたら、どう対処していくのかということを考える方が、大切であるように思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:34:16",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:35:11",
+      "utterance": "先ほどもお伝えした通り、子供であってもからかってくる方が１００％悪いのです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:35:19",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:35:33",
+      "utterance": "名字のことで被害に遭っているかもしれないけれど、でも娘さんは何も悪くありません。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:35:39",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:35:55",
+      "utterance": "「あなたは何も悪くない」ということはぜひ娘さんに伝えていただきたいです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:36:07",
+      "utterance": "はい、わかりました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:36:16",
+      "utterance": "今日はお時間となりますので、ここまでとさせていただきます。ご相談にきてくださり、ありがとうございました。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "いじめに関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1072,
+    "評価作成日時": "2020-12-31T12:43:00",
+    "クライアント役ID": 130,
+    "カウンセラー役ID": 126,
+    "点数": 82,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1072,
+    "evaluation_created_at": "2020-12-31T12:43:00",
+    "client_id": 130,
+    "counselor_id": 126,
+    "score": 82,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

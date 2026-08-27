@@ -1,0 +1,319 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-10-22T14:21:32",
+      "utterance": "こんにちは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:22:16",
+      "utterance": "こんにちは、ご相談にきてくださってありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:23:38",
+      "utterance": "よろしくお願いいたします。まず、年齢とご相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:23:52",
+      "utterance": "10代です。恋愛のことで悩んでます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:25:35",
+      "utterance": "なるほど、恋愛のことですね。今は学生さんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:25:43",
+      "utterance": "そうです。高校生です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:28:14",
+      "utterance": "ありがとうございます。お悩みの内容ですが、どのようにお悩みですか？誰かお相手の事とかでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:28:42",
+      "utterance": "好きな人がいるんですけど、いつもその人のことで頭がいっぱいになって、勉強とかが手につかなくなってしまいます😭",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:30:20",
+      "utterance": "うん、うん。好きな人の事を思うと楽しくてそうなりますよね！",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:31:12",
+      "utterance": "勉強もやらなきゃって感じで悩みますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:31:20",
+      "utterance": "うーん",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:31:28",
+      "utterance": "なんか他のことが手につかないのが嫌です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:32:18",
+      "utterance": "楽しいって感じじゃないと言うか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:33:18",
+      "utterance": "なるほど、その人の事を思うとどんな気持ちでいっぱいになりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:33:45",
+      "utterance": "良い感じの人がいたのに、他の女の子と仲良くしてたりすると、その子の方がいいのかなとか考えて不安になります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:35:28",
+      "utterance": "そうですね。それは不安になります。他の事にも集中できないですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:36:09",
+      "utterance": "同じ学校の方ですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:36:14",
+      "utterance": "そうです！",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:38:30",
+      "utterance": "今は相手の方とはお話したりはできていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:38:37",
+      "utterance": "話はします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:39:02",
+      "utterance": "でも他の子と関わってるのを見るとやっぱりふあんになっちゃいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:41:04",
+      "utterance": "そうなんですね、いい感じだった時とは違う様に感じるんですかね？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:41:10",
+      "utterance": "んー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:41:17",
+      "utterance": "二人の関係は変わらないけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:41:32",
+      "utterance": "クラスに可愛い子がいて、最近仲良いのを見てから不安になってます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:43:39",
+      "utterance": "そうなんですね。それは不安になると思います。相手の方はどんな方ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:43:46",
+      "utterance": "めっちゃ可愛いです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:44:00",
+      "utterance": "性格も良いし",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:46:21",
+      "utterance": "そうなんですね。素敵ですね。それは人が集まると思います。友達も多いのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:46:35",
+      "utterance": "あ、それはライバルのことです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:46:49",
+      "utterance": "好きな人はどっちかというと寡黙なタイプかなあ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:49:12",
+      "utterance": "そうでしたか。失礼しました。好きな人はあまり異性と仲良くしない感じでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:49:19",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:49:40",
+      "utterance": "だけど一回グループが一緒になったときにその可愛い子と楽しそうに話してて",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:49:57",
+      "utterance": "めっちゃショックでした😨",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-10-22T14:51:39",
+      "utterance": "JKになりきりました。ありがとうございました🙇‍♂️",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:52:10",
+      "utterance": "すみません、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-22T14:52:44",
+      "utterance": "終了させていただきます。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "好きな人の他者との関係に対する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5851,
+    "評価作成日時": "2023-10-23T00:48:00",
+    "クライアント役ID": 441,
+    "カウンセラー役ID": 442,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5851,
+    "evaluation_created_at": "2023-10-23T00:48:00",
+    "client_id": 441,
+    "counselor_id": 442,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

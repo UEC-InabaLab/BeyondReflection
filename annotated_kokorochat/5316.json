@@ -1,0 +1,1513 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:51:14",
+      "utterance": "(こんばんは。本日はよろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:51:37",
+      "utterance": "(こんばんは。よろしくお願いいたします)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:52:29",
+      "utterance": "（口数が多めのクライアントをお願いしてもよろしいでしょうか？）",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:55:11",
+      "utterance": "(はい、了解しました。口数が多めと言うとどんなイメージでしょうか？)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:56:39",
+      "utterance": "（わりと一方的に話し続ける方というイメージでしょうか。あいづちの練習をさせていただければと思います。）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:57:32",
+      "utterance": "(わかりました。では話し続けるクライアントをしてみたいと思います。)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:58:17",
+      "utterance": "（すみません。ありがとうございます。お時間になりましたら、始めさせていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:00:03",
+      "utterance": "こんばんは。相談員です。本日はお越しくださり、ありがとうございます。まずはじめに年齢・性別・相談内容を教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:00:27",
+      "utterance": "24歳男なにもできなくて困っています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:01:25",
+      "utterance": "ありがとうございます。なにもできないとのことですが、詳しく教えていただけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:01:49",
+      "utterance": "はい、22歳のとき大学を4年間通って中退してしまいました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:02:02",
+      "utterance": "この前就職もしましたがあまり仕事も好きになれず真面目に打ち込めず、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:02:19",
+      "utterance": "他になにかやりたいが具体的なことも決まらず",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:02:31",
+      "utterance": "（ええ、聞いていますね。続けてくださいね）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:02:48",
+      "utterance": "勉強も集中してできないので選択肢も少ないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:03:02",
+      "utterance": "あと家事もできずに部屋も散らかっています",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:03:19",
+      "utterance": "料理も洗濯もまともにできません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:03:34",
+      "utterance": "恋人もできないし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:03:44",
+      "utterance": "ええ、そうだったのですね。今はおひとり暮らしなのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:03:53",
+      "utterance": "一人暮らしです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:04:08",
+      "utterance": "多分大人の発達障害です",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:04:34",
+      "utterance": "頭の中が整理がつかず散らかってる感じです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:04:53",
+      "utterance": "そのように感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:05:05",
+      "utterance": "はい、なんかどうしようもない感じなんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:05:28",
+      "utterance": "これはどうにかなるものなんですかね？？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:05:46",
+      "utterance": "今の人生から脱却したいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:06:02",
+      "utterance": "どうしようもないと感じるとお辛いですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:06:12",
+      "utterance": "はい、沼にハマっている感じがします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:06:34",
+      "utterance": "ぐるぐるぐるぐるおんなじこと考えて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:06:47",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:06:47",
+      "utterance": "自分で抜けられない感じです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:07:07",
+      "utterance": "どこか進むべき方向を見つけて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:07:14",
+      "utterance": "努力できる人間になりたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:07:24",
+      "utterance": "難しいですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:07:51",
+      "utterance": "考えを巡らせすぎてお疲れのようにも感じます",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:08:16",
+      "utterance": "多分ADHDなんで思考がずっとまわっています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:08:21",
+      "utterance": "多動なんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:08:27",
+      "utterance": "頭の中が。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:08:40",
+      "utterance": "疲れるというよりかは",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:08:48",
+      "utterance": "こういう生き物だと思ってます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:09:11",
+      "utterance": "ただ何もできないのはどうにかしたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:09:30",
+      "utterance": "ええ、そのように感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:09:36",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:09:55",
+      "utterance": "ネットではadhdはずっと頭の中で",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:10:09",
+      "utterance": "マジカルバナナをしてるという人がいました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:10:22",
+      "utterance": "ずーっと連想ゲームしてるみたいな感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:10:30",
+      "utterance": "確かにそんな感じがします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:10:49",
+      "utterance": "ぐるぐる思考がたえず回ってるみたいな。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:10:54",
+      "utterance": "そうなのですね。頭のなかで考え続けているのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:11:14",
+      "utterance": "はい、ただそれがループから抜け出せない時がつらいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:11:39",
+      "utterance": "同じループ思考をずっと繰り返し考えるときがあります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:11:54",
+      "utterance": "そして結局なにもできないみたいな。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:12:32",
+      "utterance": "頭はずっとぐるぐる思考してるのに、なにも行動ができないときが多いです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:13:08",
+      "utterance": "あれしなきゃと思うけど、でもこっちを先にしなきゃ、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:13:30",
+      "utterance": "と思うし、でも疲れてるから後でとも思うし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:13:39",
+      "utterance": "そうだったのですね。優先順位が次々と変わっていく感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:14:11",
+      "utterance": "次々変わっていくというか優先順位つけられてないですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:14:31",
+      "utterance": "すべての可能性の重みが一緒に思えてしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:14:53",
+      "utterance": "なにから手をつければいいかわからないし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:15:13",
+      "utterance": "やること、可能性に圧倒されてしまうんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:15:33",
+      "utterance": "選択肢に圧倒ですかね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:15:40",
+      "utterance": "そうなのですね。それでなにもできなくなってしまうのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:15:52",
+      "utterance": "はい、いまも部屋のなかがとっ散らかってます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:16:04",
+      "utterance": "頭の中とおなじかんじです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:16:48",
+      "utterance": "なんか、どうすればいいんでしょうか、、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:17:22",
+      "utterance": "そうでしたか。どうしたらいいのだろうと悩んでしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:17:42",
+      "utterance": "はい。ずっとこんな感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:17:52",
+      "utterance": "全然前に進まないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:18:19",
+      "utterance": "どうにかしなしゃとはおもってるのですが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:18:39",
+      "utterance": "どうにもできず生きてきました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:19:33",
+      "utterance": "ええ、この状況を変えたい気持ちもありつつ、どう行動に移していけばいいか迷われてる部分もおありなのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:20:02",
+      "utterance": "はい、そうです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:20:10",
+      "utterance": "22歳のときにadhdかもしれない気づいて大学の保健室にも行ったのですが",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:20:24",
+      "utterance": "ええ、そうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:20:33",
+      "utterance": "発達障害だと判断されてどうするの？と言われました",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:20:54",
+      "utterance": "障害者として働くのでなければ意味ないのではと。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:21:18",
+      "utterance": "そうでしたか。ご自身ではそのように言われてどう感じたのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:21:26",
+      "utterance": "そのときは確かにと思いました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:21:42",
+      "utterance": "でも状況は変わらないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:22:09",
+      "utterance": "一応仕事することは出来てますが、本当にできてるかはわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:22:20",
+      "utterance": "役に立ってるのか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:22:36",
+      "utterance": "会社にも社会にとっても。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:23:10",
+      "utterance": "そのように感じているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:23:18",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:23:35",
+      "utterance": "株式会社で働くことに疑問もあります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:23:51",
+      "utterance": "資本主義による搾取のように感じられてしまいます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:24:14",
+      "utterance": "多重請負で安月給で働いていますが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:24:33",
+      "utterance": "社会の闇のような感じがします",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:24:37",
+      "utterance": "（ええ、聞いています）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:24:44",
+      "utterance": "ちゃんと大学出ていい企業で働いて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:25:00",
+      "utterance": "お金もたくさんもらっている人と比べて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:25:10",
+      "utterance": "何してるんだろうと",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:25:30",
+      "utterance": "ええ、周りと比べてしまうのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:25:36",
+      "utterance": "社長や政府に搾取されて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:25:59",
+      "utterance": "政府やその周りもですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:26:18",
+      "utterance": "生きてる意味あるのかなって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:26:29",
+      "utterance": "働く意味ですかね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:26:37",
+      "utterance": "世の中に対しての怒りなどもおありなのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:26:42",
+      "utterance": "今の若者はお先真っ暗な気がします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:26:52",
+      "utterance": "はい、というか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:27:02",
+      "utterance": "安月給すぎて息するのがつらいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:27:19",
+      "utterance": "デートや休日遊ぶこともままならない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:27:36",
+      "utterance": "ええ、それはお辛いですよね。今はどのようなお仕事をされているのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:27:55",
+      "utterance": "it系の仕事です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:28:22",
+      "utterance": "オリンピックなどでも話題になりましたが中抜き中抜きで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:28:41",
+      "utterance": "末端は雀の涙のような給料です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:29:27",
+      "utterance": "ええ、それは悔しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:29:45",
+      "utterance": "なんかそういう会社で働くことが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:29:58",
+      "utterance": "その構造を維持してるように感じられるので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:30:02",
+      "utterance": "やめたいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:30:13",
+      "utterance": "株式会社というものが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:30:21",
+      "utterance": "資本主義的なきがします",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:30:32",
+      "utterance": "株主にばかり還元して",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:30:46",
+      "utterance": "富めるものがより富を独占し",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:31:06",
+      "utterance": "一般人は奴隷のようにはたらかせる",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:31:26",
+      "utterance": "差がひろがるばかりです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:31:53",
+      "utterance": "ええ、そういう社会に納得がいっていないのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:32:05",
+      "utterance": "はい、怒りがあります",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:32:24",
+      "utterance": "ズルばっかりして",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:32:34",
+      "utterance": "中抜きして",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:32:51",
+      "utterance": "失われし40年に突入して",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:33:06",
+      "utterance": "このまま沈んでいく",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:33:19",
+      "utterance": "2世3世議員ばかりで",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:33:33",
+      "utterance": "国民のことを馬鹿にしているように感じます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:33:44",
+      "utterance": "ええ、腹立たしいお気持ちが伝わってきます",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:33:51",
+      "utterance": "まともな政治家が台頭してほしいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:34:05",
+      "utterance": "2世3世議員は禁止してほしいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:34:22",
+      "utterance": "悪影響ばかりです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:34:43",
+      "utterance": "ええ、そのようにお感じなのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:34:48",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:35:30",
+      "utterance": "こんなことばかり考えてしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:35:48",
+      "utterance": "ご自身のことだけでなく、政治や社会のことなど色々なことをお考えなのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:35:48",
+      "utterance": "嫌です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:36:01",
+      "utterance": "はい、かんがえたくもないですが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:36:16",
+      "utterance": "生活もよゆうがなく考えてしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:36:23",
+      "utterance": "満員電車も嫌です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:37:07",
+      "utterance": "政治家はなんかしてる感だしてますがなにも変わらない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:37:23",
+      "utterance": "どんどん悪化してるように感じます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:37:40",
+      "utterance": "中韓のスパイもどんどん入り込んでいますし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:37:57",
+      "utterance": "本当に日本沈没のように思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:39:18",
+      "utterance": "ええ、未来の日本に対しても不安な気持ちがあるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:39:33",
+      "utterance": "不安ばかりですよね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:39:42",
+      "utterance": "少子化対策するといって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:39:51",
+      "utterance": "結局増税ばかりで",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:40:12",
+      "utterance": "政治家のお友達に配って中抜きするだけ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:40:27",
+      "utterance": "税収も過去最高になってるのに",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:40:34",
+      "utterance": "まだ全然足りないといって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:40:40",
+      "utterance": "たくさん増税が控えてます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:41:02",
+      "utterance": "もうウンザリです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:41:13",
+      "utterance": "若者は息できてません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:41:45",
+      "utterance": "闇バイトするのも仕方ないようにすら思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:41:49",
+      "utterance": "希望がないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:41:56",
+      "utterance": "治安も悪化してます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:42:01",
+      "utterance": "ええ、そう感じるのももっともだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:42:06",
+      "utterance": "外国人も増えて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:42:31",
+      "utterance": "結局増えたのは中韓とベトナムなどばかりです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:42:41",
+      "utterance": "ただただ治安が悪化して",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:42:55",
+      "utterance": "ふつうの国民にはなにもいいことがないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:43:15",
+      "utterance": "国民を馬鹿にして",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:43:26",
+      "utterance": "外国人ばかり入れて",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:43:47",
+      "utterance": "スパイに言いくるめられる2世3世の政治家",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:44:06",
+      "utterance": "希望はありますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:44:14",
+      "utterance": "ええ、相談者様のお怒りが伝わってきます",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:44:38",
+      "utterance": "はい、これが若者の意見だと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:45:08",
+      "utterance": "私だけではないと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:45:17",
+      "utterance": "そうかもしれませんね。とても率直な意見のように感じています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:45:51",
+      "utterance": "どうしようもないように感じます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:46:14",
+      "utterance": "すみません脱線して",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:46:31",
+      "utterance": "どうすればいいでしょうか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:46:44",
+      "utterance": "こんなことばかり考えてます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:46:51",
+      "utterance": "家事はできません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:47:13",
+      "utterance": "不健康だと思います",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:47:18",
+      "utterance": "こころもからだも。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:48:29",
+      "utterance": "頭の回転が速くいらっしゃって、ここまで自分の考えを相手に伝えられるのは素晴らしいと感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:48:43",
+      "utterance": "でもなにもできません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:49:18",
+      "utterance": "こんなふうに思いながら仕事にも行ってしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:49:24",
+      "utterance": "生きるために",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:49:34",
+      "utterance": "食べるために。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:49:52",
+      "utterance": "どうしようもないんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:50:20",
+      "utterance": "戦争にいく兵士はこんな感じでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:50:46",
+      "utterance": "なにもできていないとおっしゃるなかでも、仕事はこなされているのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:50:58",
+      "utterance": "はい、生きていけないので",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:51:05",
+      "utterance": "仕事は行きます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:51:24",
+      "utterance": "この社会構造を維持してしまうのおもいながら。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:52:18",
+      "utterance": "しまうと思いながらですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:53:26",
+      "utterance": "疑問を持ちながらも仕事に行かれているのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:53:30",
+      "utterance": "なにもできていないことに目がいきがちですが、仕事に行っていることはできていることの１つのように思いますがいかがですか？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:53:44",
+      "utterance": "でも家事もできないし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:53:56",
+      "utterance": "この生活から脱却もできないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:54:03",
+      "utterance": "大学も卒業できなかったし",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:54:19",
+      "utterance": "このぐるぐるした思考からも脱却できません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:54:54",
+      "utterance": "やりたいこと、生きたい人生を生きれていません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:55:35",
+      "utterance": "そうなのですね。相談者さまのやりたいこと、生きたい人生とはどんなものなのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:55:47",
+      "utterance": "わからないです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:55:57",
+      "utterance": "でも今の生活からは脱却したいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:56:11",
+      "utterance": "資本主義からの搾取や",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:56:22",
+      "utterance": "何もできない人生から。ら",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:56:33",
+      "utterance": "脱却したいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:56:57",
+      "utterance": "そのように感じておられるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:57:04",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:57:32",
+      "utterance": "今まで苦労してこられたことがお話をお伺いして伝わってきました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:58:19",
+      "utterance": "どうしようもないんですかね？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:59:59",
+      "utterance": "どうしようもないことはないと思いますよ。対処法を考えていけば生きづらさも和らぐかもしれません",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T22:00:09",
+      "utterance": "もし、お時間がございましたら、次回今の生活から脱却する方法を一緒に考えていければと思いますがいかがでしょうか",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T22:00:27",
+      "utterance": "次回ですか",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T22:01:04",
+      "utterance": "わかりました",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T22:01:43",
+      "utterance": "すみません。じっくりまたお話をお伺いしたいと思いますのでまた改めてお時間いただければと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T22:01:53",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T22:02:52",
+      "utterance": "また相談者さまのお考えをお聞かせくださいね。本日はお越しくださり、ありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T22:03:06",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T22:03:50",
+      "utterance": "（ロープレありがとうございました。課題ばかりが残りますが、とても良いトレーニングになりました。クライアント役ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T22:05:11",
+      "utterance": "(ありがとうございました。口数が多いと疲れますね笑　これからも頑張ってください)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T22:06:20",
+      "utterance": "（リクエスト通りに演じてくださってありがとうございます。いい勉強になりました。本日はこれにて終了させていただきます。ありがとうございました。）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "思考のループによる生きづらさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5316,
+    "評価作成日時": "2023-06-22T00:55:00",
+    "クライアント役ID": 345,
+    "カウンセラー役ID": 294,
+    "点数": 40,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5316,
+    "evaluation_created_at": "2023-06-22T00:55:00",
+    "client_id": 345,
+    "counselor_id": 294,
+    "score": 40,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

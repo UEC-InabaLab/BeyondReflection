@@ -1,0 +1,548 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-12-07T13:51:02",
+      "utterance": "本日はよろしくお願いいたします",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T13:52:15",
+      "utterance": "お時間になりましたら始めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T13:57:23",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:01:16",
+      "utterance": "こんにちわ相談員です。本日はありがとうございます。始めに年齢と性別を教えていただけますでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:01:32",
+      "utterance": "14　男",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:02:11",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:02:18",
+      "utterance": "テストがだるいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:02:53",
+      "utterance": "テストがだるいのですね。わかります",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:03:43",
+      "utterance": "もう時期テストが近いのでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:04:04",
+      "utterance": "そろそろですかね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:04:36",
+      "utterance": "今は何年生でしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:04:47",
+      "utterance": "中２",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:05:23",
+      "utterance": "中2なのですね。勉強にたいへんですか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:05:33",
+      "utterance": "それなりに",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:06:12",
+      "utterance": "なるほど。もうテストが勉強しているのでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:06:30",
+      "utterance": "テストが勉強しているとは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:06:47",
+      "utterance": "テスト勉強の間違いです",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:07:00",
+      "utterance": "ごめんなさいね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:07:08",
+      "utterance": "ぼちぼち",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:08:23",
+      "utterance": "テストがだるいということですが、何が一番いやと思っていることとかありますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:08:32",
+      "utterance": "全部です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:09:12",
+      "utterance": "全部なのですね。それは勉強のことだけでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:09:33",
+      "utterance": "どういう意味でしょうか",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:09:50",
+      "utterance": "他にあるんですか",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:10:24",
+      "utterance": "勉強がだるいという事以外になにかあるのかなと思いまして",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:10:48",
+      "utterance": "わかりませんね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:11:58",
+      "utterance": "そうなのですね。わからないのですね。わからないということはどういう意味なのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:12:26",
+      "utterance": "そのままの意味ですけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:13:05",
+      "utterance": "なるほど、勉強が苦手なのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:13:31",
+      "utterance": "どうなんでしょうね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:13:38",
+      "utterance": "多分そうなんじゃないですか",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:13:59",
+      "utterance": "うんうん。そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:15:02",
+      "utterance": "勉強するのが嫌い？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:15:18",
+      "utterance": "まあ嫌いっちゃ嫌いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:16:32",
+      "utterance": "そうですよね。なかなか好きな人少ないとかもしれないですよね。何か好きな事ありますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:17:16",
+      "utterance": "少ないですよね。です",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:17:40",
+      "utterance": "なんで急にその質問になったんですか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:19:41",
+      "utterance": "勉強が嫌い、でも何か得意な事とかあるならどんなことなのかなと思いまして",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:20:42",
+      "utterance": "得意なことと好きなことって違くないですか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:21:00",
+      "utterance": "不自然すぎます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:23:01",
+      "utterance": "まさに、そのとうり。言葉がうまく表現できなくてごめんなさいね得意って書きたかったのです",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:24:03",
+      "utterance": "相談員がこれでは駄目ですね。ごめんなさいね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:24:22",
+      "utterance": "いや、自虐されてもこっちが困るんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:24:46",
+      "utterance": "あなたの事情はどうでも良いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:26:42",
+      "utterance": "はい。そのとうりです。テストがだるいって言ってましたが、学校は行ってますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:26:52",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:31:33",
+      "utterance": "行ってるのですね。先ほど勉強がだるい以外何かあるのか分からないとおっしゃていましたが、今日のお悩みは勉強がだるいということ、のみでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:32:37",
+      "utterance": "多分",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:34:03",
+      "utterance": "そうなのですね。勉強がだるいというのは、わかります。ほんとにだるいとおもいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:35:03",
+      "utterance": "中2なら周りから、勉強のことを言われることが多いのではないでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:35:27",
+      "utterance": "どうしてそうなるんですか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:35:33",
+      "utterance": "意味がわかりません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:37:12",
+      "utterance": "言われたこととかないでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:37:24",
+      "utterance": "ありませんよ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:37:32",
+      "utterance": "何決めつけてるんですか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:40:09",
+      "utterance": "決めつけた質問に感じましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:40:17",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:42:43",
+      "utterance": "そうなのですね。勉強がどうしてだるいと思われているのでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:43:13",
+      "utterance": "どうしてと言われても自分でもわかりません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:44:40",
+      "utterance": "普段はどれくらいの時間、家で勉強していますか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:45:03",
+      "utterance": "少しくらい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:45:43",
+      "utterance": "少しって何時間？何分くらいなのでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:46:36",
+      "utterance": "どうしても言わないとダメですか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:47:12",
+      "utterance": "大丈夫です。言いたくないことは言わなくていいですよ。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:47:21",
+      "utterance": "じゃあいいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:48:54",
+      "utterance": "テストがだるいって、どうだるいのか教えていただきたかったので、時間を聴いただけですから",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:49:42",
+      "utterance": "まず、あなたは何がしたいのですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:51:04",
+      "utterance": "あなたが何を言いたかったのか、そこがわからないので、聞きたかったのです。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:54:53",
+      "utterance": "そろそろ時間なのでこれで失礼します",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:55:09",
+      "utterance": "聴けなくて申し訳ありませんでした。ありがとうございます。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:56:59",
+      "utterance": "次回またお話出来ればとおもいます。テスト頑張って下さい。では失礼いたします",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:58:28",
+      "utterance": "＊クライエント役ありがとうございました。離脱ですね。また評価よろしくお願いいたします",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-12-07T14:58:37",
+      "utterance": "失礼いたします",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-12-07T14:58:40",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "テストに対するモチベーションの低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2822,
+    "評価作成日時": "2021-12-07T15:31:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 237,
+    "点数": 17,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 1,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2822,
+    "evaluation_created_at": "2021-12-07T15:31:00",
+    "client_id": 125,
+    "counselor_id": 237,
+    "score": 17,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

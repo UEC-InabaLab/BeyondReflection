@@ -1,0 +1,816 @@
+{
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "嫌な上司との人間関係問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3604,
+    "評価作成日時": "2022-06-15T11:26:00",
+    "クライアント役ID": 274,
+    "カウンセラー役ID": 290,
+    "点数": 93,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3604,
+    "evaluation_created_at": "2022-06-15T11:26:00",
+    "client_id": 274,
+    "counselor_id": 290,
+    "score": 93,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  },
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-15T09:50:33",
+      "utterance": "こんにちは、お時間なりましたら始めさせていただきますね。本日はどうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T09:51:59",
+      "utterance": "こんにちは。承知いたしました。宜しくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:00:08",
+      "utterance": "こんにちは、相談員です。本日はどんなことでもお気軽にご相談くださいね。まず初めに、年齢、性別をお伺いしても宜しいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:00:46",
+      "utterance": "37歳女性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:01:03",
+      "utterance": "ありがとうございます。本日はどのようなことをご相談されたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:01:20",
+      "utterance": "仕事についてです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:01:41",
+      "utterance": "仕事がいつも続かなくて、、、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:01:56",
+      "utterance": "お仕事が続かないことでお悩みなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:02:03",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:02:23",
+      "utterance": "お仕事が続かないということに関して、もう少し詳しくお伺いしても宜しいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:03:06",
+      "utterance": "専門学校を卒業してから、6回転職してて、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:03:16",
+      "utterance": "今の仕事も辞めようと思ってます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:03:53",
+      "utterance": "そうだったのですね。今のお仕事はどんなご理由で辞められたいとお考えですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:04:29",
+      "utterance": "給料も安いし、人間関係も良くないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:05:04",
+      "utterance": "そうなんですね。その他にはご理由はございますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:06:10",
+      "utterance": "ないです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:06:41",
+      "utterance": "わかりました。今はどんなお仕事をされておりますでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:06:54",
+      "utterance": "事務員をしています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:07:29",
+      "utterance": "そうなのですね。人間関係は、どんなところが良くないと感じられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:08:06",
+      "utterance": "嫌な上司がいて、私にだけ強く言ってきます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:08:35",
+      "utterance": "ええ、相談者さんにだけ強く言ってこられるんですね。それは嫌なお気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:08:44",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:09:07",
+      "utterance": "いつも怒られるのは私だけです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:09:30",
+      "utterance": "そうなのですね・・自分だけというのは、気に障りますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:09:41",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:09:49",
+      "utterance": "むかつきます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:10:17",
+      "utterance": "ええ、腹ただしい気持ちになりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:10:29",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:10:46",
+      "utterance": "その上司の方はどんなことで怒ってくるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:11:38",
+      "utterance": "私の仕事のやり方が気に入らないらしいです。もっとこうしろとか、注意してきます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:12:13",
+      "utterance": "そんな言い方されたらやり方も変えたいとは思えないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:12:35",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:13:04",
+      "utterance": "上司の方とは、お仕事一緒にされてどのくらいになるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:13:24",
+      "utterance": "1年半くらいです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:13:52",
+      "utterance": "1年半の間、上司の方はずっとそのような関わり方をされておりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:14:51",
+      "utterance": "最初は接点が少なかったから今ほどではなかったけど最初から良い印象はありませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:15:32",
+      "utterance": "ええ、そうだったのですね。ちなみに、相談者さんは今のお仕事を続けられてどのくらいになりますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:15:49",
+      "utterance": "1年半くらいです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:16:08",
+      "utterance": "では入社してからずっと今の上司の方がいらっしゃったんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:16:32",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:17:11",
+      "utterance": "もうあの人の下では無理かなって思ってます。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:17:18",
+      "utterance": "辞めたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:17:31",
+      "utterance": "ええ、そのようなご理由でやめたいお気持ちになられたのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:17:44",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:18:02",
+      "utterance": "ご自身のやめたいというお気持ちに対しては、どのように思われておりますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:18:35",
+      "utterance": "またか、、、って感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:18:51",
+      "utterance": "以前も、そのようなご理由でやめたいと思われたことがあったのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:19:15",
+      "utterance": "前にも似たような事がありました。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:20:22",
+      "utterance": "そうだったのですね。今までお仕事を辞められてきた理由として、人間関係が原因だったことはどれくらいございましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:21:00",
+      "utterance": "6回のうち、半分以上は人間関係だったと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:21:28",
+      "utterance": "ええ、それでまたか、、と思われているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:21:48",
+      "utterance": "はい、また辞めてしまって良いのか悩みます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:23:14",
+      "utterance": "自分が情けないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:23:52",
+      "utterance": "ご自身を情けなく感じてしまうんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:24:43",
+      "utterance": "でも、嫌な上司がいても、1年半もお仕事続けられるのは、私はとっても頑張られてきたんだなと思いましたよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:25:29",
+      "utterance": "でも、結局いつも上手くいかなくて、もうなんの仕事してもおなじなのかなと思うと仕事するのも嫌になります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:25:53",
+      "utterance": "何が向いてるのかも分からないし。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:26:07",
+      "utterance": "ええ、同じところでつまづくと、そんなお気持ちにもなってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:26:20",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:26:49",
+      "utterance": "相談者さんは、もし今回、嫌な上司の方などいなかったら、今のお仕事は続けたいと思われますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:27:40",
+      "utterance": "居なくなったとしてももう辞めたいですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:28:03",
+      "utterance": "ええ、それはどのようなお考えからでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:28:53",
+      "utterance": "周りの人たちとも合わないので。別に続けたいと思えないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:29:50",
+      "utterance": "そうなのですね。相談者さんは本当はどんなお仕事をしたいとお考えですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:30:44",
+      "utterance": "わかりません。人と接する事自体苦手だし、もうどんな仕事してもダメなんじゃないかと思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:31:01",
+      "utterance": "仕事しなくて良いならしたくないですけど、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:31:08",
+      "utterance": "生活していけないので。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:31:35",
+      "utterance": "ええ、お仕事することに対して、自信がなくなってしまっているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:32:09",
+      "utterance": "そうですね。。。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:32:45",
+      "utterance": "何やってもうまくいかないと思うと、何か次にやる気持ちになかなかなれないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:33:08",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:33:58",
+      "utterance": "お金さえあれば働かなくてもいいのにっていつも思います。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:34:43",
+      "utterance": "働くこと自体に、お金以外の価値を感じられないのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:35:14",
+      "utterance": "そうですね、できる事ならもうこんなに悩んでまで働きたくないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:35:50",
+      "utterance": "ええ、ご自身を苦しくしてまで、やりたくないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:36:25",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:36:33",
+      "utterance": "相談者さんは、ご家族はいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:37:09",
+      "utterance": "今は実家を出て1人で暮らしています。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:37:44",
+      "utterance": "そうだったのですね。ご実家を出られたのは、いつ頃からでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:38:27",
+      "utterance": "30歳の時です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:39:25",
+      "utterance": "1人なんで、生活していくには働かないとってのは分かってるんですけど…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:39:25",
+      "utterance": "そうなんですね。30歳のときにご実家を出られたのは、何かご理由がござましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:39:51",
+      "utterance": "母が再婚したので、一人暮らしを始めました。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:40:04",
+      "utterance": "それがきっかけだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:40:42",
+      "utterance": "もう若くないし、転職するにも選択肢が狭くなってくるばかりで不安しかないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:41:14",
+      "utterance": "ええ、不安なお気持ちでいっぱいになると、どうしていいかわからなくなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:41:31",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:42:23",
+      "utterance": "相談者さんとしては、今の状況が、少しでもどうなったらいいな、とお考えですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:43:14",
+      "utterance": "私でも長く続けられる仕事をしたいと思ってます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:43:42",
+      "utterance": "長く、というのは、どのくらいお仕事できたら長く続いていると感じられそうでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:45:17",
+      "utterance": "自分が情けなくなるし、もう転職は繰り返したくないです。結婚も諦めてるので、できる限り長く働きたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:47:12",
+      "utterance": "ええ、できる限りですね。相談者さんとしては、どのようにしたら、お仕事を長く続けられると思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:48:35",
+      "utterance": "自分でもわかりません。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:49:36",
+      "utterance": "人に関わらない仕事とか、ですかね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:49:44",
+      "utterance": "でもそんなのないですよね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:51:12",
+      "utterance": "もし、相談者さんが、人間関係などを理由にお仕事をやめてしまうことを気にされていて、どんなお仕事をしても続かないと思ってしまうのでしたら、人間関係で悩んでも、そのストレスを解消して乗り越えられる力がついたら、お仕事自体は続けられるかと思ったのですが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:52:25",
+      "utterance": "いままで37年生きてきて全然ダメだったのに、今からできますかね。。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:52:54",
+      "utterance": "全然大丈夫です、力をつけるのは、何歳からでもできますよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:53:06",
+      "utterance": "どうすればいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:53:34",
+      "utterance": "相談者さんが全然ダメだったわけでなく、ただ乗り越え方が分からなかっただけだと思いますよ。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:53:56",
+      "utterance": "乗り越え方ですか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:54:25",
+      "utterance": "ええ、人間関係で悩んだときの、ご自身が楽になるための乗り越え方ですね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:55:10",
+      "utterance": "どうすればいいのでしょうか。。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:55:53",
+      "utterance": "今までは人間関係で嫌になったとき、ご自身ではその嫌なお気持ちをどのようにして対処されてきましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:57:30",
+      "utterance": "嫌なことはSNSで吐いてます。全然ストレス無くなりませんが。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T10:58:59",
+      "utterance": "そうだったのですね。SNSよりも、紙に嫌な気持ちをどんどん書き出してみるのがおすすめですよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T10:59:56",
+      "utterance": "紙に書くんですね、SNSではダメなんでしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T11:01:06",
+      "utterance": "SNSは逆にSNS書いてる自分が嫌になってしまったりして、ストレスになることがあります。また、書く内容は、事柄ではなく「むかつく」という感情をかけるだけ書いて、あとは紙を破って捨てる、というのがおすすめですが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T11:02:21",
+      "utterance": "たしかに、そんな自分も情けなくなってきます。紙に書くのはやった事ないのでやってみたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T11:02:41",
+      "utterance": "ええ、是非試してみてくださいね。今日はお時間になってしまいましたが、またいつでも辛くなったら、いらしてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T11:02:56",
+      "utterance": "はい、ありがとうございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T11:03:02",
+      "utterance": "（お時間過ぎてしまって申し訳ないです。本日は貴重なお時間ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T11:03:26",
+      "utterance": "（とんでもないです。とても勉強させていただきありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T11:03:38",
+      "utterance": "（評価の際に、コメントでもフィードバックをいただけると嬉しいです！厳しめのご意見でも大丈夫です）それでは本日は終了とさせていただきますね。大変お疲れ様でした。",
+      "tag": "Other"
+    }
+  ]
+}

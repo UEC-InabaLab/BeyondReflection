@@ -1,0 +1,787 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:00:07",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:00:26",
+      "utterance": "こんにちは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:00:44",
+      "utterance": "今日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:01:13",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:01:39",
+      "utterance": "新しい職場に馴染めないです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:02:16",
+      "utterance": "そうなんですね。それはお困りですね。どんなことが起こっているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:03:33",
+      "utterance": "4月から新卒で入社したのですが、新人は私ひとりで、いつも孤立してしまうことが多いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:03:54",
+      "utterance": "かといって自分から話かけるのも苦手で",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:04:03",
+      "utterance": "悩みます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:04:45",
+      "utterance": "新人がお一人だと気楽に話せる相手がいないという感じみたいですね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:05:06",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:05:30",
+      "utterance": "それで孤立した感じになっているんですね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:05:51",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:06:12",
+      "utterance": "4月から入社した人で新卒でない人はいるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:06:40",
+      "utterance": "いないそうです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:07:05",
+      "utterance": "すると今年4月の入社はあなたお一人なんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:07:12",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:07:42",
+      "utterance": "もう部署には配属になったのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:07:56",
+      "utterance": "それとも　研修中とか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:08:32",
+      "utterance": "研修は先々週に終わり、今は配属されています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:09:05",
+      "utterance": "そうなんですね。配属された職場の人たちはどんな感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:09:48",
+      "utterance": "そうですね、",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:10:01",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:10:34",
+      "utterance": "まだ私が浮いてるかなと言いますか、壁を感じるかなと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:11:53",
+      "utterance": "そうなんですね。壁を感じると辛いものありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:12:01",
+      "utterance": "同じ職場に同年代の人とかはいるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:12:21",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:12:47",
+      "utterance": "近くて7、8歳上の先輩です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:13:16",
+      "utterance": "それは　けっこう　年上の先輩になりますね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:13:39",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:13:45",
+      "utterance": "そう感じます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:13:49",
+      "utterance": "じゃあ　気楽に話しかけるという雰囲気でもなく・・・　という感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:14:41",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:15:07",
+      "utterance": "まだ仕事の質問とか挨拶ぐらいしか話せてないです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:15:26",
+      "utterance": "そうなんですですね。ところで念のため、あなたの性別や先輩たちの性別を教えていただいてもいいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:16:41",
+      "utterance": "私含め、男性が8割、女性が2割くらいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:17:22",
+      "utterance": "そうなんですね。教えてくださりありがとうございます。けっこう　男性が多い職場なんですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:17:31",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:18:17",
+      "utterance": "ちなみにお仕事内容はどんなことですか？　差支えない範囲で・・",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:19:21",
+      "utterance": "インターネットやWeb関係を扱ってる会社になります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:19:59",
+      "utterance": "そうなんですね。時代の最先端のお仕事ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:20:22",
+      "utterance": "そうだと思います",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:21:20",
+      "utterance": "そのお仕事は　ご希望されて入ったお仕事と思っていいのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:22:25",
+      "utterance": "はい、第一志望ではなかったですが、希望職種の一つでした。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:23:20",
+      "utterance": "そうなんですね。やりたいお仕事に就くことができたということのようですね・・・",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:23:39",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:24:06",
+      "utterance": "その点ではおめでとうございますと言わせていただいてもいいですか。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:24:24",
+      "utterance": "ありがとうございます！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:24:41",
+      "utterance": "ところで、最初に壁を感じるとおっしゃっていましたけれど、今　特に気になっているのはどんなことですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:26:41",
+      "utterance": "職場や職場の雰囲気に緊張し過ぎて、頭痛が酷いので、少しでも改善する方法があれば教えていただけますか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:28:58",
+      "utterance": "頭痛は困りますね。お医者さんには診てもらいましたか？先ずはそれが必要かなと思うのですが・・・",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:30:21",
+      "utterance": "医者には行ってなく、薬局で薬を買っただけですね。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:30:34",
+      "utterance": "医者には行くべきですか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:31:25",
+      "utterance": "できたらば、一度早いうちにお医者さんに診察を受けるのが良いと思いますが・・・",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:32:19",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:32:51",
+      "utterance": "ところで　あなたことは　何とお呼びすればよろしいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:33:32",
+      "utterance": "増田でお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:33:52",
+      "utterance": "増田さんですね。教えてくださりありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:33:59",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:34:52",
+      "utterance": "増田さん、先ほど職場で緊張して、頭痛が・・・　とのことでしたが、増田さんの場合、今までにも　緊張して頭痛がした　ということは　何度かご経験があるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:36:01",
+      "utterance": "緊張しいなタイプですが、頭痛するほどはありませんでした。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:36:45",
+      "utterance": "そうなんですね。でも　緊張しがちなところがあるな　とのご自覚もおありなのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:37:08",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:38:05",
+      "utterance": "ところで、今回配属になった職場の雰囲気はとっても忙しい職場だとか、みんながピリピリしているとか？は　ありそうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:39:08",
+      "utterance": "いえどちらとも言えないような、ごく普通の職場だと思いますが、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:39:22",
+      "utterance": "まだ私が雰囲気に慣れてないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:39:49",
+      "utterance": "そうなんですね。教えてくださりありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:39:56",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:40:08",
+      "utterance": "ここで今までのお話しを少し整理させていただき手もいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:40:27",
+      "utterance": "お願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:40:36",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:41:07",
+      "utterance": "増田さんは、今年4月新卒でインターネットやWebを扱う会社に入社された。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:41:34",
+      "utterance": "今年4月入社の同期はおらず1人だった。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:42:23",
+      "utterance": "男性が多い職場に配置されたのが約1週間前。入ったばかりなのか、どことなく壁を感じる。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:43:01",
+      "utterance": "職場には同年代の人と言えば、7年～8年先輩が一番近い年齢のひと。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:43:22",
+      "utterance": "まだ仕事のことを聞くとかしかできていない状態。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:43:52",
+      "utterance": "そんな中で、職場にいると緊張して、頭痛がひどい。何とかしたいと思っている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:44:06",
+      "utterance": "こんな理解でよろしいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:44:33",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:44:43",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:44:54",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:45:04",
+      "utterance": "そこで少しだけ提案があるのでお話し手もいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:45:19",
+      "utterance": "お願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:46:10",
+      "utterance": "提案１　なるたけ早めにお医者さんん診察を受けておく。そうすると、ご自分の体調のことが分かるので安心かと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:47:19",
+      "utterance": "提案２　休息をしっかりとる。慣れない環境に身を置いている状況なので、おそらく　ご自身が意識している以上に疲労していると思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:47:37",
+      "utterance": "なので、しっかり睡眠を確保することをお勧めします。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:48:46",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:48:52",
+      "utterance": "提案３　先輩の中で、話やすそうな人を見つける。その人にできるだけ声をかけて　人間関係を作っていく。そうやって、相談しやすい人を一人でも作っておくと安心かと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:49:06",
+      "utterance": "いかがでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:50:05",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:51:08",
+      "utterance": "今は　配属になったばかりで　しかも　新卒　社会人　になったばかりですから　それだけで　慣れないことばかりで大変ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:51:54",
+      "utterance": "そうですね、まだ慣れてないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:52:22",
+      "utterance": "それが　とっても　大きいと思いますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:53:34",
+      "utterance": "でも　配属になった初日と比べて　今日の緊張度は　いかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:54:02",
+      "utterance": "まだ始まったばかりなので、大変ですが、でも仕事は充実してると思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:54:30",
+      "utterance": "お仕事の充実感は素晴らしいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:55:06",
+      "utterance": "良いことだと思います",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:55:29",
+      "utterance": "お仕事に集中していくことができると慣れも早くなっていくかと思います。先輩方もそうしてきたのではないでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:56:21",
+      "utterance": "そうなんですかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:57:05",
+      "utterance": "その辺は　話しかけても大丈夫そうな先輩を見つけて　ざっくばらんに聞いてみていいかもしれませんね。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:57:50",
+      "utterance": "可能だったら聞いてみます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:58:03",
+      "utterance": "ぜひ　そうなさってみてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:58:16",
+      "utterance": "分かりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:58:30",
+      "utterance": "今日のご相談はこの辺でよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:58:48",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:58:51",
+      "utterance": "ご相談に来てくださりありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:59:08",
+      "utterance": "また気になることが出てきたらまた是非いらしてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:59:19",
+      "utterance": "応援しています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:59:26",
+      "utterance": "ありがとうございました。またよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-19T17:59:47",
+      "utterance": "それではこの辺で終了させていただきます。ありがとうございました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-19T17:59:58",
+      "utterance": "はい失礼いたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "新しい職場に馴染めない問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1687,
+    "評価作成日時": "2021-04-20T22:27:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 5,
+    "点数": 72,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1687,
+    "evaluation_created_at": "2021-04-20T22:27:00",
+    "client_id": 136,
+    "counselor_id": 5,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-30T20:51:14",
+      "utterance": "こんばんは本日は宜しくお願い致します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T20:52:33",
+      "utterance": "始めさせていていただいても良い時間になりましたらお声がけください。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T20:54:38",
+      "utterance": "こんばんは。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T20:55:44",
+      "utterance": "少し早いですが始めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T20:56:03",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T20:56:47",
+      "utterance": "相談員です。ご相談いただきありとうございます。本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T20:58:12",
+      "utterance": "3歳の娘が全然言うことをきかないんです。基本的なやるべきこと、歯磨きとかお風呂に入る、お風呂から上がるという時に、まったく言うことをききません。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T20:59:03",
+      "utterance": "そうなんですね、大切な娘さんのご相談ですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:00:01",
+      "utterance": "できれば家族構成を教えていたけますでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:01:01",
+      "utterance": "夫、私、娘です。歯磨きするときになってからオモチャで遊びだして、なかなか歯磨きをしないんです。こっちがいつまで付き合ってくれるのか面白がって探ってるみたいなところがあります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:01:39",
+      "utterance": "ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:02:41",
+      "utterance": "三才の娘さんはとてもいろんなことへの興味がおありになるようですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:03:34",
+      "utterance": "お母さまであるあなたは本当に休む間がないようですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:04:26",
+      "utterance": "他にはどのようなことに困られていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:05:39",
+      "utterance": "いえ、なんか、困らせたくてやってるような感じで、興味があって遊んでる感じはしないです。専業主婦ですが、ずっと話しかけられるので相手をするのが疲れます。虫歯になってしまえなんて、意地悪な子とを思ってしまいます。何でも「嫌だー」ですね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:07:36",
+      "utterance": "そうなんですね、お相手をされているあなたはとてもお疲れでいっらしゃると思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:08:39",
+      "utterance": "はい。少し時間があくと、何もせずにボーッと立ってることがあるんです。これも、疲れからなんでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:09:46",
+      "utterance": "そうなんですね、お疲れからだと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:10:24",
+      "utterance": "子育てほど自分の時間が持てないうえに",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:10:50",
+      "utterance": "ハードなものはないと感じます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:11:25",
+      "utterance": "娘は大好きだし、とても可愛いんですが、言うことをきかなくて、最初は優しく言っても最後は怒鳴ってしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:12:48",
+      "utterance": "そうですよね、大切な娘さんを思ってのことだと感じます。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:12:53",
+      "utterance": "腕を強く引っ張ったり、小突いたり、乱暴になってきました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:13:36",
+      "utterance": "そうなんですね、お怪我をされるほどではないでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:15:25",
+      "utterance": "それはあなたが疲れておられるため、お疲れの心がそうさせてしまっているだけなんですよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:15:27",
+      "utterance": "半年くらい前に、よろけてぶつかって鼻血を出したことがありました。躾がちゃんと出来なくて、甘やかせば付け上がるし、言ってもきかないから凄くイライラしてきます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:16:20",
+      "utterance": "そのようなことがあったんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:16:55",
+      "utterance": "でも大事に至らなかったようで良かったですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:17:11",
+      "utterance": "怒鳴るのは良くないなって思うんですけど、とにかく聞かないので困ります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:17:46",
+      "utterance": "そうなんですね、でもご自分を責めなくていいのですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:18:40",
+      "utterance": "あなたは娘さんをとても大切に思われています。それより",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:19:31",
+      "utterance": "あなた自身が私は心配です。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:19:41",
+      "utterance": "有り難うございます。でも、外に出して恥ずかしい子にならないかと心配です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:20:20",
+      "utterance": "大丈夫ですよ",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:22:34",
+      "utterance": "あなたは娘さんのことを大切に思われています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:22:53",
+      "utterance": "我が儘し放題で毎日が疲れます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:23:20",
+      "utterance": "大切に思ってても、なんだか報われない感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:24:21",
+      "utterance": "3年で1万冊の絵本を読み聞かせました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:25:01",
+      "utterance": "そうなんですね、すごいですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:25:41",
+      "utterance": "一日をどのようにお過ごしなのか聴かせていただけないでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:25:45",
+      "utterance": "たくさんピアノを弾いてあげて一緒に歌を歌ったり、毎日好き好きむぎゅーってしてます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:26:27",
+      "utterance": "とても素敵です",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:27:29",
+      "utterance": "娘さんとの時間を大切にされていますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:29:42",
+      "utterance": "あなたご自身は趣味はありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:29:45",
+      "utterance": "幼稚園に行くようになったので朝は今はやっていませんが、帰ってきてからは図書館に連れていったり一緒に買い物に出掛けます。ご飯の前にピアノを弾いてあげたりします。最近は、そっけなくされることも多いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:30:17",
+      "utterance": "私はピアノを弾くのが好きです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:30:57",
+      "utterance": "良いご趣味ですね、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:31:33",
+      "utterance": "娘にも好きになって欲しいです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:32:17",
+      "utterance": "ほんとですね。ご趣味をおもちで安心しました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:33:30",
+      "utterance": "好きなことを一緒にやりたいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:34:01",
+      "utterance": "好きで生んだのに、赤ちゃんの時はもっと幸せだったのに、どうしてこんなに育児で疲れてしまうのかと、なんとも言えない気分です。あっという間に１日が終わります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:34:49",
+      "utterance": "そのように思われるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:35:39",
+      "utterance": "少しまとめさせていただいてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:35:47",
+      "utterance": "はい。、",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:38:28",
+      "utterance": "あなたは三歳の娘さんの歯磨きやおもちゃ遊びなどのしつけをすることで、ずいぶんお疲れです。一日が早く過ぎてしまい",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:40:10",
+      "utterance": "ご自分の思いとは少し違うなと思われています。半面本の読み聞かせやピアノを弾いてあげられたり",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:40:38",
+      "utterance": "愛情をたっぷり注いでおられます。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:43:30",
+      "utterance": "育児期間の大変さでお疲れの様子ですが、ご趣味もあるあなたはよくやっておられると思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:44:22",
+      "utterance": "最近は、私は子供を生むべきではなかったんじゃないかって思います。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:45:35",
+      "utterance": "付き合いきれないです。",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:45:56",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:46:36",
+      "utterance": "夫さんにご相談されたことはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:47:16",
+      "utterance": "夫も同じように思っています。どうしたらちゃんと言うことを聞いてくれるのか途方に暮れてしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:48:24",
+      "utterance": "それはお二人ともがお子様をとても大事に育てている証拠ですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:48:49",
+      "utterance": "それでも、毎日疲れはててしまいます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:49:14",
+      "utterance": "娘さんの将来を思ってのことですから。近くに",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:49:35",
+      "utterance": "ご両親はいらっしゃいませんか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:50:03",
+      "utterance": "遠方なんです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:51:24",
+      "utterance": "そうなんですね、熱心でいっらしゃるからこそお二人の体をご心配します。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:52:38",
+      "utterance": "どうにかして今の生活を変えたいです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:53:19",
+      "utterance": "時々育児を助けてもらえる保育士などの制度は近くにありませんか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:53:40",
+      "utterance": "よく分かりません。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:55:08",
+      "utterance": "不定期で育児を助けてくれる制度ですが、市役所に尋ねてみるのも一つの方法かと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:55:32",
+      "utterance": "そうなんですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:56:01",
+      "utterance": "はい、大切な子供さんだけでなく",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:56:38",
+      "utterance": "親も体を休めるための制度です。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:57:09",
+      "utterance": "今度、聞いてみようと思います。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:58:06",
+      "utterance": "はい、尋ねてみてください。あなたはとても家族を大切にされています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:58:24",
+      "utterance": "有り難うございます。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:58:47",
+      "utterance": "そして一番あなたに少し休息をとってほしいです。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:59:12",
+      "utterance": "はい、分かりました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T21:59:39",
+      "utterance": "気分転換していただいたら、ご家族がもっと仲良しになられると思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T21:59:55",
+      "utterance": "そうですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T22:01:39",
+      "utterance": "みんなが元気であることがより幸せだと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T22:02:21",
+      "utterance": "元気、ですね。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T22:03:45",
+      "utterance": "はい、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T22:04:48",
+      "utterance": "娘ベッタリの生活でしたが、少し緩めていこうと思います。今日は有り難うございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T22:06:23",
+      "utterance": "あなたが元気で過ごされることを応援しています。こちらこそありがとうございました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T22:07:46",
+      "utterance": "本日は終了させていただいてよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T22:08:48",
+      "utterance": "はい、有り難うございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T22:09:16",
+      "utterance": "こちらこそありがとうございました。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子育てにおけるストレスと疲れ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 822,
+    "評価作成日時": "2020-12-01T08:42:00",
+    "クライアント役ID": 84,
+    "カウンセラー役ID": 102,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 822,
+    "evaluation_created_at": "2020-12-01T08:42:00",
+    "client_id": 84,
+    "counselor_id": 102,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

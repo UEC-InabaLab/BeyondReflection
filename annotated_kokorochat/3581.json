@@ -1,0 +1,939 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-08T09:52:46",
+      "utterance": "こんにちは本日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T09:54:04",
+      "utterance": "こんにちは、こちらこそよろしくお願いいたします！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T09:54:24",
+      "utterance": "時間になりましたら始めさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T09:54:38",
+      "utterance": "はい^ ^",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:00:36",
+      "utterance": "こんにちは、相談員です。本日はどうぞよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:01:00",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:01:07",
+      "utterance": "よろしければ、まず初めにご年齢と性別をお知らせいただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:01:24",
+      "utterance": "17歳女です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:01:40",
+      "utterance": "ありがとうございます。では、本日のご相談を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:02:11",
+      "utterance": "私の母の今付き合っている人についてです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:02:37",
+      "utterance": "そうなのですね。もう少しくわしく教えていただけますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:03:45",
+      "utterance": "うちはだいぶ前に離婚していますが、半年くらい前から母がお付き合いし始めて最近一緒に住んでいるのですが",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:04:12",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:04:35",
+      "utterance": "いい人なんですがお酒を飲むとガミガミ怒るし説教が長いです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:04:55",
+      "utterance": "そうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:05:03",
+      "utterance": "苦痛で仕方ないです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:05:16",
+      "utterance": "ええ、それは苦痛ですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:05:49",
+      "utterance": "怒られるときは言葉だけですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:06:22",
+      "utterance": "手は出されたりしないですが正直かなりうざいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:06:30",
+      "utterance": "うざすぎてお酒飲んでる時は部屋にこもります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:07:03",
+      "utterance": "そうですよね、うざくも思いますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:07:14",
+      "utterance": "部屋にいても若干声は聞こえてきて本当毎日嫌になります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:07:27",
+      "utterance": "耐えられるお母さんが信じられない",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:07:55",
+      "utterance": "ええ、、それは本当に嫌な気持ちですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:08:20",
+      "utterance": "はい、一刻も早く別れてほしいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:08:38",
+      "utterance": "ええ、そんな気持ちにもなりますよね。その方はお母さんに対しても怒っているのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:09:02",
+      "utterance": "基本お母さんに怒っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:09:15",
+      "utterance": "そうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:09:26",
+      "utterance": "私がその場にいると私にも説教し始めるので部屋に逃げます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:09:46",
+      "utterance": "うんうん、それは逃げたくもなりますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:10:10",
+      "utterance": "でも、お母さんのことも心配ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:10:11",
+      "utterance": "普段はいい人でも酒癖が悪いので最悪です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:10:44",
+      "utterance": "はい、お母さんが精神的に大丈夫か心配です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:11:08",
+      "utterance": "そうですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:11:35",
+      "utterance": "お母さんはどのように考えているのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:12:51",
+      "utterance": "お酒飲んでる時以外はいい人だから好きみたいです。あとは生活費もくれてらしいから助かってると",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:13:40",
+      "utterance": "そうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:14:16",
+      "utterance": "あなたは１７歳とのことですが、高校生でしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:14:43",
+      "utterance": "高2です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:15:46",
+      "utterance": "高２なのですね。家で毎日そのような状況では、勉強もしづらいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:16:41",
+      "utterance": "そうなんです。何をするにも集中出来なくてイヤフォンしてますが…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:17:08",
+      "utterance": "うんうん、それでも、気持ちも落ち着かなくて集中できないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:17:43",
+      "utterance": "はい、本当早く別れてほしいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:17:56",
+      "utterance": "ええ、そう思うのも無理はないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:18:10",
+      "utterance": "あなたのその気持ちはお母さんにはつたえたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:18:32",
+      "utterance": "言いました。あんな奴早く別れてよ！って言ってます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:18:58",
+      "utterance": "そうなのですね。お母さんはなんとおしゃってますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:20:49",
+      "utterance": "さっき言ったこと言われます。お酒飲んでる時以外はいい人で生活費ももらって助かってるからって。私が卒業するくらいにはどうなってるかわからないし、その時また考えるって言ってました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:22:01",
+      "utterance": "そうなのですね。そのように言われて、別れてくださる様子はないのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:22:33",
+      "utterance": "あと1年一緒だと思うと本当嫌です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:23:12",
+      "utterance": "うんうん、これから進路も考えなければいけない大事な時になりますもんね、、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:24:29",
+      "utterance": "そうですね。まーうちはお金ないので就職する道しかないですが",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:24:50",
+      "utterance": "あいつがいるなら家は早く出たいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:25:18",
+      "utterance": "そのように考えているのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:25:59",
+      "utterance": "あなたは、自分の気持ちをはっきりとお母様に伝えたり、この先のことも考えていて、とてもしっかりされていますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:26:24",
+      "utterance": "はい、毎日が最悪になりました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:26:54",
+      "utterance": "でも今変えられることはないのではーって感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:27:22",
+      "utterance": "ええ、、とても悩みますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:28:18",
+      "utterance": "ここまでのお話を確認させていただくと、お母さまの彼氏さんと最近同居するようになって、その方が普段はいい方ですが、お酒を飲むと怒鳴ったり、しつこく説教をする。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:29:02",
+      "utterance": "そうです、説教とか本当めっちゃ長いんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:29:17",
+      "utterance": "家に帰って来ないでほしいです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:29:20",
+      "utterance": "うんうん、苦痛ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:30:25",
+      "utterance": "お母さん男運なさすぎて引きます。お祓いさせようかなって感じです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:31:11",
+      "utterance": "そんな風に考えているのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:31:56",
+      "utterance": "お祓いも悪くないと思うのですが、一緒にできることを考えてみましょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:32:10",
+      "utterance": "だってお父さんもギャンブル依存でお金使いまる人だったんですよ",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:32:36",
+      "utterance": "一緒に出来ることですか？新しい人紹介するとかですか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:32:43",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:33:07",
+      "utterance": "行き違ってしまいましたね。ええ、今できることもあるかもしれません。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:33:37",
+      "utterance": "出来ることってなんですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:34:16",
+      "utterance": "お母さんの彼氏さんとは、最近同居を始めて、お酒を飲むと最悪だけど普段はいい人ということですよね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:34:32",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:34:56",
+      "utterance": "お酒を飲んでいないときは、あなたとはどのような感じですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:35:13",
+      "utterance": "普通に話します。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:35:32",
+      "utterance": "そうなのですね。お酒については話したことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:36:43",
+      "utterance": "毎日飲まなくていいんじゃない？って言ったことあります。でも毎日飲みたいみたいで。お酒依存ですね",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:37:47",
+      "utterance": "そんな風に伝えたことがあるのですね。でも、聞き入れてもらえなかった、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:38:43",
+      "utterance": "そうです、毎日飲むんです。好きなのかストレスなのかは知りませんが",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:40:09",
+      "utterance": "そうなのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:41:32",
+      "utterance": "だから飲んだら関わらない事にしました。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:42:29",
+      "utterance": "うんうん、そうですよね。そう思ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:43:39",
+      "utterance": "毎日飲んで怒鳴って何が楽しんだかわかりませんねー。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:44:49",
+      "utterance": "うんうん。それにしても、よくこちらにご相談にきてくださいましたね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:45:13",
+      "utterance": "周りに言える人もいないので…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:46:01",
+      "utterance": "そうなんですね。一人で耐えてきたのですね。苦しかったですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:46:07",
+      "utterance": "せっかくご相談にきてくださったので、これまでの話でわたしが感じたことをお伝えしてもいいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:46:23",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:49:16",
+      "utterance": "まず、お母さまは今は別れる気はないとのことですので「心配だから、お酒のことだけはどうにかしてもらえないか」と相談してみるのはいかがでしょうか？普段はいい人で、経済面でも助かっているとのことですので、彼氏さんの体も心配だし、このままでお母さんが大丈夫かどうかも心配だと、お伝えしてみるという方法です。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:50:14",
+      "utterance": "お酒飲むのどうにかしてよってお母さんには何度も言いました。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:51:09",
+      "utterance": "ええ、お母さまはどんな反応でしたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:51:30",
+      "utterance": "さっき言ったこと言われました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:52:03",
+      "utterance": "正直どうでもいいのでその人の体の心配はしてませんが、経済的に助かってることはちゃんと感謝してるしお礼も言ってます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:52:41",
+      "utterance": "そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:54:04",
+      "utterance": "どうでもいいという気持ちになるのも、しょうがないと思います。ですが、ちゃんと感謝してお礼も言っているというのは、本当に立派です。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:55:32",
+      "utterance": "私がまだ学校に行ってるからお金がかかりことはわかっています。部活もあるので。だからといっていばられてもムカつきますが笑",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:56:57",
+      "utterance": "ええ、そう思うのも当然じゃないかと思いますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:57:22",
+      "utterance": "現状で、お母さまは「別れない」と思っていてそこは変えられないのなら、お酒のことをどうにかしたい。そのためにできることを考えたいと思うのですが、どう思いますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:57:48",
+      "utterance": "どうにか出来るのでしょうか？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:58:04",
+      "utterance": "私にはもう思いつきません。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:58:54",
+      "utterance": "ええ、あなたはまだ高校生ですし、お母さまの彼氏さんですので、お母さまが「どうにかしよう」と思ってくだることが必要かと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T10:59:31",
+      "utterance": "幸いなことに、今は暴力はないとのことですが、これから長くなるとどうなるかはわかりません。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T10:59:51",
+      "utterance": "お母さんは言うこと聞くしかないと思います。強く言えるタイプじゃないですし。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:00:17",
+      "utterance": "暴力あったら警察にすぐ行こうと思ってます。そしたら慰謝料とります。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:00:32",
+      "utterance": "そうなのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:01:10",
+      "utterance": "でも、普段はいい人で、あなたとコミュニケーションも取れているようですので、今、こうしてあなたが相談にきてくださったことが本当に意味のあることだと思うのです。暴力があってからでは遅いと思うのです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:02:37",
+      "utterance": "暴力になるのが怖いから別れてって本人に言った方がいいって事ですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:04:16",
+      "utterance": "いいえお母さまは「別れたくない」とすでにお考えのようですし、お酒だけやめてくれれば別れる必要はないと思うのですが、いかがですか？4",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:04:42",
+      "utterance": "４は間違いです↑ごめんなさい",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:04:52",
+      "utterance": "それで辞めれたら苦労しないです…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:05:01",
+      "utterance": "もう時間ですね、相談は確か1時間ですよね？もう大丈夫です。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:05:40",
+      "utterance": "すみません、そうですね。あなたが心配なので、あなたが大丈夫ならもう少しお話しても良いですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:05:57",
+      "utterance": "（お時間難しかったら終了します！すみません！）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:07:40",
+      "utterance": "(今お時間は大丈夫ですが、実際の現場相談は1時間ではないでしょうか？)",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:08:21",
+      "utterance": "ありがとうございます。出かける準備があるのでもう少しなら大丈夫です。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:09:31",
+      "utterance": "では、わたしの思ったことをお伝えしますね。お母さまから強く言ってもらえなくても、彼氏さんにお酒をやめてもらうことを一緒に考えて協力するのがまず一歩かなと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:10:01",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:11:20",
+      "utterance": "そのためには、「別れて」ではなく「心配だから」という言い方の方が伝わりやすいと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:12:08",
+      "utterance": "言い方を変えるって事ですね？意味があるかわかりませんが言ってみます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:12:45",
+      "utterance": "いつも体にも良くないとは言ってはいますが心配とは言ってなかったので",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:14:14",
+      "utterance": "そうですね。思ってなくてもいいのです。現状を変えるのが今一番大事だと思うのでそのためには、言い方を変えてみるという方法もあります。そして、アルコール依存症の相談窓口としてお住いの地域の保健所や精神保健福祉センターがありますので、お母さまからそちらに相談していただけるといいと思うのですが、それができなかったら、あなたから相談することもできます。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:15:28",
+      "utterance": "そんな窓口があるんですね。わかりました、ありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:15:48",
+      "utterance": "お母さんは相談者しないと思うので私が聞いてみます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:16:02",
+      "utterance": "※相談しないと思う",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:16:20",
+      "utterance": "あなたが一人であちこちに相談するのも大変なことなので、お母さまと協力できるようになればと思いましたが、あなたはしっかりされているので、それでもいいと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:17:01",
+      "utterance": "そしたらお母さんに言ってみて一緒に行くか1人で行くか決めます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:17:21",
+      "utterance": "そうですね、ぜひ、そうしてみてください。お時間が長くなってしまい申し訳ありませんでした。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:17:49",
+      "utterance": "いえ、私のためにありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:18:08",
+      "utterance": "別の相談員でもこの続きのお話ができますので、また、いつでも相談にいらしてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:18:34",
+      "utterance": "そうなんですね、ありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:18:37",
+      "utterance": "少しでも良い方向に進むことを願っております。本日はありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:19:04",
+      "utterance": "はい、ありがとうございます。こちらこそ色々ありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:19:21",
+      "utterance": "（貴重なお時間を申し訳ありませんでした。まだまだスキルが足りませんので、精進します。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-08T11:19:54",
+      "utterance": "(とんでもございません、難しい内容だったと思います。長い時間お疲れ様でした。)",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-08T11:20:10",
+      "utterance": "（本当にありがとうございました！！）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母の新しい恋人に関する問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3581,
+    "評価作成日時": "2022-06-08T11:42:00",
+    "クライアント役ID": 278,
+    "カウンセラー役ID": 283,
+    "点数": 64,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3581,
+    "evaluation_created_at": "2022-06-08T11:42:00",
+    "client_id": 278,
+    "counselor_id": 283,
+    "score": 64,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

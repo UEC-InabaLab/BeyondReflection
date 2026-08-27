@@ -1,0 +1,766 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-18T09:55:04",
+      "utterance": "おはようございます。本日はよろしくお願いいたします。お時間になりましたら始めてまいります。しばらくお待ちください。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T09:56:25",
+      "utterance": "おはようございます。よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:00:05",
+      "utterance": "では始めてまいります。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:00:13",
+      "utterance": "はい。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:00:28",
+      "utterance": "おはようございます。相談員です。本日はご相談いお越しいただきありがとうございます。はじめにご年齢と性別、ニックネームでもいいので、なんとお呼びしたらいいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:01:04",
+      "utterance": "おはようございます20歳女性あいです。よろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:01:45",
+      "utterance": "あいさん、ありがとうございます。では本日はどのようなご相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:02:09",
+      "utterance": "父親のことなんですが。。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:02:17",
+      "utterance": "最近帰ってくるのが遅くて",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:02:35",
+      "utterance": "何やってるんだろーって思って",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:03:08",
+      "utterance": "なるほど。お父様のお帰りが遅くて、ご心配なのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:03:15",
+      "utterance": "ちょっと、心配なんです。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:03:24",
+      "utterance": "そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:03:59",
+      "utterance": "ええ、そうですよね。ちなみにお父様は何時頃にご帰宅されていらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:04:46",
+      "utterance": "最近は、平均的に23時頃ですかね。もっと遅くに帰ってくることもあります。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:05:43",
+      "utterance": "そうなんですね。以前は何時ごろにご帰宅されたましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:06:19",
+      "utterance": "されてましたか？です。ごめんなさい。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:06:33",
+      "utterance": "大丈夫です！早い時だと20時とかです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:07:41",
+      "utterance": "ああ、そうだったんですね。確かにちょっと遅くなってますから、気になりますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:07:51",
+      "utterance": "はい。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:08:16",
+      "utterance": "たまにだったら、わかるのですが、毎日なので。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:09:30",
+      "utterance": "なるほど。毎日だと違和感を持ってしまいますよね。。そのことについてあいさんは、お父様に直接お聞きになられたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:10:13",
+      "utterance": "聞いてないんです。というか、もう数年口をほとんどきいてなくて",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:11:38",
+      "utterance": "そうでしたか。なかなか今更いきなり会話をするのも勇気が要りますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:12:01",
+      "utterance": "そうなんです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:12:52",
+      "utterance": "ちなみに、口をきかなくなったきっかけはどういったことだったのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:14:02",
+      "utterance": "なんだか、浮気してたみたいで。。その時は様子が変だったから、父親の携帯見ちゃって。。それから、話ししたくなくなったんです。。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:15:10",
+      "utterance": "そうだったんですね。それはあいさんにとってとてもショックで、お辛かったですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:15:33",
+      "utterance": "はい。とてもショックでした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:16:14",
+      "utterance": "もう信じられないというか。私達のことは、愛してないのかなって。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:17:49",
+      "utterance": "そう思ってしまうのも、そしてお父様と距離が出来てしまうのもムリはないですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:19:14",
+      "utterance": "はい。それから、なんだか距離がでてしまって",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:19:45",
+      "utterance": "父親も家に居ずらいのかもしれないのですが。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:20:31",
+      "utterance": "これから先もずーっとこうなのかなーとかも、考えてしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:20:48",
+      "utterance": "距離はできてしまても、あいさんはお父様ことを気にかけていらっしゃるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:21:22",
+      "utterance": "気にはなります。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:24:40",
+      "utterance": "ええ、そうですよね。あいさんは、今回のことでお父様に何かお話されたいなあと感じておられますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:25:49",
+      "utterance": "うーーーん。複雑な気持ちです。今更って感じもするし。でも、気になるし。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:27:32",
+      "utterance": "うんうん、そうですよね。。どうしたらよいのかわからなくなっちゃいますよね。ちなみに、お母さまとはこの件のお話を何かされましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:29:13",
+      "utterance": "話しててないです。母親も気にはなってると思うのですが、父親のことは、干渉しないというか、ほっとけばって感じというか。本当に興味がないのか。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:29:29",
+      "utterance": "すいません。話してないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:30:38",
+      "utterance": "そうなんですね。お母さまの感じも読み取られて、お話されにくいんですね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:31:10",
+      "utterance": "そうなんです！それもあるんです。なんか、私だけ話すのも。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:33:15",
+      "utterance": "あいさんだけが、この件について話題にすることが嫌なんですよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:33:43",
+      "utterance": "そうですね。その気持ちもあります。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:34:47",
+      "utterance": "お話お聞きして、少しまとめさせていただいてもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:34:58",
+      "utterance": "はいよろしくお願い致します。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:36:04",
+      "utterance": "ありがとうございます。最近、お父様の帰宅時間が毎日遅い。そのことをあいさんは心配している、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:36:33",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:37:15",
+      "utterance": "でも、数年お父様と会話がない。話したいけど、今更。。でも気になる、、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:37:23",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:39:11",
+      "utterance": "お母さまは関心がなさそう。あいさんはご自身だけがこの件が気になっている感じがしていて、私だけなの！？と思っていらっしゃる。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:39:53",
+      "utterance": "そうですね。。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:41:31",
+      "utterance": "ありがとうございます。あいさんは、これからどうされていきたいと思っていらっしゃいますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:42:40",
+      "utterance": "どうしよう",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:42:58",
+      "utterance": "ちょっとわからないです。。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:44:43",
+      "utterance": "うんうん。そうですよね。。ちなみに日常生活の中で、お父様と顔を合わせるタイミングはどういった時ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:46:11",
+      "utterance": "夜帰って来た時に、私がまだリビングにいる時と、朝はみんなリビングでご飯食べるので、顔は合わせます。時間は少しずれているので、一緒に食事するという感じではないのですが。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:48:15",
+      "utterance": "そうなんですね。お父様と一緒にお食事をされたいというお気持ちはおありですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:49:31",
+      "utterance": "うーん。たまたま時間が合えば、同じテーブルで食べているって感じにはなりますし、そこまで避けたりしませんが、一緒に食べよ！って感じは、ちょっと。。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:51:26",
+      "utterance": "そうでしたか。ちなみにもし、お父様とお話ができるチャンスがあったら、どういったお話をされたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:52:34",
+      "utterance": "本当は、私の最近の出来事とか聞いてもらいたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:53:06",
+      "utterance": "うんうん。そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:53:26",
+      "utterance": "まーでもなかなか。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:54:38",
+      "utterance": "そうですよね。いきなりだとハードルが高く感じますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:54:54",
+      "utterance": "いきなりすぎですよね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:55:57",
+      "utterance": "いきなり感をあまり感じさせない状況があれば良いと思うんですが。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:56:35",
+      "utterance": "そうですね。何かあるかなぁ",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:57:51",
+      "utterance": "共通の趣味や何か好きなことはありませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T10:58:19",
+      "utterance": "うーーん。無いんですよ。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T10:59:58",
+      "utterance": "そうでしたか。。お父様は普段どういったことに関心がありそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:00:43",
+      "utterance": "父親は、ギターが趣味で今もその関係の集まりとか行ってるみたいです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:02:42",
+      "utterance": "なるほど。そうなんですね。。リビングで顔を合わせた時に「最近、ギターの調子はどう？」とか、かる～く話かけてみるのはいかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:03:17",
+      "utterance": "ハードル高いです。。すいません。。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:03:54",
+      "utterance": "そうでしたか。。こちらこそ、ごめんなさい。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:04:15",
+      "utterance": "いえいえ",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:04:30",
+      "utterance": "何かあれば良いのですが",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:05:02",
+      "utterance": "あいさんにとって、そのくらいお父様のことが大切でいらっしゃるんですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:05:42",
+      "utterance": "ここまでお聞きして、私が思うこと少しお話ししてもよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:05:52",
+      "utterance": "よろしくお願い致します",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:07:13",
+      "utterance": "あいさんは、以前お父様の携帯をみてショックを受けられて、お父様にある種の怒りみたいなものがあったと思います。でも、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:08:57",
+      "utterance": "今はその頃から時間を経て、もう一度、お父様を信じたいし、愛されている実感を求めておられるのかなあと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:09:52",
+      "utterance": "そうですね。そうなるといいなぁ",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:11:03",
+      "utterance": "今回はハードルの高いことばかり提案してしましましたが、今のあいさんでできること、ちいさなことで良いんです！少しずつお父様に関わっていかれることをおすすめします。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:12:01",
+      "utterance": "はい何か、少しづつ出来そうなことがあれば、関わってみます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:12:06",
+      "utterance": "お父様もきっとあいさんと同じお気持ちではないでしょうか？いきなり感を感じておられるかもしれません。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:12:26",
+      "utterance": "そうかもしれませんね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:13:01",
+      "utterance": "顔を合わせる時間がおありなので、決して避けられていませんし、チャンスは必ずありますよ！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:13:44",
+      "utterance": "そうですね。顔を合わせるということは、避けられてないということですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:15:14",
+      "utterance": "そうです、そうです！あいさんなら、いつか必ずお父様に最近あったことなどのお話ができるようになっていると思いますよ！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:15:51",
+      "utterance": "ありがとうございます。やってみますー",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:16:36",
+      "utterance": "これからのあいさんの幸せを心から願っております。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:17:01",
+      "utterance": "そろそろお時間になりました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:17:32",
+      "utterance": "またお話ししたくなったら、いつでもいらしてくださいね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:17:45",
+      "utterance": "はい！ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:18:02",
+      "utterance": "いえいえ、こちらこそありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:18:22",
+      "utterance": "では、本日のご相談は終了してよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:18:33",
+      "utterance": "はい。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:18:41",
+      "utterance": "かしこまりました。では本日は終了いたしますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:18:57",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:19:31",
+      "utterance": "(では、いったん区切ります)",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:19:51",
+      "utterance": "(お疲れ様でした。本日は大変勉強になりました。ありがとうございます。)",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:20:30",
+      "utterance": "（お疲れ様でした。こちらこそ大変勉強になりました！ありがとうございます）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:20:38",
+      "utterance": "(またご一緒の際はよろしくお願いいたします！）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:20:51",
+      "utterance": "（はい！よろしくお願い致します。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-18T11:21:22",
+      "utterance": "（ありがとうございます！ では失礼いたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-18T11:21:33",
+      "utterance": "（失礼致します）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1676,
+    "評価作成日時": "2021-04-19T16:58:00",
+    "クライアント役ID": 164,
+    "カウンセラー役ID": 130,
+    "点数": 85,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1676,
+    "evaluation_created_at": "2021-04-19T16:58:00",
+    "client_id": 164,
+    "counselor_id": 130,
+    "score": 85,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

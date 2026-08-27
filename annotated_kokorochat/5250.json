@@ -1,0 +1,1033 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-10T13:52:58",
+      "utterance": "（こんにちわ。本日よろしくお願いいたします）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T13:53:10",
+      "utterance": "お時間になりましたら始めさせていただきます",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T13:53:26",
+      "utterance": "（こんにちは！よろしくお願いします！）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:00:36",
+      "utterance": "こんにちわ。相談員です。今日は勇気を持ってご相談して頂きありがとうございます。ご年齢と性別、どんなご相談か、お聞かせ願えますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:02",
+      "utterance": "こんにちは",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:10",
+      "utterance": "36才、女",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:21",
+      "utterance": "勇気を持ってって言うようなことではないんですが💦",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:01:41",
+      "utterance": "子どものしつけにちょっと悩んでます",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:02:02",
+      "utterance": "ありがとうございます。なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:02:34",
+      "utterance": "お子さんのしつけの、どういったお悩みなのか、お聞かせ願えますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:07",
+      "utterance": "はい、何と言うか、どうしたら我慢させられるようになるかなと",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:34",
+      "utterance": "でも",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:43",
+      "utterance": "我慢させるというのもかわいそうな気もするし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:03:56",
+      "utterance": "どうしたらいいのか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:04:14",
+      "utterance": "なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:04:36",
+      "utterance": "例えばどういう時に、我慢させるべきかどうかお悩みになるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:04:58",
+      "utterance": "はい、実は",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:14",
+      "utterance": "2世帯で同居している義母が時々夕食を作ってくれるんですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:19",
+      "utterance": "それが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:30",
+      "utterance": "正直、美味しくないというか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:05:38",
+      "utterance": "まあ、マズいというか💦",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:06:00",
+      "utterance": "そうなんですね。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:06:26",
+      "utterance": "それを子どもたちが言ってしまうので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:06:36",
+      "utterance": "義母にも悪いし",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:08:06",
+      "utterance": "ご相談者様としては、お義母様の手前、なかなか言い出しづらい点もありますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:08:53",
+      "utterance": "あ、もちろん義母にはまずいなんて言えません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:09:29",
+      "utterance": "そうですよね。ただ、お子さんがそれを言ってしまって気まずいんですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:09:47",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:10:10",
+      "utterance": "週に1度か2度くらいなので、子どもにはがまんさせたいんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:11:06",
+      "utterance": "なるほど。そうなんですね。義母のお気持ちを考えられるようになって欲しいんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:11:32",
+      "utterance": "あーそうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:11:40",
+      "utterance": "まあそこまでできなくてもとりあえずは",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:11:57",
+      "utterance": "美味しくないと義母の前で言わなければそれだけでいいんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:12:21",
+      "utterance": "お子さんはおいくつなんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:12:37",
+      "utterance": "小3の娘と小1の息子です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:13:14",
+      "utterance": "そうなんですね。元気な頃ですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:13:23",
+      "utterance": "そうですねｗ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:14:08",
+      "utterance": "お義母さまは、おいしくないとお子さんが言ってしまった時に、どういう対応をなさってるんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:14:41",
+      "utterance": "好き嫌いしないで何でも食べないと大きくなれないわよー",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:14:43",
+      "utterance": "って",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:14:56",
+      "utterance": "全然気が付いてない感じです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:15:04",
+      "utterance": "気が付いてないのかな？",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:15:29",
+      "utterance": "なるほど。気がついていないんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:15:39",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:15:48",
+      "utterance": "自覚がない気がします",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:15:53",
+      "utterance": "お義母さまはおいくつでらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:16:31",
+      "utterance": "義母は65くらいですかね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:16:53",
+      "utterance": "なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:18:12",
+      "utterance": "それだと、失礼ですが認知症などの感じはなさそうかと思いますね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:18:29",
+      "utterance": "あ、それはないですｗ",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:18:49",
+      "utterance": "義母の料理がおいしくないのは昔からなんだそうです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:18:52",
+      "utterance": "夫が言ってましたｗ",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:18:56",
+      "utterance": "ありがとうございます。安心しました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:19:01",
+      "utterance": "そうなんですね・・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:19:36",
+      "utterance": "ご相談者様は、お子さんが心無い事を言うたびに、気まずいですし、やめてって思いますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:20",
+      "utterance": "心無いかー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:26",
+      "utterance": "そこまでは思ってませんでした",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:39",
+      "utterance": "さっきも書いたように義母は気が付いてないというか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:20:52",
+      "utterance": "そもそもすごくポジティブで明るい人なので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:21:04",
+      "utterance": "気まずさはあんまりないんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:21:12",
+      "utterance": "やめてとは思いますｗ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:21:23",
+      "utterance": "食べなくなるのが一番困るかな",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:21:37",
+      "utterance": "そうですよね。心無いっていうのは言い過ぎでしたね。しつれいしました",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:22:00",
+      "utterance": "いえいえ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:23:10",
+      "utterance": "そうですよね。お子さんが食べなくなってしまうと、面倒を見てもらうのも悩みますものね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:23:30",
+      "utterance": "そうですねー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:23:49",
+      "utterance": "私が結局もう一回作らなくちゃいけなくなりますｗ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:24:45",
+      "utterance": "なるほど。そうなってしまいますよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:26:41",
+      "utterance": "お義母さまは、料理自体はお好きなんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:27:08",
+      "utterance": "好き何だと思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:27:24",
+      "utterance": "いろいろアレンジしてくれます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:27:42",
+      "utterance": "そのアレンジが問題なことも多いんですけどねーｗ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:28:11",
+      "utterance": "そうなんですね。なるほど。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:29:24",
+      "utterance": "でも、作るなとは言えませんものね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:29:51",
+      "utterance": "言えませんねー",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:29:55",
+      "utterance": "完全に善意なので",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:30:03",
+      "utterance": "そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:31:26",
+      "utterance": "ご同居されたのはいつ頃からですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:31:45",
+      "utterance": "3ヶ月前からです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:32:12",
+      "utterance": "そうなんですね。ありがとうございます。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:33:21",
+      "utterance": "お料理がお好きな方だと、この先も同じことが続くように私は感じますね・・",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:33:48",
+      "utterance": "私もそう思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:34:56",
+      "utterance": "なので子どもにどうにか我慢させるしかないのかなと思ってるんですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:37:58",
+      "utterance": "ご相談者様も、正直、お義母様のお料理に関しては食べたくないなぁとお思いですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:38:30",
+      "utterance": "んーまあそうですね…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:38:35",
+      "utterance": "食べたくない…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:38:49",
+      "utterance": "そうだなー",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:39:12",
+      "utterance": "勿論。お気持ちは嬉しいとは思ってらっしゃるかと思いますが。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:23",
+      "utterance": "そうですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:27",
+      "utterance": "ちょっと難しいんですが",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:34",
+      "utterance": "食べたくないというよりはとにかく",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:36",
+      "utterance": "おいしくない",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:39:40",
+      "utterance": "それだけですかねｗ",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:40:14",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:41:01",
+      "utterance": "義父や夫はよく我慢してたなと思いますｗ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:41:38",
+      "utterance": "なるほど・・・そんなに美味しくないんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:41:59",
+      "utterance": "はいｗ",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:42:22",
+      "utterance": "夫は小学校で給食を食べるようになってから",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:42:41",
+      "utterance": "自分の母親の料理がマズいことに気が付いたって言ってました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:42:55",
+      "utterance": "あーー。そうですか。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:43:18",
+      "utterance": "そんなことがあったんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:44:02",
+      "utterance": "給食のほうが美味しかったんですね。。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:44:23",
+      "utterance": "そうそうｗ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:44:31",
+      "utterance": "かわいそうだけど、ちょっと笑っちゃいました",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:45:09",
+      "utterance": "そうですね。お義母さまには悪いですが、笑っちゃいますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:45:36",
+      "utterance": "はいｗ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:47:24",
+      "utterance": "今回のご相談内容ですが、ちょっとまとめさせてもらってもよろしいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:47:40",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:49:12",
+      "utterance": "ご相談者様のお子さんが、お義母様の料理がおいしくないことを言ってしまう。でも、正直ご相談者もおいしくないと思うし、昔からそうなので、旦那様やお義父様も諦めている",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:49:35",
+      "utterance": "はい、そうですねｗ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:50:05",
+      "utterance": "ただ、子供が食べなくなってしまうのが心配で、結局自分がもう一度子供に食べさせないといけないのが困ってしまう。という内容でよろしいでしょうか",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:50:39",
+      "utterance": "まあ、今のところは子ども達も食べてます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:50:50",
+      "utterance": "変な味ーとか言いながらですがｗ",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:51:00",
+      "utterance": "なるほど。そうなんですね。。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:51:42",
+      "utterance": "私が感じたことをお伝えしてもいいですか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:51:55",
+      "utterance": "あ、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:52:53",
+      "utterance": "お義母さまの料理がおいしくないのは、今に始まったことではないので、恐らく改善は難しいのかな。。と感じます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:53:28",
+      "utterance": "はい、私もそこは期待してませんｗ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:54:16",
+      "utterance": "とはいえ、お子さんが変な味などと言ってしまうのも、仕方ないかなと思います。それは、ご相談者様の普段のお料理が美味しいことに他ならないなと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:54:55",
+      "utterance": "おーその発想はありませんでした",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:54:59",
+      "utterance": "ありがとうございますｗ",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:55:17",
+      "utterance": "週一回位なら、お孫さんとのコミュニケーションの一環として、諦めるか",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:56:30",
+      "utterance": "もう食事が終わった、用意してある等と伝えて、自宅分はご用意するか・・しかないんではないかな。と思いました。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:57:22",
+      "utterance": "あーなるほど",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:57:59",
+      "utterance": "週に最低1回は義父母とみんなで夕食を食べるのが約束なんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:58:29",
+      "utterance": "そうなんですね。そんな約束があるんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T14:58:42",
+      "utterance": "夫と私は「諦める」ができますが、子どもたちの反応に困っていて、そこを相談したかったんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T14:59:36",
+      "utterance": "なるほど。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:01:02",
+      "utterance": "それだと、外食などの手もありますが、いかがですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:01:41",
+      "utterance": "そうですね、月に1度くらいは外食にしています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:02:07",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:02:39",
+      "utterance": "そろそろお時間になってしまいましたが、ご相談内容については何か得られるものがありましたでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:02:40",
+      "utterance": "さすがに毎週外食は無理だし、義母は自分の料理を食べさせたがるので",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:02:51",
+      "utterance": "そうですよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:02:52",
+      "utterance": "あ、そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:02:55",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:03:02",
+      "utterance": "得られるもの…",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:03:04",
+      "utterance": "そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:03:26",
+      "utterance": "子どもたちをどうにかするのは難しいことなのかなとあらためて思いました",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:03:59",
+      "utterance": "そうですね。。やはり子供は正直ですからね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:04:49",
+      "utterance": "お母様がご自分の料理に気づいて、少しでも楽しい晩餐になることを祈っています。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:05:11",
+      "utterance": "ありがとうございますｗ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:05:20",
+      "utterance": "本日はありがとうございました。またお待ちしておりますね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:05:25",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-10T15:05:29",
+      "utterance": "（終了します。ありがとうございました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-10T15:05:29",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義母との同居に関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5250,
+    "評価作成日時": "2023-06-10T15:40:00",
+    "クライアント役ID": 378,
+    "カウンセラー役ID": 400,
+    "点数": 42,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5250,
+    "evaluation_created_at": "2023-06-10T15:40:00",
+    "client_id": 378,
+    "counselor_id": 400,
+    "score": 42,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

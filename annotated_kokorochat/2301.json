@@ -1,0 +1,511 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-06T09:51:51",
+      "utterance": "おはようございます。今日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T09:52:19",
+      "utterance": "おはようございます。こちらこそ、よろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T09:52:38",
+      "utterance": "10時になりましたら始めさせていただきますね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T09:53:16",
+      "utterance": "はい、承知いたしました。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:00:03",
+      "utterance": "こんにちは。相談員です。よろしければ、はじめに　年齢と性別を教えていただけますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:00:42",
+      "utterance": "15歳女子です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:00:57",
+      "utterance": "教えてくださり　ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:01:22",
+      "utterance": "あなたのことをなんとお呼びしたらいいでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:01:44",
+      "utterance": "マミ　でお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:02:02",
+      "utterance": "マミさんですね。わかりました。ありがとう。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:02:20",
+      "utterance": "マミさん、今日はどのようなご相談ですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:03:10",
+      "utterance": "7月から気持ち的に学校に行けていません母親とは通信制の学校に変えようかという話をしています。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:03:50",
+      "utterance": "そうでしたか。お気持ちが学校へ向かわず、お休みされているのですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:04:07",
+      "utterance": "ですが、担任の先生と学年主任の先生と藩士をした際に少しずつで良いから学校に来てと言ってくれたので、まだ決まっていません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:05:00",
+      "utterance": "↑　話をした　です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:05:23",
+      "utterance": "学校には行っていません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:05:47",
+      "utterance": "そうなのですね...学校の先生方は学校へ来て欲しいとおっしゃるのですね、マミさんはそのことをどう思っていらっしゃるのですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:06:40",
+      "utterance": "多分もうクラスに戻ることはできないし、これからどうすればいいのかわからないので不安です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:07:36",
+      "utterance": "えぇ..えぇ..とても不安ですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:08:20",
+      "utterance": "クラスに戻ることができないお気持ち、もしよければ　もう少し　お話しできますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:09:58",
+      "utterance": "みんなもうグループができているし、話せる友達もいないので行っても居場所がありません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:11:37",
+      "utterance": "そう感じていらっしゃったら...とっても辛いですよね...一人ぼっちになってしまったように心細いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:12:08",
+      "utterance": "はい、ひとりぼっちです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:13:06",
+      "utterance": "うん、ひとりぼっちって、とっても寂しいですよね...いつごろから我慢してこられたのですか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:13:44",
+      "utterance": "入学してからずっとです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:15:03",
+      "utterance": "そうだったの...長い間、ずっと辛かったのですね...つらい気持ちを我慢して頑張ってこられたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:16:00",
+      "utterance": "はい・・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:17:49",
+      "utterance": "みんなの輪に入れていないと、学校にいてもなんだか苦しくて、居場所がない感じがしてしまう...胸が痛いです...",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:18:56",
+      "utterance": "ずっと我慢していたけれど、マミさんのお気持ちの辛さを考えて、通信制の案も出てきたのでしょうか。お母さまのご提案ですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:20:32",
+      "utterance": "はい｡お母さんと考えました",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:21:31",
+      "utterance": "そうですか。お母さまとはこのことでどのようなお話しをしているか、もう少し聞いてもいいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:23:31",
+      "utterance": "いくつか通信制の学校の資料を集めてみました。話も聞いてみようとは思っていますが、それ以上具体的には進んでいません",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:25:16",
+      "utterance": "そうなのですね。マミさん、新しい選択肢が出てきて　なんだか不安な気持ちなのですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:26:30",
+      "utterance": "色々考えてみても、どうしたらいいかわかりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:27:07",
+      "utterance": "どうしたらよいかわらかないお気持ち、伝わってきていますよ。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:28:49",
+      "utterance": "マミさんが少しでも楽になれるように一緒に考えましょうね。今日は、このお時間を使って、今後どうしたいか考えてみたいですか？それとも辛かった気持ちを整理してみたいですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:31:02",
+      "utterance": "これからどうしたらいいか考えたいです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:31:43",
+      "utterance": "わかりました。では一緒に考えてみましょうね。少しお話を整理してみていいですか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:31:56",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:33:22",
+      "utterance": "マミさんは学校へ入学された頃から　お友達のグループに入れず、居場所のないお気持ちを我慢されてきた、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:34:37",
+      "utterance": "ひとりぼっちのようなお気持ちを抱え、7月から学校へ行けずにいらっしゃる、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:35:18",
+      "utterance": "お母さまとご相談され、通信制に通うことを検討し、情報を集めていらっしゃる、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:35:46",
+      "utterance": "先生方は学校へ来るようにおっしゃるので、どうしたらいいかわからなくなっている。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:36:58",
+      "utterance": "マミさんは、通信制を選択した場合、どんなことが不安に感じますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:39:36",
+      "utterance": "本当に一人って感じがするし、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:40:29",
+      "utterance": "えぇ...（聴かせていただいてます）",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:40:44",
+      "utterance": "自分だけやっぱりみんなとは同じようにはできないような気がしてしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:42:16",
+      "utterance": "えぇ...そう感じてしまいますよね。通信制だとますます一人になってしまうようで...だから不安に感じられるのですね...",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:43:18",
+      "utterance": "できたら、みんなと同じように...一緒に過ごしたというお気持ちがありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:45:52",
+      "utterance": "気持はあっても、できると思えないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:48:40",
+      "utterance": "そう思っていらっしゃるのですね。できると思える自信がなかなか持てないのですね...苦しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:49:14",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:51:41",
+      "utterance": "マミさんとしては、学校へ行くより通信制で学ぶことの方が、気持ちは楽になるかもしれないけれど、もう少し自信が持てたら、みんなと同じように学校生活を送りたい思いもあるという心境でしょうか。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:53:48",
+      "utterance": "それはほんとに理想だと思います。でも、自信がなさ過ぎて、とてもできると思えないんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:55:00",
+      "utterance": "そうなのですね...自信が持てないと、そう思えてしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:55:38",
+      "utterance": "マミさん、時間が少なくなってきたので、私から少し伝えさせていただきますね、",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T10:56:22",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:57:15",
+      "utterance": "自信が持てないと、なかなか前に進めないこと、人生でおきますね。マミさんはいま、とっても辛い状況を我慢され、ここに相談する勇気を出してきてくださいましたね、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T10:57:54",
+      "utterance": "選択肢があるとどちらにしたらいいのかわからない、不安でいっぱいになってしまいますね、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T11:00:10",
+      "utterance": "そういうときは、マミさんの心の声、自分の気持ちが一番大切だと私は思います、通信制を選択して自信がついてきてからでも、また変更して学校へ行くことも可能だと思いますし、環境を変えてお友達とつながる方法を考えてみることもできますし、いろいろな方法があると思います、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T11:02:00",
+      "utterance": "みんなと同じでなくてはならないというきまりはないですよ、マミさんが「いま」できる選択を積み重ねながら、少しずつ「生きやすさ」を取り戻していかれるように、今後も一緒に考えてみましょう。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T11:06:40",
+      "utterance": "はい、ありがとうございます",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T11:08:39",
+      "utterance": "マミさんには、事態を改善したいというエネルギーがあって、ここに相談にきてくださいました。これからよい方法を考えていく力がありますから、大丈夫ですよ。応援しています。またいらしてくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T11:09:48",
+      "utterance": "はい、気持楽になりました。ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T11:10:16",
+      "utterance": "こちらこそありがとうございました。今日は一旦終了にしてもよろしいですか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T11:10:26",
+      "utterance": "はい、大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T11:10:43",
+      "utterance": "はい、では　失礼いたします。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-06T11:11:07",
+      "utterance": "（勉強させていただき、ありがとうございました。終了させていただきます）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-06T11:11:10",
+      "utterance": "（良い勉強になりました。ありがとうございました。お疲れさまでした)",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校への適応に関する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2301,
+    "評価作成日時": "2021-08-06T11:49:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 202,
+    "点数": 96,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2301,
+    "evaluation_created_at": "2021-08-06T11:49:00",
+    "client_id": 108,
+    "counselor_id": 202,
+    "score": 96,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

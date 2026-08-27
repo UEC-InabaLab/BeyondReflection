@@ -1,0 +1,1204 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:20:39",
+      "utterance": "(こんばんは、本日はよろしくお願いいたします。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:21:35",
+      "utterance": "宜しくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:30:11",
+      "utterance": "こんばんは、相談員です。年齢、性別、ご相談内容をお聞かせください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:31:04",
+      "utterance": "40歳、女性です。自肯定感が低くてどうしたら、自分に自信がもてるか？と思ってます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:31:31",
+      "utterance": "そうなんですね。教えていただきありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:32:01",
+      "utterance": "いつごろからそんな風に思われていらっしゃるのでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:32:22",
+      "utterance": "いつ頃かなー？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:32:49",
+      "utterance": "ええ、どんな時にそう感じられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:33:10",
+      "utterance": "20過ぎに一人暮らしを始めてから、少し自分で、前向きに考えて動けるようになったんですけど…",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:33:24",
+      "utterance": "ええ、そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:33:45",
+      "utterance": "病気してから、かも知れません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:34:42",
+      "utterance": "最近漸く落ち着いて来たんですが",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:35:07",
+      "utterance": "ええ、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:35:13",
+      "utterance": "たまに落ち込んだ時とかは、特にですかね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:35:36",
+      "utterance": "そうですよね・・。落ち込んだ時はそのように思われますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:36:03",
+      "utterance": "ご病気をされたとのことですが、今はどのような生活を送っていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:36:04",
+      "utterance": "でも、なんかそれだけでもないような…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:36:26",
+      "utterance": "子供の頃は特に自己肯定感は低かったように感じます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:36:36",
+      "utterance": "ええ、そうだったのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:36:54",
+      "utterance": "両親、特に父親の関わり方…ですかね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:37:10",
+      "utterance": "いつも、否定的な言葉をかけられてました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:37:26",
+      "utterance": "ええ、そうだったのですね。それは辛かったですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:38:04",
+      "utterance": "高校生の時は(電車に)「もう間に合わねー、もう間に合わねー」と言われ続けて",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:38:18",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:38:28",
+      "utterance": "でも、実際は一度も間に合わなかったことはなくて",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:38:39",
+      "utterance": "はい、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:38:44",
+      "utterance": "皆勤賞だったんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:38:53",
+      "utterance": "それはすごいですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:39:07",
+      "utterance": "そもそも、その電車だって、一本前の早い電車で",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:39:29",
+      "utterance": "ちゃんと自分で時間を計算して毎日頑張っていたのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:39:31",
+      "utterance": "次の電車でも間に合うように、行ってましたから",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:39:45",
+      "utterance": "しっかりしていますね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:40:03",
+      "utterance": "父に急かされないで、家を出ると、いつも駅で待つんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:40:09",
+      "utterance": "それが、嫌で",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:40:24",
+      "utterance": "要は早すぎるんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:40:44",
+      "utterance": "そうだったのですね。工夫されていたのですね。嫌な思いをしないように・・",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:41:02",
+      "utterance": "でも、待つのも嫌でしたよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:41:02",
+      "utterance": "でも、私が間に合うと思う時間に家を出る時は、父にうるさく言われるので",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:41:29",
+      "utterance": "それは気持ち的にも負担がありましたよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:41:58",
+      "utterance": "他にも病気して、自分で病院に連れて行って欲しいと頼んだ時に、小さなトラブルがあって",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:42:11",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:42:29",
+      "utterance": "その時、「入院しちまぇ！」って言われたんです😭",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:42:59",
+      "utterance": "え・・それは悲しいですよね・・。その時どう感じたのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:43:14",
+      "utterance": "凄く苦しくて、今でもハッキリと覚えてて、トラウマですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:43:42",
+      "utterance": "そうですよね・・。トラウマにもなりますよね。。今はどなたと暮らしているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:43:47",
+      "utterance": "もう辛くて、言葉になりません",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:44:04",
+      "utterance": "それはそうだと思います・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:44:14",
+      "utterance": "今は子供と2人暮らしですが、すぐ近くに両親がいるので",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:44:51",
+      "utterance": "実家に行くんですけど、最近母も病気してもう治らなくて",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:45:04",
+      "utterance": "そうなんですね・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:45:16",
+      "utterance": "大好きな母が変わっていくのを見てるのも辛いんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:45:42",
+      "utterance": "でも父の母への関わり方がひどくて、ホント嫌になります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:46:11",
+      "utterance": "ええ、そうですよね胸が苦しいですよね・・。お父様はどんな風にお母様に接しているのですか？？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:46:31",
+      "utterance": "最近頭の病気とか、骨折した後だったりして、意識がハッキリしてる時と",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:46:46",
+      "utterance": "寝てる事が多かったりする事があって",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:46:55",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:47:32",
+      "utterance": "体の左側に麻痺があるので、ウトウトしてて、左側に転んでしまうんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:47:53",
+      "utterance": "そうなんですね。それは心配ですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:48:18",
+      "utterance": "それが、最近顕著に現れてて頻回になって来たんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:48:43",
+      "utterance": "すると、父が「もう、どーしよーもねーなー」とか",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:49:13",
+      "utterance": "「頭おかしいんだこの女」とか言ったりするんです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:49:44",
+      "utterance": "そうでしたか・・。あなたも面倒を見に行っていて、そういったことを目にすると辛く、悲しいですよね・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:49:55",
+      "utterance": "父には、いくら、母の病状を説明しても、ハッキリいって、全く分からなくて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:50:03",
+      "utterance": "ええ、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:50:13",
+      "utterance": "もうホント嫌になります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:50:45",
+      "utterance": "それはそうだと思います。トラウマもあるので、、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:50:55",
+      "utterance": "父は人の意見に耳を貸さないので、自分が耳が遠いことも、気付いてないようで",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:51:06",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:51:21",
+      "utterance": "最近特に大声で話すから、私も耳が痛くて",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:51:40",
+      "utterance": "大声を出されると威圧感ありますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:52:10",
+      "utterance": "けど、それを指摘すると絶対否定すると思いますし、補聴器のことなんて提案したら、怒り💢爆発💥だと思います",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:52:44",
+      "utterance": "それは困りますよね・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:52:45",
+      "utterance": "母には昨年補聴器を作ってもらったんですけど、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:52:55",
+      "utterance": "ええ、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:53:20",
+      "utterance": "身体に入ってる器械とハウリングするらしく",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:53:33",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:53:39",
+      "utterance": "付けたがらないので、母も耳は遠いですが、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:53:55",
+      "utterance": "父よりは全然良いですね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:54:34",
+      "utterance": "ええ。そうでしたか。あなたからみてどんなお母様なんですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:54:39",
+      "utterance": "そんな父親に小さい頃から育てられたから、と言うのは大きいと思いま",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:55:08",
+      "utterance": "そうですよね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:55:38",
+      "utterance": "私は母とは何でも話せる仲良しですが、最近気付いた事は、私は母の言うことに同調してたな、と思う事があります",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:55:59",
+      "utterance": "余り話が通じなくなってから",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:56:09",
+      "utterance": "あ、時々ですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:56:18",
+      "utterance": "そうなんですね・・。仲が良かったのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:56:58",
+      "utterance": "なんでも話せるお母様の体調が悪くなって寂しい気持ちもありますよね・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:56:58",
+      "utterance": "だから、私が最近感じた事は、私は女ですけど、マザコンだったのかも？と思う事があります。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:57:15",
+      "utterance": "そう思われるのですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:57:26",
+      "utterance": "それほど仲がいいってことですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:58:08",
+      "utterance": "そうですね、私、仏教徒なんですけど、唯一仏教の話が身近で話せる存在でして",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:58:34",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:58:59",
+      "utterance": "ははの具合が悪くなって、次第に衰えていくのを見てるのは辛いです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T20:59:23",
+      "utterance": "だから、一時実家に行くのをやめてた時があります",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T20:59:52",
+      "utterance": "そうだと思います。大好きな人が変わっていく姿を見るのは辛く、悲しくもありますよね。。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:00:08",
+      "utterance": "色々、あって多分自信がないんだと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:00:54",
+      "utterance": "それで、一人暮らしを始めて、前向きに行動的になったんですけど、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:01:08",
+      "utterance": "ええ",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:01:08",
+      "utterance": "多分父から離れてかなー？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:01:39",
+      "utterance": "そうなんですね。ひとり暮らししてお父様から離れてそう感じたのですね・・。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:01:51",
+      "utterance": "その後、病気して最近誤診だった事が判明して",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:02:02",
+      "utterance": "そうでしたか・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:02:15",
+      "utterance": "それまで、ずっと苦しい状態が続いていたから、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:02:25",
+      "utterance": "かな？とは、思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:02:53",
+      "utterance": "ずっと今まで苦しい思いを抱えながら、頑張ってきたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:03:09",
+      "utterance": "何せ、20年近く誤った治療だったので、薬が合ってなかったんですよね",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:03:42",
+      "utterance": "昨年の今頃キチンと診断がついて、漸く落ち着いたんです",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:03:55",
+      "utterance": "ええ、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:04:16",
+      "utterance": "でも、また最近波があるから、",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:04:31",
+      "utterance": "はい。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:04:47",
+      "utterance": "気分が落ちた時？特に自信がなくになるのかな？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:05:06",
+      "utterance": "あと、病気になった負い目ですかね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:05:21",
+      "utterance": "世間の目とか…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:05:28",
+      "utterance": "20年近くもそういった状況だったのですから、そう思われるのも自然なことかもしれません・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:06:17",
+      "utterance": "気持ちだって不安定になって当然だと思います。よくおひとりで抱えてこられましたね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:06:43",
+      "utterance": "「私は私で良いじゃない」と思うのですが、多分そう思ってない自分、がいるのかも知れません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:06:50",
+      "utterance": "ありがとうございます🙇‍♀️",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:07:31",
+      "utterance": "やっぱり、周りの目を気にしないで生きるって、凄く難しいんだな、と思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:08:00",
+      "utterance": "ええ、そうですよね・・。気になってしまいますよねでも、あなたはよく頑張っています。お父様やお母様のことだって。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:08:22",
+      "utterance": "よく客観的に見れているし、お自身のこともよくわかっているように感じます",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:08:27",
+      "utterance": "マイノリティの人とかって、本当に苦しいでしょうね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:09:15",
+      "utterance": "生きるって、大変ですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:09:28",
+      "utterance": "そうですよね・・周りの人に分かってもらえない苦しさや寂しさはありますよね・・。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:10:06",
+      "utterance": "人って何の為に生きているんでしょう？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:10:37",
+      "utterance": "どんな時に生きるのは大変と感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:11:15",
+      "utterance": "自分の意見に素直に生きられない時とか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:11:52",
+      "utterance": "私は多分素直じゃないんじゃないかなと思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:12:13",
+      "utterance": "だから、周りの目を気にしないで、素直に生きていきたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:12:34",
+      "utterance": "そうなんですね・・どんな時に素直じゃないと感じますか？好きな人に対してでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:12:49",
+      "utterance": "けど、さっきもお話したように、周囲の目はすごーく気にしてると思うから",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:13:20",
+      "utterance": "そうなんですね・・。どうしたら素直に生きられそうですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:13:24",
+      "utterance": "相手が私にとって都合の良い事を言ってくれた時とか…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:13:43",
+      "utterance": "ええ、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:13:58",
+      "utterance": "実はそんな風に思ってはいないんじゃないかな？とか",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:14:11",
+      "utterance": "ええ。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:14:36",
+      "utterance": "口では上手く言うけど、内心は…みたいな",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:15:05",
+      "utterance": "どうしたら、素直に生きられるか…分からないですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:15:15",
+      "utterance": "ええ、そう感じているのですね・・。自信のなさがそう思わせているのかな？と感じていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:15:47",
+      "utterance": "んー？それも分からないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:16:14",
+      "utterance": "病気になった負い目？かも知れません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:16:24",
+      "utterance": "世間の目、偏見…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:17:01",
+      "utterance": "好きで病気になったわけじゃないし、治らないのは仕方ないのに、自分ではどうすることも出来ないのに…って",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:17:38",
+      "utterance": "そうですよね。頭でわかってても心がついていかない時もあるかもしれませんね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:17:40",
+      "utterance": "無理しすぎて、病気になっちゃぅたんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:18:11",
+      "utterance": "そうあったんですね。頑張ってきたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:18:16",
+      "utterance": "だから、何であの時無理しすぎちゃったのかなー？😭って凄く後悔しています",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:19:06",
+      "utterance": "一方で、「後悔しても仕方ないから、前を向いていこう」と思うんですが、そこで、複雑な気持ちなんですよね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:19:37",
+      "utterance": "そうだったのですね・・複雑な気持ちになりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:20:00",
+      "utterance": "頑張って無理してしまって・・とせめてしまったり、悔やんだり・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:20:13",
+      "utterance": "後悔しても、過去は変えられないけど、未来は今の生き方次第でいくらでも変わるじゃないですか…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:20:34",
+      "utterance": "そう頭で分かってても、感情はついていかれないんですよ",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:21:10",
+      "utterance": "そうですよね・・でもここに相談にきたのは前を向いて後悔しないように生きていきたいからですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:21:11",
+      "utterance": "だから、後悔してる自分を受け入れられてないかも知れません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:21:22",
+      "utterance": "そんな気持ちが伝わってきます",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:21:58",
+      "utterance": "受け入れられる時がくるまで、待っていてもいいのかもしれません・・。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:22:39",
+      "utterance": "そうですね、自分に素直になって、前向きに生きたいですね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:22:58",
+      "utterance": "こんなにも悩んで苦しんででも前を向いていこうとしているのですから、きっと受け入れられる時がくると思います。あなたはどう思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:23:03",
+      "utterance": "受け入れられる日ってくるでしようか？",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:23:32",
+      "utterance": "あなたが諦めない限りくると思います",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:24:19",
+      "utterance": "私はなんか、何もしなければ、受け入れられる日は来ない気がします",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:24:39",
+      "utterance": "いつか…と考えると苦しいです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:24:57",
+      "utterance": "今まで20年苦しんできたので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:25:19",
+      "utterance": "病気以外にも大きな出来事はありましたし。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:25:24",
+      "utterance": "そう思うのですね・・。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:25:38",
+      "utterance": "ええ、そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:27:03",
+      "utterance": "私にとっては病気になった事で、自分という存在が全く別人なように感じられるんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:27:20",
+      "utterance": "病気になる前となった後の自分が…です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:28:05",
+      "utterance": "そう思われているのですね・。それはとても辛いと思います。ここまでたくさんお話を聞かせて頂いたのですが、相談終了のお時間になってしまいました。次回でもよろしければ、一緒に前を向いていくために何ができるのかを一緒に話せたらと思います。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:28:48",
+      "utterance": "わかりました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:29:52",
+      "utterance": "病気になる前となった後の自分が別人だと人生が変わってしまったと感じていると思います。お話足りなかったと思います。またいらして頂けたら続きをお話聞かせてください。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:30:05",
+      "utterance": "今日はこちらに来ていただいてありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-10T21:30:51",
+      "utterance": "ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:31:10",
+      "utterance": "（貴重なお時間ありがとうございました。また機会があればよろしくお願いします）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-10T21:31:18",
+      "utterance": "終了メッセージ流します",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己肯定感の低下とその背景"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7174,
+    "評価作成日時": "2024-08-10T22:23:00",
+    "クライアント役ID": 515,
+    "カウンセラー役ID": 473,
+    "点数": 76,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7174,
+    "evaluation_created_at": "2024-08-10T22:23:00",
+    "client_id": 515,
+    "counselor_id": 473,
+    "score": 76,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

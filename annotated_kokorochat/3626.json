@@ -1,0 +1,316 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:00:08",
+      "utterance": "こんにちは。相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:01:07",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:03:02",
+      "utterance": "では、相談を始めます。はじめに、年齢、性別、相談内容を教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:03:29",
+      "utterance": "20代、男性、仕事がなかなか決まりません",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:06:27",
+      "utterance": "ええ、そうだったのですね。今は、心配や、不安などどういったお気持ちでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:07:10",
+      "utterance": "このままだと貯金が減るばかりで不安です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:09:42",
+      "utterance": "はい、不安になりますよね。今は就職活動をされているのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:09:57",
+      "utterance": "はい。ハローワークに通っていましか",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:10:02",
+      "utterance": "います",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:11:00",
+      "utterance": "そうなのですね。いつ頃からハローワークに通っていらっしゃるのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:11:12",
+      "utterance": "半年前からです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:15:25",
+      "utterance": "そうだったのですね。先が見えないと不安ですよね。職種や雇用形態等の希望があるのですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:16:08",
+      "utterance": "特にありません",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:16:51",
+      "utterance": "早く働きたいというお気持ちが強いのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:16:56",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:18:35",
+      "utterance": "ハローワークの方にお話ししたりはされていますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:18:42",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:19:31",
+      "utterance": "何かアドバイスなどがあったりしましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:19:49",
+      "utterance": "まずは面接を受けに行くようにと言われました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:20:38",
+      "utterance": "どうせダメだと思うのに",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:20:52",
+      "utterance": "ええ、そのようにお話があったのですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:21:13",
+      "utterance": "そうなんですね。なぜそのように思うのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:21:53",
+      "utterance": "人前に出ると何を話して良いかわからなくなるんです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:22:57",
+      "utterance": "はい、色々考えたり、緊張してしまうんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:23:26",
+      "utterance": "いろんなこと考えてしまい言葉になりません",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:26:19",
+      "utterance": "ええ、対面でかしこまっているのでより緊張しますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:26:26",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:26:52",
+      "utterance": "面接の事を考えると、応募をためらってしまうという事ですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:27:57",
+      "utterance": "はじめは応募していたのですが、不採用通知が来るのがもう嫌なんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:32:07",
+      "utterance": "そうだったのですか。うまくいかないことが続くとつらいですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:32:39",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:33:58",
+      "utterance": "どうしたら、また面接に行けるようになると思いますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:34:50",
+      "utterance": "自信がついたら、かなあ",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:37:57",
+      "utterance": "ええ、自信は大切ですよね。他にこういった気持ちになればいいなということはありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:39:04",
+      "utterance": "相手がにこやかだったら",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:40:00",
+      "utterance": "そうですよね。かしこまった雰囲気よりも話しやすいですよね。ハローワークで面接の練習などはありますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-19T14:40:23",
+      "utterance": "わかりません",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-19T14:41:52",
+      "utterance": "うまくすすめられずすみませんでした。お疲れさまでした。ありがとうございました。",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "就職活動における自信の欠如"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3626,
+    "評価作成日時": "2022-06-19T15:50:00",
+    "クライアント役ID": 307,
+    "カウンセラー役ID": 306,
+    "点数": 62,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3626,
+    "evaluation_created_at": "2022-06-19T15:50:00",
+    "client_id": 307,
+    "counselor_id": 306,
+    "score": 62,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-03T12:56:30",
+      "utterance": "こんにちは。きょうはロールプレイに承認いただきありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T12:57:08",
+      "utterance": "こちらこそありがとうございます。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T12:57:39",
+      "utterance": "早速、はじめさせていただいてよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T12:57:49",
+      "utterance": "はい、大丈夫です",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T12:58:52",
+      "utterance": "こんにちは、相談員です。きょうはお越しいただき、ありがとうございます。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T12:59:20",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:00:05",
+      "utterance": "よろしくお願いします。はじめに年齢と性別を教えていただいてよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:00:25",
+      "utterance": "はい30歳女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:00:44",
+      "utterance": "きょうはどうされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:02:08",
+      "utterance": "妊娠しているのですが、悪阻がひどくて、バランスよく食事を食べられない自分を責めてしまいますどうしたらいいでしょうか。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:02:41",
+      "utterance": "そうなんですね。それはお辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:02:53",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:03:11",
+      "utterance": "食事が食べられないのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:03:56",
+      "utterance": "見るだけでみたくないぐらい嫌な気持ちになります食べられないわけではないのですがお菓子ばかり食べたくなります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:04:52",
+      "utterance": "見るだけでもいやなんですね。それはきついですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:05:16",
+      "utterance": "赤ちゃんのために栄養あるものを取らないといけないとは思うのですが…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:06:17",
+      "utterance": "食べているものがお菓子ばかりで、栄養が足りてないと感じていらっしゃるんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:06:30",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:06:44",
+      "utterance": "あと揚げ物は食べたいんですよね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:07:17",
+      "utterance": "バランスを気にされているんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:07:53",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:08:30",
+      "utterance": "でもこれじゃダメだ〜気分も落ち込みます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:09:15",
+      "utterance": "お腹の赤ちゃんのことを考えて、心配なんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:09:31",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:09:56",
+      "utterance": "悪阻は病院の先生にご相談されてますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:11:11",
+      "utterance": "はいみんな通る道だと…食べられるものを食べれば良いとはおっしゃるのですがネットで検索するとよくない情報もでてくるので…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:12:40",
+      "utterance": "よくない情報をみて、気になるのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:13:01",
+      "utterance": "気になってしまいますね…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:13:43",
+      "utterance": "周りの方、ご家族さんとか、理解してもらえる方は近くにいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:14:54",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:15:53",
+      "utterance": "悪阻がみんなが通る道だといわれても、辛いものは辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:16:13",
+      "utterance": "そうなんですよね…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:16:46",
+      "utterance": "今の時期だけ頑張れば良いのに頑張れない自分にもだめだなぁと思ってしまいます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:17:28",
+      "utterance": "頑張りたいのに頑張れないと、ご自分を責めてしまうんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:17:43",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:18:38",
+      "utterance": "お辛いと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:19:04",
+      "utterance": "はいこの気持ちどうしたらいいのでしょうか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:20:39",
+      "utterance": "きっとあなたは責任感が強いかたなんですね。そして、なにより赤ちゃんのことを心配している。優しい方なんだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:21:09",
+      "utterance": "ありがとうございます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:22:04",
+      "utterance": "でも、責任を果たせていないですよね…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:22:32",
+      "utterance": "元気に育って欲しいのに",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:23:20",
+      "utterance": "そう思う気持ちは母親として大切だと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:23:42",
+      "utterance": "そうですかね…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:24:10",
+      "utterance": "不安でいっぱいです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:24:34",
+      "utterance": "わたしはそう思います。けれど、不安な気持ちはわかります。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:25:03",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:26:05",
+      "utterance": "ここで、一度まとめてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:26:17",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:27:05",
+      "utterance": "あなたは妊娠の悪阻がひどくて、食事がうまく取れていない。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:27:44",
+      "utterance": "特にお菓子を主に食べてしまっているので、栄養バランスが悪い。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:28:44",
+      "utterance": "お腹の赤ちゃんのことを考えると心配で、自分が悪いのだと責めてしまう。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:29:11",
+      "utterance": "ここまで、これでいいでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:29:21",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:29:47",
+      "utterance": "他に心配事はありませんか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:30:20",
+      "utterance": "気分の上がり下がりがありますね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:30:57",
+      "utterance": "気分が変わるんですね。どのようにでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:31:51",
+      "utterance": "すごい調子がいい時と、自分が悪いと責めてしまう時のように不安で溢れる時があります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:32:06",
+      "utterance": "なるほど、そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:32:17",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:32:42",
+      "utterance": "今はどちらですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:33:17",
+      "utterance": "今は普通です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:34:58",
+      "utterance": "下がった時にどうした方がいいなどあるのでしょうか",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:34:59",
+      "utterance": "気分が上下すると辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:35:54",
+      "utterance": "下がるときはどのようなことを考えるのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:36:49",
+      "utterance": "赤ちゃん元気かな…と不安な気持ちになります",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:37:18",
+      "utterance": "そうなんですね。不安な気持ちが強くなるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:38:50",
+      "utterance": "食事のことが気になるのもそのようなときでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:39:14",
+      "utterance": "そうですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:39:49",
+      "utterance": "なるほど。ちなみにパートナーさんはいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:40:00",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:40:23",
+      "utterance": "パートナーさんは理解してもらえますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:41:08",
+      "utterance": "少し気にかけてくれますね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:41:26",
+      "utterance": "それはよかったです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:41:55",
+      "utterance": "でもそれで気持ちが変わることはそんなにないような…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:42:06",
+      "utterance": "自分の気持ちの持ち方次第なんですかね…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:43:02",
+      "utterance": "気持ちの持ち方次第と思われますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:43:45",
+      "utterance": "どうなんでしょうか…？",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:45:36",
+      "utterance": "気持ちの切り替えができる方法などあればいいとはおもいますが、何か好きなこととかないですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:46:42",
+      "utterance": "なるほどそうですね、ジムに行くのが息抜きだったのですが、妊娠してからいけなくなってしまって…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:46:59",
+      "utterance": "でも、猫を飼っていて猫には癒されます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:47:55",
+      "utterance": "散歩は好きですね！",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:48:20",
+      "utterance": "そうなんですね、ジムに行かれてたんですね。猫ちゃん、癒してもらえる。散歩が好き。いろいろありますね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:49:17",
+      "utterance": "気分が上がらないからやろうと思ってやったことはありませんでしたね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:49:32",
+      "utterance": "わざとやってみるのもいいかもしれないですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:50:06",
+      "utterance": "それはよい考えですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:50:21",
+      "utterance": "できそうでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:51:21",
+      "utterance": "そうですね他にも楽しめそうなものも探してみたいですね",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:51:59",
+      "utterance": "いいと思います。ぜひ、探してみてください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:52:21",
+      "utterance": "何か見つかればいいですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:53:07",
+      "utterance": "はい、探してみます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:54:38",
+      "utterance": "あなたはとても頑張ってしまうので、それで心を痛めてしまうのではないかとわたしは思うのです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:55:26",
+      "utterance": "でも、その責任感はとても素晴らしいし、否定することではないと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:55:55",
+      "utterance": "そう言っていただけけると心強いですありがとうございます。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:56:58",
+      "utterance": "食事のバランスのことを気にするのも大切なことですが、あなた自身がそれで辛くなってしまうほうが心配です。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:57:11",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:58:05",
+      "utterance": "ゆったりとした気持ちでいいと思いますよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T13:58:16",
+      "utterance": "そうしてみます",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T13:59:21",
+      "utterance": "ここまでで、相談はどうでしたでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T14:00:03",
+      "utterance": "これから、気持ちが下がってしまった時は意図的に息抜きをしてみようと思いましたありがとうございました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T14:01:20",
+      "utterance": "それはよかったです。どうぞ、お身体を大事にしてくださいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T14:01:37",
+      "utterance": "はい。ありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T14:02:16",
+      "utterance": "これで相談を終了させていただいてよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T14:02:30",
+      "utterance": "はい，大丈夫です",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T14:03:21",
+      "utterance": "本日はお越しいただきありがとうございました。これで、相談を終了させていただきます。失礼します。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-03T14:03:35",
+      "utterance": "ありがとうございました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-03T14:03:57",
+      "utterance": "お疲れさまでした。ありがとうございました。",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "妊娠中の気分の上下と自己責任感の問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1555,
+    "評価作成日時": "2021-04-03T14:15:00",
+    "クライアント役ID": 171,
+    "カウンセラー役ID": 178,
+    "点数": 81,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1555,
+    "evaluation_created_at": "2021-04-03T14:15:00",
+    "client_id": 171,
+    "counselor_id": 178,
+    "score": 81,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

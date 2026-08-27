@@ -1,0 +1,842 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-10-25T09:52:53",
+      "utterance": "今日はよろしくお願いします",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T09:53:22",
+      "utterance": "よろしくお願いいたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T09:53:48",
+      "utterance": "ご準備できたら始めさせていただきますね",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T09:58:19",
+      "utterance": "始めてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T09:58:26",
+      "utterance": "はい、大丈夫です。お願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T09:58:45",
+      "utterance": "では始めさせていただきますね",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T09:59:42",
+      "utterance": "こんにちは。相談員です差し支えなければ、性別と年齢を教えていただけますでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:00:21",
+      "utterance": "こんにちは26歳、女性です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:00:57",
+      "utterance": "教えて頂きありがとうございます。今日はどのような相談でしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:01:24",
+      "utterance": "今後の働き方について悩んでいます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:01:49",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:02:20",
+      "utterance": "はい、",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:03:03",
+      "utterance": "今後といいますと、今はどのようなお仕事をされているのか教えていただけますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:03:24",
+      "utterance": "会社員です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:04:02",
+      "utterance": "今は経理を担当しています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:04:41",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:05:30",
+      "utterance": "今のお仕事は充実していらっしゃるのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:05:57",
+      "utterance": "いえ、していないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:07:15",
+      "utterance": "そうだったんですね・・どんな点が充実していないと感じますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:07:58",
+      "utterance": "とにかく暇で、やることがないのです。経理なので月末はそれなりに仕事があるのですが、月初めは本当にやることがありません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:08:28",
+      "utterance": "それは嫌になってしまいますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:09:18",
+      "utterance": "やることがないって・・なんだか困ってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:09:36",
+      "utterance": "はい、暇は好きじゃないので、仕事に対して何も充実感がありません",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:09:46",
+      "utterance": "そうだったんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:10:11",
+      "utterance": "今のお仕事はどのくらい続けてるんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:10:32",
+      "utterance": "4年目になります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:11:01",
+      "utterance": "そんなに長く続けていらしたんですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:11:32",
+      "utterance": "暇になってしまったのはいつ頃からですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:12:16",
+      "utterance": "経理に異動になったのは半年前なので、そこからですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:12:27",
+      "utterance": "そうだったんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:12:57",
+      "utterance": "異動になる前は忙しくお仕事されていたんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:13:50",
+      "utterance": "とても忙しいってほどではないですが、あまり暇はしなかったです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:15:06",
+      "utterance": "以前のほうが今ほど悩んでしまうことはなかったのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:15:31",
+      "utterance": "はい、働きやすかったです",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:15:42",
+      "utterance": "そうだったんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:16:04",
+      "utterance": "それは残念な気持ちになってしまいますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:17:03",
+      "utterance": "いまの仕事でやることがなくて困っているほかにも、悩んでいることはありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:17:48",
+      "utterance": "そうですね…給料がそんなに高くないことですかね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:18:36",
+      "utterance": "そうなんですねそれは悩ましいですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:19:14",
+      "utterance": "ダブルワークは禁止されているので、このままの給料では将来が不安です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:20:20",
+      "utterance": "それはお困りですね本当に切実な問題ですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:20:54",
+      "utterance": "今は正社員でお仕事されているのでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:21:01",
+      "utterance": "はい、そうです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:21:56",
+      "utterance": "では。余計に今後のことが心配になってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:22:40",
+      "utterance": "はい、1人で生きていくならいいですけど、結婚とか出産とか、将来を考えると今のままでは足りないと感じます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:23:49",
+      "utterance": "そんなふうに考えていくと、心配になってしまいますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:24:25",
+      "utterance": "社会人になって初めて勤務されている会社なんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:25:12",
+      "utterance": "はい、大学卒業後からそのまま今に至ります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:25:25",
+      "utterance": "そうだったんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:27:05",
+      "utterance": "今の会社はご自分でも納得されて入社されたんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:27:24",
+      "utterance": "はい、納得しています。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:27:40",
+      "utterance": "社風もいいですし、社員の皆さんも良い人ばかりです。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:27:50",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:28:36",
+      "utterance": "就活されて希望の会社に入られたんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:28:54",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:29:57",
+      "utterance": "給与面で心配されているようですが、今はおひとり暮らしとかなんでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:30:15",
+      "utterance": "いえ、実家です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:30:48",
+      "utterance": "実家から通勤されているのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:31:29",
+      "utterance": "はい、そうです",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:32:14",
+      "utterance": "でしたら、今のお給料もしっかり貯金とかはできたりするのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:33:06",
+      "utterance": "近いうちに今付き合っている人との同棲を考えているので、今ある貯金はそれでなくなるんじゃないかと思います。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:33:31",
+      "utterance": "なるほど・・そうだったんですね・・",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:34:24",
+      "utterance": "それで今の会社のお給料では？と心配されてるんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:34:56",
+      "utterance": "はい、同棲を始めたらそれこそ結婚とかも近くなるだろうし、そうなると今の給料では心配です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:35:59",
+      "utterance": "今後かかるお金のことを考えると、不安な気持ちになってしまいますね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:36:31",
+      "utterance": "転職しようか・・とは考えてますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:37:51",
+      "utterance": "転職はちょっと迷いがあります。今の会社が嫌いなわけでもないし、次この会社くらい社風や人が良い会社を見つけられるかと言ったら自信がないです",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:38:18",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:38:40",
+      "utterance": "本当は会社を辞めてしまって自宅でピアノ教室をやりたいんですけど、それだと今よりさらにお金を稼げなくなるので、悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:39:26",
+      "utterance": "そうだったんですね・・素敵な夢があるのですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:39:52",
+      "utterance": "ありがとうございます。でも現実的には厳しいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:42:39",
+      "utterance": "彼氏さんさんは将来の生活について、どんなふうに言われていますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:43:08",
+      "utterance": "↑失礼しました彼氏さん",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:43:46",
+      "utterance": "具体的に将来を考えるタイプではないので、今はまだ話していないです。同棲のためにお金を貯めることに集中して欲しいですし…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:44:45",
+      "utterance": "そうなんですね今のところはあなた一人で悩まれているような状況ななんですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:45:39",
+      "utterance": "家族には相談しますけど、自分のいいと思う道を選びなさいって言われます。私の選ぶ道を応援してくれると思います。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:46:41",
+      "utterance": "ご家族は応援してくれているんですね素敵な家族ですね！",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:47:13",
+      "utterance": "ここまでお話を少し整理させていただいてもよろしいでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:47:30",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:49:41",
+      "utterance": "あなたは就活して社風も良くて人間関係にも恵まれた希望委の会社に入り4年間も勤務を続けてきたのですが、",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:50:51",
+      "utterance": "半年前に経理に異動になり仕事が暇な時期もあり、充実感がなくなり、困っています",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:52:59",
+      "utterance": "はい、",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:53:30",
+      "utterance": "会社自体には不満はないのですが、彼氏さんと同棲して生活していくうえで今後の将来を考えると給与面での心配があり、ダブルワークも禁止されているため、収入面でとても悩んでいます",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:54:30",
+      "utterance": "転職するのも自信がなくどうしたらよいかと、相談にこられたのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:55:14",
+      "utterance": "このような理解で宜しいでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:55:36",
+      "utterance": "はい、どうやって稼いでいくのがベストなのかが知りたいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:56:20",
+      "utterance": "そうですよね・・今までのお話を伺って感じたことをお伝えてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:57:11",
+      "utterance": "はい、お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:57:56",
+      "utterance": "あなたは、将来のことも堅実に考えてとてもしっかりした方だと思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T10:58:44",
+      "utterance": "ありがとうございます…",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T10:59:36",
+      "utterance": "そして一人で悩みを抱えこまずに家族に相談したり、ここにも相談されてとてもポジティブな方だと思いました",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:01:14",
+      "utterance": "彼氏さんには、まだ具体的な悩みを打ち明けていないようですが、思い切って相談されたらきっとわかってくれるのではないでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:01:49",
+      "utterance": "いかがでしょうか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:02:33",
+      "utterance": "あまり彼氏に負担をかけたくないのですが、相談した方がいいですか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:03:11",
+      "utterance": "今後はあなただけでなく、将来はお二人の未来だと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:04:15",
+      "utterance": "なんでも相談して話し合って二人で素敵な未来を築いていって欲しいと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:04:44",
+      "utterance": "ぜひ相談してみて欲しいです",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:04:50",
+      "utterance": "二人の未来ですか…確かにそうですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:05:03",
+      "utterance": "はい",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:05:10",
+      "utterance": "分かりました、相談してみます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:05:44",
+      "utterance": "あなただけが悩む必要はないですよ・・",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:06:29",
+      "utterance": "働くのは私なので、私の問題だと思っていました。ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:07:50",
+      "utterance": "あなたが将来の経済的なことで悩んでいることを、彼氏さんにもわかってもらい、これからは二人で乗り越えてもらいたいと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:08:23",
+      "utterance": "はい、頑張ります",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:09:05",
+      "utterance": "あなた将来、ピアノ教室を開く夢を私も応援しています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:09:39",
+      "utterance": "それもいつかは現実にできるように頑張りますありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:10:14",
+      "utterance": "今の会社も、結婚後も辞めずに育休をとって長く働くという選択肢もあります",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:11:06",
+      "utterance": "定年まで働けば年給などいろんなメリットもあります",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:11:38",
+      "utterance": "そうですよね、そこも検討してみます",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:12:01",
+      "utterance": "コミュニケーションがとれるあなたなら、きっといろんな方に相談しながら生きていかれると思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:12:35",
+      "utterance": "今日の相談はここまでで大丈夫そうでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:12:51",
+      "utterance": "はい、大丈夫です。ありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:13:15",
+      "utterance": "今日は相談に来て頂いてありがとうございました。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:13:40",
+      "utterance": "これからもあなたの頑張り応援しています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:14:25",
+      "utterance": "今日はありがとうございました",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:14:47",
+      "utterance": "これで今日は終了にさせていただいてもよろしいでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:15:05",
+      "utterance": "はい、大丈夫です。ありがとうございました！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:16:02",
+      "utterance": "（では終了ボタン押させていただきます。今日はありがとうございました。とても勉強になりました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:16:23",
+      "utterance": "（少し時間が過ぎてしまい申し訳ありませんでした）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-25T11:16:38",
+      "utterance": "こちらこそ、本日はありがとうございました。時間は全然、大丈夫です！また機会がありましたらよろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-25T11:17:02",
+      "utterance": "はい。ぜひよろしくお願いいたします。",
+      "tag": "Greeting"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "将来の働き方と収入の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 608,
+    "評価作成日時": "2020-10-25T11:41:00",
+    "クライアント役ID": 45,
+    "カウンセラー役ID": 93,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 608,
+    "evaluation_created_at": "2020-10-25T11:41:00",
+    "client_id": 45,
+    "counselor_id": 93,
+    "score": 59,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

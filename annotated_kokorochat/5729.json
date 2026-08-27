@@ -1,0 +1,528 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-18T13:51:18",
+      "utterance": "（こんにちは。今日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T13:55:16",
+      "utterance": "（こんにちは。こちらこそよろしくお願いいたします。今日は希死念慮の強い相談者役をやらせてもらってもよろしいでしょうか？）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T13:57:03",
+      "utterance": "（承知いたしました。難しい課題で、うまく対応できないこともあるかと思いますが、勉強をさせていただきます。よろしくお願いいたします。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T13:57:31",
+      "utterance": "（ありがとうございます。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:00:32",
+      "utterance": "こんにちは。相談員です。はじめに年齢と性別、相談したいことを教えてください。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:01:29",
+      "utterance": "50代　男性死ぬしかないですよね",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:02:12",
+      "utterance": "コメントありがとうございます。死ぬしかないと…そう思われているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:02:21",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:02:41",
+      "utterance": "とてもお辛い気持ちでいると思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:02:51",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:03:36",
+      "utterance": "心配でお伺いするのですが、今は安全な場所にいらっしゃいますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:04:12",
+      "utterance": "はい、家にいます",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:04:27",
+      "utterance": "そうなのですね。ありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:05:17",
+      "utterance": "どの様なことがあって、そう思うようになったのかお聞きしてもいいですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:05:59",
+      "utterance": "多重債務で八方塞がり",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:06:37",
+      "utterance": "そういう状況なのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:06:45",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:07:25",
+      "utterance": "追い込まれてしまう気持ちになるのも当然と思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:07:43",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:08:32",
+      "utterance": "相談者様はどのようなお仕事をされているのですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:09:05",
+      "utterance": "今は無職",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:11:52",
+      "utterance": "そうなのですね。もしよろしければ、今の状況になるに何があったのか教えてもらえますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:13:24",
+      "utterance": "ギャンブルや飲み過ぎで身体を壊した",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:14:47",
+      "utterance": "そういう状況なのですね。相談者様の体の調子は今はいかがですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:16:07",
+      "utterance": "足腰が痛くて、あまり動けない",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:17:11",
+      "utterance": "あまり調子が良くないのですね。体調が悪いと余計気持ちも重くなってしまいがちになると思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:17:28",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:18:24",
+      "utterance": "今はどのようにして生計を立てているのですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:22:12",
+      "utterance": "市役所の生活困窮支援の窓口に相談したがどうにもならない。たまにボランティアの食事支援を受けている",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:24:38",
+      "utterance": "市役所にもご相談されていたのですね。食事支援も受けていらっしゃる。色々とお考えになり、行動されてきたのですね。でも今の相談者様のお気持ちを考えると途方に暮れてしまっているように思われます・・・。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:26:12",
+      "utterance": "心配でお聞きするのですが、ご家族はいらっしゃるのですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:26:31",
+      "utterance": "NPOの団体にも相談したがダメだった",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:27:06",
+      "utterance": "コメントが行き違いになってしまいましたね。失礼いたしました。",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:27:47",
+      "utterance": "コメントが行き違いになってしまいました。失礼いたしました。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:27:57",
+      "utterance": "両親は他界していて、兄弟とも縁を切っている",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:29:08",
+      "utterance": "ご家族について教えてくださりありがとうございます。NPOの団体にに相談されたのですね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:29:41",
+      "utterance": "はい、でもダメだった",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:31:03",
+      "utterance": "ダメだったのですね…。色々なところに相談してきても、それでは気持ちも落胆してしまいますね。相談されてきた中で、何か提案はされたことはありましたか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:32:02",
+      "utterance": "自己破産するしかないと言われた",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:32:32",
+      "utterance": "そのように提案されたのですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:33:06",
+      "utterance": "相談様はそう言われてどう感じられましたか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:33:44",
+      "utterance": "そんな事をするぐらいなら死んだ方がまし",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:34:48",
+      "utterance": "そう思われるくらい、嫌なことと思われたのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:35:00",
+      "utterance": "はい",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:35:52",
+      "utterance": "自己破産をするとどんな風になると思われているのか、よかったら教えてもらえますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:38:37",
+      "utterance": "よくわからない。この窓口も県がやっていると聞いたので相談に来たが何をしてくれるのか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:41:55",
+      "utterance": "そうですね。自己破産という言葉はそれ自体がとても怖く感じられるように、相談員も思っています。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:42:25",
+      "utterance": "そして、こちらの相談窓口では、相談者様が悩まれている気持ちを、少しでも軽くできるようお手伝いをさせてもらえたらと考えています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:43:11",
+      "utterance": "話しを聞くだけで人を助けられると思っているのか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:47:13",
+      "utterance": "そうですね。お話を聞かせてもらうことで、相談者様のお気持ちや、本当はどうしたいのかを一緒に考えたり、これからのことを決めるお手伝いができればと考えています。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:48:06",
+      "utterance": "何をしてくれるのか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:49:49",
+      "utterance": "良かったら、今まで相談者様からお聞きしたことを少しまとめさせていただき、お話をさせてもらえたらと思いますが、大丈夫ですか。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:50:05",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:50:18",
+      "utterance": "ありがとうございます。少しお時間を頂きますね。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:50:26",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:53:20",
+      "utterance": "現在は無職。多重債務を抱え、体調もあまり思わしくない。市役所やNPOにも相談されているが、よい返事はもらえない状態。提案として自己破産を進められているが、相談者様としては自己破産はしたくない。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:53:54",
+      "utterance": "いかがでしょう。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:54:27",
+      "utterance": "はい、そうです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:55:11",
+      "utterance": "何ができるのか？",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T14:56:38",
+      "utterance": "そうですね。少しお話をさせてください。まず，今回、まずは今の状況に、死んだほうがましとおっしゃるほど思い詰めていらっしゃったのだと感じました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T14:57:50",
+      "utterance": "結局誰も助けてくれない。実際に何ができるか答えてもらえないなら死ぬしかない",
+      "distress_level": 3,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T15:00:19",
+      "utterance": "そう思われたのですね。お話の中で、今回のご相談に至るまで相談者様も様々なところにご相談もされ、手を尽くしていらっしゃったこともわかり、その勇気や努力も感じられました。そして報われない辛さも感じました。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T15:01:13",
+      "utterance": "（ありがとうございました。終了の方向でお願いします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T15:04:05",
+      "utterance": "（ありがとうございます。）大変申し訳ありませんが、お時間となってしまいました。もし、気持ちがむきましたら、行政から弁護士に相談するという事や、自己破産について聞いてみてはどうかと思いました。今回の相談は記録に残りますので、いつでもお越しください。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T15:04:38",
+      "utterance": "はい、ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T15:05:21",
+      "utterance": "相談者様のことを応援しています。では、これで締めさせていただきます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T15:05:37",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T15:06:09",
+      "utterance": "（ありがとうございました。貴重なケースを経験させていただきました。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T15:07:25",
+      "utterance": "（こちらこそ、急な難しい相談に対応していただきありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-18T15:07:50",
+      "utterance": "（時間がオーバーしてしまい失礼いたしました。ではこれで締めさせていただきます。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-18T15:07:59",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "希死念慮の強い感情"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5729,
+    "評価作成日時": "2023-09-18T15:19:00",
+    "クライアント役ID": 224,
+    "カウンセラー役ID": 402,
+    "点数": 62,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5729,
+    "evaluation_created_at": "2023-09-18T15:19:00",
+    "client_id": 224,
+    "counselor_id": 402,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

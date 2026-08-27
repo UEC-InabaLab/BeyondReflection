@@ -1,0 +1,764 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:53:26",
+      "utterance": "こんにちはよろしくお願いします",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T15:54:54",
+      "utterance": "よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:55:09",
+      "utterance": "少し早いですが、始めてもよろしいでしょうか勿論、時間どうりでも構いません",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T15:56:51",
+      "utterance": "大丈夫ですよ、ここからスタートでお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:56:51",
+      "utterance": "それでは、時間どうりに始めますね",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:57:11",
+      "utterance": "はい、わかりましたありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T15:57:13",
+      "utterance": "わかりました、よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:58:05",
+      "utterance": "こんにちは相談員です今日は、ご相談にお越しいただき、ありがとうございますよろしくお願いします",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:58:30",
+      "utterance": "今日は、どのようなご相談ですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T15:58:51",
+      "utterance": "はい、よろしくお願いします婚活が全く上手くいかなくて困ってます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T15:59:27",
+      "utterance": "そうなんですねもう少し、詳しくお話しいただけますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:01:10",
+      "utterance": "はい、出会う人が毎度つまらなく感じてしまって",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:01:35",
+      "utterance": "結婚したい気持ちはあるけど、運が悪いなぁという思いです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:01:46",
+      "utterance": "そうなんですね・・・それは、がっかりしてしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:02:01",
+      "utterance": "はい、",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:02:11",
+      "utterance": "そうなんですね・・そう思われるのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:02:34",
+      "utterance": "そうですね…",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:02:44",
+      "utterance": "いつ頃から、婚活を始められていらっしゃるのですか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:02:58",
+      "utterance": "もう3年ほどになります",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:03:53",
+      "utterance": "そうなんですね・・長い間、されていらっしゃるのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:04:27",
+      "utterance": "年齢、性別、お名前をなんとお呼びしたらよいか、教えていただけますか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:04:37",
+      "utterance": "はい、35歳男性、野川といいます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:05:22",
+      "utterance": "野川さん、教えていただき、ありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:06:51",
+      "utterance": "野川さんは、どんな女性が、好きなんですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:06:59",
+      "utterance": "そうですね…",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:07:07",
+      "utterance": "はい、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:07:34",
+      "utterance": "爽やかな感じがあって優しくて、自分の話をうんうんと聞いてくれる人、大切にしてくれる人、ですかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:07:42",
+      "utterance": "これが理想です。そんな人なら文句なしですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:08:26",
+      "utterance": "そうなんですね・・・素敵な人ですね",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:08:50",
+      "utterance": "そうですよね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:10:39",
+      "utterance": "大切にしてくれる人って、幸せですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:11:21",
+      "utterance": "ねー…そうですよね。なかなか出会えないし、やっぱり運が悪いなあと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:11:30",
+      "utterance": "今まで、そのような人は、いらっしゃいましたか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:12:30",
+      "utterance": "いやー…いなかったですねみんな、真面目な感じというか",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:12:52",
+      "utterance": "この歳なんで、チャラチャラした遊びの関係がしたいのではなくて。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:13:14",
+      "utterance": "そうなんですね・・理想の人が、なかなか出会わないのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:13:45",
+      "utterance": "はい。遊びじゃなく結婚したくて婚活をしてるのですが、やはりこの堅苦しい人と一緒にいてもつまらなさそうだ…と思ってしまいますね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:14:38",
+      "utterance": "そうなんですね・・・堅苦しい人が、多いのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:15:07",
+      "utterance": "はい、そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:15:17",
+      "utterance": "今は、婚活で、どのような婚活をされていらっしゃるのですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:16:58",
+      "utterance": "マッチングアプリとかではなくて、ちゃんとした婚活のサービスを使ってますね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:18:05",
+      "utterance": "そうなんですねちなみに、こんかつのサービスとは、どのようなことを、なさっていらっしゃるのですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:20:21",
+      "utterance": "婚活支援のサービスをしてる企業を介したものですね自分に合っているかも？と考えてくれた人に実際にあったり話したりできますね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:20:49",
+      "utterance": "すごい良いとは思うし、同じタイミングで婚活始めて人でもう結婚した人もいるんで、良いサービスだと思います",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:21:01",
+      "utterance": "それでもうまくいかないし、やっぱ運が悪いなーと…",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:23:03",
+      "utterance": "そうなんですね・・実際にあっったりする、野川さんがとてもいいなと思っているサービスをtっ利用していて、実際に結婚している人を見ていたりすると、虚しくなってきてしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:23:54",
+      "utterance": "ですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:24:50",
+      "utterance": "ちなみに、３年前は、野川さんは、どのような感じだったのですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:25:28",
+      "utterance": "うーんそうですね、特に結婚したくはなかったですね",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:25:32",
+      "utterance": "思い出したんですが",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:25:39",
+      "utterance": "はい、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:25:44",
+      "utterance": "20代の頃に好きだった彼女を実家に連れて行ったときに",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:25:55",
+      "utterance": "ええ、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:26:30",
+      "utterance": "自分を可愛がってくれた祖母に反対されて、反対されるなら付き合いたくないな…と思うようになって",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:26:45",
+      "utterance": "今思うと、その時から他人と付き合うのがつまらなく感じてきました",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:26:46",
+      "utterance": "はい、",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:26:52",
+      "utterance": "でも結婚して幸せにはなりたいんです。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:27:17",
+      "utterance": "そうなんですね・・それは、悲しすぎますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:28:35",
+      "utterance": "野川さんは、祖母さんのことを、今、どのように思いますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:30:22",
+      "utterance": "可愛がってくれたなあと思いますね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:31:09",
+      "utterance": "そうなんですね・・・可愛がってくれた思いが、強いのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:32:07",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:32:23",
+      "utterance": "今、祖母さんは、元気で、生活していらっしゃいますか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:34:04",
+      "utterance": "や、いまはもう亡くなりました、家族で見守れたので、よかったですよ！",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:35:15",
+      "utterance": "そうなんですね・・・きっと、祖母さんも、野川さんのことを、大切に思っていらっしゃったのだと思いますよ",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:36:02",
+      "utterance": "そうですね。そう思っています",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:36:26",
+      "utterance": "野川さんのことを、大切に思っていらっしゃっっていたからこそ、結婚を反対されていたのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:37:45",
+      "utterance": "祖母さんも、きっと野川さんのことを、応援していることと、思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:38:08",
+      "utterance": "はい、そうですね…。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:38:53",
+      "utterance": "どうしたもんでしょうかね、そう思うと、結婚はもううまくいかないかなとも思います",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:39:30",
+      "utterance": "そうなんですね・・・そう思われてしまったのですね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:40:48",
+      "utterance": "そんなことがあった後なんて、そのように思うのも、もっともなことだと思います",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:41:50",
+      "utterance": "今、家族は、何人で、どんな方と暮らしていますか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:42:10",
+      "utterance": "いまは一人暮らしですね。実家に両親がいます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:42:24",
+      "utterance": "そうなんですね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:44:36",
+      "utterance": "両親は、結婚相手を見つけたら、どのような対応をしていただけると思いますか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:44:53",
+      "utterance": "喜ぶとは思いますね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:45:19",
+      "utterance": "そうですよね・・そうだと嬉しいですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:45:52",
+      "utterance": "今までのことを、整理してよろしいでしょうか",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:46:55",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:47:02",
+      "utterance": "野川さんは、婚活中で、理想の人が見つからず、探しています",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:47:51",
+      "utterance": "素敵なりそうの人がいます",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:49:43",
+      "utterance": "しかし、大切にされていた祖母さんが、以前、結婚に反対されたことで、人と、しっかりと付き合うのが、つまらなくなってしまい、お辛いですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:50:18",
+      "utterance": "まあそうですね……",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:50:32",
+      "utterance": "祖母さんは、きっと野川さんをたいせつに思っていると思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:51:05",
+      "utterance": "ご両親も、結婚には、喜んでくれると思います",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:51:19",
+      "utterance": "いかがですか",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:52:31",
+      "utterance": "野川さんは、祖母さんのことを思って、思い切って、勇気を持って、結婚相手を見つけることが、とても大切だと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:54:23",
+      "utterance": "野川さん、お祖母さんは、素敵な結婚相手と結婚することを、心から願っています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:54:34",
+      "utterance": "そうですね、だから探しています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:54:50",
+      "utterance": "そうですよね",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:56:08",
+      "utterance": "はい…何が違うんですかね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:57:04",
+      "utterance": "人との付き合いをとても大切にしていけば、きっと、大切な理想の人が、見つかることと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:57:41",
+      "utterance": "野川さんが、そうだということでは、ないですよ",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:58:17",
+      "utterance": "？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:59:00",
+      "utterance": "野川さんが、素敵な家族の人のことを、思って、真剣に、大切に人と接してください",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:59:11",
+      "utterance": "そうしたら",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T16:59:49",
+      "utterance": "必ず、野川さんは、理想の結婚相手が見つかることと思います",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:59:53",
+      "utterance": "なるほど、やってみますね？",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T16:59:54",
+      "utterance": "！",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T17:00:31",
+      "utterance": "野川さんの幸せを、祈っています応援してみます",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T17:01:30",
+      "utterance": "↑応援しています",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T17:02:07",
+      "utterance": "本日は、ご相談に来ていただき、ありがとうございます",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T17:02:30",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T17:02:51",
+      "utterance": "ありがとうございました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T17:03:16",
+      "utterance": "時間なので、これでロールプレイを終了いたします",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-18T17:03:51",
+      "utterance": "終了ボタンを押しますねありがとうございます",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-18T17:04:22",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "婚活の苦労と理想の相手が見つからないこと"
+  },
+  "review_by_client_jp": {
+    "評価ID": 972,
+    "評価作成日時": "2020-12-18T21:34:00",
+    "クライアント役ID": 119,
+    "カウンセラー役ID": 42,
+    "点数": 18,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 3,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 972,
+    "evaluation_created_at": "2020-12-18T21:34:00",
+    "client_id": 119,
+    "counselor_id": 42,
+    "score": 18,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

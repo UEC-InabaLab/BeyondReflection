@@ -1,0 +1,637 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:20:52",
+      "utterance": "待機しています。時間になったら始めます。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:28:19",
+      "utterance": "宜しくお願いいいたします！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:28:40",
+      "utterance": "こちらこそよろしくお願いします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:30:03",
+      "utterance": "こんばんは、相談員です。年齢、性別、相談内容を教えていただけますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:30:47",
+      "utterance": "こんばんは20代女性なかなか仕事が見つからず悩んでいます",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:32:17",
+      "utterance": "そうなんですね。仕事が見つからなくて悩まれているんですね。今は大学生ですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:32:27",
+      "utterance": "いえ、社会人です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:33:11",
+      "utterance": "今は、お仕事はされていないのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:33:26",
+      "utterance": "してないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:34:17",
+      "utterance": "仕事探しは、始めてからどの位になりますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:34:32",
+      "utterance": "2ヶ月くらいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:35:09",
+      "utterance": "そうなんですね。どういったお仕事をお探しですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:35:30",
+      "utterance": "接客とか電話対応とか色々です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:36:43",
+      "utterance": "以前のお仕事が、そういった関係の仕事をされていたのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:36:50",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:37:33",
+      "utterance": "今は、どのような形でお仕事を探されていますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:37:43",
+      "utterance": "転職サイトです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:38:47",
+      "utterance": "もう、何件か応募されたりはしていますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:38:51",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:39:44",
+      "utterance": "面接とかも、されているのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:39:50",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:40:51",
+      "utterance": "以前のお仕事は、どの位働かれていたのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:41:02",
+      "utterance": "2年くらいです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:41:58",
+      "utterance": "やめられた、きっかけとかは、ありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:42:17",
+      "utterance": "前の職場の雰囲気が悪すぎてやめました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:43:20",
+      "utterance": "そうなんですね。それは、お辛かったですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:43:30",
+      "utterance": "はい、そうですね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:44:24",
+      "utterance": "今は一人暮らしですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:44:35",
+      "utterance": "いえ、同棲してます",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:45:38",
+      "utterance": "そうなんですね。金銭的には困ってはいないのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:46:11",
+      "utterance": "困りますね、貯金を切り崩してますので",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:47:21",
+      "utterance": "いつ位までに、お仕事を見つけたいと思いでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:47:34",
+      "utterance": "もうすぐに見つけたいです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:49:31",
+      "utterance": "そうなんですね。転職サイトでは、あまりよい仕事が、ないのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:49:55",
+      "utterance": "うーん…なくはないですけどね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:51:50",
+      "utterance": "仕事探しを始めた頃と今とで気持ちの変化などはありましたか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:52:08",
+      "utterance": "焦りが大きくなってるくらいですかね。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:52:19",
+      "utterance": "あとは自分にどんな仕事が向いてるのかわからなくなってきました",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:53:27",
+      "utterance": "そうなんですね。仕事についても悩まれているんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:53:35",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:54:44",
+      "utterance": "同棲されているパートナーには、相談されたりしているのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:54:56",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:55:15",
+      "utterance": "どのように言われてますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:55:32",
+      "utterance": "そんな焦らなくても良いよーって感じです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:57:04",
+      "utterance": "そうなんですね。そう言う風に言ってくれると多少安心しますかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:57:11",
+      "utterance": "そうですへ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T19:58:36",
+      "utterance": "ハローワークとかに相談されたりしたことは、ありますか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T19:58:49",
+      "utterance": "ないですけど、考えてないですね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:00:22",
+      "utterance": "そうなんですね。仕事探しで、これは譲れないということはありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:00:38",
+      "utterance": "やりがいですかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:00:50",
+      "utterance": "あと頑張った分評価されることですかね",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:02:25",
+      "utterance": "今までの仕事では、やりがいとか評価されるということが、あまりなかったのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:02:34",
+      "utterance": "あったんですけど",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:02:40",
+      "utterance": "雰囲気が悪かったので",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:02:46",
+      "utterance": "耐えられずでした",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:04:20",
+      "utterance": "今度働くとこは、人間関係のいいところが良いのでしょうかね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:04:28",
+      "utterance": "そうですけ",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:04:32",
+      "utterance": "ね",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:07:41",
+      "utterance": "お仕事は接客業や電話応対の仕事をされていたということですが、詳しい職業を教えてもらってもよろしいですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:07:56",
+      "utterance": "美容カウンセラーです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:09:17",
+      "utterance": "そうなんですね。できれば又美容カウンセラーの仕事をお探しなのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:09:32",
+      "utterance": "そこは別に変わっても良いかなと思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:10:19",
+      "utterance": "例えばどんなお仕事ですかね。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:10:46",
+      "utterance": "それがあんまり決まってないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:13:14",
+      "utterance": "そうなんですね。今は仕事探しに熱中している状況なのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:13:30",
+      "utterance": "やる気は下がってきてますね",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:15:24",
+      "utterance": "そうなんですね。気持ちが下がってきているんですね。それはお悩みですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:15:35",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:16:39",
+      "utterance": "今は仕事探しの他にされていることは何かありますか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:16:57",
+      "utterance": "他というとなんでしょうか？",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:17:58",
+      "utterance": "趣味とかでストレスを発散していることとか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:18:09",
+      "utterance": "まあそれはしてます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:18:46",
+      "utterance": "どういった事をされているのでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:19:00",
+      "utterance": "映画見たりとかです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:21:34",
+      "utterance": "そうなんですね。今現在仕事探しはどんな気持ちですか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:21:45",
+      "utterance": "どんな気持ち…",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:21:46",
+      "utterance": "焦ります",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:23:04",
+      "utterance": "最近、転職サイトに応募されたのは、いつ頃ですか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:23:17",
+      "utterance": "仕事を探し始めた頃からです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:24:52",
+      "utterance": "最終面接までいったりは、しているのでしょうか。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:25:00",
+      "utterance": "いまはないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:27:23",
+      "utterance": "そうなんですね。今は仕事を探すのに焦ってはいるけれど、モチベーション的には少し下がっている状況なんでしょうかね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:27:29",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:29:52",
+      "utterance": "これからも、仕事探しに頑張っていただきたいと思いますが、今日こうしてお話してみて、いかがでしょうか。",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:30:15",
+      "utterance": "特に何も解決はしてないですが、ありがとうございました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2022-07-24T20:30:58",
+      "utterance": "お時間なりましたので退出させていただきます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-24T20:31:07",
+      "utterance": "お話を聞かせていただきありがとうございました。今日はこれで終わりにさせていただきます。",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "仕事探しの焦りと不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3767,
+    "評価作成日時": "2022-08-05T18:19:00",
+    "クライアント役ID": 290,
+    "カウンセラー役ID": 224,
+    "点数": 28,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3767,
+    "evaluation_created_at": "2022-08-05T18:19:00",
+    "client_id": 290,
+    "counselor_id": 224,
+    "score": 28,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

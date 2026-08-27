@@ -1,0 +1,422 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-04-25T13:56:26",
+      "utterance": "（こんにちは。今日はよろしくお願いします。お時間になりましたら始めさせていただきます。）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:00:14",
+      "utterance": "こんにちは。相談員です。ご相談ありがとうございます。初めに年齢・性別を教えていただけますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:02:31",
+      "utterance": "こんにちは。44歳の女です。最近、旦那とうまくいっていないというか…、仲は悪くないんだけど、楽しくないというかそんな感じで。こんな相談でも大丈夫でしょうか？",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:03:32",
+      "utterance": "教えていただきありがとうございます。大丈夫ですよ。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:04:35",
+      "utterance": "具体的にどのような時に楽しくないと感じられますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:05:32",
+      "utterance": "ありがとうございます。正直、いつも楽しくはないですね。ご飯食べてても別に会話もないですね。あっちは、スマホで漫画見てたりしてます。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:07:05",
+      "utterance": "そうなんですね。一緒にご飯を食べているのにスマホを見ているのは悲しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:07:53",
+      "utterance": "そうですね。悲しいです。テレビつけちゃうとテレビ見ちゃうんで、付けないようにしてるんですけどね。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:07:56",
+      "utterance": "旦那さん以外にも一緒に住んでいる方はいらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:08:57",
+      "utterance": "はい。息子（23歳）と、娘（13歳）がいます。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:09:09",
+      "utterance": "そうなんですね。コミュニケーションがとれるように工夫されているのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:09:28",
+      "utterance": "教えていただきありがとうございます。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:10:20",
+      "utterance": "あなたとお子さんは食事の時どのような感じでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:10:43",
+      "utterance": "そうなんです。工夫はしているつもりなんです。洗い物を彼がしてくれる時は、イヤホンして音楽聴いてますね。子供たちは、",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:12:21",
+      "utterance": "息子は、旦那がいるとあまり喋らないかなぁ…。私とはよく喋りますね。娘は、女子だからなのかよく喋りますね。ありがたいです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:15:19",
+      "utterance": "そうでしたか。それは話しかけづらいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:16:38",
+      "utterance": "はい。話しかけづらいです。そしてこちらも話しかけることがだんだんなくなってきている気がします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:16:40",
+      "utterance": "そうなんですね。息子さんもあまり話さないとなると娘さんだけが旦那さんとお話をよくされているという感じでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:18:24",
+      "utterance": "そうですね。息子は基本、喋らないかも。話しかければ普通に話すんですが。娘は、私とも旦那とも喋りますね。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:18:29",
+      "utterance": "そうですよね。話しかけづらくなるのも無理はないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:20:17",
+      "utterance": "そうなんですね。娘さんしか旦那さんと話さない状況はさみしく感じますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:21:52",
+      "utterance": "ちなみにお食事は家族全員集まってとってらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:22:43",
+      "utterance": "そうですね。なんか、むなしいですよね。はい。時間が合う時は、全員でご飯は食べています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:24:56",
+      "utterance": "そうお思いなんですね。確かに家族そろって食べているのにスマホは虚しく感じますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:25:33",
+      "utterance": "旦那さんがそうなってしまったきっかけってありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:27:41",
+      "utterance": "はい。娘は「ご飯中はスマホ見ちゃダメなんだよ」と旦那に言ってますね。そう言われると見ないようにするけど、そのあとは無言で食べるだけです。きっかけは…、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:28:43",
+      "utterance": "ちゃんとはわからないけど、私が旦那を男性として見られなくなったことを告げてからかなぁ…",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:30:11",
+      "utterance": "娘さんが言ってくれるんですね。無言になるのも気まずくなってしまいますね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:31:01",
+      "utterance": "そんなことをつげられたのですね。どうして男性としてみれなくなってしまったのか聞いてもよろしいでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:32:00",
+      "utterance": "ホルモン系の病気にかかり、その治療のために薬を飲んでいるんです。それは、女性ホルモンを抑制するものなので、もちろん性欲も減ります。それを伝えました。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:35:39",
+      "utterance": "なるほど。ご病気よよくするための副作用にでそうなっているのですね。それを伝えられて旦那さんはなんておっしゃっていましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:37:57",
+      "utterance": "はい。副作用ガッツリ出ています。「病気だから仕方ないよね」とか、「俺は待つから大丈夫」とか言ってくれましたし、そういったことも強要はしないでくれてありがたいとは思っています。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:40:40",
+      "utterance": "副作用がっつりですか、、、よく頑張って耐えてらっしゃいますね。とてもつらいですよね。そうなんですね。旦那さんも理解していただいているみたいでよかったです。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:42:34",
+      "utterance": "ありがとうございます。最初の頃は更年期症状もすごく出てしまい、体もだるくて…とてもじゃないけど、そういう男女の行為なんてできなくて。今は体も慣れてはきたんですが…、思うようにはいかず…ずっとこのままなんだろうか、、と考えたりします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:46:03",
+      "utterance": "そうですよね。お体大変な時なので無理もないと思います。心配になっているのですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:47:36",
+      "utterance": "旦那さんにはもっとお話をしたいことはお伝えしましたか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:48:12",
+      "utterance": "はい。自分の体じゃないような、そんな感じで。そうですね。人間としては好きなんですけど、男性として、女性として、は向き合えなくて。お話は、",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:49:22",
+      "utterance": "それとなくする事もありますが、「そうなんだね」「どうしたらいいんだろうね」ぐらいの会話で終わってしまって…。もう諦めたのかなー？と思って。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:51:01",
+      "utterance": "そうでしたか。自分ではどうしようもないことで更に辛くなってしましまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:52:43",
+      "utterance": "そうなんですね。それは寂しいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:53:03",
+      "utterance": "はい。正直、病気になんてなりたくなかったです。生理止めてるから太るし、白髪もすごい勢いで生えるし。こんな状態なのに、気にせず「メス」を求められるのがすごい嫌でした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:53:45",
+      "utterance": "正直、諦めてくれたのなら、楽かもなって思っちゃったんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:53:55",
+      "utterance": "旦那さんの反応がどこか他人事のように感じられているのでしょうか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:54:57",
+      "utterance": "他人事…、そうですね。それもあるかもしれないですね。どこか真剣に考えてはくれないんだなー、とか。所詮わかるわけないか、とか。でもわかろうとしないくせに、身体だけは求められるのも嫌でした。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:56:12",
+      "utterance": "そんなことがあったのですね。病気で大変なときにそれは辛かったですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T14:57:58",
+      "utterance": "そうでしたか。確かにそのような状況ならそう思われるのも無理もないと思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T14:58:32",
+      "utterance": "はい。辛かったです。「俺は待つから」と言っていたけど、この病気は閉経まで飲まなきゃいけないので、あと20年くらい？飲まなきゃですし。待つから、って…、結局何も考えてくれていないような気さえします。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T15:01:40",
+      "utterance": "（ごめんなさい…！子供を学校にお迎えに行くので、ここまででも大丈夫でしょうか(>_<)",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T15:01:52",
+      "utterance": "（そしてそのまま習い事へ行くので、評価シートをお送りするのが少し遅くなってしまいそうです💦申し訳ありません！）",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T15:03:00",
+      "utterance": "そんなに長い間お薬を飲まなければならないのですね。つらいですね。待つと言っただけでは変わらないように感じてしまいますね。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T15:03:28",
+      "utterance": "（大丈夫ですよ。）",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T15:04:11",
+      "utterance": "お時間になりしたので今日のご相談は終了させていただいてもよろしいでしょうか？",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T15:05:10",
+      "utterance": "はい。大丈夫です！",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T15:05:31",
+      "utterance": "今日はありがとうございました。またいつでもお待ちしておりますのでいらっしゃってください。",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T15:07:16",
+      "utterance": "（お疲れ様でした。お忙しいところ少し時間が過ぎてしまい申し訳ございません。お気を付けていってらっしゃいませ。）",
+      "tag": "Other"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫婦間のコミュニケーション不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4934,
+    "評価作成日時": "2023-04-25T22:59:00",
+    "クライアント役ID": 210,
+    "カウンセラー役ID": 250,
+    "点数": 73,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4934,
+    "evaluation_created_at": "2023-04-25T22:59:00",
+    "client_id": 210,
+    "counselor_id": 250,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

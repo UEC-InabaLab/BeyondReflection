@@ -1,0 +1,782 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:21:32",
+      "utterance": "（おはようございます。本日はよろしくお願いします。時間になったら始めたいと思います）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:27:00",
+      "utterance": "おはようございます。よろしくお願いします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:30:05",
+      "utterance": "おはようございます。相談員です。はじめに、性別とご年齢をお伺いしてもよろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:30:30",
+      "utterance": "26歳　女です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:31:04",
+      "utterance": "ありがとうございます。本日は、どのようなご相談で、お越しいただきましたでしょうか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:32:07",
+      "utterance": "子育てが大変で",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:32:37",
+      "utterance": "そうなんですね。それはお辛いですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:32:51",
+      "utterance": "お子さんは、おいくつですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:33:16",
+      "utterance": "生まれて三週間です",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:34:18",
+      "utterance": "そうですか。ご出産したばかりなんですね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:34:53",
+      "utterance": "はい。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:35:14",
+      "utterance": "それは、お母さんのお体も、まだ回復しきっていないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:35:53",
+      "utterance": "そう。。帝王切開で産んだので、お腹も痛いです",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:37:13",
+      "utterance": "そうなんですね。それはお辛いですよね。傷の回復も万全じゃないのかもしれませんね。授乳も頻回だと思いますが、眠れていますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:37:53",
+      "utterance": "常に眠いけど、眠れないんです・・もう限界です。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:39:05",
+      "utterance": "そうですか...眠れていないのは、心身ともに相当しんどいですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:39:50",
+      "utterance": "産後の育児と、あなたのケアを、手伝ってくれる人はそばにいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:40:26",
+      "utterance": "3日前まで、実の母が手伝いに来てくれていたけど、もう帰ってしまいました。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:40:54",
+      "utterance": "そうなんですね。お母様がいらっしゃった時には、休めたのでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:41:44",
+      "utterance": "家事もしてくれて、赤ちゃんの面倒も見てくれたので、眠る時間も安心して取れてましあ。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:41:53",
+      "utterance": "取れてました。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:43:23",
+      "utterance": "そうですか。それは安心でしたね。では、お母様がお帰りになってしまって、途端に大変になってしまった、感じでしょうか？",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:44:22",
+      "utterance": "そうですね。もともと、あまり寝ない子なので大変なんですが、お母さんが帰ってから、孤独感もすごい感じて、、毎日涙が出るんです",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:46:19",
+      "utterance": "そうですよね。私も子供がいるので、すごくよくわかります。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:46:39",
+      "utterance": "そうなんですね。女性の方ですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:47:01",
+      "utterance": "そうです。３人子供がいます。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:47:27",
+      "utterance": "えーーー！！！すごい。先輩",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:47:44",
+      "utterance": "いえいえ、常に不安だらけです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:48:04",
+      "utterance": "はにめてのお子さんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:48:18",
+      "utterance": "そうなんですか・・はい。初めてです",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:49:19",
+      "utterance": "赤ちゃん育てるのってこんなに大変なんですか・・",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:49:33",
+      "utterance": "世のお母さんみんなこんなに寝てないの？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:49:43",
+      "utterance": "凄すぎるわ・・",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:50:25",
+      "utterance": "そう思ってしまいますよね。私も最初の出産は相当追い詰められました",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:50:47",
+      "utterance": "そうなんですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:51:05",
+      "utterance": "はい。無我夢中すぎて、クタクタで。可愛いと思える余裕は全くなくて",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:51:32",
+      "utterance": "そう！まだ全く可愛いとか思える余裕ない・・起きるのが恐怖で",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:51:57",
+      "utterance": "そうですよね。私も、3か月が過ぎた時、初めて、可愛いと思いました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:52:49",
+      "utterance": "常に、おっぱいと、ゲップと、押し目の連続で、２４時間続いていきますからね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:52:49",
+      "utterance": "やっぱそーゆーもんなんですか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:53:16",
+      "utterance": "やだやだやだ私の毎日を見てるみたい",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:53:47",
+      "utterance": "はい。多分、皆さん、真面目なかたは特に、そうだと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:54:25",
+      "utterance": "ですが、不思議と、半年も過ぎると、またもう一人欲しくなってしまいました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:54:36",
+      "utterance": "真面目なんだ。それが当たり前と思ってた。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:54:57",
+      "utterance": "えーーーそんなこと思えなーーい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:55:50",
+      "utterance": "そうですよね。自分のことは、あたりまえだと思ってしまいますよね。産後は、ホルモンも乱れるので、なおさら、閉塞感が増してしまいますからね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:56:05",
+      "utterance": "へーーそうなんですね。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:56:59",
+      "utterance": "はい。私は、赤ちゃんが死んでしまわないよう、見張っていて疲れてしまい、取扱説明書が欲しいと思っていました。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:58:01",
+      "utterance": "取扱説明書・・欲しい笑オンオフスイッチも欲しい",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:58:39",
+      "utterance": "そうですよね。わからないことだらけですからね。ご主人は、お仕事お忙しいんですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:59:03",
+      "utterance": "２０：００には帰ってきます。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T10:59:35",
+      "utterance": "子育ては協力的",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T10:59:53",
+      "utterance": "そうですか。良かったです。あなたのお気持ちもお話ししていらっしゃいますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:00:27",
+      "utterance": "子供のことは話すけど、自分のことは話さないかな。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:01:23",
+      "utterance": "そうなんですね。ご主人は、お子さんのことを可愛がっていらっしゃるんですよね？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:01:46",
+      "utterance": "可愛がってくれてます。でも夜は寝ちゃうけど",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:02:21",
+      "utterance": "そうですか。本当は、夜中の授乳もお手伝いしてもらいたかったりしませんか？",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:02:36",
+      "utterance": "でも母乳なんで",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:03:07",
+      "utterance": "そうなんですね。素晴らしいですね。完全母乳ですか？",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:04:16",
+      "utterance": "完母です",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:04:43",
+      "utterance": "そうですか。おっぱいはよく出ますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:05:35",
+      "utterance": "最初は全然出なくて。。でも体重は増えてるし最近は出てる感じも出てきて",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:06:47",
+      "utterance": "そうなんですね。私は一人目の時に、ちゃんと出ているかも不安で、でも母乳で育てたくて、とても悩みました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:07:04",
+      "utterance": "そうなんですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:08:48",
+      "utterance": "はい。マッサージに通ったりして。でも、ある時、子供のために、母乳にこだわるあまり、眉間に皺寄せていることに気がついて（笑）混合に変えました",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:09:58",
+      "utterance": "へーーそうなんですか。そーゆーところがあるんですね。私も眉間に皺よってるだろうな",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:10:31",
+      "utterance": "そうですよね。初めての育児は、みんな、余裕がないですからね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:10:42",
+      "utterance": "みんなそうなんですね。",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:12:24",
+      "utterance": "そうだと思います。でも、辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:12:40",
+      "utterance": "たとえばですが．．．",
+      "tag": "Other"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:13:44",
+      "utterance": "まずは、ご主人に、あなたのお気持ちを聞いていただくのはできそうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:14:58",
+      "utterance": "旦那に何を聞いてもらえば？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:16:03",
+      "utterance": "あなたが、今、とても疲れていて、赤ちゃんを可愛いと思えないくらい、大変さを感じていらっしゃることなど、でしょうか。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:16:20",
+      "utterance": "そんなこと言ったら幻滅されそう・・",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:16:42",
+      "utterance": "そうですよね。そう思ってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:17:23",
+      "utterance": "みんな普通に幸せそうに子育てしてるじゃないですか？ひどい女だって思われる。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:17:24",
+      "utterance": "でも、お母さんって、本当に大変なお仕事なんだと思うんです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:18:53",
+      "utterance": "そうですよね。心配になってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:19:42",
+      "utterance": "でも、幸せそうにニコニコ子育てなんて、実際にはみんなしていないと思うんです。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:19:51",
+      "utterance": "そうなんですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:20:24",
+      "utterance": "はい。外に出る時に繕っているんじゃないでしょうか、と思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:21:15",
+      "utterance": "そうなんだ。疲れる〜繕う余裕とかない、一生外出れないな",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:21:54",
+      "utterance": "そうですよね。まだ三週間ですからそう思いますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:23:12",
+      "utterance": "外とか風邪引かしちゃいそうで無理だ。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:24:07",
+      "utterance": "そうですね。特にこれから寒くなってきますからね。私も、公園なんて連れて行かずに育てました。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:24:22",
+      "utterance": "そうなんですか？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:24:51",
+      "utterance": "はい。テレビに子育てしてもらったみたいなものでした（笑）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:25:41",
+      "utterance": "へーーー(*_*)",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:26:31",
+      "utterance": "あなたは、赤ちゃんが風邪ひかないように、元気で育つように、完全母乳で必死で頑張っていらっしゃる、私なんかより、ずっと素敵なお母さんなんだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:27:47",
+      "utterance": "そうですか・・そんなことないですよ。逃げ出したい気持ちを抑えてここにいますから。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:28:26",
+      "utterance": "そうそう、逃げたいですよね。私もいまだに、風邪ひいて猫みたい、なんて思います。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:28:44",
+      "utterance": "猫みたい？何が？",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:28:49",
+      "utterance": "寝込みたい、でした",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:29:21",
+      "utterance": "寝込みたいか笑寝込んだら赤ちゃんのお世話誰がするんだ",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:30:20",
+      "utterance": "そうですよね。私は今は少し、子供が大きくなっているので、寝込めますけど、赤ちゃんが小さいと、寝込むこともできないですよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:30:31",
+      "utterance": "はい",
+      "distress_level": 2,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:31:23",
+      "utterance": "なので、寝込むことになってしまう前に、少しお休みする時間も必要かなと思いますが、いかがでしょうか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:31:41",
+      "utterance": "お休みしたいですよ。。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:33:13",
+      "utterance": "そうですよね。なので、まずはご主人に、しんどさをシェアしてもらうことがあるといいのかなと思うのですが、できそうですか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:33:49",
+      "utterance": "はい、旦那に話して、この土日自分の時間を作れるようにしてみます。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:34:57",
+      "utterance": "そうですね。まずは、それを試していただいて、場合によっては、行政の子育てサポートなども利用してみるといいかなと思います。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:35:31",
+      "utterance": "わかりました。ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:35:51",
+      "utterance": "少しはお役に立てましたでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:36:49",
+      "utterance": "はい",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:37:32",
+      "utterance": "それは良かったです。お辛い時には、いつでもご連絡ください。色々な方法をご一緒に考えられたらと思います。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:38:03",
+      "utterance": "本日はこれで終了させていただいてもよろしいでしょうか？",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:38:18",
+      "utterance": "はい、ありがとうございました。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:39:10",
+      "utterance": "こちらこそ、ありがとうございました。（ありがとうございました、ロールプレイを終了させていただいてもいいでしょうか？）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-04T11:40:12",
+      "utterance": "（ありがとうございました）",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-04T11:40:32",
+      "utterance": "（ありがとうございました！）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子育ての孤独感とサポートの不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2652,
+    "評価作成日時": "2021-11-04T17:29:00",
+    "クライアント役ID": 239,
+    "カウンセラー役ID": 232,
+    "点数": 67,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2652,
+    "evaluation_created_at": "2021-11-04T17:29:00",
+    "client_id": 239,
+    "counselor_id": 232,
+    "score": 67,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

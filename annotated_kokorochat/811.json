@@ -1,0 +1,740 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-30T09:51:25",
+      "utterance": "こんにちは。今日はよろしくお願いいたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T09:59:43",
+      "utterance": "こんにちは。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:00:34",
+      "utterance": "準備がよろしいようでしたら、始めさせていただきます。よろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:00:43",
+      "utterance": "大丈夫です。よろしくお願いいたします。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:01:18",
+      "utterance": "はい、ありがとうございます。始めますね",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:01:23",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:01:49",
+      "utterance": "こんにちは。相談員です。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:01:57",
+      "utterance": "こんにちは",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:02:17",
+      "utterance": "お越しくださって、ありがとうございます。今日は、どんなご相談ですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:03:14",
+      "utterance": "はい。コロナ以降、在宅ワークが増えて、最近いろいろと疲れてきてしまって。いつまで続くのかなと思ってしまします。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:03:52",
+      "utterance": "そうですよね。本当にお辛いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:04:01",
+      "utterance": "はい。つかれますね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:05:13",
+      "utterance": "どんな在宅ワークをされているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:05:25",
+      "utterance": "事務系の仕事です",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:05:57",
+      "utterance": "そうなんですね。今のお仕事そのものはどれくらいされているのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:06:17",
+      "utterance": "結構長くやってます。10年以上かな",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:06:39",
+      "utterance": "そうなんですね。すっかり、ベテランさんなのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:07:16",
+      "utterance": "はい。毎日ルーティンですが、仕事や会社生活は慣れてました",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:07:56",
+      "utterance": "日々活躍されていたのに、在宅が続くのは、しんどくなりますよね・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:08:28",
+      "utterance": "そうですね。初めはよかったんです。通勤時間がなくなって楽でいいなと思っていました。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:08:57",
+      "utterance": "うんうん。楽になったと思えることもあるんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:09:15",
+      "utterance": "そんな中、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:10:21",
+      "utterance": "いろいろと疲れることが重なってくると、さすがに疲れはたまりますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:10:33",
+      "utterance": "あなたは今、",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:10:53",
+      "utterance": "そうですね。気を抜きにくくなりました",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:11:25",
+      "utterance": "うんうん。在宅でもいろんなことに気は抜けないですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:11:43",
+      "utterance": "はい　会社に行っているほうが気楽でしたね",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:12:23",
+      "utterance": "うんうん。そう思ってしまいますよね。疲れも溜まってしまいますよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:12:33",
+      "utterance": "今は、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:12:34",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:14:36",
+      "utterance": "同居のご家族様もいらっしゃるのでしょうか？どんな環境でお仕事されているのですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:15:08",
+      "utterance": "夫と二人暮らしです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:15:26",
+      "utterance": "自室があるのでそこで在宅ワークをしています",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:15:55",
+      "utterance": "夫も時々在宅ワークの日がありますが、毎日家にいるわけではないです",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:16:44",
+      "utterance": "そうなんですね、それぞれのやり方をされているのですね",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:16:56",
+      "utterance": "そんな日々の中、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:17:26",
+      "utterance": "色々と疲れることがあるとのことですが、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:18:12",
+      "utterance": "楽になれるといいですよね。例えば、どんなことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:20:19",
+      "utterance": "職場にいるときは、気分転換に立ち上がってトイレに行ったり、職場を少し歩いて回ったりして職場の人と話をしたりしてリフレッシュしていたんですけど、今はトイレに立つのも気を遣う感じです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:21:43",
+      "utterance": "トイレに立つのも気をつかうなんて…前と勝手が変わって、大変なんですね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:22:35",
+      "utterance": "業務時間中はオンラインになっているし、チャット連絡が入ったときにすぐに返信しなかったら、さぼっていると思われそうだし。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:23:32",
+      "utterance": "そっか、そっか。そんなつもりはなくても、そう思われてしまう気がして、気が重いですよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:23:48",
+      "utterance": "はい　そうなんです",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:24:23",
+      "utterance": "それと、在宅ワークになってから、毎日終業後に業務日誌の入力が必要で、それが負担です",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:25:07",
+      "utterance": "そんなことも・・・",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:25:49",
+      "utterance": "たぶん、在宅ワークをしているところは業務報告は必要なんじゃないかなと思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:26:08",
+      "utterance": "うんうん、そう思ってしまいますよね",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:26:10",
+      "utterance": "ちゃんと仕事しているという証明がいりますもんね・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:27:07",
+      "utterance": "私、少し勘違いしましたね。",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:27:30",
+      "utterance": "いえいえ。大丈夫です。",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:27:33",
+      "utterance": "失礼しました。そんな対応に追われている中でも、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:27:57",
+      "utterance": "ちゃんと、仕事の照明のために、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:28:28",
+      "utterance": "基本的にルーティンワークなので毎日同じ内容を書くのですが、あまり書くことがなくて気持ち的に負担ですね・・・",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:29:17",
+      "utterance": "そうですよね。でも、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:29:52",
+      "utterance": "そう思っているのに、必要な業務と思われて、きちんと、実行されているんですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:30:02",
+      "utterance": "頭が下がります。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:30:17",
+      "utterance": "はい　提出は必須なんです。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:31:19",
+      "utterance": "地味な作業でも、とっても、たいせつな事として、捉えられているのですね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:32:00",
+      "utterance": "お仕事に向かう姿勢に、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:32:01",
+      "utterance": "そうですね。報告も業務のうちですから・・・",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:32:39",
+      "utterance": "ええ、ええ。あなたのお人柄が、伝わってきます。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:32:49",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:33:16",
+      "utterance": "そんな中で、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:33:43",
+      "utterance": "一番しんどい、何とかしたいって思うことは、どんなことですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:35:33",
+      "utterance": "前みたいにもう少し気楽に働きたいですね。やってる仕事自体はそれほど違わないと思うんですが、なにが違うんでしょうか・・・",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:36:58",
+      "utterance": "そうですよね・・・少しでも楽になれるために、一緒に考えていきましょうね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:37:33",
+      "utterance": "よろしくお願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:38:20",
+      "utterance": "ここで、私の思うところをお伝えしたいのですが、よろしいでしょうか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:39:33",
+      "utterance": "はい　お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:39:43",
+      "utterance": "お仕事の環境が変わる中で、細やかな対応をされたり、",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:42:24",
+      "utterance": "ご自身のことも置いて、相手の立場を優先される日々、お仕事に誠実に対応されている、とても思いやりの深い方だと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:42:51",
+      "utterance": "ありがとうございます",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:45:29",
+      "utterance": "そんな優しいあなたが、疲れてしまうのは、あなたがまっすぐな誠実な方だから。なのだと思います。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:45:42",
+      "utterance": "そんなあなたが",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:46:25",
+      "utterance": "もっと楽になって、負担を軽くしてお仕事に向き合えるようになるためには、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:47:27",
+      "utterance": "切り替えができて、リフレッシュできることを取り入れていく。ということが必要なのではないかと思いますが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:47:39",
+      "utterance": "はい　そのように私も思います",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:48:54",
+      "utterance": "はい。そうですよね。そのためにできることを、伝えさせてくださいね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:49:02",
+      "utterance": "はい　お願いします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:50:32",
+      "utterance": "これまでに、ご自身で、こんな時、気分がよくて、楽しめるな、とか、",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:51:24",
+      "utterance": "癒やされるな、とかって思ってきた好きな事って、どんなことがありますか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:51:37",
+      "utterance": "例えば、",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:52:12",
+      "utterance": "飲み物、食べ物、お花、とかでもいいですよ",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:54:11",
+      "utterance": "うーん・・・これまでは毎日職場に行って、慣れた仕事をマイペースでしながら、時々職場の人と楽しく会話して、という生活が自分にとっては心地よくて、とくに何か癒しのためにやる必要がなかったんですよね・・・",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:54:50",
+      "utterance": "そうなんですね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:54:53",
+      "utterance": "はい",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:56:01",
+      "utterance": "以前は、お話し相手もいたけど、今はそれもままならないですもんね。こんな環境だからこそ、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:56:10",
+      "utterance": "あなたはもっと、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:56:35",
+      "utterance": "自分で自分を癒していい、役になっていい。と思いますが、",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:57:20",
+      "utterance": "楽になれるなら、癒されてみたいと思いませんか？",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T10:57:30",
+      "utterance": "いかがですか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T10:58:07",
+      "utterance": "もっと気楽に生活したいと思うのですが、どうやったら癒されるのか・・・よくわからないですね。",
+      "distress_level": 1,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:01:04",
+      "utterance": "そうですよね。今までと違う生活になった今、今まではやってこなかった方法も取り入れて、新しい自分を感じてみることも、楽しみになると思います。ちょっとしたことを取り入れてみるだけでいいんですよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T11:01:24",
+      "utterance": "そうですね。ちょっと考えてみますね。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T11:02:04",
+      "utterance": "今日はお話を聞いてくださってありがとうございました。また落ち着いてゆっくりと考えてみることにします。",
+      "distress_level": 0,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:02:37",
+      "utterance": "一緒に考えさせていただきたいと思いますが、",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:03:21",
+      "utterance": "お話続けさせていただけそうですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:04:00",
+      "utterance": "（時間でしたね）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T11:04:14",
+      "utterance": "自分の癒しになるものを、また自分でも考えてみようかなという気持ちになりました。ありがとうございました。",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T11:04:39",
+      "utterance": "（はい、時間になりましたので、このあたりで大丈夫です。ありがとうございました。）",
+      "distress_level": 0,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:04:56",
+      "utterance": "ありがとうございました",
+      "tag": "Thanking"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-30T11:05:07",
+      "utterance": "ありがとうございました。失礼いたします",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:05:23",
+      "utterance": "ぜひ、またいらしてみてくださいね",
+      "tag": "Suggest"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:05:43",
+      "utterance": "失礼いたします。",
+      "tag": "Greeting"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-30T11:06:00",
+      "utterance": "勉強になりました。ありがとうございました",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "在宅ワークによるストレスとコミュニケーションの難しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 811,
+    "評価作成日時": "2020-11-30T11:31:00",
+    "クライアント役ID": 28,
+    "カウンセラー役ID": 108,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 811,
+    "evaluation_created_at": "2020-11-30T11:31:00",
+    "client_id": 28,
+    "counselor_id": 108,
+    "score": 69,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

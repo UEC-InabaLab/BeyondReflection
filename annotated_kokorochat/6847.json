@@ -1,0 +1,521 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-09T12:51:48",
+      "utterance": "(こんにちは。本日はよろしくお願いします。時間になりましたら始めさせていただきます）",
+      "tag": "Greeting"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T12:52:15",
+      "utterance": "（こんにちは。承知しました。こちらこそよろしくお願いします。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T12:52:42",
+      "utterance": "（クライエント役でご希望はありますでしょうか？）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T12:53:26",
+      "utterance": "（ありがとうございます、特にありません。）",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T12:53:50",
+      "utterance": "（わかりました。ではこちらで設定させていただきますね。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T12:54:09",
+      "utterance": "（お気遣いありがとうございます。）",
+      "tag": "Thanking"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:00:36",
+      "utterance": "こんにちは、相談員です、初めに性別と年齢を教えてください。",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:01:02",
+      "utterance": "こんにちは。16歳。男性です。",
+      "distress_level": 0,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:01:26",
+      "utterance": "ありがとうございます。今日はどうされましたか？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:01:56",
+      "utterance": "学校に行きたくないです。",
+      "distress_level": 1,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:02:41",
+      "utterance": "そうなんですね。学校に行くのがイヤなのですね。いつ頃からそう思うようになったのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:03:12",
+      "utterance": "ゴールデンウィークが終わってからです。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:04:18",
+      "utterance": "そうなのですか。確かに今回のゴールデンウイークは長かったですものね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:05:08",
+      "utterance": "ではゴールデンウィーク明けから学校には行っていないのですか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:05:41",
+      "utterance": "行っていますが、眠いしダルいしやる気が出ない。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:07:24",
+      "utterance": "なるほど、そうなんですか。学校に行くのはだるいけどちゃんと行っているのですね。えらいね。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:08:02",
+      "utterance": "親がうるさいから嫌々行っています。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:08:23",
+      "utterance": "学校には行きたくないです。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:09:14",
+      "utterance": "そっか。親がうるさいんだね。それでも行っててえらいよ。それまでは学校はどうだったの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:09:34",
+      "utterance": "普通に行っていました。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:09:52",
+      "utterance": "学校に行かなくていい方法はありますか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:11:29",
+      "utterance": "そうだよね。今は行きたくないんだもんね。今は学校のどんなところがしんどいと思う？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:12:12",
+      "utterance": "学校に行っても意味ないし、家でいる方が楽しいから。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:13:04",
+      "utterance": "そうなんだね。学校に行っても楽しくないんだね。",
+      "tag": "Paraphrase"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:13:50",
+      "utterance": "もしどういうところが楽しくないか、何かあれば教えてもらってもいいかな？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:15:13",
+      "utterance": "勉強しても社会で役に立つ訳じゃないから意味ないでしょ？学校が楽しくないじゃなくて家でいる方が楽しいだけ。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:16:04",
+      "utterance": "そうかあ、そう思うんだね。確かに社会で算数や物理なんて使わないし、勉強しても意味ないって思うよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:17:59",
+      "utterance": "家にいる時は何をしている時が一番楽しいの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:18:08",
+      "utterance": "ゲーム",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:18:41",
+      "utterance": "確かにゲームは楽しいね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:20:47",
+      "utterance": "今学校に行きたくない気持ちを、おうちの人とか周りの人に相談してみたことはありますか？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:21:56",
+      "utterance": "親は厳しいから言っても聞いてくれない。休める方法はありますか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:23:56",
+      "utterance": "そうだよね学校に行っても楽しくないんだもんね。休みたくなっちゃうよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:25:28",
+      "utterance": "うまく休める方法がないかなと思ってて、何かありませんか？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:26:33",
+      "utterance": "そうだね。学校にどうしても行きたくないのなら、それもいいかと思う。でもちょっと勇気いるけど、まず誰かに相談してみたらいいかと思うよ。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:27:09",
+      "utterance": "言ったらゲーム止めさせられるから無理。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:29:58",
+      "utterance": "取り上げられるんだ。ゲームやれないのは辛いね。でも急に家にずっといたら親もどうしたの？って聞かれないかな",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:30:39",
+      "utterance": "ゲーム続けられてうまく休める方法が知りたい。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:31:57",
+      "utterance": "そうかあ、そうなら一番いいね。学校に行った時、何が一番だるい？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:32:19",
+      "utterance": "眠い。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:32:52",
+      "utterance": "眠いんだね。毎日眠いの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:33:00",
+      "utterance": "はい。",
+      "distress_level": 2,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:34:05",
+      "utterance": "ゴールデンウィークには何時ごろ寝てたの？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:34:29",
+      "utterance": "朝の3時とか4時くらい",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:34:44",
+      "utterance": "学校に行っていた時も？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:35:15",
+      "utterance": "それまでは23時くらい。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:36:03",
+      "utterance": "そうなんだね。もしかしたら生活リズムが少しずれちゃったのかもしれないね。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:37:27",
+      "utterance": "はい。授業受けても眠いから聞いてない。だから行っても意味ないでしょ？",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:39:48",
+      "utterance": "なるほど、それもそうだね。でも、長い休み明けってみんな同じだと思うなあ。また少し通ってると徐々に前のペースに戻ると思うなあ",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:40:54",
+      "utterance": "たぶん戻らないと思う。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:42:23",
+      "utterance": "そうか。そう思うよね。でも今はみんなまだ前のリズムに戻れている人ばかりじゃないと思うよ。自分のペースでゆっくり戻していけばいいような気がするけどな。",
+      "tag": "Inform"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:43:07",
+      "utterance": "今の生活リズム壊したくないから。",
+      "distress_level": 2,
+      "disclosure_depth": 2
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:44:49",
+      "utterance": "そうか、崩したくないんだね。学校に行ったら部活とかはしないのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:45:20",
+      "utterance": "高校に入ってから部活はしてません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:45:48",
+      "utterance": "そうか、今はしていないんだね。中学生の頃は何をしていたの？",
+      "tag": "OpenQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:46:31",
+      "utterance": "中学校のときは卓球部でした。高校には無いのでやっていません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:48:14",
+      "utterance": "そうなんだね。今は卓球部がないんだ。卓球楽しいよね。今はもう卓球はしてないのかな？",
+      "tag": "ClosedQuestion"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:48:42",
+      "utterance": "今はやっていません。",
+      "distress_level": 1,
+      "disclosure_depth": 1
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:50:27",
+      "utterance": "部活がないと確かに授業だけのために学校行くのがしんどくなるよね。",
+      "tag": "Reflection"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:51:03",
+      "utterance": "そうですね。",
+      "distress_level": 1,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:52:13",
+      "utterance": "でもしんどくてもちゃんと学校に行ってるだけで、すごいし意味があると思うな。",
+      "tag": "Affirmation"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:53:05",
+      "utterance": "意味あるんでしょうか？僕は休みたいんです。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:53:49",
+      "utterance": "そうだよね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:55:19",
+      "utterance": "意味はあると思うよ。勉強するためだけに学校はあるわけじゃないから。健全な生活リズムを整えるためにも学校ってあると思う。",
+      "tag": "Inform"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:56:13",
+      "utterance": "でもどうしても無理だと思うなら、学校はお休みするのもありだと思う。",
+      "tag": "Suggest"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T13:56:33",
+      "utterance": "そうなんですね。今はゲームがしたいから休みたい。",
+      "distress_level": 2,
+      "disclosure_depth": 3
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T13:59:49",
+      "utterance": "そうなんだね。",
+      "tag": "Backchannel"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T14:01:30",
+      "utterance": "（すみません。統合までいけなかったのですがお時間になってしまいましたので、終了とさせていただきます。ありがとうございました。）",
+      "tag": "Other"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-09T14:02:13",
+      "utterance": "（統合だけが全てではないので大丈夫ですよ。ありがとうございました。お疲れ様さまでした。）",
+      "distress_level": 0,
+      "disclosure_depth": 0
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-09T14:02:25",
+      "utterance": "（ありがとうございました）",
+      "tag": "Thanking"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない理由"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6847,
+    "評価作成日時": "2024-05-09T15:10:00",
+    "クライアント役ID": 444,
+    "カウンセラー役ID": 438,
+    "点数": 66,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6847,
+    "evaluation_created_at": "2024-05-09T15:10:00",
+    "client_id": 444,
+    "counselor_id": 438,
+    "score": 66,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}
